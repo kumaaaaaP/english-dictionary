@@ -1,0 +1,33 @@
+name: Auto Update Index
+
+on:
+  push:
+    paths:
+      - 'data/**'      # dataフォルダ内の変更があった時だけ実行
+      - 'build_index.py'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # GitHubに書き込む権限
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run build script
+        run: python build_index.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add index.html
+          git commit -m "Auto-update index.html [skip ci]" || exit 0
+          git push
