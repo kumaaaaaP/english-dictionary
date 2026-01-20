@@ -4,7 +4,6 @@ import re
 # ==========================================
 # 1. チャプターの設定
 # ==========================================
-# 規則性がない場合も、ここに「開始番号: 章タイトル」を足すだけでOKです。
 CHAPTER_MAP = {
     1: "第1章：人間と動物の違い",
     341: "第13章：暴力はなぜ起きる",
@@ -14,12 +13,29 @@ CHAPTER_MAP = {
 }
 
 # ==========================================
-# 2. 補助関数
+# 2. 補助関数（ソートロジックの改良）
 # ==========================================
-def natural_sort_key(s):
-    """'341-2' などを数値として正しく並び替える"""
-    return [int(text) if text.isdigit() else text.lower()
-            for text in re.split(r'(\d+)', s)]
+def natural_sort_key(filename):
+    """
+    369.html, 369-2.html, 370.html を正しく並べるためのキー
+    順序: 369 -> 369-2 -> 369-3 -> 370
+    """
+    # 数字とそれ以外に分解
+    parts = re.split(r'(\d+)', filename)
+    
+    # 数値化できる部分は数値に、それ以外は小文字にする
+    converted_parts = [int(p) if p.isdigit() else p.lower() for p in parts if p]
+    
+    # 重要：枝番がない(369.html) を 枝番がある(369-2.html) より前に持ってくるための処理
+    # converted_parts[0] が 369、converted_parts[1] が "." か "-" になる
+    if len(converted_parts) > 1:
+        # 2番目の要素がハイフンでなければ、枝番なしと判断してソート順を繰り上げる
+        if converted_parts[1] == '.html':
+            return [converted_parts[0], 0] + converted_parts[2:]
+        else:
+            return [converted_parts[0], 1] + converted_parts[2:]
+            
+    return converted_parts
 
 def get_base_number(filename):
     """ファイル名(341-impotence.html)の先頭数字を取得"""
@@ -36,6 +52,7 @@ def generate_index():
 
     # 単語ファイルの取得とソート
     files = [f for f in os.listdir(word_dir) if f.endswith(".html")]
+    # 改良したソートキーを適用
     files.sort(key=natural_sort_key)
 
     # --- HTMLヘッダーとCSS定義 ---
@@ -51,7 +68,6 @@ def generate_index():
         .container { width: 100%; max-width: 800px; }
         h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 20px; }
         
-        /* 目次（ナビゲーション） */
         .toc { background: white; padding: 15px 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .toc-title { font-size: 0.85rem; font-weight: bold; color: var(--chapter-color); margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }
         .toc-links { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin: 0; }
@@ -61,7 +77,6 @@ def generate_index():
         .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; outline: none; }
         .search-box:focus { border-color: var(--primary-color); }
         
-        /* リストと見出し */
         .word-list { list-style: none; padding: 0; }
         .chapter-header { background: var(--chapter-color); color: white; padding: 10px 15px; margin: 40px 0 12px 0; border-radius: 5px; font-weight: bold; scroll-margin-top: 20px; }
         .word-item { background: white; margin-bottom: 8px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: 0.2s; }
@@ -70,7 +85,6 @@ def generate_index():
         .word-id { font-weight: bold; color: var(--primary-color); min-width: 75px; font-family: monospace; }
         .word-name { font-size: 1.1em; font-weight: 500; }
         
-        /* 関連語（枝番あり） */
         .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
         .sub-word .word-id { color: #6a994e; }
     </style>
@@ -86,7 +100,6 @@ def generate_index():
         html_content += f'            <li><a href="#chapter-{s_num}">{CHAPTER_MAP[s_num]}</a></li>\n'
     html_content += '        </ul>\n    </nav>\n'
 
-    # 検索ボックスとリスト開始
     html_content += """    <input type="text" id="searchInput" class="search-box" placeholder="単語・番号で検索..." onkeyup="filterList()">
     <ul class="word-list" id="wordList">
 """
@@ -98,7 +111,6 @@ def generate_index():
     for filename in files:
         base_num = get_base_number(filename)
         
-        # 章見出しの挿入
         for t in sorted_thresholds:
             if base_num >= t:
                 if t != current_chapter_start:
@@ -106,25 +118,23 @@ def generate_index():
                     current_chapter_start = t
                 break
 
-        # IDと表示名の整理
         word_id_full = filename.replace(".html", "")
-        # 表示用：341-impotence -> impotence
+        # 表示名のクリーンアップ
         display_name = re.sub(r'^[0-9-]+', '', word_id_full).replace("-", " ").strip()
         
-        # 枝番チェック (例: 341-2)
-        is_sub = "-" in word_id_full and word_id_full.split("-")[1].isdigit()
+        # 枝番チェック (ハイフンが含まれ、かつその次が数字の場合)
+        parts = word_id_full.split("-")
+        is_sub = len(parts) > 1 and parts[1].isdigit()
+        
         item_class = "word-item sub-word" if is_sub else "word-item"
 
-        # リスト行の組み立て
-        # ID表示用：341-2-impotent -> 341-2
-        id_parts = word_id_full.split("-")
-        display_id = id_parts[0] + ("-" + id_parts[1] if is_sub else "")
+        # ID表示用の整形
+        display_id = parts[0] + ("-" + parts[1] if is_sub else "")
 
         html_content += f'        <li class="{item_class}"><a href="data/{filename}">'
         html_content += f'<span class="word-id">{display_id}</span>'
         html_content += f'<span class="word-name">{display_name}</span></a></li>\n'
 
-    # --- フッターと検索スクリプト ---
     html_content += """    </ul>
 </div>
 <script>
@@ -134,7 +144,6 @@ def generate_index():
         const items = document.getElementById("wordList").getElementsByTagName('li');
         
         for (let i = 0; i < items.length; i++) {
-            // 章見出しは検索対象外だが、検索中は邪魔なので隠す
             if (items[i].classList.contains('chapter-header')) {
                 items[i].style.display = filter === "" ? "" : "none";
                 continue;
@@ -147,7 +156,6 @@ def generate_index():
 </body>
 </html>"""
 
-    # ファイル書き出し
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
     print(f"Update Complete: index.html has been rebuilt with {len(files)} words.")
