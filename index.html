@@ -57,11 +57,16 @@
     function filterList() {
         const input = document.getElementById('searchInput');
         const filter = input.value.toLowerCase();
-        const li = document.getElementById("wordList").getElementsByTagName('li');
-        for (let i = 0; i < li.length; i++) {
-            if (li[i].classList.contains('chapter-header')) continue; // 章見出しは無視
-            const text = li[i].textContent || li[i].innerText;
-            li[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
+        const items = document.getElementById("wordList").getElementsByTagName('li');
+        
+        for (let i = 0; i < items.length; i++) {
+            // 章見出しは検索対象外だが、検索中は邪魔なので隠す
+            if (items[i].classList.contains('chapter-header')) {
+                items[i].style.display = filter === "" ? "" : "none";
+                continue;
+            }
+            const text = items[i].textContent || items[i].innerText;
+            items[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
         }
     }
 </script>
