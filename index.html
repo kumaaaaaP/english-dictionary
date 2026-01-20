@@ -5,140 +5,50 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My English Dictionary</title>
     <style>
-        :root {
-            --primary-color: #007bff;
-            --bg-color: #f4f7f9;
-            --text-color: #333;
-        }
-        body {
-            font-family: 'Helvetica Neue', Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .container {
-            width: 100%;
-            max-width: 800px;
-        }
-        h1 {
-            color: var(--primary-color);
-            text-align: center;
-            margin-bottom: 30px;
-            border-bottom: 3px solid var(--primary-color);
-            padding-bottom: 10px;
-        }
-        /* 検索ボックス */
-        .search-box {
-            width: 100%;
-            padding: 15px;
-            font-size: 18px;
-            border: 2px solid #ddd;
-            border-radius: 10px;
-            margin-bottom: 30px;
-            box-sizing: border-box;
-            outline: none;
-            transition: border-color 0.3s;
-        }
-        .search-box:focus {
-            border-color: var(--primary-color);
-        }
-        /* リスト表示 */
-        .word-list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        .word-item {
-            background: white;
-            margin-bottom: 10px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .word-item:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        }
-        .word-item a {
-            display: flex;
-            align-items: center;
-            padding: 15px 20px;
-            text-decoration: none;
-            color: var(--text-color);
-        }
-        .word-id {
-            font-weight: bold;
-            color: var(--primary-color);
-            min-width: 70px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-        .word-name {
-            font-size: 1.1em;
-            font-weight: 500;
-            text-transform: capitalize;
-        }
-        /* 関連語（ハイフンあり）のスタイル */
-        .sub-word {
-            margin-left: 30px;
-            background-color: #fdfdfd;
-            border-left: 4px solid #ccd5ae; /* 関連語とわかるように左線を入れる */
-        }
-        .sub-word .word-id {
-            color: #6a994e;
-        }
-
-        @media (max-width: 600px) {
-            .sub-word { margin-left: 15px; }
-            .word-title { font-size: 1.2rem; }
-        }
-
-        /* 章の見出しスタイル */
-        .chapter-header {
-            background-color: #6c757d;
-            color: white;
-            padding: 8px 15px;
-            margin: 25px 0 10px 0;
-            border-radius: 5px;
-            font-weight: bold;
-            font-size: 0.9rem;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
+        :root { --primary-color: #007bff; --chapter-color: #6c757d; --bg-color: #f4f7f9; }
+        body { font-family: sans-serif; background-color: var(--bg-color); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
+        .container { width: 100%; max-width: 800px; }
+        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; }
+        .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; }
+        .word-list { list-style: none; padding: 0; }
+        
+        /* 章の見出し */
+        .chapter-header { background: var(--chapter-color); color: white; padding: 10px 15px; margin: 30px 0 10px 0; border-radius: 5px; font-weight: bold; }
+        
+        /* 単語アイテム */
+        .word-item { background: white; margin-bottom: 8px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .word-item a { display: flex; padding: 12px 20px; text-decoration: none; color: #333; align-items: center; }
+        .word-id { font-weight: bold; color: var(--primary-color); min-width: 70px; font-family: monospace; }
+        .word-name { font-size: 1.1em; }
+        
+        /* 関連語（枝番あり）のスタイル */
+        .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
+        .sub-word .word-id { color: #6a994e; }
     </style>
 </head>
 <body>
-
 <div class="container">
     <h1>英単語辞書 データベース</h1>
-
-    <input type="text" id="searchInput" class="search-box" placeholder="単語または番号で検索..." onkeyup="filterList()">
-
+    <input type="text" id="searchInput" class="search-box" placeholder="単語・番号で検索..." onkeyup="filterList()">
     <ul class="word-list" id="wordList">
-        <li class="word-item"><a href="data/341-impotence.html"><span class="word-id">341</span><span class="word-name">impotence</span></a></li>
+        <li class="chapter-header">第13章：抽象概念</li>
         <li class="word-item sub-word"><a href="data/341-2-impotent.html"><span class="word-id">341-2</span><span class="word-name">impotent</span></a></li>
+        <li class="word-item"><a href="data/341-impotence.html"><span class="word-id">341</span><span class="word-name">impotence</span></a></li>
+        <li class="chapter-header">第14章：人間関係</li>
+        <li class="word-item"><a href="data/369-humility.html"><span class="word-id">369</span><span class="word-name">humility</span></a></li>
     </ul>
 </div>
-
 <script>
     function filterList() {
         const input = document.getElementById('searchInput');
         const filter = input.value.toLowerCase();
-        const ul = document.getElementById("wordList");
-        const li = ul.getElementsByTagName('li');
-
+        const li = document.getElementById("wordList").getElementsByTagName('li');
         for (let i = 0; i < li.length; i++) {
+            if (li[i].classList.contains('chapter-header')) continue; // 章見出しは無視
             const text = li[i].textContent || li[i].innerText;
-            if (text.toLowerCase().indexOf(filter) > -1) {
-                li[i].style.display = "";
-            } else {
-                li[i].style.display = "none";
-            }
+            li[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
         }
     }
 </script>
-
 </body>
 </html>
