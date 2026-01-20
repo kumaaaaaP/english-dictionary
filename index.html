@@ -8,20 +8,28 @@
         :root { --primary-color: #007bff; --chapter-color: #6c757d; --bg-color: #f4f7f9; }
         body { font-family: sans-serif; background-color: var(--bg-color); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
         .container { width: 100%; max-width: 800px; }
-        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; }
-        .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; }
+        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 20px; }
+        
+        /* 目次（ナビゲーション） */
+        .toc { background: white; padding: 15px 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .toc-title { font-size: 0.85rem; font-weight: bold; color: var(--chapter-color); margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }
+        .toc-links { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin: 0; }
+        .toc-links a { text-decoration: none; color: var(--primary-color); font-size: 0.85rem; background: #eef2f7; padding: 6px 12px; border-radius: 20px; transition: 0.2s; }
+        .toc-links a:hover { background: var(--primary-color); color: white; }
+
+        .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; outline: none; }
+        .search-box:focus { border-color: var(--primary-color); }
+        
+        /* リストと見出し */
         .word-list { list-style: none; padding: 0; }
-        
-        /* 章の見出し */
-        .chapter-header { background: var(--chapter-color); color: white; padding: 10px 15px; margin: 30px 0 10px 0; border-radius: 5px; font-weight: bold; }
-        
-        /* 単語アイテム */
-        .word-item { background: white; margin-bottom: 8px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .chapter-header { background: var(--chapter-color); color: white; padding: 10px 15px; margin: 40px 0 12px 0; border-radius: 5px; font-weight: bold; scroll-margin-top: 20px; }
+        .word-item { background: white; margin-bottom: 8px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: 0.2s; }
+        .word-item:hover { transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
         .word-item a { display: flex; padding: 12px 20px; text-decoration: none; color: #333; align-items: center; }
-        .word-id { font-weight: bold; color: var(--primary-color); min-width: 70px; font-family: monospace; }
-        .word-name { font-size: 1.1em; }
+        .word-id { font-weight: bold; color: var(--primary-color); min-width: 75px; font-family: monospace; }
+        .word-name { font-size: 1.1em; font-weight: 500; }
         
-        /* 関連語（枝番あり）のスタイル */
+        /* 関連語（枝番あり） */
         .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
         .sub-word .word-id { color: #6a994e; }
     </style>
