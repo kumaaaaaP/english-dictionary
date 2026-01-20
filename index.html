@@ -10,7 +10,6 @@
         .container { width: 100%; max-width: 800px; }
         h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 20px; }
         
-        /* 目次（ナビゲーション） */
         .toc { background: white; padding: 15px 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .toc-title { font-size: 0.85rem; font-weight: bold; color: var(--chapter-color); margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }
         .toc-links { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin: 0; }
@@ -20,7 +19,6 @@
         .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; outline: none; }
         .search-box:focus { border-color: var(--primary-color); }
         
-        /* リストと見出し */
         .word-list { list-style: none; padding: 0; }
         .chapter-header { background: var(--chapter-color); color: white; padding: 10px 15px; margin: 40px 0 12px 0; border-radius: 5px; font-weight: bold; scroll-margin-top: 20px; }
         .word-item { background: white; margin-bottom: 8px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: 0.2s; }
@@ -29,7 +27,6 @@
         .word-id { font-weight: bold; color: var(--primary-color); min-width: 75px; font-family: monospace; }
         .word-name { font-size: 1.1em; font-weight: 500; }
         
-        /* 関連語（枝番あり） */
         .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
         .sub-word .word-id { color: #6a994e; }
     </style>
@@ -50,27 +47,27 @@
     <input type="text" id="searchInput" class="search-box" placeholder="単語・番号で検索..." onkeyup="filterList()">
     <ul class="word-list" id="wordList">
         <li class="chapter-header" id="chapter-341">第13章：暴力はなぜ起きる</li>
-        <li class="word-item sub-word"><a href="data/341-2-impotent.html"><span class="word-id">341-2</span><span class="word-name">impotent</span></a></li>
         <li class="word-item"><a href="data/341-impotence.html"><span class="word-id">341</span><span class="word-name">impotence</span></a></li>
+        <li class="word-item sub-word"><a href="data/341-2-impotent.html"><span class="word-id">341-2</span><span class="word-name">impotent</span></a></li>
         <li class="chapter-header" id="chapter-369">第14章：謙虚さが教えてくれること⑴</li>
         <li class="word-item"><a href="data/369-humility.html"><span class="word-id">369</span><span class="word-name">humility</span></a></li>
+        <li class="word-item"><a href="data/370-confident.html"><span class="word-id">370</span><span class="word-name">confident</span></a></li>
         <li class="word-item sub-word"><a href="data/370-2-confidence.html"><span class="word-id">370-2</span><span class="word-name">confidence</span></a></li>
         <li class="word-item sub-word"><a href="data/370-3-confidential.html"><span class="word-id">370-3</span><span class="word-name">confidential</span></a></li>
-        <li class="word-item"><a href="data/370-confident.html"><span class="word-id">370</span><span class="word-name">confident</span></a></li>
+        <li class="word-item"><a href="data/371-skeptical.html"><span class="word-id">371</span><span class="word-name">skeptical</span></a></li>
         <li class="word-item sub-word"><a href="data/371-2-skeptic.html"><span class="word-id">371-2</span><span class="word-name">skeptic</span></a></li>
         <li class="word-item sub-word"><a href="data/371-3-skepticism.html"><span class="word-id">371-3</span><span class="word-name">skepticism</span></a></li>
-        <li class="word-item"><a href="data/371-skeptical.html"><span class="word-id">371</span><span class="word-name">skeptical</span></a></li>
         <li class="word-item"><a href="data/372-trustworthy.html"><span class="word-id">372</span><span class="word-name">trustworthy</span></a></li>
         <li class="chapter-header" id="chapter-403">第15章：謙虚さが教えてくれること⑵</li>
-        <li class="word-item sub-word"><a href="data/422-2-degradation.html"><span class="word-id">422-2</span><span class="word-name">degradation</span></a></li>
         <li class="word-item"><a href="data/422-degrade.html"><span class="word-id">422</span><span class="word-name">degrade</span></a></li>
+        <li class="word-item sub-word"><a href="data/422-2-degradation.html"><span class="word-id">422-2</span><span class="word-name">degradation</span></a></li>
+        <li class="word-item"><a href="data/423-descent.html"><span class="word-id">423</span><span class="word-name">descent</span></a></li>
         <li class="word-item sub-word"><a href="data/423-2-descendant.html"><span class="word-id">423-2</span><span class="word-name">descendant</span></a></li>
         <li class="word-item sub-word"><a href="data/423-3-deforestation.html"><span class="word-id">423-3</span><span class="word-name">deforestation</span></a></li>
-        <li class="word-item"><a href="data/423-descent.html"><span class="word-id">423</span><span class="word-name">descent</span></a></li>
         <li class="chapter-header" id="chapter-424">第16章：謙虚さが教えてくれること⑶</li>
+        <li class="word-item"><a href="data/424-misfortune.html"><span class="word-id">424</span><span class="word-name">misfortune</span></a></li>
         <li class="word-item sub-word"><a href="data/424-2-fortune.html"><span class="word-id">424-2</span><span class="word-name">fortune</span></a></li>
         <li class="word-item sub-word"><a href="data/424-3-fortunate.html"><span class="word-id">424-3</span><span class="word-name">fortunate</span></a></li>
-        <li class="word-item"><a href="data/424-misfortune.html"><span class="word-id">424</span><span class="word-name">misfortune</span></a></li>
         <li class="word-item"><a href="data/425-doom.html"><span class="word-id">425</span><span class="word-name">doom</span></a></li>
         <li class="word-item"><a href="data/426-lottery.html"><span class="word-id">426</span><span class="word-name">lottery</span></a></li>
         <li class="word-item"><a href="data/427-overshadow.html"><span class="word-id">427</span><span class="word-name">overshadow</span></a></li>
@@ -83,7 +80,6 @@
         const items = document.getElementById("wordList").getElementsByTagName('li');
         
         for (let i = 0; i < items.length; i++) {
-            // 章見出しは検索対象外だが、検索中は邪魔なので隠す
             if (items[i].classList.contains('chapter-header')) {
                 items[i].style.display = filter === "" ? "" : "none";
                 continue;
