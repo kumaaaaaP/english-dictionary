@@ -4080,6 +4080,454 @@
           "word": "weak", "trans": "形容詞：弱い"},
         {"word": "weaken", "trans": "動詞：弱める"}
       ]
+    },
+    {
+      "number": 473,
+      "word": "supreme",
+      "pos": "形容詞",
+      "meaning": "最高の、至上の、最高位の",
+      "nuance": "他のすべてより上位にあり、最も重要または最も強力であることを表します。「Supreme Court（最高裁判所）」のように法律や権力の文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The Supreme Court made a landmark decision.",
+              "ja": "最高裁判所は画期的な判決を下した。",
+              "highlight": "Supreme"
+            },
+            {
+              "en": "He made the supreme sacrifice for his country.",
+              "ja": "彼は国のために至上の犠牲を払った。",
+              "highlight": "supreme"
+            },
+            {
+              "en": "Quality is of supreme importance to our company.",
+              "ja": "品質は我が社にとって最も重要だ。",
+              "highlight": "supreme"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 supremus (最高の) <br>→ superus (上の) の最上級",
+      "synonyms": [
+        {"word": "highest", "trans": "最高の"},
+        {"word": "ultimate", "trans": "究極の"},
+        {"word": "paramount", "trans": "最重要の"},
+        {"word": "greatest", "trans": "最大の"}
+      ],
+      "antonyms": [
+        {"word": "lowest", "trans": "最低の"},
+        {"word": "inferior", "trans": "劣った"},
+        {"word": "subordinate", "trans": "下位の"}
+      ],
+      "related": [
+        {"word": "supremacy", "trans": "名詞：至上・優位"},
+        {"word": "supremely", "trans": "副詞：極めて"}
+      ]
+    },
+    {
+      "number": 474,
+      "word": "utmost",
+      "pos": "形容詞/名詞",
+      "meaning": "最大限の、極度の / 最大限",
+      "nuance": "可能な限り最大の程度や努力を表します。「do one's utmost（最善を尽くす）」という表現でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "This matter is of the utmost importance.",
+              "ja": "この件は極めて重要だ。",
+              "highlight": "utmost"
+            },
+            {
+              "en": "We must exercise utmost caution.",
+              "ja": "私たちは最大限の注意を払わなければならない。",
+              "highlight": "utmost"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "She did her utmost to help them.",
+              "ja": "彼女は彼らを助けるために最善を尽くした。",
+              "highlight": "utmost"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 utmest (最も外の) <br>→ ut (外へ) の最上級",
+      "synonyms": [
+        {"word": "maximum", "trans": "最大の"},
+        {"word": "extreme", "trans": "極度の"},
+        {"word": "greatest", "trans": "最大の"},
+        {"word": "paramount", "trans": "最重要の"}
+      ],
+      "antonyms": [
+        {"word": "least", "trans": "最小の"},
+        {"word": "minimum", "trans": "最小の"}
+      ],
+      "related": [
+        {"word": "uttermost", "trans": "形容詞：最大限の（同義語）"}
+      ]
+    },
+    {
+      "number": 475,
+      "word": "department",
+      "pos": "名詞",
+      "meaning": "部門、学科、省",
+      "nuance": "組織内の特定の機能を担当する区分を表します。企業の部署、大学の学科、政府の省庁など、幅広い文脈で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She works in the marketing department.",
+              "ja": "彼女はマーケティング部門で働いている。",
+              "highlight": "department"
+            },
+            {
+              "en": "The Department of Education announced new policies.",
+              "ja": "文部省は新しい方針を発表した。",
+              "highlight": "Department"
+            },
+            {
+              "en": "He teaches in the history department at the university.",
+              "ja": "彼は大学の歴史学科で教えている。",
+              "highlight": "department"
+            }
+          ]
+        }
+      ],
+      "etymology": "フランス語 département (部門) <br>→ départir (分ける) から",
+      "synonyms": [
+        {"word": "division", "trans": "部門"},
+        {"word": "section", "trans": "課"},
+        {"word": "branch", "trans": "支部"},
+        {"word": "ministry", "trans": "省（政府）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "departmental", "trans": "形容詞：部門の"}
+      ]
+    },
+    {
+      "number": 476,
+      "word": "sector",
+      "pos": "名詞",
+      "meaning": "部門、分野、セクター、区域",
+      "nuance": "経済や社会の特定の領域、または幾何学的な扇形の区画を表します。「public sector（公共部門）」「private sector（民間部門）」のように経済分野でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The technology sector is growing rapidly.",
+              "ja": "テクノロジー分野は急速に成長している。",
+              "highlight": "sector"
+            },
+            {
+              "en": "Both the public and private sectors need to cooperate.",
+              "ja": "公共部門と民間部門の両方が協力する必要がある。",
+              "highlight": "sectors"
+            },
+            {
+              "en": "The healthcare sector faces many challenges.",
+              "ja": "医療分野は多くの課題に直面している。",
+              "highlight": "sector"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 sector (切る人) <br>→ secare (切る) から",
+      "synonyms": [
+        {"word": "field", "trans": "分野"},
+        {"word": "area", "trans": "領域"},
+        {"word": "domain", "trans": "領域"},
+        {"word": "industry", "trans": "産業"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "section", "trans": "名詞：部門・区分"}
+      ]
+    },
+    {
+      "number": 477,
+      "word": "sue",
+      "pos": "動詞",
+      "meaning": "〜を訴える、告訴する、懇願する",
+      "nuance": "法的手段を使って誰かを訴えること、または正式に何かを請求することを表します。「sue for ~（〜を求めて訴える）」という形でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（訴える）",
+          "examples": [
+            {
+              "en": "She decided to sue the company for discrimination.",
+              "ja": "彼女は差別で会社を訴えることに決めた。",
+              "highlight": "sue"
+            },
+            {
+              "en": "He was sued for breach of contract.",
+              "ja": "彼は契約違反で訴えられた。",
+              "highlight": "sued"
+            },
+            {
+              "en": "The family is suing for damages.",
+              "ja": "その家族は損害賠償を求めて訴えている。",
+              "highlight": "suing"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 sivre (従う、追求する) <br>→ ラテン語 sequi (従う)",
+      "synonyms": [
+        {"word": "prosecute", "trans": "起訴する"},
+        {"word": "litigate", "trans": "訴訟を起こす"},
+        {"word": "take to court", "trans": "法廷に持ち込む"}
+      ],
+      "antonyms": [
+        {"word": "settle", "trans": "和解する"},
+        {"word": "pardon", "trans": "許す"}
+      ],
+      "related": [
+        {"word": "lawsuit", "trans": "名詞：訴訟"},
+        {"word": "suitor", "trans": "名詞：訴訟人"}
+      ]
+    },
+    {
+      "number": 478,
+      "word": "behalf",
+      "pos": "名詞",
+      "meaning": "利益、味方、代理",
+      "nuance": "「on behalf of ~（〜の代理として、〜のために）」という形で使われ、誰かの代わりに行動することや、誰かの利益のために行動することを表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I'm calling on behalf of my client.",
+              "ja": "私は依頼人の代理として電話しています。",
+              "highlight": "behalf"
+            },
+            {
+              "en": "She accepted the award on behalf of the team.",
+              "ja": "彼女はチームを代表して賞を受け取った。",
+              "highlight": "behalf"
+            },
+            {
+              "en": "We are working on behalf of the victims.",
+              "ja": "私たちは被害者のために活動している。",
+              "highlight": "behalf"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 be (〜のそばに) + halfe (側) <br>→ 〜の側に",
+      "synonyms": [
+        {"word": "interest", "trans": "利益"},
+        {"word": "support", "trans": "支援"},
+        {"word": "favor", "trans": "味方"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "on behalf of", "trans": "成句：〜の代理として"}
+      ]
+    },
+    {
+      "number": "478-2",
+      "word": "beneficial",
+      "pos": "形容詞",
+      "meaning": "有益な、ためになる、恩恵をもたらす",
+      "nuance": "何かに良い効果や利益をもたらすことを表します。健康、経済、関係など、様々な文脈で使われる肯定的な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Regular exercise is beneficial to your health.",
+              "ja": "定期的な運動は健康に有益だ。",
+              "highlight": "beneficial"
+            },
+            {
+              "en": "The new policy will be beneficial for small businesses.",
+              "ja": "その新しい政策は中小企業にとって有益だろう。",
+              "highlight": "beneficial"
+            },
+            {
+              "en": "Reading has many beneficial effects on the brain.",
+              "ja": "読書は脳に多くの有益な効果をもたらす。",
+              "highlight": "beneficial"
+            }
+          ]
+        }
+      ],
+      "etymology": "benefit (利益) + ial (形容詞語尾) <br>→ 利益をもたらす",
+      "synonyms": [
+        {"word": "advantageous", "trans": "有利な"},
+        {"word": "helpful", "trans": "役立つ"},
+        {"word": "favorable", "trans": "好ましい"},
+        {"word": "useful", "trans": "有用な"}
+      ],
+      "antonyms": [
+        {"word": "harmful", "trans": "有害な"},
+        {"word": "detrimental", "trans": "有害な"},
+        {"word": "disadvantageous", "trans": "不利な"}
+      ],
+      "related": [
+        {
+          "word": "behalf",
+          "trans": "名詞：代理",
+          "link": "478-behalf.html"
+        },
+        {
+          "word": "benefit", "trans": "名詞/動詞：利益/利益をもたらす"}
+      ]
+    },
+    {
+      "number": "478-3",
+      "word": "informative",
+      "pos": "形容詞",
+      "meaning": "有益な情報を与える、参考になる、教育的な",
+      "nuance": "多くの有用な情報や知識を提供することを表します。講義、記事、プレゼンテーションなどが内容豊かで学びがあることを示す肯定的な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The documentary was very informative.",
+              "ja": "そのドキュメンタリーはとても参考になった。",
+              "highlight": "informative"
+            },
+            {
+              "en": "She gave an informative presentation about climate change.",
+              "ja": "彼女は気候変動について有益な情報を与えるプレゼンテーションを行った。",
+              "highlight": "informative"
+            },
+            {
+              "en": "The website provides informative articles on health.",
+              "ja": "そのウェブサイトは健康に関する参考になる記事を提供している。",
+              "highlight": "informative"
+            }
+          ]
+        }
+      ],
+      "etymology": "inform (知らせる) + ative (形容詞語尾) <br>→ 知らせる性質の",
+      "synonyms": [
+        {"word": "educational", "trans": "教育的な"},
+        {"word": "instructive", "trans": "教育的な"},
+        {"word": "enlightening", "trans": "啓発的な"},
+        {"word": "illuminating", "trans": "有益な"}
+      ],
+      "antonyms": [
+        {"word": "uninformative", "trans": "参考にならない"},
+        {"word": "useless", "trans": "役に立たない"}
+      ],
+      "related": [
+        {
+          "word": "beneficial",
+          "trans": "形容詞：有益な",
+          "link": "478-behalf.html"
+        },
+        {
+          "word": "inform", "trans": "動詞：知らせる"},
+        {"word": "information", "trans": "名詞：情報"}
+      ]
+    },
+    {
+      "number": 479,
+      "word": "futile",
+      "pos": "形容詞",
+      "meaning": "無益な、無駄な、むなしい",
+      "nuance": "努力しても成功する見込みがなく、時間や労力の無駄であることを表します。否定的なニュアンスを持ち、絶望感や徒労感を伴います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Their efforts to save the company were futile.",
+              "ja": "会社を救おうとする彼らの努力は無駄だった。",
+              "highlight": "futile"
+            },
+            {
+              "en": "It would be futile to argue with him.",
+              "ja": "彼と議論するのは無益だろう。",
+              "highlight": "futile"
+            },
+            {
+              "en": "All resistance proved futile.",
+              "ja": "すべての抵抗は無駄だと判明した。",
+              "highlight": "futile"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 futilis (無価値な、漏れやすい) <br>→ fundere (注ぐ) から",
+      "synonyms": [
+        {"word": "useless", "trans": "無用な"},
+        {"word": "pointless", "trans": "無意味な"},
+        {"word": "vain", "trans": "むなしい"},
+        {"word": "fruitless", "trans": "実りのない"}
+      ],
+      "antonyms": [
+        {"word": "effective", "trans": "効果的な"},
+        {"word": "productive", "trans": "生産的な"},
+        {"word": "worthwhile", "trans": "価値のある"},
+        {"word": "useful", "trans": "有用な"}
+      ],
+      "related": [
+        {"word": "futility", "trans": "名詞：無益"},
+        {"word": "futilely", "trans": "副詞：無益に"}
+      ]
+    },
+    {
+      "number": "479-2",
+      "word": "futility",
+      "pos": "名詞",
+      "meaning": "無益、無駄、むなしさ",
+      "nuance": "努力が無駄に終わることや、行動が意味をなさない状態を表します。徒労感や絶望感を伴う否定的な概念です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He realized the futility of his efforts.",
+              "ja": "彼は自分の努力の無益さに気づいた。",
+              "highlight": "futility"
+            },
+            {
+              "en": "The futility of war became apparent to everyone.",
+              "ja": "戦争の無益さが誰の目にも明らかになった。",
+              "highlight": "futility"
+            },
+            {
+              "en": "She felt a sense of futility about the situation.",
+              "ja": "彼女はその状況についてむなしさを感じた。",
+              "highlight": "futility"
+            }
+          ]
+        }
+      ],
+      "etymology": "futile (無益な) + ity (名詞語尾) <br>→ 無益なこと",
+      "synonyms": [
+        {"word": "uselessness", "trans": "無用"},
+        {"word": "pointlessness", "trans": "無意味"},
+        {"word": "fruitlessness", "trans": "無益"}
+      ],
+      "antonyms": [
+        {"word": "effectiveness", "trans": "効果"},
+        {"word": "usefulness", "trans": "有用性"},
+        {"word": "productivity", "trans": "生産性"}
+      ],
+      "related": [
+        {
+          "word": "futile",
+          "trans": "形容詞：無益な",
+          "link": "479-futile.html"
+        }
+      ]
     }
 
     
