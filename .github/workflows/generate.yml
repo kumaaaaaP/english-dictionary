@@ -1,12 +1,12 @@
 name: Generate Vocabulary HTML Files
 
-# いつ実行するか
+# vocabulary_data.json が変更されたときのみ実行
 on:
   push:
     branches:
-      - main  # mainブランチにプッシュされたとき
+      - main
     paths:
-      - 'vocabulary_data.json'  # このファイルが変更されたときのみ実行
+      - 'vocabulary_data.json'
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write  # リポジトリへの書き込み権限
+      contents: write
     
     steps:
       # 1. リポジトリをチェックアウト
@@ -27,57 +27,51 @@ jobs:
         with:
           python-version: '3.11'
       
-      # 3. HTMLファイルを生成
-      - name: Generate HTML files
+      # 3. dataフォルダを作成（存在しない場合）
+      - name: Create data directory
+        run: mkdir -p data
+      
+      # 4. 単語HTMLファイルを生成
+      - name: Generate vocabulary HTML files
         run: |
-          echo "🔨 HTMLファイルを生成中..."
           python generate_vocab.py
-          echo "✅ 生成完了"
-          echo ""
-          echo "📁 dataフォルダの内容:"
-          ls -la data/ || echo "dataフォルダが見つかりません"
+          echo "✅ Vocabulary HTML files generated"
       
-      # 4. 生成されたファイルをステージング
-      - name: Stage generated files
+      # 5. index.htmlを更新（build_index.py を使用）
+      - name: Update index.html
         run: |
-          if [ -d "data" ]; then
-            git add data/
-            echo "✅ dataフォルダをステージングしました"
-          else
-            echo "⚠️ dataフォルダが存在しません"
-            exit 1
-          fi
+          python build_index.py
+          echo "✅ index.html updated"
       
-      # 5. 変更があるかチェック
+      # 6. 変更があるかチェック
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --cached --quiet; then
+          if git diff --quiet data/ index.html; then
             echo "changed=false" >> $GITHUB_OUTPUT
-            echo "ℹ️ 変更はありません"
+            echo "ℹ️ No changes detected"
           else
             echo "changed=true" >> $GITHUB_OUTPUT
-            echo "✅ 変更が検出されました"
-            git diff --cached --stat
+            echo "✅ Changes detected"
           fi
       
-      # 6. 生成されたファイルをコミット＆プッシュ
+      # 7. 生成されたファイルをコミット＆プッシュ
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "🤖 Auto-generate vocabulary HTML files"
+          git add data/*.html index.html
+          git commit -m "🤖 Auto-generate vocabulary HTML files and update index [skip ci]"
           git push
-          echo "✅ 変更をプッシュしました"
       
-      # 7. 完了メッセージ
-      - name: Summary
+      # 8. 完了サマリー
+      - name: Job summary
         run: |
-          echo "✅ HTML generation completed!"
-          if [ -d "data" ]; then
-            echo "📊 生成されたファイル数: $(ls data/*.html 2>/dev/null | wc -l)"
-            echo ""
-            echo "📁 生成されたファイル一覧:"
-            ls -1 data/*.html 2>/dev/null || echo "なし"
-          fi
+          echo "## 📊 Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Vocabulary HTML files generated in \`data/\` directory" >> $GITHUB_STEP_SUMMARY
+          echo "✅ \`index.html\` updated with new words" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Generated Files" >> $GITHUB_STEP_SUMMARY
+          ls -1 data/*.html 2>/dev/null | wc -l | xargs -I {} echo "{} HTML files in data/" >> $GITHUB_STEP_SUMMARY
