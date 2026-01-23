@@ -95,45 +95,144 @@
         }
       ]
     },
-
+    
     
     {
       "number": 423,
-      "word": "enhance",
-      "pos": "動詞",
-      "meaning": "〜を高める、向上させる",
-      "nuance": "何かの価値や質、魅力を良い方向に増大させるイメージです。特に既存のものをより良くする際に使われます。",
+      "word": "descent",
+      "pos": "名詞",
+      "meaning": "降下、下り坂、家系、血統",
+      "nuance": "物理的に下へ移動すること、または祖先からの系統を表します。飛行機の降下や山の下りだけでなく、「of French descent（フランス系の）」のように血統の意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（降下・下り）",
+          "examples": [
+            {
+              "en": "The plane began its descent into Tokyo.",
+              "ja": "飛行機は東京への降下を始めた。",
+              "highlight": "descent"
+            },
+            {
+              "en": "The descent down the mountain was more difficult than expected.",
+              "ja": "山を下りるのは予想以上に困難だった。",
+              "highlight": "descent"
+            }
+          ]
+        },
+        {
+          "title": "例文（家系・血統）",
+          "examples": [
+            {
+              "en": "She is of Japanese descent.",
+              "ja": "彼女は日本系です。",
+              "highlight": "descent"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (下に) + scent (登る) <br>→ 下に降りること",
+      "synonyms": [
+        {"word": "drop", "trans": "降下"},
+        {"word": "decline", "trans": "下り坂"},
+        {"word": "ancestry", "trans": "家系"}
+      ],
+      "antonyms": [
+        {"word": "ascent", "trans": "上昇"},
+        {"word": "climb", "trans": "登ること"}
+      ],
+      "related": [
+        {"word": "descend", "trans": "動詞：降りる"},
+        {"word": "descendant", "trans": "名詞：子孫"}
+      ]
+    },
+
+    
+    {
+      "number": "423-2",
+      "word": "descendant",
+      "pos": "名詞",
+      "meaning": "子孫、末裔",
+      "nuance": "ある人物や集団から血統的に続く後の世代を指します。歴史的な人物の子孫や、生物学的な進化の系統でも使われます。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "The new software will enhance our productivity.",
-              "ja": "新しいソフトウェアは私たちの生産性を向上させるでしょう。",
-              "highlight": "enhance"
+              "en": "He is a descendant of a famous samurai family.",
+              "ja": "彼は有名な侍の家系の子孫です。",
+              "highlight": "descendant"
             },
             {
-              "en": "Music can enhance the dining experience.",
-              "ja": "音楽は食事の体験を高めることができます。",
-              "highlight": "enhance"
+              "en": "Many Americans are descendants of European immigrants.",
+              "ja": "多くのアメリカ人はヨーロッパ移民の子孫です。",
+              "highlight": "descendants"
             }
           ]
         }
       ],
-      "etymology": "en (中に) + hance (高くする) <br>→ 内部から高める",
+      "etymology": "descend (降りる) + ant (人) <br>→ (血統を)降りてきた人",
       "synonyms": [
-        {"word": "improve", "trans": "改善する"},
-        {"word": "boost", "trans": "高める"},
-        {"word": "augment", "trans": "増大させる"}
+        {"word": "offspring", "trans": "子孫"},
+        {"word": "heir", "trans": "相続人"},
+        {"word": "progeny", "trans": "子孫"}
       ],
       "antonyms": [
-        {"word": "degrade", "trans": "低下させる"},
-        {"word": "diminish", "trans": "減少させる"},
-        {"word": "weaken", "trans": "弱める"}
+        {"word": "ancestor", "trans": "祖先"},
+        {"word": "forefather", "trans": "先祖"}
       ],
       "related": [
-        {"word": "enhancement", "trans": "名詞：向上・増強"}
+        {
+          "word": "descent",
+          "trans": "名詞：家系・血統",
+          "link": "423-descent.html"
+        },
+        {
+          "word": "descend",
+          "trans": "動詞：降りる"
+        }
+      ]
+    },
+
+    
+    {
+      "number": "423-3",
+      "word": "deforestation",
+      "pos": "名詞",
+      "meaning": "森林伐採、森林破壊",
+      "nuance": "森林を大規模に伐採し、森がなくなることを指します。環境問題の文脈で頻出し、気候変動や生態系破壊との関連で議論されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Deforestation in the Amazon is a major environmental concern.",
+              "ja": "アマゾンでの森林伐採は主要な環境問題です。",
+              "highlight": "Deforestation"
+            },
+            {
+              "en": "The government is taking steps to prevent further deforestation.",
+              "ja": "政府はさらなる森林破壊を防ぐための措置を講じている。",
+              "highlight": "deforestation"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (除去) + forest (森) + ation (こと) <br>→ 森を取り除くこと",
+      "synonyms": [
+        {"word": "logging", "trans": "伐採"},
+        {"word": "clearance", "trans": "開墾"},
+        {"word": "tree-cutting", "trans": "木の伐採"}
+      ],
+      "antonyms": [
+        {"word": "reforestation", "trans": "植林・再森林化"},
+        {"word": "afforestation", "trans": "森林造成"}
+      ],
+      "related": [
+        {"word": "forest", "trans": "名詞：森"},
+        {"word": "deforest", "trans": "動詞：森林を伐採する"}
       ]
     }
+
+    
   ]
 }
