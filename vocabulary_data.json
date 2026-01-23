@@ -1574,6 +1574,207 @@
           "trans": "名詞：倫理"
         }
       ]
+    },
+    {
+      "number": 454,
+      "word": "virtuous",
+      "pos": "形容詞",
+      "meaning": "高潔な、徳の高い、善良な",
+      "nuance": "道徳的に優れた性質や行動を表します。単に「良い」だけでなく、高い道徳的基準を持つというニュアンスがあり、やや格式ばった表現です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She led a virtuous life dedicated to helping others.",
+              "ja": "彼女は他者を助けることに捧げられた高潔な人生を送った。",
+              "highlight": "virtuous"
+            },
+            {
+              "en": "His virtuous behavior earned him respect in the community.",
+              "ja": "彼の善良な行動は地域社会で尊敬を得た。",
+              "highlight": "virtuous"
+            },
+            {
+              "en": "The story celebrates virtuous characters who overcome evil.",
+              "ja": "その物語は悪を克服する高潔な登場人物を称賛している。",
+              "highlight": "virtuous"
+            }
+          ]
+        }
+      ],
+      "etymology": "virtue (美徳) + ous (形容詞語尾) <br>→ 美徳を持つ",
+      "synonyms": [
+        {"word": "moral", "trans": "道徳的な"},
+        {"word": "righteous", "trans": "正義の"},
+        {"word": "upright", "trans": "正直な"},
+        {"word": "noble", "trans": "高潔な"}
+      ],
+      "antonyms": [
+        {"word": "immoral", "trans": "不道徳な"},
+        {"word": "wicked", "trans": "邪悪な"},
+        {"word": "corrupt", "trans": "腐敗した"}
+      ],
+      "related": [
+        {"word": "virtue", "trans": "名詞：美徳"},
+        {"word": "virtuously", "trans": "副詞：高潔に"}
+      ]
+    },
+    {
+      "number": "454-2",
+      "word": "conscientious",
+      "pos": "形容詞",
+      "meaning": "良心的な、誠実な、勤勉な",
+      "nuance": "責任感を持って丁寧に仕事や義務を果たす様子を表します。細部まで注意を払い、手を抜かない人を褒める際によく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is a conscientious worker who pays attention to every detail.",
+              "ja": "彼女はすべての細部に注意を払う良心的な労働者だ。",
+              "highlight": "conscientious"
+            },
+            {
+              "en": "The company seeks conscientious employees who take pride in their work.",
+              "ja": "会社は自分の仕事に誇りを持つ誠実な従業員を求めている。",
+              "highlight": "conscientious"
+            },
+            {
+              "en": "He made a conscientious effort to improve his skills.",
+              "ja": "彼はスキルを向上させるために良心的な努力をした。",
+              "highlight": "conscientious"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 conscientiosus (良心的な) <br>→ conscientia (良心) から派生",
+      "synonyms": [
+        {"word": "diligent", "trans": "勤勉な"},
+        {"word": "meticulous", "trans": "細心の"},
+        {"word": "thorough", "trans": "徹底的な"},
+        {"word": "responsible", "trans": "責任感のある"}
+      ],
+      "antonyms": [
+        {"word": "careless", "trans": "不注意な"},
+        {"word": "negligent", "trans": "怠慢な"},
+        {"word": "irresponsible", "trans": "無責任な"}
+      ],
+      "related": [
+        {
+          "word": "virtuous",
+          "trans": "形容詞：高潔な",
+          "link": "454-virtuous.html"
+        },
+        {
+          "word": "conscience", "trans": "名詞：良心"},
+        {"word": "conscientiously", "trans": "副詞：良心的に"}
+      ]
+    },
+    {
+      "number": "454-3",
+      "word": "righteous",
+      "pos": "形容詞",
+      "meaning": "正義の、正しい、道徳的に正しい",
+      "nuance": "道徳的・宗教的に正しいとされる行動や態度を表します。「righteous indignation（義憤）」のように正当な怒りを表現する際にも使われます。時に独善的なニュアンスも持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They fought for a righteous cause.",
+              "ja": "彼らは正義の大義のために戦った。",
+              "highlight": "righteous"
+            },
+            {
+              "en": "His righteous anger at the injustice was understandable.",
+              "ja": "その不正に対する彼の義憤は理解できるものだった。",
+              "highlight": "righteous"
+            },
+            {
+              "en": "She lived according to righteous principles.",
+              "ja": "彼女は正しい原則に従って生きた。",
+              "highlight": "righteous"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 rihtwis (正しい + 賢い) <br>→ right (正しい) + wise (賢い)",
+      "synonyms": [
+        {"word": "virtuous", "trans": "高潔な"},
+        {"word": "moral", "trans": "道徳的な"},
+        {"word": "just", "trans": "公正な"},
+        {"word": "upright", "trans": "正直な"}
+      ],
+      "antonyms": [
+        {"word": "wicked", "trans": "邪悪な"},
+        {"word": "sinful", "trans": "罪深い"},
+        {"word": "immoral", "trans": "不道徳な"}
+      ],
+      "related": [
+        {
+          "word": "virtuous",
+          "trans": "形容詞：高潔な",
+          "link": "454-virtuous.html"
+        },
+        {
+          "word": "righteousness", "trans": "名詞：正義"},
+        {"word": "righteously", "trans": "副詞：正義に"}
+      ]
+    },
+    {
+      "number": 455,
+      "word": "blindness",
+      "pos": "名詞",
+      "meaning": "盲目、失明、無知、無視",
+      "nuance": "視覚的に見えない状態だけでなく、比喩的に「事実や真実に気づかないこと」「意図的に無視すること」も表します。",
+      "example_sections": [
+        {
+          "title": "例文（視覚的な盲目）",
+          "examples": [
+            {
+              "en": "The disease can cause permanent blindness if left untreated.",
+              "ja": "その病気は治療しないと永久的な失明を引き起こす可能性がある。",
+              "highlight": "blindness"
+            },
+            {
+              "en": "Color blindness affects millions of people worldwide.",
+              "ja": "色覚異常は世界中で何百万人もの人々に影響を与えている。",
+              "highlight": "blindness"
+            }
+          ]
+        },
+        {
+          "title": "例文（比喩的な盲目）",
+          "examples": [
+            {
+              "en": "His blindness to her suffering was shocking.",
+              "ja": "彼女の苦しみに対する彼の無視は衝撃的だった。",
+              "highlight": "blindness"
+            },
+            {
+              "en": "Moral blindness prevented them from seeing the truth.",
+              "ja": "道徳的な盲目が彼らが真実を見ることを妨げた。",
+              "highlight": "blindness"
+            }
+          ]
+        }
+      ],
+      "etymology": "blind (盲目の) + ness (名詞語尾) <br>→ 盲目の状態",
+      "synonyms": [
+        {"word": "sightlessness", "trans": "視力喪失"},
+        {"word": "ignorance", "trans": "無知（比喩）"},
+        {"word": "unawareness", "trans": "気づかないこと"}
+      ],
+      "antonyms": [
+        {"word": "sight", "trans": "視力"},
+        {"word": "vision", "trans": "視覚"},
+        {"word": "awareness", "trans": "気づき"}
+      ],
+      "related": [
+        {"word": "blind", "trans": "形容詞：盲目の"},
+        {"word": "color-blind", "trans": "形容詞：色覚異常の"}
+      ]
     }
 
     
