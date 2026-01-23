@@ -1,0 +1,133 @@
+{
+  "words": [
+    {
+      "number": 422,
+      "word": "degrade",
+      "pos": "動詞",
+      "meaning": "〜の質を下げる、降格させる、分解される",
+      "nuance": "「段階（grade）を下へ（de）」持っていくイメージです。他動詞では「地位や質を傷つけ、低下させる」こと、自動詞では「（化学物質などが）自然に分解・劣化する」ことを表します。",
+      "example_sections": [
+        {
+          "title": "例文（他動詞：〜の質・地位を下げる）",
+          "examples": [
+            {
+              "en": "Pollution has degraded the quality of the lake water.",
+              "ja": "汚染が湖水の質を低下させた。",
+              "highlight": "degraded"
+            },
+            {
+              "en": "Cruel punishments degrade both the punisher and the punished.",
+              "ja": "残酷な罰は、罰する側と罰せられる側の両方の品位を落とす。",
+              "highlight": "degrade"
+            }
+          ]
+        },
+        {
+          "title": "例文（自動詞：劣化する・分解される）",
+          "examples": [
+            {
+              "en": "Plastics can take hundreds of years to degrade in the ocean.",
+              "ja": "プラスチックが海中で分解されるには何百年もかかる場合がある。",
+              "highlight": "degrade"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (下に) + gradus (歩み・階段) <br>→ 階段を下りる",
+      "synonyms": [
+        {"word": "deteriorate", "trans": "悪化する"},
+        {"word": "humiliate", "trans": "恥をかかせる"},
+        {"word": "decompose", "trans": "分解する"}
+      ],
+      "antonyms": [
+        {"word": "upgrade", "trans": "向上させる"},
+        {"word": "improve", "trans": "改善する"},
+        {"word": "enhance", "trans": "高める"}
+      ],
+      "related": [
+        {"word": "degradation", "trans": "名詞：悪化・分解"},
+        {"word": "biodegradable", "trans": "形容詞：生分解性の"}
+      ]
+    },
+    {
+      "number": "422-2",
+      "word": "degradation",
+      "pos": "名詞",
+      "meaning": "悪化、低下、分解、(品位の)下落",
+      "nuance": "質や価値、状態が徐々に損なわれていくプロセスを指します。環境分野では「環境破壊（environmental degradation）」、化学分野では「物質の分解」として頻出します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Environmental degradation is reaching a critical point in this region.",
+              "ja": "この地域における環境悪化は危機的な状況に達している。",
+              "highlight": "degradation"
+            },
+            {
+              "en": "The degradation of traditional values concerns many older citizens.",
+              "ja": "伝統的価値観の低下が、多くの高齢者の懸念となっている。",
+              "highlight": "degradation"
+            }
+          ]
+        }
+      ],
+      "etymology": "degrade (下げる) + ation (こと) <br>→ 段階を落とすこと",
+      "synonyms": [
+        {"word": "deterioration", "trans": "悪化"},
+        {"word": "decline", "trans": "衰退・低下"},
+        {"word": "breakdown", "trans": "崩壊・分解"}
+      ],
+      "antonyms": [
+        {"word": "improvement", "trans": "改善"},
+        {"word": "restoration", "trans": "修復・復元"},
+        {"word": "enhancement", "trans": "向上"}
+      ],
+      "related": [
+        {
+          "word": "degrade",
+          "trans": "動詞：下げる・分解する",
+          "link": "422-degrade.html"
+        }
+      ]
+    },
+    {
+      "number": 423,
+      "word": "enhance",
+      "pos": "動詞",
+      "meaning": "〜を高める、向上させる",
+      "nuance": "何かの価値や質、魅力を良い方向に増大させるイメージです。特に既存のものをより良くする際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The new software will enhance our productivity.",
+              "ja": "新しいソフトウェアは私たちの生産性を向上させるでしょう。",
+              "highlight": "enhance"
+            },
+            {
+              "en": "Music can enhance the dining experience.",
+              "ja": "音楽は食事の体験を高めることができます。",
+              "highlight": "enhance"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (中に) + hance (高くする) <br>→ 内部から高める",
+      "synonyms": [
+        {"word": "improve", "trans": "改善する"},
+        {"word": "boost", "trans": "高める"},
+        {"word": "augment", "trans": "増大させる"}
+      ],
+      "antonyms": [
+        {"word": "degrade", "trans": "低下させる"},
+        {"word": "diminish", "trans": "減少させる"},
+        {"word": "weaken", "trans": "弱める"}
+      ],
+      "related": [
+        {"word": "enhancement", "trans": "名詞：向上・増強"}
+      ]
+    }
+  ]
+}
