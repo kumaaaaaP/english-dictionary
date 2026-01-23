@@ -561,6 +561,358 @@
           "trans": "名詞：部族の一員"
         }
       ]
+    },
+    {
+      "number": 445,
+      "word": "impartial",
+      "pos": "形容詞",
+      "meaning": "公平な、偏らない、中立の",
+      "nuance": "特定の側に偏ることなく、公正な判断や態度を保つことを表します。裁判官やジャーナリストなど、中立性が求められる立場で重要な概念です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Judges must remain impartial in all cases.",
+              "ja": "裁判官はすべての事件において公平でなければならない。",
+              "highlight": "impartial"
+            },
+            {
+              "en": "The committee conducted an impartial investigation.",
+              "ja": "委員会は公平な調査を実施した。",
+              "highlight": "impartial"
+            },
+            {
+              "en": "It's difficult to be completely impartial about one's own work.",
+              "ja": "自分自身の仕事について完全に公平でいるのは難しい。",
+              "highlight": "impartial"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + partial (偏った) <br>→ 偏っていない",
+      "synonyms": [
+        {"word": "unbiased", "trans": "偏見のない"},
+        {"word": "neutral", "trans": "中立の"},
+        {"word": "fair", "trans": "公平な"},
+        {"word": "objective", "trans": "客観的な"}
+      ],
+      "antonyms": [
+        {"word": "partial", "trans": "偏った"},
+        {"word": "biased", "trans": "偏見のある"},
+        {"word": "prejudiced", "trans": "先入観のある"}
+      ],
+      "related": [
+        {"word": "impartiality", "trans": "名詞：公平性"},
+        {"word": "partial", "trans": "形容詞：偏った"}
+      ]
+    },
+    {
+      "number": "445-2",
+      "word": "partial",
+      "pos": "形容詞",
+      "meaning": "部分的な、不完全な、偏った、えこひいきする",
+      "nuance": "「一部の」という中立的な意味と、「特定の側に偏っている」という否定的な意味の両方があります。「be partial to ~（〜が好きだ）」という表現もよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（部分的な）",
+          "examples": [
+            {
+              "en": "The project is only in partial completion.",
+              "ja": "プロジェクトはまだ部分的にしか完成していない。",
+              "highlight": "partial"
+            },
+            {
+              "en": "There was a partial eclipse of the sun.",
+              "ja": "部分日食があった。",
+              "highlight": "partial"
+            }
+          ]
+        },
+        {
+          "title": "例文（偏った・好む）",
+          "examples": [
+            {
+              "en": "The referee was accused of being partial to the home team.",
+              "ja": "審判はホームチームをえこひいきしていると非難された。",
+              "highlight": "partial"
+            },
+            {
+              "en": "I'm quite partial to chocolate cake.",
+              "ja": "私はチョコレートケーキがとても好きです。",
+              "highlight": "partial"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 partialis (部分の) <br>→ pars (部分) から派生",
+      "synonyms": [
+        {"word": "incomplete", "trans": "不完全な"},
+        {"word": "biased", "trans": "偏った"},
+        {"word": "fond of", "trans": "〜が好きな"}
+      ],
+      "antonyms": [
+        {"word": "complete", "trans": "完全な"},
+        {"word": "impartial", "trans": "公平な"},
+        {"word": "total", "trans": "全体の"}
+      ],
+      "related": [
+        {
+          "word": "impartial",
+          "trans": "形容詞：公平な",
+          "link": "445-impartial.html"
+        },
+        {
+          "word": "partially",
+          "trans": "副詞：部分的に"
+        }
+      ]
+    },
+    {
+      "number": 446,
+      "word": "reasoning",
+      "pos": "名詞",
+      "meaning": "推論、論理的思考、理由づけ",
+      "nuance": "論理的に考えて結論を導き出すプロセス、または何かを正当化する理由を表します。学術的な文脈や議論で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Your reasoning is flawed in several places.",
+              "ja": "あなたの推論にはいくつかの箇所に欠陥がある。",
+              "highlight": "reasoning"
+            },
+            {
+              "en": "The court explained its reasoning in the decision.",
+              "ja": "裁判所はその判決における理由づけを説明した。",
+              "highlight": "reasoning"
+            },
+            {
+              "en": "Good reasoning skills are essential for problem-solving.",
+              "ja": "優れた論理的思考力は問題解決に不可欠だ。",
+              "highlight": "reasoning"
+            }
+          ]
+        }
+      ],
+      "etymology": "reason (理性、理由) + ing (名詞語尾) <br>→ 理性を使うこと",
+      "synonyms": [
+        {"word": "logic", "trans": "論理"},
+        {"word": "rationale", "trans": "理論的根拠"},
+        {"word": "argument", "trans": "論証"}
+      ],
+      "antonyms": [
+        {"word": "irrationality", "trans": "非合理性"},
+        {"word": "intuition", "trans": "直感"}
+      ],
+      "related": [
+        {"word": "reason", "trans": "名詞/動詞：理由/推論する"},
+        {"word": "reasonable", "trans": "形容詞：合理的な"}
+      ]
+    },
+    {
+      "number": "446-2",
+      "word": "reasonable",
+      "pos": "形容詞",
+      "meaning": "合理的な、理にかなった、妥当な、適度な",
+      "nuance": "理性や常識に基づいた判断や行動を表します。価格や量が「手頃な」「適度な」という意味でも使われ、日常会話で非常に頻繁に使われる単語です。",
+      "example_sections": [
+        {
+          "title": "例文（合理的な）",
+          "examples": [
+            {
+              "en": "That seems like a reasonable solution to the problem.",
+              "ja": "それは問題に対する合理的な解決策のようだ。",
+              "highlight": "reasonable"
+            },
+            {
+              "en": "Any reasonable person would agree with this decision.",
+              "ja": "理性的な人なら誰でもこの決定に同意するだろう。",
+              "highlight": "reasonable"
+            }
+          ]
+        },
+        {
+          "title": "例文（妥当な・適度な）",
+          "examples": [
+            {
+              "en": "The hotel offers rooms at reasonable prices.",
+              "ja": "そのホテルは手頃な価格で部屋を提供している。",
+              "highlight": "reasonable"
+            },
+            {
+              "en": "We completed the work in a reasonable amount of time.",
+              "ja": "私たちは妥当な時間内に仕事を完了した。",
+              "highlight": "reasonable"
+            }
+          ]
+        }
+      ],
+      "etymology": "reason (理性) + able (できる) <br>→ 理性が働く",
+      "synonyms": [
+        {"word": "rational", "trans": "合理的な"},
+        {"word": "sensible", "trans": "分別のある"},
+        {"word": "fair", "trans": "公正な"},
+        {"word": "moderate", "trans": "適度な"}
+      ],
+      "antonyms": [
+        {"word": "unreasonable", "trans": "不合理な"},
+        {"word": "irrational", "trans": "非合理的な"},
+        {"word": "excessive", "trans": "過度の"}
+      ],
+      "related": [
+        {
+          "word": "reasoning",
+          "trans": "名詞：推論",
+          "link": "446-reasoning.html"
+        },
+        {
+          "word": "reasonably",
+          "trans": "副詞：合理的に"
+        }
+      ]
+    },
+    {
+      "number": "446-3",
+      "word": "reasonably",
+      "pos": "副詞",
+      "meaning": "合理的に、かなり、まあまあ、適度に",
+      "nuance": "理性的な方法で、または「それなりに」「まずまず」という程度を表します。「reasonably well（まあまあうまく）」のように程度を和らげる表現でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She handled the situation reasonably well.",
+              "ja": "彼女はその状況をかなりうまく処理した。",
+              "highlight": "reasonably"
+            },
+            {
+              "en": "We can reasonably assume that he will attend.",
+              "ja": "彼が出席すると合理的に推測できる。",
+              "highlight": "reasonably"
+            },
+            {
+              "en": "The test was reasonably difficult.",
+              "ja": "試験は適度に難しかった。",
+              "highlight": "reasonably"
+            }
+          ]
+        }
+      ],
+      "etymology": "reasonable (合理的な) + ly (副詞語尾) <br>→ 合理的に",
+      "synonyms": [
+        {"word": "fairly", "trans": "かなり"},
+        {"word": "moderately", "trans": "適度に"},
+        {"word": "rationally", "trans": "合理的に"}
+      ],
+      "antonyms": [
+        {"word": "unreasonably", "trans": "不合理に"},
+        {"word": "extremely", "trans": "極端に"}
+      ],
+      "related": [
+        {
+          "word": "reasonable",
+          "trans": "形容詞：合理的な",
+          "link": "446-reasoning.html"
+        }
+      ]
+    },
+    {
+      "number": "446-4",
+      "word": "rational",
+      "pos": "形容詞",
+      "meaning": "理性的な、合理的な、筋の通った",
+      "nuance": "感情ではなく論理や理性に基づいた判断や行動を表します。reasonableよりも論理性や知性が強調されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Let's try to approach this in a rational manner.",
+              "ja": "これに理性的な方法で取り組もう。",
+              "highlight": "rational"
+            },
+            {
+              "en": "His fears were not rational.",
+              "ja": "彼の恐怖は理性的なものではなかった。",
+              "highlight": "rational"
+            },
+            {
+              "en": "A rational person would consider all the evidence.",
+              "ja": "理性的な人ならすべての証拠を考慮するだろう。",
+              "highlight": "rational"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 rationalis (理性の) <br>→ ratio (理性、計算) から派生",
+      "synonyms": [
+        {"word": "reasonable", "trans": "合理的な"},
+        {"word": "logical", "trans": "論理的な"},
+        {"word": "sensible", "trans": "分別のある"}
+      ],
+      "antonyms": [
+        {"word": "irrational", "trans": "非合理的な"},
+        {"word": "illogical", "trans": "非論理的な"},
+        {"word": "emotional", "trans": "感情的な"}
+      ],
+      "related": [
+        {"word": "rationality", "trans": "名詞：合理性"},
+        {"word": "rationally", "trans": "副詞：合理的に"},
+        {"word": "rationalize", "trans": "動詞：合理化する"}
+      ]
+    },
+    {
+      "number": "446-5",
+      "word": "rationally",
+      "pos": "副詞",
+      "meaning": "理性的に、合理的に、論理的に",
+      "nuance": "感情に流されず、論理的な思考に基づいて行動する様子を表します。科学的・学問的な文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need to think about this rationally, not emotionally.",
+              "ja": "これについては感情的にではなく理性的に考える必要がある。",
+              "highlight": "rationally"
+            },
+            {
+              "en": "She explained her position rationally and clearly.",
+              "ja": "彼女は自分の立場を理性的かつ明確に説明した。",
+              "highlight": "rationally"
+            },
+            {
+              "en": "It's hard to behave rationally in a crisis.",
+              "ja": "危機的状況で理性的に行動するのは難しい。",
+              "highlight": "rationally"
+            }
+          ]
+        }
+      ],
+      "etymology": "rational (理性的な) + ly (副詞語尾) <br>→ 理性的に",
+      "synonyms": [
+        {"word": "logically", "trans": "論理的に"},
+        {"word": "reasonably", "trans": "合理的に"},
+        {"word": "sensibly", "trans": "分別をもって"}
+      ],
+      "antonyms": [
+        {"word": "irrationally", "trans": "非合理的に"},
+        {"word": "emotionally", "trans": "感情的に"}
+      ],
+      "related": [
+        {
+          "word": "rational",
+          "trans": "形容詞：理性的な",
+          "link": "446-reasoning.html"
+        },
+        {
+          "word": "rationality",
+          "trans": "名詞：合理性"
+        }
+      ]
     }
 
     
