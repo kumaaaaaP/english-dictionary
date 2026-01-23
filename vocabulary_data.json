@@ -2498,7 +2498,373 @@
       {"word": "integrity", "trans": "名詞：誠実さ、完全性"},
       {"word": "integration", "trans": "名詞：統合"}
     ]
-  }
+  },
+    {
+      "number": 464,
+      "word": "intrinsic",
+      "pos": "形容詞",
+      "meaning": "本質的な、固有の、内在的な",
+      "nuance": "物事の本来の性質や、外部の要因に依存しない内在的な価値を表します。extrinsic（外在的な）の対義語で、哲学や経済学でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The painting has intrinsic value beyond its market price.",
+              "ja": "その絵画は市場価格を超えた本質的な価値を持っている。",
+              "highlight": "intrinsic"
+            },
+            {
+              "en": "Curiosity is intrinsic to human nature.",
+              "ja": "好奇心は人間の本性に固有のものだ。",
+              "highlight": "intrinsic"
+            },
+            {
+              "en": "The material has intrinsic strength that makes it ideal for construction.",
+              "ja": "その材料は建設に理想的な固有の強度を持っている。",
+              "highlight": "intrinsic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 intrinsecus (内部の) <br>→ intra (内部に) + secus (沿って)",
+      "synonyms": [
+        {"word": "inherent", "trans": "固有の"},
+        {"word": "innate", "trans": "生まれつきの"},
+        {"word": "essential", "trans": "本質的な"},
+        {"word": "built-in", "trans": "組み込まれた"}
+      ],
+      "antonyms": [
+        {"word": "extrinsic", "trans": "外在的な"},
+        {"word": "external", "trans": "外部の"},
+        {"word": "acquired", "trans": "獲得した"}
+      ],
+      "related": [
+        {"word": "intrinsically", "trans": "副詞：本質的に"}
+      ]
+    },
+    {
+      "number": "464-2",
+      "word": "requisite",
+      "pos": "形容詞/名詞",
+      "meaning": "必要な、必須の / 必需品、必要条件",
+      "nuance": "何かを達成するために絶対に必要なものを表します。requiredよりもやや格式ばった表現で、法律や学術的な文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "She has the requisite skills for the job.",
+              "ja": "彼女はその仕事に必要なスキルを持っている。",
+              "highlight": "requisite"
+            },
+            {
+              "en": "The requisite documents must be submitted by Friday.",
+              "ja": "必要書類は金曜日までに提出しなければならない。",
+              "highlight": "requisite"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "A college degree is a requisite for this position.",
+              "ja": "大学の学位はこの職位の必要条件だ。",
+              "highlight": "requisite"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 requisitus (要求された) <br>→ requirere (求める) から",
+      "synonyms": [
+        {"word": "necessary", "trans": "必要な"},
+        {"word": "required", "trans": "必須の"},
+        {"word": "essential", "trans": "不可欠な"},
+        {"word": "mandatory", "trans": "義務的な"}
+      ],
+      "antonyms": [
+        {"word": "optional", "trans": "任意の"},
+        {"word": "unnecessary", "trans": "不必要な"},
+        {"word": "superfluous", "trans": "余分な"}
+      ],
+      "related": [
+        {
+          "word": "intrinsic",
+          "trans": "形容詞：本質的な",
+          "link": "464-intrinsic.html"
+        },
+        {
+          "word": "require", "trans": "動詞：必要とする"},
+        {"word": "prerequisite", "trans": "名詞：前提条件"}
+      ]
+    },
+    {
+      "number": 465,
+      "word": "discriminatory",
+      "pos": "形容詞",
+      "meaning": "差別的な、不公平な",
+      "nuance": "特定の集団に対して不当な扱いをする政策や行動を表します。人種、性別、年齢などに基づく差別を批判する際に使われる否定的な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The law prohibits discriminatory hiring practices.",
+              "ja": "その法律は差別的な採用慣行を禁止している。",
+              "highlight": "discriminatory"
+            },
+            {
+              "en": "Discriminatory policies must be eliminated from our society.",
+              "ja": "差別的な政策は私たちの社会から排除されなければならない。",
+              "highlight": "Discriminatory"
+            },
+            {
+              "en": "The court ruled that the treatment was discriminatory.",
+              "ja": "裁判所はその扱いが差別的であると判決を下した。",
+              "highlight": "discriminatory"
+            }
+          ]
+        }
+      ],
+      "etymology": "discriminate (差別する) + ory (形容詞語尾) <br>→ 差別する性質の",
+      "synonyms": [
+        {"word": "prejudiced", "trans": "偏見のある"},
+        {"word": "biased", "trans": "偏った"},
+        {"word": "unfair", "trans": "不公平な"},
+        {"word": "partial", "trans": "偏った"}
+      ],
+      "antonyms": [
+        {"word": "nondiscriminatory", "trans": "無差別の"},
+        {"word": "fair", "trans": "公平な"},
+        {"word": "equal", "trans": "平等な"},
+        {"word": "impartial", "trans": "公平な"}
+      ],
+      "related": [
+        {"word": "discriminate", "trans": "動詞：差別する"},
+        {"word": "discrimination", "trans": "名詞：差別"}
+      ]
+    },
+    {
+      "number": "465-2",
+      "word": "nondiscriminatory",
+      "pos": "形容詞",
+      "meaning": "無差別の、差別のない、公平な",
+      "nuance": "特定の集団を不当に扱わない、すべての人を平等に扱う政策や行動を表します。法律や公的文書でよく使われる肯定的な表現です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company has a nondiscriminatory employment policy.",
+              "ja": "その会社は無差別の雇用方針を持っている。",
+              "highlight": "nondiscriminatory"
+            },
+            {
+              "en": "All citizens deserve nondiscriminatory treatment under the law.",
+              "ja": "すべての市民は法の下で差別のない扱いを受けるに値する。",
+              "highlight": "nondiscriminatory"
+            },
+            {
+              "en": "The organization promotes nondiscriminatory practices.",
+              "ja": "その組織は無差別の慣行を推進している。",
+              "highlight": "nondiscriminatory"
+            }
+          ]
+        }
+      ],
+      "etymology": "non (非) + discriminatory (差別的な) <br>→ 差別的でない",
+      "synonyms": [
+        {"word": "fair", "trans": "公平な"},
+        {"word": "equal", "trans": "平等な"},
+        {"word": "impartial", "trans": "公平な"},
+        {"word": "unbiased", "trans": "偏見のない"}
+      ],
+      "antonyms": [
+        {"word": "discriminatory", "trans": "差別的な"},
+        {"word": "biased", "trans": "偏った"},
+        {"word": "prejudiced", "trans": "偏見のある"}
+      ],
+      "related": [
+        {
+          "word": "discriminatory",
+          "trans": "形容詞：差別的な",
+          "link": "465-discriminatory.html"
+        }
+      ]
+    },
+    {
+      "number": "465-3",
+      "word": "discriminate",
+      "pos": "動詞",
+      "meaning": "差別する、区別する、識別する",
+      "nuance": "否定的な文脈では「不当に差別する」、中立的な文脈では「見分ける、区別する」という意味になります。「discriminate against ~（〜を差別する）」「discriminate between A and B（AとBを区別する）」の形で使います。",
+      "example_sections": [
+        {
+          "title": "例文（差別する：否定的）",
+          "examples": [
+            {
+              "en": "It is illegal to discriminate against employees based on age.",
+              "ja": "年齢に基づいて従業員を差別することは違法だ。",
+              "highlight": "discriminate"
+            },
+            {
+              "en": "The company was accused of discriminating against women.",
+              "ja": "その会社は女性を差別していると非難された。",
+              "highlight": "discriminating"
+            }
+          ]
+        },
+        {
+          "title": "例文（区別する：中立的）",
+          "examples": [
+            {
+              "en": "Can you discriminate between the two wines?",
+              "ja": "二つのワインを区別できますか？",
+              "highlight": "discriminate"
+            },
+            {
+              "en": "The test discriminates between various levels of ability.",
+              "ja": "その試験は様々な能力レベルを識別する。",
+              "highlight": "discriminates"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 discriminare (区別する) <br>→ discrimen (区別) から",
+      "synonyms": [
+        {"word": "distinguish", "trans": "区別する"},
+        {"word": "differentiate", "trans": "識別する"},
+        {"word": "bias", "trans": "偏見を持つ（否定的）"}
+      ],
+      "antonyms": [
+        {"word": "equalize", "trans": "平等にする"},
+        {"word": "confuse", "trans": "混同する（区別の意味で）"}
+      ],
+      "related": [
+        {
+          "word": "discriminatory",
+          "trans": "形容詞：差別的な",
+          "link": "465-discriminatory.html"
+        },
+        {
+          "word": "discrimination",
+          "trans": "名詞：差別"
+        },
+        {"word": "discriminating", "trans": "形容詞：鋭い識別力のある"}
+      ]
+    },
+    {
+      "number": "465-4",
+      "word": "discrimination",
+      "pos": "名詞",
+      "meaning": "差別、識別、鑑識眼",
+      "nuance": "否定的な文脈では「不当な差別」、中立的・肯定的な文脈では「優れた識別能力」を意味します。社会問題としての差別を議論する際に最も頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文（差別：否定的）",
+          "examples": [
+            {
+              "en": "Racial discrimination is prohibited by law.",
+              "ja": "人種差別は法律で禁止されている。",
+              "highlight": "discrimination"
+            },
+            {
+              "en": "We must fight against all forms of discrimination.",
+              "ja": "私たちはあらゆる形態の差別と戦わなければならない。",
+              "highlight": "discrimination"
+            },
+            {
+              "en": "Gender discrimination remains a serious problem.",
+              "ja": "性差別は依然として深刻な問題である。",
+              "highlight": "discrimination"
+            }
+          ]
+        },
+        {
+          "title": "例文（識別力：肯定的）",
+          "examples": [
+            {
+              "en": "She shows great discrimination in her choice of art.",
+              "ja": "彼女は芸術の選択において優れた鑑識眼を示す。",
+              "highlight": "discrimination"
+            }
+          ]
+        }
+      ],
+      "etymology": "discriminate (区別する) + ion (名詞語尾) <br>→ 区別すること",
+      "synonyms": [
+        {"word": "prejudice", "trans": "偏見（否定的）"},
+        {"word": "bias", "trans": "偏り（否定的）"},
+        {"word": "discernment", "trans": "識別力（肯定的）"}
+      ],
+      "antonyms": [
+        {"word": "equality", "trans": "平等"},
+        {"word": "fairness", "trans": "公平"},
+        {"word": "impartiality", "trans": "公平性"}
+      ],
+      "related": [
+        {
+          "word": "discriminate",
+          "trans": "動詞：差別する",
+          "link": "465-discriminatory.html"
+        },
+        {
+          "word": "discriminatory",
+          "trans": "形容詞：差別的な"
+        }
+      ]
+    },
+    {
+      "number": "465-5",
+      "word": "nonsense",
+      "pos": "名詞/間投詞",
+      "meaning": "無意味なこと、ばかげたこと、たわごと",
+      "nuance": "論理的に意味をなさないことや、馬鹿げた考えや発言を表します。「That's nonsense!（ばかげている！）」のように強い否定を表現する際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "That theory is complete nonsense.",
+              "ja": "その理論は全くのたわごとだ。",
+              "highlight": "nonsense"
+            },
+            {
+              "en": "Don't talk nonsense! That's impossible.",
+              "ja": "ばかなことを言うな！それは不可能だ。",
+              "highlight": "nonsense"
+            },
+            {
+              "en": "The article was full of nonsense and misinformation.",
+              "ja": "その記事は無意味なことと誤情報でいっぱいだった。",
+              "highlight": "nonsense"
+            },
+            {
+              "en": "Nonsense! I don't believe a word of it.",
+              "ja": "ばかげている！一言も信じない。",
+              "highlight": "Nonsense"
+            }
+          ]
+        }
+      ],
+      "etymology": "non (無) + sense (意味) <br>→ 意味のないこと",
+      "synonyms": [
+        {"word": "rubbish", "trans": "くだらないこと"},
+        {"word": "absurdity", "trans": "不条理"},
+        {"word": "foolishness", "trans": "愚かさ"},
+        {"word": "drivel", "trans": "たわごと"}
+      ],
+      "antonyms": [
+        {"word": "sense", "trans": "意味"},
+        {"word": "logic", "trans": "論理"},
+        {"word": "reason", "trans": "理性"},
+        {"word": "wisdom", "trans": "知恵"}
+      ],
+      "related": [
+        {"word": "nonsensical", "trans": "形容詞：無意味な"}
+      ]
+    },
 
     
   ]
