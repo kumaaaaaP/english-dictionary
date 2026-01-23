@@ -377,6 +377,190 @@
         {"word": "dazzling", "trans": "形容詞：まばゆい、素晴らしい"},
         {"word": "dazzlement", "trans": "名詞：眩惑"}
       ]
+    },
+    {
+      "number": 443,
+      "word": "racial",
+      "pos": "形容詞",
+      "meaning": "人種の、人種に関する",
+      "nuance": "人種に関連する事柄を表す中立的な形容詞です。「racial discrimination（人種差別）」「racial equality（人種平等）」など、社会問題の文脈で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Racial discrimination is prohibited by law in many countries.",
+              "ja": "人種差別は多くの国で法律で禁止されている。",
+              "highlight": "Racial"
+            },
+            {
+              "en": "The organization works to promote racial harmony.",
+              "ja": "その組織は人種間の調和を促進するために活動している。",
+              "highlight": "racial"
+            },
+            {
+              "en": "We must address racial inequality in our society.",
+              "ja": "私たちは社会における人種的不平等に取り組まなければならない。",
+              "highlight": "racial"
+            }
+          ]
+        }
+      ],
+      "etymology": "race (人種) + ial (形容詞語尾) <br>→ 人種に関する",
+      "synonyms": [
+        {"word": "ethnic", "trans": "民族の"},
+        {"word": "ethnological", "trans": "民族学的な"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "race", "trans": "名詞：人種"},
+        {"word": "racism", "trans": "名詞：人種差別"},
+        {"word": "racist", "trans": "名詞/形容詞：人種差別主義者/人種差別的な"}
+      ]
+    },
+    {
+      "number": "443-2",
+      "word": "race",
+      "pos": "名詞",
+      "meaning": "人種、民族、競争、レース",
+      "nuance": "「人種」という意味では生物学的・文化的集団を指し、「競争」という意味ではスピードを競うことを表します。文脈によって意味が大きく異なる多義語です。",
+      "example_sections": [
+        {
+          "title": "例文（人種）",
+          "examples": [
+            {
+              "en": "People of all races should be treated equally.",
+              "ja": "すべての人種の人々は平等に扱われるべきだ。",
+              "highlight": "races"
+            },
+            {
+              "en": "The human race faces many challenges.",
+              "ja": "人類は多くの課題に直面している。",
+              "highlight": "race"
+            }
+          ]
+        },
+        {
+          "title": "例文（競争・レース）",
+          "examples": [
+            {
+              "en": "She won the race by a large margin.",
+              "ja": "彼女は大差でそのレースに勝った。",
+              "highlight": "race"
+            }
+          ]
+        }
+      ],
+      "etymology": "イタリア語 razza (種類、血統) <br>→ 起源不詳",
+      "synonyms": [
+        {"word": "ethnicity", "trans": "民族性（人種の意味）"},
+        {"word": "competition", "trans": "競争（レースの意味）"},
+        {"word": "contest", "trans": "競技"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "racial",
+          "trans": "形容詞：人種の",
+          "link": "443-racial.html"
+        },
+        {
+          "word": "racism",
+          "trans": "名詞：人種差別"
+        }
+      ]
+    },
+    {
+      "number": 444,
+      "word": "tribal",
+      "pos": "形容詞",
+      "meaning": "部族の、種族の",
+      "nuance": "部族社会や伝統的な集団に関することを表します。また比喩的に「集団への強い帰属意識」を意味する「tribalism（部族主義）」という概念でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Tribal customs have been passed down for generations.",
+              "ja": "部族の習慣は何世代にもわたって受け継がれてきた。",
+              "highlight": "Tribal"
+            },
+            {
+              "en": "The region is home to many tribal communities.",
+              "ja": "その地域には多くの部族社会が存在する。",
+              "highlight": "tribal"
+            },
+            {
+              "en": "Tribal conflicts have plagued the area for decades.",
+              "ja": "部族間の紛争が何十年もこの地域を悩ませてきた。",
+              "highlight": "Tribal"
+            }
+          ]
+        }
+      ],
+      "etymology": "tribe (部族) + al (形容詞語尾) <br>→ 部族に関する",
+      "synonyms": [
+        {"word": "ethnic", "trans": "民族の"},
+        {"word": "indigenous", "trans": "先住民の"},
+        {"word": "native", "trans": "原住民の"}
+      ],
+      "antonyms": [
+        {"word": "modern", "trans": "現代的な"},
+        {"word": "cosmopolitan", "trans": "国際的な"}
+      ],
+      "related": [
+        {"word": "tribe", "trans": "名詞：部族"},
+        {"word": "tribalism", "trans": "名詞：部族主義"}
+      ]
+    },
+    {
+      "number": "444-2",
+      "word": "tribe",
+      "pos": "名詞",
+      "meaning": "部族、種族、一族",
+      "nuance": "伝統的な社会集団や血縁関係で結ばれた集団を指します。人類学的な文脈だけでなく、「a tribe of artists（芸術家の集団）」のように比喩的にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The tribe has lived in this area for thousands of years.",
+              "ja": "その部族は何千年もこの地域に住んできた。",
+              "highlight": "tribe"
+            },
+            {
+              "en": "Each tribe has its own language and traditions.",
+              "ja": "各部族には独自の言語と伝統がある。",
+              "highlight": "tribe"
+            },
+            {
+              "en": "The whole tribe gathered for the ceremony.",
+              "ja": "部族全体が儀式のために集まった。",
+              "highlight": "tribe"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 tribus (ローマの3部族) <br>→ 三分割された集団",
+      "synonyms": [
+        {"word": "clan", "trans": "氏族"},
+        {"word": "group", "trans": "集団"},
+        {"word": "community", "trans": "共同体"}
+      ],
+      "antonyms": [
+        {"word": "individual", "trans": "個人"}
+      ],
+      "related": [
+        {
+          "word": "tribal",
+          "trans": "形容詞：部族の",
+          "link": "444-tribal.html"
+        },
+        {
+          "word": "tribesman",
+          "trans": "名詞：部族の一員"
+        }
+      ]
     }
 
     
