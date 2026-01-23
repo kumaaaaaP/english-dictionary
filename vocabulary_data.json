@@ -3201,6 +3201,386 @@
         {"word": "immorally", "trans": "副詞：不道徳に"}
       ]
     },
+    {
+      "number": "469-3",
+      "word": "immortal",
+      "pos": "形容詞/名詞",
+      "meaning": "不死の、不滅の、永遠の / 不死者、神",
+      "nuance": "死なない、または永遠に記憶される存在を表します。神話の神々や、偉大な業績によって歴史に名を残す人物について使われます。mortalの対義語です。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "The ancient Greeks believed in immortal gods.",
+              "ja": "古代ギリシャ人は不死の神々を信じていた。",
+              "highlight": "immortal"
+            },
+            {
+              "en": "Shakespeare's works have made him immortal.",
+              "ja": "シェイクスピアの作品は彼を不滅にした。",
+              "highlight": "immortal"
+            },
+            {
+              "en": "The poem captures the immortal beauty of nature.",
+              "ja": "その詩は自然の永遠の美しさを捉えている。",
+              "highlight": "immortal"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + mortal (死すべき) <br>→ 死なない",
+      "synonyms": [
+        {"word": "eternal", "trans": "永遠の"},
+        {"word": "undying", "trans": "不滅の"},
+        {"word": "everlasting", "trans": "永続する"},
+        {"word": "imperishable", "trans": "朽ちない"}
+      ],
+      "antonyms": [
+        {"word": "mortal", "trans": "死すべき"},
+        {"word": "temporary", "trans": "一時的な"},
+        {"word": "transient", "trans": "はかない"}
+      ],
+      "related": [
+        {
+          "word": "immoral",
+          "trans": "形容詞：不道徳な",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "immortality", "trans": "名詞：不死・不滅"},
+        {"word": "mortal", "trans": "形容詞：死すべき"}
+      ]
+    },
+    {
+      "number": "469-4",
+      "word": "impolite",
+      "pos": "形容詞",
+      "meaning": "無礼な、失礼な、不作法な",
+      "nuance": "社会的なマナーや礼儀に欠ける行動や態度を表します。rudeよりもやや婉曲的で、軽度から中度の無礼さを示します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It is impolite to interrupt someone while they're speaking.",
+              "ja": "人が話している最中に割り込むのは失礼だ。",
+              "highlight": "impolite"
+            },
+            {
+              "en": "His impolite behavior offended the guests.",
+              "ja": "彼の無礼な振る舞いはゲストの気分を害した。",
+              "highlight": "impolite"
+            },
+            {
+              "en": "She made an impolite remark about his appearance.",
+              "ja": "彼女は彼の外見について失礼な発言をした。",
+              "highlight": "impolite"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + polite (礼儀正しい) <br>→ 礼儀正しくない",
+      "synonyms": [
+        {"word": "rude", "trans": "無礼な"},
+        {"word": "discourteous", "trans": "失礼な"},
+        {"word": "disrespectful", "trans": "無礼な"},
+        {"word": "uncivil", "trans": "不作法な"}
+      ],
+      "antonyms": [
+        {"word": "polite", "trans": "礼儀正しい"},
+        {"word": "courteous", "trans": "丁寧な"},
+        {"word": "respectful", "trans": "礼儀正しい"}
+      ],
+      "related": [
+        {
+          "word": "immortal",
+          "trans": "形容詞：不死の",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "impolitely", "trans": "副詞：無礼に"},
+        {"word": "politeness", "trans": "名詞：礼儀正しさ"}
+      ]
+    },
+    {
+      "number": "469-5",
+      "word": "imprison",
+      "pos": "動詞",
+      "meaning": "〜を投獄する、監禁する、閉じ込める",
+      "nuance": "刑務所や牢に入れること、または物理的・比喩的に自由を奪うことを表します。法的な投獄だけでなく、状況や感情に「閉じ込められている」という比喩的な意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（投獄する）",
+          "examples": [
+            {
+              "en": "He was imprisoned for ten years for the crime.",
+              "ja": "彼はその犯罪で10年間投獄された。",
+              "highlight": "imprisoned"
+            },
+            {
+              "en": "The dictator imprisoned his political opponents.",
+              "ja": "その独裁者は政敵を投獄した。",
+              "highlight": "imprisoned"
+            }
+          ]
+        },
+        {
+          "title": "例文（比喩的）",
+          "examples": [
+            {
+              "en": "She felt imprisoned by her circumstances.",
+              "ja": "彼女は自分の境遇に閉じ込められていると感じた。",
+              "highlight": "imprisoned"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (中に) + prison (刑務所) <br>→ 刑務所に入れる",
+      "synonyms": [
+        {"word": "jail", "trans": "投獄する"},
+        {"word": "incarcerate", "trans": "投獄する"},
+        {"word": "confine", "trans": "監禁する"},
+        {"word": "detain", "trans": "拘束する"}
+      ],
+      "antonyms": [
+        {"word": "free", "trans": "解放する"},
+        {"word": "release", "trans": "釈放する"},
+        {"word": "liberate", "trans": "自由にする"}
+      ],
+      "related": [
+        {
+          "word": "impolite",
+          "trans": "形容詞：無礼な",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imprisonment", "trans": "名詞：投獄"},
+        {"word": "prison", "trans": "名詞：刑務所"}
+      ]
+    },
+    {
+      "number": "469-6",
+      "word": "imperative",
+      "pos": "形容詞/名詞",
+      "meaning": "必須の、緊急の、命令的な / 必要不可欠なこと、命令法",
+      "nuance": "絶対に必要で避けられないことを表します。単なる「重要」を超えて、「やらなければならない」という強い義務や緊急性を含みます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "It is imperative that we act now.",
+              "ja": "私たちが今行動することが必須だ。",
+              "highlight": "imperative"
+            },
+            {
+              "en": "Quick action is imperative in this situation.",
+              "ja": "この状況では迅速な行動が不可欠だ。",
+              "highlight": "imperative"
+            },
+            {
+              "en": "Customer satisfaction is imperative for business success.",
+              "ja": "顧客満足はビジネスの成功に不可欠だ。",
+              "highlight": "imperative"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 imperativus (命令的な) <br>→ imperare (命令する) から",
+      "synonyms": [
+        {"word": "essential", "trans": "不可欠な"},
+        {"word": "crucial", "trans": "極めて重要な"},
+        {"word": "vital", "trans": "必須の"},
+        {"word": "necessary", "trans": "必要な"}
+      ],
+      "antonyms": [
+        {"word": "optional", "trans": "任意の"},
+        {"word": "unnecessary", "trans": "不必要な"},
+        {"word": "unimportant", "trans": "重要でない"}
+      ],
+      "related": [
+        {
+          "word": "imprison",
+          "trans": "動詞：投獄する",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imperatively", "trans": "副詞：命令的に"}
+      ]
+    },
+    {
+      "number": "469-7",
+      "word": "implication",
+      "pos": "名詞",
+      "meaning": "含意、暗示、影響、関与",
+      "nuance": "明示的に述べられていないが推測される意味や、ある行動がもたらす結果を表します。「implication for ~（〜への影響）」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（含意・暗示）",
+          "examples": [
+            {
+              "en": "The implication of his words was clear.",
+              "ja": "彼の言葉の含意は明らかだった。",
+              "highlight": "implication"
+            },
+            {
+              "en": "What are the implications of this decision?",
+              "ja": "この決定の影響は何だろうか？",
+              "highlight": "implications"
+            }
+          ]
+        },
+        {
+          "title": "例文（関与）",
+          "examples": [
+            {
+              "en": "His implication in the scandal ruined his career.",
+              "ja": "そのスキャンダルへの彼の関与は彼のキャリアを台無しにした。",
+              "highlight": "implication"
+            }
+          ]
+        }
+      ],
+      "etymology": "imply (暗示する) + ation (名詞語尾) <br>→ 暗示すること",
+      "synonyms": [
+        {"word": "consequence", "trans": "結果"},
+        {"word": "inference", "trans": "推論"},
+        {"word": "suggestion", "trans": "示唆"},
+        {"word": "ramification", "trans": "影響"}
+      ],
+      "antonyms": [
+        {"word": "statement", "trans": "明言"},
+        {"word": "declaration", "trans": "宣言"}
+      ],
+      "related": [
+        {
+          "word": "imperative",
+          "trans": "形容詞：必須の",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imply", "trans": "動詞：暗示する"},
+        {"word": "implicit", "trans": "形容詞：暗黙の"}
+      ]
+    },
+    {
+      "number": "469-8",
+      "word": "impose",
+      "pos": "動詞",
+      "meaning": "〜を課す、押し付ける、制定する",
+      "nuance": "権威や力を使って義務や制限を強制すること、または人に負担をかけることを表します。「impose on ~（〜に迷惑をかける）」という表現もよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（課す・制定する）",
+          "examples": [
+            {
+              "en": "The government imposed new taxes on imports.",
+              "ja": "政府は輸入品に新しい税を課した。",
+              "highlight": "imposed"
+            },
+            {
+              "en": "The court imposed a heavy fine on the company.",
+              "ja": "裁判所はその会社に重い罰金を科した。",
+              "highlight": "imposed"
+            }
+          ]
+        },
+        {
+          "title": "例文（押し付ける・迷惑をかける）",
+          "examples": [
+            {
+              "en": "I don't want to impose on your hospitality.",
+              "ja": "あなたのご厚意に甘えたくありません。",
+              "highlight": "impose"
+            },
+            {
+              "en": "He imposed his views on others.",
+              "ja": "彼は自分の意見を他人に押し付けた。",
+              "highlight": "imposed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 imponere (置く、課す) <br>→ in (上に) + ponere (置く)",
+      "synonyms": [
+        {"word": "levy", "trans": "課す"},
+        {"word": "enforce", "trans": "強制する"},
+        {"word": "inflict", "trans": "負わせる"},
+        {"word": "force", "trans": "強いる"}
+      ],
+      "antonyms": [
+        {"word": "remove", "trans": "取り除く"},
+        {"word": "lift", "trans": "解除する"},
+        {"word": "relieve", "trans": "解放する"}
+      ],
+      "related": [
+        {
+          "word": "implication",
+          "trans": "名詞：含意",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imposition", "trans": "名詞：課すこと・押し付け"},
+        {"word": "imposing", "trans": "形容詞：堂々とした"}
+      ]
+    },
+    {
+      "number": 470,
+      "word": "likeness",
+      "pos": "名詞",
+      "meaning": "類似、似ていること、肖像",
+      "nuance": "外見や性質が似ていることを表します。特に肖像画や写真が本人に「似ている」という意味でよく使われ、やや格式ばった表現です。",
+      "example_sections": [
+        {
+          "title": "例文（類似）",
+          "examples": [
+            {
+              "en": "There is a strong likeness between the two sisters.",
+              "ja": "二人の姉妹には強い類似性がある。",
+              "highlight": "likeness"
+            },
+            {
+              "en": "The child bears a striking likeness to her mother.",
+              "ja": "その子供は母親に驚くほど似ている。",
+              "highlight": "likeness"
+            }
+          ]
+        },
+        {
+          "title": "例文（肖像）",
+          "examples": [
+            {
+              "en": "The artist captured a perfect likeness of the subject.",
+              "ja": "芸術家は被写体の完璧な肖像を捉えた。",
+              "highlight": "likeness"
+            },
+            {
+              "en": "The statue is a good likeness of the historical figure.",
+              "ja": "その像は歴史上の人物によく似ている。",
+              "highlight": "likeness"
+            }
+          ]
+        }
+      ],
+      "etymology": "like (似た) + ness (名詞語尾) <br>→ 似ていること",
+      "synonyms": [
+        {"word": "resemblance", "trans": "類似"},
+        {"word": "similarity", "trans": "類似性"},
+        {"word": "portrait", "trans": "肖像"},
+        {"word": "image", "trans": "像"}
+      ],
+      "antonyms": [
+        {"word": "difference", "trans": "相違"},
+        {"word": "dissimilarity", "trans": "非類似性"},
+        {"word": "contrast", "trans": "対照"}
+      ],
+      "related": [
+        {"word": "like", "trans": "形容詞：似た"},
+        {"word": "alike", "trans": "形容詞：似ている"},
+        {"word": "likely", "trans": "形容詞：ありそうな"}
+      ]
+    }
 
     
   ]
