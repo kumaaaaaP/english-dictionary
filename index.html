@@ -29,6 +29,10 @@
         
         .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
         .sub-word .word-id { color: #6a994e; }
+        
+        /* Lazy Loading用 */
+        .word-item.hidden { display: none; }
+        .loading-indicator { text-align: center; padding: 20px; color: var(--chapter-color); }
     </style>
 </head>
 <body>
@@ -96,22 +100,95 @@
         <li class="word-item sub-word"><a href="data/456-6-prevailing.html"><span class="word-id">456-6</span><span class="word-name">prevailing</span></a></li>
         <li class="word-item sub-word"><a href="data/456-7-prevail.html"><span class="word-id">456-7</span><span class="word-name">prevail</span></a></li>
     </ul>
+    <div class="loading-indicator" id="loadingIndicator" style="display: none;">読み込み中...</div>
 </div>
 <script>
+    // Lazy Loading機能
+    const ITEMS_PER_PAGE = 50; // 一度に表示する単語数
+    let currentlyVisible = ITEMS_PER_PAGE;
+    const wordList = document.getElementById('wordList');
+    const allItems = Array.from(wordList.children).filter(item => 
+        item.classList.contains('word-item')
+    );
+    const loadingIndicator = document.getElementById('loadingIndicator');
+    
+    // 初期表示：最初の50件のみ表示
+    function initializeLazyLoad() {
+        allItems.forEach((item, index) => {
+            if (index >= ITEMS_PER_PAGE) {
+                item.classList.add('hidden');
+            }
+        });
+    }
+    
+    // スクロールで追加読み込み
+    function loadMoreItems() {
+        const visibleItems = allItems.filter(item => !item.classList.contains('hidden'));
+        
+        if (visibleItems.length >= allItems.length) {
+            loadingIndicator.style.display = 'none';
+            return;
+        }
+        
+        loadingIndicator.style.display = 'block';
+        
+        // 次の50件を表示
+        const itemsToShow = allItems.slice(currentlyVisible, currentlyVisible + ITEMS_PER_PAGE);
+        itemsToShow.forEach(item => item.classList.remove('hidden'));
+        
+        currentlyVisible += ITEMS_PER_PAGE;
+        loadingIndicator.style.display = 'none';
+    }
+    
+    // スクロールイベント
+    let isLoading = false;
+    window.addEventListener('scroll', () => {
+        if (isLoading) return;
+        
+        const scrollTop = window.scrollY;
+        const windowHeight = window.innerHeight;
+        const documentHeight = document.documentElement.scrollHeight;
+        
+        // 画面の80%までスクロールしたら次を読み込む
+        if (scrollTop + windowHeight >= documentHeight * 0.8) {
+            isLoading = true;
+            loadMoreItems();
+            setTimeout(() => isLoading = false, 100);
+        }
+    });
+    
+    // 検索機能（既存）
     function filterList() {
         const input = document.getElementById('searchInput');
         const filter = input.value.toLowerCase();
-        const items = document.getElementById("wordList").getElementsByTagName('li');
+        const items = wordList.getElementsByTagName('li');
         
-        for (let i = 0; i < items.length; i++) {
-            if (items[i].classList.contains('chapter-header')) {
-                items[i].style.display = filter === "" ? "" : "none";
-                continue;
+        if (filter === "") {
+            // 検索なしの場合：Lazy Loading復活
+            allItems.forEach((item, index) => {
+                if (index < currentlyVisible) {
+                    item.classList.remove('hidden');
+                } else {
+                    item.classList.add('hidden');
+                }
+            });
+        } else {
+            // 検索時：すべて表示してフィルタ
+            for (let i = 0; i < items.length; i++) {
+                if (items[i].classList.contains('chapter-header')) {
+                    items[i].style.display = 'none';
+                    continue;
+                }
+                
+                items[i].classList.remove('hidden');
+                const text = items[i].textContent || items[i].innerText;
+                items[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
             }
-            const text = items[i].textContent || items[i].innerText;
-            items[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
         }
     }
+    
+    // ページ読み込み時に初期化
+    initializeLazyLoad();
 </script>
 </body>
 </html>
