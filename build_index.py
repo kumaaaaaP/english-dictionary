@@ -16,23 +16,14 @@ CHAPTER_MAP = {
 }
 
 # ==========================================
-# 2. 補助関数（ソートロジックの改良）
+# 2. 補助関数
 # ==========================================
 def natural_sort_key(filename):
-    """
-    369.html, 369-2.html, 370.html を正しく並べるためのキー
-    順序: 369 -> 369-2 -> 369-3 -> 370
-    """
-    # 数字とそれ以外に分解
+    """自然順ソート用キー"""
     parts = re.split(r'(\d+)', filename)
-    
-    # 数値化できる部分は数値に、それ以外は小文字にする
     converted_parts = [int(p) if p.isdigit() else p.lower() for p in parts if p]
     
-    # 重要：枝番がない(369.html) を 枝番がある(369-2.html) より前に持ってくるための処理
-    # converted_parts[0] が 369、converted_parts[1] が "." か "-" になる
     if len(converted_parts) > 1:
-        # 2番目の要素がハイフンでなければ、枝番なしと判断してソート順を繰り上げる
         if converted_parts[1] == '.html':
             return [converted_parts[0], 0] + converted_parts[2:]
         else:
@@ -41,7 +32,7 @@ def natural_sort_key(filename):
     return converted_parts
 
 def get_base_number(filename):
-    """ファイル名(341-impotence.html)の先頭数字を取得"""
+    """ファイル名の先頭数字を取得"""
     match = re.match(r'^(\d+)', filename)
     return int(match.group(1)) if match else 0
 
@@ -55,10 +46,9 @@ def generate_index():
 
     # 単語ファイルの取得とソート
     files = [f for f in os.listdir(word_dir) if f.endswith(".html")]
-    # 改良したソートキーを適用
     files.sort(key=natural_sort_key)
 
-    # --- HTMLヘッダーとCSS定義 ---
+    # --- HTMLヘッダー ---
     html_content = """<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -90,6 +80,10 @@ def generate_index():
         
         .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
         .sub-word .word-id { color: #6a994e; }
+        
+        /* Lazy Loading用 */
+        .word-item.hidden { display: none; }
+        .loading-indicator { text-align: center; padding: 20px; color: var(--chapter-color); }
     </style>
 </head>
 <body>
@@ -97,7 +91,7 @@ def generate_index():
     <h1>英単語辞書 データベース</h1>
 """
 
-    # --- 目次セクションの自動生成 ---
+    # --- 目次セクション ---
     html_content += '    <nav class="toc">\n        <div class="toc-title">Chapter Index</div>\n        <ul class="toc-links">\n'
     for s_num in sorted(CHAPTER_MAP.keys()):
         html_content += f'            <li><a href="#chapter-{s_num}">{CHAPTER_MAP[s_num]}</a></li>\n'
@@ -122,16 +116,12 @@ def generate_index():
                 break
 
         word_id_full = filename.replace(".html", "")
-        # 表示名のクリーンアップ
         display_name = re.sub(r'^[0-9-]+', '', word_id_full).replace("-", " ").strip()
         
-        # 枝番チェック (ハイフンが含まれ、かつその次が数字の場合)
         parts = word_id_full.split("-")
         is_sub = len(parts) > 1 and parts[1].isdigit()
         
         item_class = "word-item sub-word" if is_sub else "word-item"
-
-        # ID表示用の整形
         display_id = parts[0] + ("-" + parts[1] if is_sub else "")
 
         html_content += f'        <li class="{item_class}"><a href="data/{filename}">'
@@ -139,29 +129,102 @@ def generate_index():
         html_content += f'<span class="word-name">{display_name}</span></a></li>\n'
 
     html_content += """    </ul>
+    <div class="loading-indicator" id="loadingIndicator" style="display: none;">読み込み中...</div>
 </div>
 <script>
+    // Lazy Loading機能
+    const ITEMS_PER_PAGE = 50; // 一度に表示する単語数
+    let currentlyVisible = ITEMS_PER_PAGE;
+    const wordList = document.getElementById('wordList');
+    const allItems = Array.from(wordList.children).filter(item => 
+        item.classList.contains('word-item')
+    );
+    const loadingIndicator = document.getElementById('loadingIndicator');
+    
+    // 初期表示：最初の50件のみ表示
+    function initializeLazyLoad() {
+        allItems.forEach((item, index) => {
+            if (index >= ITEMS_PER_PAGE) {
+                item.classList.add('hidden');
+            }
+        });
+    }
+    
+    // スクロールで追加読み込み
+    function loadMoreItems() {
+        const visibleItems = allItems.filter(item => !item.classList.contains('hidden'));
+        
+        if (visibleItems.length >= allItems.length) {
+            loadingIndicator.style.display = 'none';
+            return;
+        }
+        
+        loadingIndicator.style.display = 'block';
+        
+        // 次の50件を表示
+        const itemsToShow = allItems.slice(currentlyVisible, currentlyVisible + ITEMS_PER_PAGE);
+        itemsToShow.forEach(item => item.classList.remove('hidden'));
+        
+        currentlyVisible += ITEMS_PER_PAGE;
+        loadingIndicator.style.display = 'none';
+    }
+    
+    // スクロールイベント
+    let isLoading = false;
+    window.addEventListener('scroll', () => {
+        if (isLoading) return;
+        
+        const scrollTop = window.scrollY;
+        const windowHeight = window.innerHeight;
+        const documentHeight = document.documentElement.scrollHeight;
+        
+        // 画面の80%までスクロールしたら次を読み込む
+        if (scrollTop + windowHeight >= documentHeight * 0.8) {
+            isLoading = true;
+            loadMoreItems();
+            setTimeout(() => isLoading = false, 100);
+        }
+    });
+    
+    // 検索機能（既存）
     function filterList() {
         const input = document.getElementById('searchInput');
         const filter = input.value.toLowerCase();
-        const items = document.getElementById("wordList").getElementsByTagName('li');
+        const items = wordList.getElementsByTagName('li');
         
-        for (let i = 0; i < items.length; i++) {
-            if (items[i].classList.contains('chapter-header')) {
-                items[i].style.display = filter === "" ? "" : "none";
-                continue;
+        if (filter === "") {
+            // 検索なしの場合：Lazy Loading復活
+            allItems.forEach((item, index) => {
+                if (index < currentlyVisible) {
+                    item.classList.remove('hidden');
+                } else {
+                    item.classList.add('hidden');
+                }
+            });
+        } else {
+            // 検索時：すべて表示してフィルタ
+            for (let i = 0; i < items.length; i++) {
+                if (items[i].classList.contains('chapter-header')) {
+                    items[i].style.display = 'none';
+                    continue;
+                }
+                
+                items[i].classList.remove('hidden');
+                const text = items[i].textContent || items[i].innerText;
+                items[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
             }
-            const text = items[i].textContent || items[i].innerText;
-            items[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
         }
     }
+    
+    // ページ読み込み時に初期化
+    initializeLazyLoad();
 </script>
 </body>
 </html>"""
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"Update Complete: index.html has been rebuilt with {len(files)} words.")
+    print(f"Update Complete: index.html has been rebuilt with {len(files)} words (Lazy Loading enabled).")
 
 if __name__ == "__main__":
     generate_index()
