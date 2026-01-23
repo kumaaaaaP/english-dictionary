@@ -2865,6 +2865,342 @@
         {"word": "nonsensical", "trans": "形容詞：無意味な"}
       ]
     },
+    {
+      "number": 466,
+      "word": "segregate",
+      "pos": "動詞",
+      "meaning": "〜を分離する、隔離する、人種差別する",
+      "nuance": "集団を分けて別々にすることを表します。特に人種や民族に基づいて人々を分離する文脈で使われ、歴史的には人種隔離政策を指すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Schools were once segregated by race in the United States.",
+              "ja": "アメリカでは学校がかつて人種によって分離されていた。",
+              "highlight": "segregated"
+            },
+            {
+              "en": "The policy sought to segregate different ethnic groups.",
+              "ja": "その政策は異なる民族集団を分離しようとした。",
+              "highlight": "segregate"
+            },
+            {
+              "en": "Prisoners are segregated according to the severity of their crimes.",
+              "ja": "囚人は犯罪の重さに応じて隔離される。",
+              "highlight": "segregated"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 segregare (群れから離す) <br>→ se (離れて) + grex (群れ)",
+      "synonyms": [
+        {"word": "separate", "trans": "分離する"},
+        {"word": "isolate", "trans": "隔離する"},
+        {"word": "divide", "trans": "分ける"},
+        {"word": "partition", "trans": "仕切る"}
+      ],
+      "antonyms": [
+        {"word": "integrate", "trans": "統合する"},
+        {"word": "unite", "trans": "統一する"},
+        {"word": "combine", "trans": "結合する"},
+        {"word": "desegregate", "trans": "人種統合する"}
+      ],
+      "related": [
+        {"word": "segregation", "trans": "名詞：分離・隔離"},
+        {"word": "segregated", "trans": "形容詞：分離された"}
+      ]
+    },
+    {
+      "number": "466-2",
+      "word": "segregation",
+      "pos": "名詞",
+      "meaning": "分離、隔離、人種隔離",
+      "nuance": "集団を分けて別々にする行為や状態を表します。特にアメリカの公民権運動の文脈で、人種による分離政策を指すことが多く、否定的なニュアンスを持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Racial segregation was officially ended in the 1960s.",
+              "ja": "人種隔離は1960年代に公式に終わった。",
+              "highlight": "segregation"
+            },
+            {
+              "en": "The civil rights movement fought against segregation.",
+              "ja": "公民権運動は人種隔離に対して戦った。",
+              "highlight": "segregation"
+            },
+            {
+              "en": "Gender segregation exists in some societies.",
+              "ja": "一部の社会では性別による隔離が存在する。",
+              "highlight": "segregation"
+            }
+          ]
+        }
+      ],
+      "etymology": "segregate (分離する) + ion (名詞語尾) <br>→ 分離すること",
+      "synonyms": [
+        {"word": "separation", "trans": "分離"},
+        {"word": "isolation", "trans": "隔離"},
+        {"word": "partition", "trans": "分割"},
+        {"word": "apartheid", "trans": "アパルトヘイト"}
+      ],
+      "antonyms": [
+        {"word": "integration", "trans": "統合"},
+        {"word": "unification", "trans": "統一"},
+        {"word": "desegregation", "trans": "人種統合"}
+      ],
+      "related": [
+        {
+          "word": "segregate",
+          "trans": "動詞：分離する",
+          "link": "466-segregate.html"
+        }
+      ]
+    },
+    {
+      "number": 467,
+      "word": "implicit",
+      "pos": "形容詞",
+      "meaning": "暗黙の、含蓄的な、絶対的な",
+      "nuance": "明示的に述べられていないが理解されている、または当然含まれていることを表します。explicit（明示的な）の対義語で、言葉にされない前提や信頼を表現します。",
+      "example_sections": [
+        {
+          "title": "例文（暗黙の）",
+          "examples": [
+            {
+              "en": "There was an implicit assumption that everyone would agree.",
+              "ja": "全員が同意するという暗黙の前提があった。",
+              "highlight": "implicit"
+            },
+            {
+              "en": "The message was implicit in her tone of voice.",
+              "ja": "そのメッセージは彼女の声のトーンに含まれていた。",
+              "highlight": "implicit"
+            }
+          ]
+        },
+        {
+          "title": "例文（絶対的な信頼）",
+          "examples": [
+            {
+              "en": "She has implicit trust in her partner.",
+              "ja": "彼女はパートナーに絶対的な信頼を置いている。",
+              "highlight": "implicit"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 implicitus (巻き込まれた) <br>→ implicare (折り込む) から",
+      "synonyms": [
+        {"word": "implied", "trans": "暗示された"},
+        {"word": "understood", "trans": "理解された"},
+        {"word": "tacit", "trans": "暗黙の"},
+        {"word": "unspoken", "trans": "言葉にされない"}
+      ],
+      "antonyms": [
+        {"word": "explicit", "trans": "明示的な"},
+        {"word": "stated", "trans": "述べられた"},
+        {"word": "expressed", "trans": "表現された"}
+      ],
+      "related": [
+        {"word": "implicitly", "trans": "副詞：暗黙的に"},
+        {"word": "imply", "trans": "動詞：暗示する"}
+      ]
+    },
+    {
+      "number": 468,
+      "word": "impulsive",
+      "pos": "形容詞",
+      "meaning": "衝動的な、軽率な、思いつきの",
+      "nuance": "よく考えずに突然行動する傾向を表します。spontaneous（自発的な）よりも計画性がなく、しばしば後悔を伴うような軽率さのニュアンスがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He made an impulsive decision to quit his job.",
+              "ja": "彼は衝動的に仕事を辞める決断をした。",
+              "highlight": "impulsive"
+            },
+            {
+              "en": "Impulsive buying can lead to financial problems.",
+              "ja": "衝動買いは経済的問題につながる可能性がある。",
+              "highlight": "Impulsive"
+            },
+            {
+              "en": "She tends to be impulsive and acts without thinking.",
+              "ja": "彼女は衝動的になりがちで、考えずに行動する。",
+              "highlight": "impulsive"
+            }
+          ]
+        }
+      ],
+      "etymology": "impulse (衝動) + ive (形容詞語尾) <br>→ 衝動的な",
+      "synonyms": [
+        {"word": "rash", "trans": "軽率な"},
+        {"word": "hasty", "trans": "性急な"},
+        {"word": "spontaneous", "trans": "自発的な"},
+        {"word": "reckless", "trans": "無謀な"}
+      ],
+      "antonyms": [
+        {"word": "cautious", "trans": "慎重な"},
+        {"word": "deliberate", "trans": "慎重な"},
+        {"word": "thoughtful", "trans": "思慮深い"},
+        {"word": "calculated", "trans": "計算された"}
+      ],
+      "related": [
+        {"word": "impulse", "trans": "名詞：衝動"},
+        {"word": "impulsively", "trans": "副詞：衝動的に"}
+      ]
+    },
+    {
+      "number": "468-2",
+      "word": "impulse",
+      "pos": "名詞",
+      "meaning": "衝動、刺激、推進力",
+      "nuance": "突然の強い欲求や行動への駆り立て、または物理的な推進力を表します。「on impulse（衝動的に）」という表現でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（衝動）",
+          "examples": [
+            {
+              "en": "I bought the dress on impulse.",
+              "ja": "私は衝動的にそのドレスを買った。",
+              "highlight": "impulse"
+            },
+            {
+              "en": "He resisted the impulse to check his phone.",
+              "ja": "彼は携帯電話をチェックしたい衝動を抑えた。",
+              "highlight": "impulse"
+            },
+            {
+              "en": "She felt a sudden impulse to laugh.",
+              "ja": "彼女は突然笑いたい衝動を感じた。",
+              "highlight": "impulse"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 impulsus (押すこと) <br>→ impellere (押す) から",
+      "synonyms": [
+        {"word": "urge", "trans": "衝動"},
+        {"word": "desire", "trans": "欲求"},
+        {"word": "whim", "trans": "気まぐれ"},
+        {"word": "instinct", "trans": "本能"}
+      ],
+      "antonyms": [
+        {"word": "restraint", "trans": "抑制"},
+        {"word": "deliberation", "trans": "熟考"}
+      ],
+      "related": [
+        {
+          "word": "impulsive",
+          "trans": "形容詞：衝動的な",
+          "link": "468-impulsive.html"
+        },
+        {
+          "word": "impel", "trans": "動詞：駆り立てる"}
+      ]
+    },
+    {
+      "number": 469,
+      "word": "impair",
+      "pos": "動詞",
+      "meaning": "〜を損なう、弱める、悪化させる",
+      "nuance": "能力や機能を低下させ、正常に働かなくすることを表します。特に健康や視力、判断力などの低下について使われることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Lack of sleep can impair your judgment.",
+              "ja": "睡眠不足はあなたの判断力を損なう可能性がある。",
+              "highlight": "impair"
+            },
+            {
+              "en": "The disease impaired his vision.",
+              "ja": "その病気は彼の視力を低下させた。",
+              "highlight": "impaired"
+            },
+            {
+              "en": "Alcohol impairs driving ability.",
+              "ja": "アルコールは運転能力を損なう。",
+              "highlight": "impairs"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 empeirier (悪化させる) <br>→ ラテン語 pejorare (より悪くする)",
+      "synonyms": [
+        {"word": "damage", "trans": "損傷する"},
+        {"word": "weaken", "trans": "弱める"},
+        {"word": "diminish", "trans": "減少させる"},
+        {"word": "undermine", "trans": "損なう"}
+      ],
+      "antonyms": [
+        {"word": "improve", "trans": "改善する"},
+        {"word": "enhance", "trans": "高める"},
+        {"word": "strengthen", "trans": "強化する"}
+      ],
+      "related": [
+        {"word": "impairment", "trans": "名詞：障害・損傷"},
+        {"word": "impaired", "trans": "形容詞：損なわれた"}
+      ]
+    },
+    {
+      "number": "469-2",
+      "word": "immoral",
+      "pos": "形容詞",
+      "meaning": "不道徳な、非道徳的な、みだらな",
+      "nuance": "道徳的な基準に反する行動や考えを表します。amoralが「道徳観念がない」という中立的な意味であるのに対し、immoralは明確に「道徳に反する」という否定的な意味を持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Many people consider cheating to be immoral.",
+              "ja": "多くの人がカンニングを不道徳だと考えている。",
+              "highlight": "immoral"
+            },
+            {
+              "en": "The company was criticized for its immoral business practices.",
+              "ja": "その会社は非道徳的なビジネス慣行で批判された。",
+              "highlight": "immoral"
+            },
+            {
+              "en": "It would be immoral to ignore their suffering.",
+              "ja": "彼らの苦しみを無視するのは不道徳だろう。",
+              "highlight": "immoral"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + moral (道徳的な) <br>→ 道徳的でない",
+      "synonyms": [
+        {"word": "unethical", "trans": "非倫理的な"},
+        {"word": "wrong", "trans": "間違った"},
+        {"word": "wicked", "trans": "邪悪な"},
+        {"word": "corrupt", "trans": "腐敗した"}
+      ],
+      "antonyms": [
+        {"word": "moral", "trans": "道徳的な"},
+        {"word": "ethical", "trans": "倫理的な"},
+        {"word": "virtuous", "trans": "高潔な"},
+        {"word": "righteous", "trans": "正義の"}
+      ],
+      "related": [
+        {
+          "word": "impair",
+          "trans": "動詞：損なう",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "immorality", "trans": "名詞：不道徳"},
+        {"word": "immorally", "trans": "副詞：不道徳に"}
+      ]
+    },
 
     
   ]
