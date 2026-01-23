@@ -4528,6 +4528,469 @@
           "link": "479-futile.html"
         }
       ]
+    },
+    {
+      "number": 480,
+      "word": "vain",
+      "pos": "形容詞",
+      "meaning": "無駄な、むなしい、うぬぼれた",
+      "nuance": "成功の見込みがなく無益であること、または自分の外見や能力について過度に誇りを持っていることを表します。「in vain（無駄に）」という表現でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（無駄な）",
+          "examples": [
+            {
+              "en": "All their efforts were in vain.",
+              "ja": "彼らの努力はすべて無駄だった。",
+              "highlight": "vain"
+            },
+            {
+              "en": "She made a vain attempt to open the door.",
+              "ja": "彼女はドアを開けようとむなしく試みた。",
+              "highlight": "vain"
+            }
+          ]
+        },
+        {
+          "title": "例文（うぬぼれた）",
+          "examples": [
+            {
+              "en": "He is too vain about his appearance.",
+              "ja": "彼は自分の外見についてあまりにうぬぼれている。",
+              "highlight": "vain"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 vanus (空の、むなしい) <br>→ 実体のない",
+      "synonyms": [
+        {"word": "futile", "trans": "無益な"},
+        {"word": "useless", "trans": "無用な"},
+        {"word": "conceited", "trans": "うぬぼれた"},
+        {"word": "proud", "trans": "高慢な"}
+      ],
+      "antonyms": [
+        {"word": "successful", "trans": "成功した"},
+        {"word": "modest", "trans": "謙虚な"},
+        {"word": "humble", "trans": "謙遜な"}
+      ],
+      "related": [
+        {"word": "vanity", "trans": "名詞：虚栄心"},
+        {"word": "in vain", "trans": "成句：無駄に"}
+      ]
+    },
+    {
+      "number": 481,
+      "word": "advocate",
+      "pos": "動詞/名詞",
+      "meaning": "〜を主張する、支持する / 支持者、提唱者、弁護士",
+      "nuance": "ある考えや政策を公に支持し、推進することを表します。名詞では特定の主義や人々の権利を擁護する人を指します。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "She advocates for environmental protection.",
+              "ja": "彼女は環境保護を主張している。",
+              "highlight": "advocates"
+            },
+            {
+              "en": "Many experts advocate stricter regulations.",
+              "ja": "多くの専門家がより厳しい規制を提唱している。",
+              "highlight": "advocate"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "He is a strong advocate of human rights.",
+              "ja": "彼は人権の強力な支持者だ。",
+              "highlight": "advocate"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 advocatus (呼び寄せられた者) <br>→ ad (〜へ) + vocare (呼ぶ)",
+      "synonyms": [
+        {"word": "support", "trans": "支持する"},
+        {"word": "promote", "trans": "推進する"},
+        {"word": "champion", "trans": "擁護する"},
+        {"word": "supporter", "trans": "支持者（名詞）"}
+      ],
+      "antonyms": [
+        {"word": "oppose", "trans": "反対する"},
+        {"word": "opponent", "trans": "反対者"}
+      ],
+      "related": [
+        {"word": "advocacy", "trans": "名詞：擁護・支持"},
+        {"word": "advocator", "trans": "名詞：提唱者"}
+      ]
+    },
+    {
+      "number": "481-2",
+      "word": "advocator",
+      "pos": "名詞",
+      "meaning": "提唱者、支持者、擁護者",
+      "nuance": "advocateの名詞形の別形で、特定の主義や政策を積極的に推進する人を指します。advocateよりも使用頻度は低いですが、同じ意味を持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is a passionate advocator of education reform.",
+              "ja": "彼女は教育改革の熱心な提唱者だ。",
+              "highlight": "advocator"
+            },
+            {
+              "en": "The organization is a leading advocator for animal rights.",
+              "ja": "その組織は動物の権利の主要な擁護者だ。",
+              "highlight": "advocator"
+            }
+          ]
+        }
+      ],
+      "etymology": "advocate (擁護する) + or (人) <br>→ 擁護する人",
+      "synonyms": [
+        {"word": "advocate", "trans": "支持者"},
+        {"word": "proponent", "trans": "支持者"},
+        {"word": "champion", "trans": "擁護者"}
+      ],
+      "antonyms": [
+        {"word": "opponent", "trans": "反対者"},
+        {"word": "critic", "trans": "批判者"}
+      ],
+      "related": [
+        {
+          "word": "advocate",
+          "trans": "動詞/名詞：主張する/支持者",
+          "link": "481-advocate.html"
+        }
+      ]
+    },
+    {
+      "number": 482,
+      "word": "sponsor",
+      "pos": "名詞/動詞",
+      "meaning": "スポンサー、後援者 / 〜を後援する、支援する",
+      "nuance": "イベントや活動、個人に対して金銭的または物質的な支援を提供する人や組織を指します。企業の広告目的での支援から、個人的な保証まで幅広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The company is the main sponsor of the event.",
+              "ja": "その会社はイベントの主要スポンサーだ。",
+              "highlight": "sponsor"
+            },
+            {
+              "en": "We need to find sponsors for the charity run.",
+              "ja": "私たちはチャリティーランのスポンサーを見つける必要がある。",
+              "highlight": "sponsors"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The bank sponsors local sports teams.",
+              "ja": "その銀行は地元のスポーツチームを後援している。",
+              "highlight": "sponsors"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 sponsor (保証人) <br>→ spondere (約束する) から",
+      "synonyms": [
+        {"word": "backer", "trans": "後援者"},
+        {"word": "patron", "trans": "パトロン"},
+        {"word": "supporter", "trans": "支援者"},
+        {"word": "finance", "trans": "資金提供する（動詞）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "sponsorship", "trans": "名詞：後援"}
+      ]
+    },
+    {
+      "number": "482-2",
+      "word": "sponsorship",
+      "pos": "名詞",
+      "meaning": "後援、スポンサーシップ、支援",
+      "nuance": "個人や組織が提供する金銭的・物質的な支援や後援を指します。スポーツ、芸術、イベントなどの分野で、企業が宣伝目的で行う支援を表すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The festival depends on corporate sponsorship.",
+              "ja": "その祭りは企業の後援に依存している。",
+              "highlight": "sponsorship"
+            },
+            {
+              "en": "They secured sponsorship from several major brands.",
+              "ja": "彼らはいくつかの大手ブランドから後援を確保した。",
+              "highlight": "sponsorship"
+            },
+            {
+              "en": "Sponsorship deals can be very lucrative for athletes.",
+              "ja": "スポンサーシップ契約はアスリートにとって非常に利益になる可能性がある。",
+              "highlight": "Sponsorship"
+            }
+          ]
+        }
+      ],
+      "etymology": "sponsor (後援者) + ship (状態) <br>→ 後援すること",
+      "synonyms": [
+        {"word": "backing", "trans": "支援"},
+        {"word": "patronage", "trans": "後援"},
+        {"word": "support", "trans": "支援"},
+        {"word": "funding", "trans": "資金提供"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "sponsor",
+          "trans": "名詞/動詞：スポンサー/後援する",
+          "link": "482-sponsor.html"
+        }
+      ]
+    },
+    {
+      "number": 483,
+      "word": "uphold",
+      "pos": "動詞",
+      "meaning": "〜を支持する、維持する、守る",
+      "nuance": "法律、原則、決定などを守り続けること、または正しいと認めて支持することを表します。特に裁判所が判決を支持する文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The court upheld the lower court's decision.",
+              "ja": "裁判所は下級裁判所の決定を支持した。",
+              "highlight": "upheld"
+            },
+            {
+              "en": "We must uphold the principles of justice.",
+              "ja": "私たちは正義の原則を守らなければならない。",
+              "highlight": "uphold"
+            },
+            {
+              "en": "The government pledged to uphold human rights.",
+              "ja": "政府は人権を守ることを誓約した。",
+              "highlight": "uphold"
+            }
+          ]
+        }
+      ],
+      "etymology": "up (上に) + hold (保つ) <br>→ 上に保つ、支える",
+      "synonyms": [
+        {"word": "maintain", "trans": "維持する"},
+        {"word": "support", "trans": "支持する"},
+        {"word": "defend", "trans": "守る"},
+        {"word": "sustain", "trans": "支える"}
+      ],
+      "antonyms": [
+        {"word": "overturn", "trans": "覆す"},
+        {"word": "reject", "trans": "却下する"},
+        {"word": "abandon", "trans": "放棄する"}
+      ],
+      "related": [
+        {"word": "upholder", "trans": "名詞：支持者"}
+      ]
+    },
+    {
+      "number": 484,
+      "word": "instruction",
+      "pos": "名詞",
+      "meaning": "指示、指導、教育",
+      "nuance": "何かを行う方法についての詳細な情報や命令、または教育や訓練を表します。複数形のinstructionsは「取扱説明書」「使用法」を意味します。",
+      "example_sections": [
+        {
+          "title": "例文（指示）",
+          "examples": [
+            {
+              "en": "Please follow the instructions carefully.",
+              "ja": "指示に注意深く従ってください。",
+              "highlight": "instructions"
+            },
+            {
+              "en": "The teacher gave clear instructions for the assignment.",
+              "ja": "教師は課題について明確な指示を与えた。",
+              "highlight": "instructions"
+            }
+          ]
+        },
+        {
+          "title": "例文（教育）",
+          "examples": [
+            {
+              "en": "She provides instruction in piano.",
+              "ja": "彼女はピアノの指導を提供している。",
+              "highlight": "instruction"
+            }
+          ]
+        }
+      ],
+      "etymology": "instruct (教える) + ion (名詞語尾) <br>→ 教えること",
+      "synonyms": [
+        {"word": "direction", "trans": "指示"},
+        {"word": "guidance", "trans": "指導"},
+        {"word": "teaching", "trans": "教育"},
+        {"word": "order", "trans": "命令"}
+      ],
+      "antonyms": [
+        {"word": "confusion", "trans": "混乱"}
+      ],
+      "related": [
+        {"word": "instruct", "trans": "動詞：指示する・教える"},
+        {"word": "instructive", "trans": "形容詞：教育的な"}
+      ]
+    },
+    {
+      "number": "484-2",
+      "word": "instruct",
+      "pos": "動詞",
+      "meaning": "〜に指示する、〜を教える、命じる",
+      "nuance": "誰かに何かをするよう指示したり、知識や技能を教えることを表します。instructよりも命令的なニュアンスがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The manager instructed the staff to arrive early.",
+              "ja": "マネージャーはスタッフに早く到着するよう指示した。",
+              "highlight": "instructed"
+            },
+            {
+              "en": "She instructs students in mathematics.",
+              "ja": "彼女は生徒に数学を教えている。",
+              "highlight": "instructs"
+            },
+            {
+              "en": "I was instructed not to discuss the matter.",
+              "ja": "私はその件について話し合わないよう指示された。",
+              "highlight": "instructed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 instruere (組み立てる、教える) <br>→ in (中に) + struere (積む)",
+      "synonyms": [
+        {"word": "teach", "trans": "教える"},
+        {"word": "direct", "trans": "指示する"},
+        {"word": "order", "trans": "命じる"},
+        {"word": "train", "trans": "訓練する"}
+      ],
+      "antonyms": [
+        {"word": "learn", "trans": "学ぶ"},
+        {"word": "obey", "trans": "従う"}
+      ],
+      "related": [
+        {
+          "word": "instruction",
+          "trans": "名詞：指示・教育",
+          "link": "484-instruction.html"
+        },
+        {
+          "word": "instructor", "trans": "名詞：指導者"}
+      ]
+    },
+    {
+      "number": "484-3",
+      "word": "instructive",
+      "pos": "形容詞",
+      "meaning": "教育的な、有益な、参考になる",
+      "nuance": "多くの有用な情報や教訓を与えることを表します。informativeと似ていますが、より「教訓的」「学びがある」というニュアンスが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The documentary was very instructive.",
+              "ja": "そのドキュメンタリーは非常に教育的だった。",
+              "highlight": "instructive"
+            },
+            {
+              "en": "His failure was an instructive experience.",
+              "ja": "彼の失敗は有益な経験だった。",
+              "highlight": "instructive"
+            },
+            {
+              "en": "The book provides instructive examples.",
+              "ja": "その本は参考になる例を提供している。",
+              "highlight": "instructive"
+            }
+          ]
+        }
+      ],
+      "etymology": "instruct (教える) + ive (形容詞語尾) <br>→ 教える性質の",
+      "synonyms": [
+        {"word": "educational", "trans": "教育的な"},
+        {"word": "informative", "trans": "有益な"},
+        {"word": "enlightening", "trans": "啓発的な"},
+        {"word": "illuminating", "trans": "啓蒙的な"}
+      ],
+      "antonyms": [
+        {"word": "uninstructive", "trans": "参考にならない"},
+        {"word": "useless", "trans": "役に立たない"}
+      ],
+      "related": [
+        {
+          "word": "instruct",
+          "trans": "動詞：指示する・教える",
+          "link": "484-instruction.html"
+        }
+      ]
+    },
+    {
+      "number": 485,
+      "word": "tuition",
+      "pos": "名詞",
+      "meaning": "授業料、指導、教育",
+      "nuance": "学校や大学で教育を受けるために支払う費用、または個別指導を指します。アメリカ英語では主に「授業料」、イギリス英語では「個別指導」の意味でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（授業料）",
+          "examples": [
+            {
+              "en": "College tuition has increased significantly.",
+              "ja": "大学の授業料は大幅に増加した。",
+              "highlight": "tuition"
+            },
+            {
+              "en": "She received a scholarship to cover her tuition fees.",
+              "ja": "彼女は授業料をカバーするための奨学金を受け取った。",
+              "highlight": "tuition"
+            }
+          ]
+        },
+        {
+          "title": "例文（指導）",
+          "examples": [
+            {
+              "en": "He provides private tuition in English.",
+              "ja": "彼は英語の個人指導を提供している。",
+              "highlight": "tuition"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 tuitio (保護、指導) <br>→ tueri (見守る、守る) から",
+      "synonyms": [
+        {"word": "fees", "trans": "料金"},
+        {"word": "instruction", "trans": "指導"},
+        {"word": "teaching", "trans": "教育"},
+        {"word": "coaching", "trans": "指導"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "tutor", "trans": "名詞/動詞：家庭教師/個別指導する"},
+        {"word": "tutorial", "trans": "名詞：個別指導"}
+      ]
     }
 
     
