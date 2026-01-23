@@ -1195,6 +1195,385 @@
         {"word": "flawed", "trans": "形容詞：欠陥のある"},
         {"word": "flawless", "trans": "形容詞：完璧な"}
       ]
+    },
+    {
+      "number": 450,
+      "word": "inferiority",
+      "pos": "名詞",
+      "meaning": "劣等、下位、劣っていること",
+      "nuance": "他と比べて質や地位が劣っている状態を表します。心理学では「inferiority complex（劣等感）」という表現で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He struggled with feelings of inferiority throughout his childhood.",
+              "ja": "彼は子供時代を通じて劣等感に苦しんだ。",
+              "highlight": "inferiority"
+            },
+            {
+              "en": "The study revealed the inferiority of the old method.",
+              "ja": "その研究は古い方法の劣位性を明らかにした。",
+              "highlight": "inferiority"
+            },
+            {
+              "en": "She has an inferiority complex about her appearance.",
+              "ja": "彼女は自分の容姿に劣等感を持っている。",
+              "highlight": "inferiority"
+            }
+          ]
+        }
+      ],
+      "etymology": "inferior (劣った) + ity (名詞語尾) <br>→ 劣っていること",
+      "synonyms": [
+        {"word": "inadequacy", "trans": "不十分さ"},
+        {"word": "deficiency", "trans": "欠乏"},
+        {"word": "weakness", "trans": "弱さ"}
+      ],
+      "antonyms": [
+        {"word": "superiority", "trans": "優越"},
+        {"word": "excellence", "trans": "卓越"}
+      ],
+      "related": [
+        {"word": "inferior", "trans": "形容詞：劣った"},
+        {"word": "inferiority complex", "trans": "名詞句：劣等感"}
+      ]
+    },
+    {
+      "number": "450-2",
+      "word": "inferior",
+      "pos": "形容詞/名詞",
+      "meaning": "劣った、下位の、粗悪な / 目下の人",
+      "nuance": "質、地位、能力などが他より低いことを表します。比較の文脈で「inferior to ~（〜より劣る）」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "This product is inferior to the competition.",
+              "ja": "この製品は競合製品より劣っている。",
+              "highlight": "inferior"
+            },
+            {
+              "en": "The quality of the copy was inferior to the original.",
+              "ja": "コピーの品質はオリジナルより劣っていた。",
+              "highlight": "inferior"
+            },
+            {
+              "en": "She refused to accept inferior work from her team.",
+              "ja": "彼女はチームからの粗悪な仕事を受け入れることを拒否した。",
+              "highlight": "inferior"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 inferior (より低い) <br>→ inferus (下の) の比較級",
+      "synonyms": [
+        {"word": "substandard", "trans": "基準以下の"},
+        {"word": "poor", "trans": "劣った"},
+        {"word": "second-rate", "trans": "二流の"}
+      ],
+      "antonyms": [
+        {"word": "superior", "trans": "優れた"},
+        {"word": "excellent", "trans": "優秀な"},
+        {"word": "premium", "trans": "高級な"}
+      ],
+      "related": [
+        {
+          "word": "inferiority",
+          "trans": "名詞：劣等",
+          "link": "450-inferiority.html"
+        }
+      ]
+    },
+    {
+      "number": 451,
+      "word": "lesser",
+      "pos": "形容詞",
+      "meaning": "より小さい、より少ない、より劣った",
+      "nuance": "「less」の比較級形で、重要性や程度がより低いことを表します。「the lesser of two evils（二つの悪のうちより小さい方）」のような慣用表現でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "This is a problem of lesser importance.",
+              "ja": "これはそれほど重要でない問題だ。",
+              "highlight": "lesser"
+            },
+            {
+              "en": "He chose the lesser of two evils.",
+              "ja": "彼は二つの悪のうちましな方を選んだ。",
+              "highlight": "lesser"
+            },
+            {
+              "en": "Lesser-known artists often struggle to get recognition.",
+              "ja": "あまり知られていない芸術家は認知を得るのに苦労することが多い。",
+              "highlight": "Lesser-known"
+            }
+          ]
+        }
+      ],
+      "etymology": "less (より少ない) + er (比較級語尾) <br>→ より少ない",
+      "synonyms": [
+        {"word": "minor", "trans": "より小さい"},
+        {"word": "inferior", "trans": "劣った"},
+        {"word": "smaller", "trans": "より小さい"}
+      ],
+      "antonyms": [
+        {"word": "greater", "trans": "より大きい"},
+        {"word": "superior", "trans": "優れた"},
+        {"word": "major", "trans": "主要な"}
+      ],
+      "related": [
+        {"word": "less", "trans": "形容詞/副詞：より少ない"},
+        {"word": "least", "trans": "形容詞/副詞：最も少ない"}
+      ]
+    },
+    {
+      "number": 452,
+      "word": "superiority",
+      "pos": "名詞",
+      "meaning": "優越、優位、優秀さ",
+      "nuance": "他より優れている状態や、上位にあることを表します。「superiority complex（優越感）」という心理学用語でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The team demonstrated their superiority on the field.",
+              "ja": "チームはフィールドで彼らの優位性を示した。",
+              "highlight": "superiority"
+            },
+            {
+              "en": "She has a superiority complex and looks down on others.",
+              "ja": "彼女は優越感を持っており、他人を見下している。",
+              "highlight": "superiority"
+            },
+            {
+              "en": "The superiority of this technology is clear.",
+              "ja": "この技術の優秀さは明らかだ。",
+              "highlight": "superiority"
+            }
+          ]
+        }
+      ],
+      "etymology": "superior (優れた) + ity (名詞語尾) <br>→ 優れていること",
+      "synonyms": [
+        {"word": "dominance", "trans": "優勢"},
+        {"word": "excellence", "trans": "卓越"},
+        {"word": "supremacy", "trans": "至上"}
+      ],
+      "antonyms": [
+        {"word": "inferiority", "trans": "劣等"},
+        {"word": "weakness", "trans": "弱さ"}
+      ],
+      "related": [
+        {"word": "superior", "trans": "形容詞：優れた"},
+        {"word": "superiority complex", "trans": "名詞句：優越感"}
+      ]
+    },
+    {
+      "number": "452-2",
+      "word": "superior",
+      "pos": "形容詞/名詞",
+      "meaning": "優れた、上位の、高品質の / 上司、上官",
+      "nuance": "質、地位、能力などが他より高いことを表します。「superior to ~（〜より優れている）」という形で比較を表現します。名詞としては職場での上司を指します。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "This model is superior to all previous versions.",
+              "ja": "このモデルは以前のすべてのバージョンより優れている。",
+              "highlight": "superior"
+            },
+            {
+              "en": "The restaurant offers superior quality at reasonable prices.",
+              "ja": "そのレストランは手頃な価格で高品質を提供している。",
+              "highlight": "superior"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞：上司）",
+          "examples": [
+            {
+              "en": "You should report this matter to your superior.",
+              "ja": "この件は上司に報告すべきです。",
+              "highlight": "superior"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 superior (より高い) <br>→ superus (上の) の比較級",
+      "synonyms": [
+        {"word": "better", "trans": "より良い"},
+        {"word": "excellent", "trans": "優秀な"},
+        {"word": "premium", "trans": "高級な"},
+        {"word": "boss", "trans": "上司（名詞）"}
+      ],
+      "antonyms": [
+        {"word": "inferior", "trans": "劣った"},
+        {"word": "subordinate", "trans": "下位の"},
+        {"word": "poor", "trans": "劣った"}
+      ],
+      "related": [
+        {
+          "word": "superiority",
+          "trans": "名詞：優越",
+          "link": "452-superiority.html"
+        }
+      ]
+    },
+    {
+      "number": 453,
+      "word": "ethical",
+      "pos": "形容詞",
+      "meaning": "倫理的な、道徳的な、正しい",
+      "nuance": "道徳や倫理に適合した行動や判断を表します。ビジネスや医療の分野で「ethical behavior（倫理的行動）」「ethical issues（倫理的問題）」といった形で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company is committed to ethical business practices.",
+              "ja": "その会社は倫理的なビジネス慣行に取り組んでいる。",
+              "highlight": "ethical"
+            },
+            {
+              "en": "Is it ethical to use animals in scientific experiments?",
+              "ja": "科学実験で動物を使うことは倫理的だろうか？",
+              "highlight": "ethical"
+            },
+            {
+              "en": "Doctors must make ethical decisions every day.",
+              "ja": "医師は毎日倫理的な決定を下さなければならない。",
+              "highlight": "ethical"
+            }
+          ]
+        }
+      ],
+      "etymology": "ethic (倫理) + al (形容詞語尾) <br>→ 倫理に関する",
+      "synonyms": [
+        {"word": "moral", "trans": "道徳的な"},
+        {"word": "right", "trans": "正しい"},
+        {"word": "principled", "trans": "原則に基づいた"}
+      ],
+      "antonyms": [
+        {"word": "unethical", "trans": "非倫理的な"},
+        {"word": "immoral", "trans": "不道徳な"},
+        {"word": "wrong", "trans": "間違った"}
+      ],
+      "related": [
+        {"word": "ethic", "trans": "名詞：倫理"},
+        {"word": "ethics", "trans": "名詞：倫理学"},
+        {"word": "ethically", "trans": "副詞：倫理的に"}
+      ]
+    },
+    {
+      "number": "453-2",
+      "word": "ethic",
+      "pos": "名詞",
+      "meaning": "倫理、道徳観、行動規範",
+      "nuance": "個人や集団の行動の指針となる道徳的原則を指します。「work ethic（労働倫理）」のように特定の分野での価値観を表現する際によく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She has a strong work ethic and never misses a deadline.",
+              "ja": "彼女は強い労働倫理を持っており、締め切りに遅れることはない。",
+              "highlight": "ethic"
+            },
+            {
+              "en": "The Protestant ethic emphasizes hard work and discipline.",
+              "ja": "プロテスタント倫理は勤勉と規律を重視する。",
+              "highlight": "ethic"
+            },
+            {
+              "en": "His personal ethic guides all his decisions.",
+              "ja": "彼の個人的な倫理観がすべての決定を導いている。",
+              "highlight": "ethic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 ethikos (道徳の) <br>→ ethos (性格、習慣) から派生",
+      "synonyms": [
+        {"word": "morality", "trans": "道徳"},
+        {"word": "principle", "trans": "原則"},
+        {"word": "value", "trans": "価値観"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "ethical",
+          "trans": "形容詞：倫理的な",
+          "link": "453-ethical.html"
+        },
+        {
+          "word": "ethics",
+          "trans": "名詞：倫理学"
+        }
+      ]
+    },
+    {
+      "number": "453-3",
+      "word": "ethics",
+      "pos": "名詞",
+      "meaning": "倫理学、道徳、倫理規範",
+      "nuance": "道徳的原則の体系や、倫理学という学問分野を指します。単数扱いで「倫理学」、複数扱いで「倫理規範」の意味になります。",
+      "example_sections": [
+        {
+          "title": "例文（倫理学）",
+          "examples": [
+            {
+              "en": "She is studying medical ethics at university.",
+              "ja": "彼女は大学で医療倫理学を学んでいる。",
+              "highlight": "ethics"
+            },
+            {
+              "en": "Ethics is a branch of philosophy.",
+              "ja": "倫理学は哲学の一分野である。",
+              "highlight": "Ethics"
+            }
+          ]
+        },
+        {
+          "title": "例文（倫理規範）",
+          "examples": [
+            {
+              "en": "The company's ethics are clearly stated in the handbook.",
+              "ja": "会社の倫理規範はハンドブックに明確に記載されている。",
+              "highlight": "ethics"
+            },
+            {
+              "en": "Professional ethics require confidentiality.",
+              "ja": "職業倫理は守秘義務を求める。",
+              "highlight": "ethics"
+            }
+          ]
+        }
+      ],
+      "etymology": "ethic (倫理) の複数形 <br>→ ギリシャ語 ethikos から",
+      "synonyms": [
+        {"word": "morals", "trans": "道徳"},
+        {"word": "principles", "trans": "原則"},
+        {"word": "moral philosophy", "trans": "道徳哲学"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "ethical",
+          "trans": "形容詞：倫理的な",
+          "link": "453-ethical.html"
+        },
+        {
+          "word": "ethic",
+          "trans": "名詞：倫理"
+        }
+      ]
     }
 
     
