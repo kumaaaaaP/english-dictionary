@@ -1,0 +1,54 @@
+name: Generate Vocabulary HTML Files
+
+# いつ実行するか
+on:
+  push:
+    branches:
+      - main  # mainブランチにプッシュされたとき
+    paths:
+      - 'vocabulary_data.json'  # このファイルが変更されたときのみ実行
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # リポジトリへの書き込み権限
+    
+    steps:
+      # 1. リポジトリをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      # 2. Pythonをセットアップ
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # 3. HTMLファイルを生成
+      - name: Generate HTML files
+        run: python generate_vocab.py
+      
+      # 4. 変更があるかチェック
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      # 5. 生成されたファイルをコミット＆プッシュ
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.html
+          git commit -m "🤖 Auto-generate vocabulary HTML files"
+          git push
+      
+      # 6. 完了メッセージ
+      - name: Summary
+        run: |
+          echo "✅ HTML generation completed!"
+          echo "Generated files are in the 'data' directory."
