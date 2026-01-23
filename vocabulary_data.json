@@ -1775,6 +1775,358 @@
         {"word": "blind", "trans": "形容詞：盲目の"},
         {"word": "color-blind", "trans": "形容詞：色覚異常の"}
       ]
+    },
+    {
+      "number": 456,
+      "word": "dominant",
+      "pos": "形容詞",
+      "meaning": "支配的な、優勢な、主要な",
+      "nuance": "他より強い影響力を持ち、主導的な立場にあることを表します。生物学では「優性の」、音楽では「属音の」という専門的な意味もあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "English is the dominant language in international business.",
+              "ja": "英語は国際ビジネスにおいて支配的な言語である。",
+              "highlight": "dominant"
+            },
+            {
+              "en": "The company holds a dominant position in the market.",
+              "ja": "その会社は市場で優勢な地位を占めている。",
+              "highlight": "dominant"
+            },
+            {
+              "en": "He has a dominant personality that influences others.",
+              "ja": "彼は他者に影響を与える支配的な性格を持っている。",
+              "highlight": "dominant"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 dominans (支配する) <br>→ dominari (支配する) の現在分詞",
+      "synonyms": [
+        {"word": "predominant", "trans": "主要な"},
+        {"word": "prevailing", "trans": "優勢な"},
+        {"word": "ruling", "trans": "支配的な"},
+        {"word": "leading", "trans": "主導的な"}
+      ],
+      "antonyms": [
+        {"word": "subordinate", "trans": "従属的な"},
+        {"word": "minor", "trans": "小さな"},
+        {"word": "weak", "trans": "弱い"}
+      ],
+      "related": [
+        {"word": "dominance", "trans": "名詞：支配"},
+        {"word": "dominate", "trans": "動詞：支配する"},
+        {"word": "domination", "trans": "名詞：支配"}
+      ]
+    },
+    {
+      "number": "456-2",
+      "word": "dominance",
+      "pos": "名詞",
+      "meaning": "支配、優勢、優位",
+      "nuance": "他より強い力や影響力を持っている状態を表します。政治、ビジネス、自然界など幅広い文脈で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The team established their dominance early in the game.",
+              "ja": "チームは試合の早い段階で優位性を確立した。",
+              "highlight": "dominance"
+            },
+            {
+              "en": "The country's economic dominance has declined in recent years.",
+              "ja": "その国の経済的優位は近年低下している。",
+              "highlight": "dominance"
+            },
+            {
+              "en": "Male dominance in the workplace is gradually changing.",
+              "ja": "職場における男性支配は徐々に変化している。",
+              "highlight": "dominance"
+            }
+          ]
+        }
+      ],
+      "etymology": "dominant (支配的な) + ance (名詞語尾) <br>→ 支配すること",
+      "synonyms": [
+        {"word": "supremacy", "trans": "至上"},
+        {"word": "control", "trans": "支配"},
+        {"word": "superiority", "trans": "優越"},
+        {"word": "power", "trans": "権力"}
+      ],
+      "antonyms": [
+        {"word": "subordination", "trans": "従属"},
+        {"word": "weakness", "trans": "弱さ"},
+        {"word": "inferiority", "trans": "劣等"}
+      ],
+      "related": [
+        {
+          "word": "dominant",
+          "trans": "形容詞：支配的な",
+          "link": "456-dominant.html"
+        },
+        {
+          "word": "dominate",
+          "trans": "動詞：支配する"
+        }
+      ]
+    },
+    {
+      "number": "456-3",
+      "word": "dominate",
+      "pos": "動詞",
+      "meaning": "〜を支配する、優位に立つ、圧倒する",
+      "nuance": "力や影響力によって他を制御したり、圧倒的に優勢な立場にあることを表します。物理的にも比喩的にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "One company dominates the smartphone market.",
+              "ja": "一つの会社がスマートフォン市場を支配している。",
+              "highlight": "dominates"
+            },
+            {
+              "en": "The castle dominates the surrounding landscape.",
+              "ja": "その城は周囲の景観を圧倒している。",
+              "highlight": "dominates"
+            },
+            {
+              "en": "He tends to dominate conversations.",
+              "ja": "彼は会話を支配する傾向がある。",
+              "highlight": "dominate"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 dominari (支配する) <br>→ dominus (主人) から派生",
+      "synonyms": [
+        {"word": "control", "trans": "支配する"},
+        {"word": "rule", "trans": "統治する"},
+        {"word": "govern", "trans": "支配する"},
+        {"word": "overwhelm", "trans": "圧倒する"}
+      ],
+      "antonyms": [
+        {"word": "submit", "trans": "服従する"},
+        {"word": "yield", "trans": "譲る"}
+      ],
+      "related": [
+        {
+          "word": "dominant",
+          "trans": "形容詞：支配的な",
+          "link": "456-dominant.html"
+        },
+        {
+          "word": "domination",
+          "trans": "名詞：支配"
+        }
+      ]
+    },
+    {
+      "number": "456-4",
+      "word": "domination",
+      "pos": "名詞",
+      "meaning": "支配、制圧、統治",
+      "nuance": "完全な支配や制御を意味し、dominanceよりも強制的で抑圧的なニュアンスがあります。政治的・軍事的な文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The country fought against foreign domination.",
+              "ja": "その国は外国の支配に対して戦った。",
+              "highlight": "domination"
+            },
+            {
+              "en": "The empire's domination lasted for centuries.",
+              "ja": "その帝国の支配は何世紀も続いた。",
+              "highlight": "domination"
+            },
+            {
+              "en": "They resisted the domination of the ruling class.",
+              "ja": "彼らは支配階級の支配に抵抗した。",
+              "highlight": "domination"
+            }
+          ]
+        }
+      ],
+      "etymology": "dominate (支配する) + ion (名詞語尾) <br>→ 支配すること",
+      "synonyms": [
+        {"word": "control", "trans": "支配"},
+        {"word": "rule", "trans": "統治"},
+        {"word": "oppression", "trans": "抑圧"},
+        {"word": "subjugation", "trans": "征服"}
+      ],
+      "antonyms": [
+        {"word": "liberation", "trans": "解放"},
+        {"word": "freedom", "trans": "自由"},
+        {"word": "independence", "trans": "独立"}
+      ],
+      "related": [
+        {
+          "word": "dominate",
+          "trans": "動詞：支配する",
+          "link": "456-dominant.html"
+        },
+        {
+          "word": "dominant",
+          "trans": "形容詞：支配的な"
+        }
+      ]
+    },
+    {
+      "number": "456-5",
+      "word": "prevalent",
+      "pos": "形容詞",
+      "meaning": "普及している、流行している、広く見られる",
+      "nuance": "ある時期や場所で広く存在し、一般的であることを表します。病気、意見、習慣などが広まっている状態を表現する際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Obesity is becoming increasingly prevalent in developed countries.",
+              "ja": "肥満は先進国でますます広まっている。",
+              "highlight": "prevalent"
+            },
+            {
+              "en": "This belief was prevalent in the 19th century.",
+              "ja": "この信念は19世紀に広く見られた。",
+              "highlight": "prevalent"
+            },
+            {
+              "en": "Smartphone use is prevalent among all age groups.",
+              "ja": "スマートフォンの使用はすべての年齢層で普及している。",
+              "highlight": "prevalent"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 praevalens (優勢な) <br>→ praevalere (優勢である) から",
+      "synonyms": [
+        {"word": "widespread", "trans": "広まった"},
+        {"word": "common", "trans": "一般的な"},
+        {"word": "prevailing", "trans": "優勢な"},
+        {"word": "dominant", "trans": "支配的な"}
+      ],
+      "antonyms": [
+        {"word": "rare", "trans": "まれな"},
+        {"word": "uncommon", "trans": "珍しい"},
+        {"word": "scarce", "trans": "乏しい"}
+      ],
+      "related": [
+        {"word": "prevalence", "trans": "名詞：普及"},
+        {"word": "prevail", "trans": "動詞：優勢である"}
+      ]
+    },
+    {
+      "number": "456-6",
+      "word": "prevailing",
+      "pos": "形容詞",
+      "meaning": "優勢な、一般的な、支配的な",
+      "nuance": "ある時期に最も一般的で影響力がある状態を表します。「prevailing wind（卓越風）」のように特定の方向に吹く風を指す気象用語としても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The prevailing opinion is that the policy will succeed.",
+              "ja": "一般的な意見はその政策が成功するというものだ。",
+              "highlight": "prevailing"
+            },
+            {
+              "en": "Prevailing economic conditions favor growth.",
+              "ja": "優勢な経済状況は成長を有利にしている。",
+              "highlight": "Prevailing"
+            },
+            {
+              "en": "The prevailing winds come from the west.",
+              "ja": "卓越風は西から吹いてくる。",
+              "highlight": "prevailing"
+            }
+          ]
+        }
+      ],
+      "etymology": "prevail (優勢である) + ing (形容詞語尾) <br>→ 優勢である",
+      "synonyms": [
+        {"word": "dominant", "trans": "支配的な"},
+        {"word": "prevalent", "trans": "普及している"},
+        {"word": "current", "trans": "現在の"},
+        {"word": "widespread", "trans": "広まった"}
+      ],
+      "antonyms": [
+        {"word": "rare", "trans": "まれな"},
+        {"word": "uncommon", "trans": "珍しい"},
+        {"word": "minor", "trans": "小さな"}
+      ],
+      "related": [
+        {"word": "prevail", "trans": "動詞：優勢である"},
+        {"word": "prevalent", "trans": "形容詞：普及している"}
+      ]
+    },
+    {
+      "number": "456-7",
+      "word": "prevail",
+      "pos": "動詞",
+      "meaning": "勝つ、優勢である、普及している、説得する",
+      "nuance": "競争や困難に打ち勝つこと、または広く存在することを表します。「prevail over/against ~（〜に勝つ）」「prevail upon/on ~（〜を説得する）」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（勝つ・優勢である）",
+          "examples": [
+            {
+              "en": "Justice will prevail in the end.",
+              "ja": "正義は最終的に勝つだろう。",
+              "highlight": "prevail"
+            },
+            {
+              "en": "Common sense prevailed over emotion.",
+              "ja": "常識が感情に勝った。",
+              "highlight": "prevailed"
+            }
+          ]
+        },
+        {
+          "title": "例文（普及している）",
+          "examples": [
+            {
+              "en": "Calm prevails after the storm.",
+              "ja": "嵐の後に静けさが広がっている。",
+              "highlight": "prevails"
+            }
+          ]
+        },
+        {
+          "title": "例文（説得する）",
+          "examples": [
+            {
+              "en": "She prevailed upon him to change his mind.",
+              "ja": "彼女は彼を説得して考えを変えさせた。",
+              "highlight": "prevailed upon"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 praevalere (優勢である) <br>→ prae (前に) + valere (強い)",
+      "synonyms": [
+        {"word": "triumph", "trans": "勝利する"},
+        {"word": "win", "trans": "勝つ"},
+        {"word": "dominate", "trans": "支配する"},
+        {"word": "persuade", "trans": "説得する"}
+      ],
+      "antonyms": [
+        {"word": "lose", "trans": "負ける"},
+        {"word": "fail", "trans": "失敗する"},
+        {"word": "surrender", "trans": "降伏する"}
+      ],
+      "related": [
+        {"word": "prevailing", "trans": "形容詞：優勢な"},
+        {"word": "prevalent", "trans": "形容詞：普及している"},
+        {"word": "prevalence", "trans": "名詞：普及"}
+      ]
     }
 
     
