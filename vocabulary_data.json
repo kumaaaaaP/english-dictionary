@@ -231,6 +231,159 @@
         {"word": "forest", "trans": "名詞：森"},
         {"word": "deforest", "trans": "動詞：森林を伐採する"}
       ]
+    },
+
+
+    {
+      "number": 441,
+      "word": "color-blind",
+      "pos": "形容詞",
+      "meaning": "色覚異常の、色盲の、人種差別をしない",
+      "nuance": "文字通りには色の区別がつかない状態を指しますが、比喩的には「人種や肌の色による差別をしない」という肯定的な意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（医学的な意味）",
+          "examples": [
+            {
+              "en": "He is color-blind and cannot distinguish red from green.",
+              "ja": "彼は色覚異常で赤と緑の区別がつかない。",
+              "highlight": "color-blind"
+            }
+          ]
+        },
+        {
+          "title": "例文（比喩的な意味）",
+          "examples": [
+            {
+              "en": "We should strive to be color-blind in our hiring practices.",
+              "ja": "採用活動では人種差別をしないよう努めるべきだ。",
+              "highlight": "color-blind"
+            },
+            {
+              "en": "A truly color-blind society treats everyone equally.",
+              "ja": "真に人種差別のない社会はすべての人を平等に扱う。",
+              "highlight": "color-blind"
+            }
+          ]
+        }
+      ],
+      "etymology": "color (色) + blind (見えない) <br>→ 色が見えない",
+      "synonyms": [
+        {"word": "colorblind", "trans": "色覚異常の（ハイフンなし）"},
+        {"word": "race-neutral", "trans": "人種中立的な"}
+      ],
+      "antonyms": [
+        {"word": "race-conscious", "trans": "人種を意識した"},
+        {"word": "discriminatory", "trans": "差別的な"}
+      ],
+      "related": [
+        {"word": "blind", "trans": "形容詞：盲目の"},
+        {"word": "color blindness", "trans": "名詞：色覚異常"}
+      ]
+    },
+    {
+      "number": "441-2",
+      "word": "blind",
+      "pos": "形容詞/動詞",
+      "meaning": "盲目の、見えない / 〜の目を見えなくする",
+      "nuance": "視覚的に見えない状態だけでなく、「blind to ~（〜に気づかない）」のように比喩的にも使われます。動詞では一時的または永久的に視力を奪うことを表します。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "He has been blind since birth.",
+              "ja": "彼は生まれつき目が見えない。",
+              "highlight": "blind"
+            },
+            {
+              "en": "She was blind to his faults.",
+              "ja": "彼女は彼の欠点に気づいていなかった。",
+              "highlight": "blind"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The bright light temporarily blinded me.",
+              "ja": "強い光で一時的に目が見えなくなった。",
+              "highlight": "blinded"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 blind (見えない) <br>→ ゲルマン祖語由来",
+      "synonyms": [
+        {"word": "sightless", "trans": "視力のない"},
+        {"word": "unseeing", "trans": "見えない"},
+        {"word": "oblivious", "trans": "気づかない（比喩）"}
+      ],
+      "antonyms": [
+        {"word": "sighted", "trans": "目の見える"},
+        {"word": "aware", "trans": "気づいている"}
+      ],
+      "related": [
+        {
+          "word": "color-blind",
+          "trans": "形容詞：色覚異常の",
+          "link": "441-color-blind.html"
+        },
+        {
+          "word": "blindness",
+          "trans": "名詞：盲目"
+        }
+      ]
+    },
+    {
+      "number": 442,
+      "word": "dazzle",
+      "pos": "動詞/名詞",
+      "meaning": "〜の目をくらませる、まばゆくする、魅了する",
+      "nuance": "強い光で目がくらむことから、転じて「圧倒的な美しさや才能で人を魅了する」という意味でも使われます。ポジティブな驚きや感動を伴います。",
+      "example_sections": [
+        {
+          "title": "例文（動詞：光で目をくらませる）",
+          "examples": [
+            {
+              "en": "The sunlight reflecting off the snow dazzled my eyes.",
+              "ja": "雪に反射する日光が私の目をくらませた。",
+              "highlight": "dazzled"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞：魅了する）",
+          "examples": [
+            {
+              "en": "She dazzled the audience with her performance.",
+              "ja": "彼女はその演技で観客を魅了した。",
+              "highlight": "dazzled"
+            },
+            {
+              "en": "The city's skyline dazzles visitors at night.",
+              "ja": "その街のスカイラインは夜に訪問者を魅了する。",
+              "highlight": "dazzles"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語 daselen (目をくらます) <br>→ スカンジナビア語源",
+      "synonyms": [
+        {"word": "blind", "trans": "目をくらませる"},
+        {"word": "bedazzle", "trans": "魅了する"},
+        {"word": "impress", "trans": "感銘を与える"},
+        {"word": "amaze", "trans": "驚かせる"}
+      ],
+      "antonyms": [
+        {"word": "bore", "trans": "退屈させる"},
+        {"word": "disappoint", "trans": "失望させる"}
+      ],
+      "related": [
+        {"word": "dazzling", "trans": "形容詞：まばゆい、素晴らしい"},
+        {"word": "dazzlement", "trans": "名詞：眩惑"}
+      ]
     }
 
     
