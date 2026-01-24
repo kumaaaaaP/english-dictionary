@@ -5352,6 +5352,493 @@
         {"word": "unequal", "trans": "形容詞：不平等な"},
         {"word": "inequitable", "trans": "形容詞：不公平な"}
       ]
+    },
+    {
+      "number": 491,
+      "word": "affirm",
+      "pos": "動詞",
+      "meaning": "〜を断言する、肯定する、確認する",
+      "nuance": "何かが真実であることを自信を持って述べること、または公式に確認することを表します。法廷での宣誓の代わりに使われることもあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The president affirmed his commitment to the policy.",
+              "ja": "大統領はその政策への関与を断言した。",
+              "highlight": "affirmed"
+            },
+            {
+              "en": "The witness chose to affirm rather than swear an oath.",
+              "ja": "証人は宣誓する代わりに確約することを選んだ。",
+              "highlight": "affirm"
+            },
+            {
+              "en": "The court affirmed the lower court's decision.",
+              "ja": "裁判所は下級裁判所の決定を支持した。",
+              "highlight": "affirmed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 affirmare (強固にする) <br>→ ad (〜へ) + firmare (強くする)",
+      "synonyms": [
+        {"word": "assert", "trans": "主張する"},
+        {"word": "declare", "trans": "宣言する"},
+        {"word": "confirm", "trans": "確認する"},
+        {"word": "state", "trans": "述べる"}
+      ],
+      "antonyms": [
+        {"word": "deny", "trans": "否定する"},
+        {"word": "reject", "trans": "拒否する"},
+        {"word": "contradict", "trans": "否定する"}
+      ],
+      "related": [
+        {"word": "affirmation", "trans": "名詞：断言・肯定"},
+        {"word": "affirmative", "trans": "形容詞：肯定的な"}
+      ]
+    },
+    {
+      "number": "491-2",
+      "word": "affirmative",
+      "pos": "形容詞/名詞",
+      "meaning": "肯定的な、賛成の / 肯定",
+      "nuance": "同意や承認を示すこと、またはポジティブな回答を表します。「affirmative action（積極的差別是正措置）」という用語でもよく知られています。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "She gave an affirmative answer to the question.",
+              "ja": "彼女はその質問に肯定的な答えをした。",
+              "highlight": "affirmative"
+            },
+            {
+              "en": "The company has an affirmative action policy.",
+              "ja": "その会社は積極的差別是正措置の方針を持っている。",
+              "highlight": "affirmative"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Please answer in the affirmative or negative.",
+              "ja": "肯定または否定で答えてください。",
+              "highlight": "affirmative"
+            }
+          ]
+        }
+      ],
+      "etymology": "affirm (断言する) + ative (形容詞語尾) <br>→ 断言する性質の",
+      "synonyms": [
+        {"word": "positive", "trans": "肯定的な"},
+        {"word": "agreeing", "trans": "同意する"},
+        {"word": "consenting", "trans": "承諾する"}
+      ],
+      "antonyms": [
+        {"word": "negative", "trans": "否定的な"},
+        {"word": "dissenting", "trans": "反対の"}
+      ],
+      "related": [
+        {
+          "word": "affirm",
+          "trans": "動詞：断言する",
+          "link": "491-affirm.html"
+        },
+        {
+          "word": "affirmatively", "trans": "副詞：肯定的に"}
+      ]
+    },
+    {
+      "number": "491-3",
+      "word": "affirmation",
+      "pos": "名詞",
+      "meaning": "断言、肯定、確認",
+      "nuance": "何かが真実であることを述べる行為、または宗教的理由で宣誓の代わりに行う厳粛な宣言を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His speech was an affirmation of his beliefs.",
+              "ja": "彼のスピーチは彼の信念の断言だった。",
+              "highlight": "affirmation"
+            },
+            {
+              "en": "The contract requires written affirmation.",
+              "ja": "契約には書面による確認が必要だ。",
+              "highlight": "affirmation"
+            },
+            {
+              "en": "She made an affirmation instead of taking an oath.",
+              "ja": "彼女は宣誓する代わりに確約を行った。",
+              "highlight": "affirmation"
+            }
+          ]
+        }
+      ],
+      "etymology": "affirm (断言する) + ation (名詞語尾) <br>→ 断言すること",
+      "synonyms": [
+        {"word": "assertion", "trans": "主張"},
+        {"word": "declaration", "trans": "宣言"},
+        {"word": "confirmation", "trans": "確認"},
+        {"word": "statement", "trans": "声明"}
+      ],
+      "antonyms": [
+        {"word": "denial", "trans": "否定"},
+        {"word": "negation", "trans": "否認"}
+      ],
+      "related": [
+        {
+          "word": "affirm",
+          "trans": "動詞：断言する",
+          "link": "491-affirm.html"
+        },
+        {
+          "word": "affirmative",
+          "trans": "形容詞：肯定的な"
+        }
+      ]
+    },
+    {
+      "number": "491-4",
+      "word": "allege",
+      "pos": "動詞",
+      "meaning": "〜を主張する、申し立てる(証拠なしに)",
+      "nuance": "証拠が不十分な状態で何かが事実だと主張することを表します。法律の文脈では「容疑をかける」という意味でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is alleged to have committed fraud.",
+              "ja": "彼は詐欺を犯したと申し立てられている。",
+              "highlight": "alleged"
+            },
+            {
+              "en": "The report alleges corruption at high levels.",
+              "ja": "その報告書は高いレベルでの汚職を主張している。",
+              "highlight": "alleges"
+            },
+            {
+              "en": "She alleges that she was discriminated against.",
+              "ja": "彼女は差別されたと主張している。",
+              "highlight": "alleges"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 alegier (申し立てる) <br>→ ラテン語 allegare (派遣する、引用する)",
+      "synonyms": [
+        {"word": "claim", "trans": "主張する"},
+        {"word": "assert", "trans": "断言する"},
+        {"word": "contend", "trans": "主張する"},
+        {"word": "maintain", "trans": "主張する"}
+      ],
+      "antonyms": [
+        {"word": "deny", "trans": "否定する"},
+        {"word": "refute", "trans": "反駁する"}
+      ],
+      "related": [
+        {
+          "word": "affirmation",
+          "trans": "名詞：断言",
+          "link": "491-affirm.html"
+        },
+        {
+          "word": "allegation", "trans": "名詞：申し立て"},
+        {"word": "alleged", "trans": "形容詞：申し立てられた"}
+      ]
+    },
+    {
+      "number": 492,
+      "word": "swear",
+      "pos": "動詞",
+      "meaning": "誓う、宣誓する、罵る",
+      "nuance": "厳粛に約束すること、法廷で宣誓すること、または悪態をつくことを表します。文脈によって意味が大きく異なります。",
+      "example_sections": [
+        {
+          "title": "例文（誓う）",
+          "examples": [
+            {
+              "en": "I swear to tell the truth.",
+              "ja": "私は真実を述べることを誓います。",
+              "highlight": "swear"
+            },
+            {
+              "en": "He swore an oath of loyalty.",
+              "ja": "彼は忠誠の誓いを立てた。",
+              "highlight": "swore"
+            }
+          ]
+        },
+        {
+          "title": "例文（罵る）",
+          "examples": [
+            {
+              "en": "Please don't swear in front of the children.",
+              "ja": "子供たちの前で悪態をつかないでください。",
+              "highlight": "swear"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 swerian (誓う) <br>→ ゲルマン祖語由来",
+      "synonyms": [
+        {"word": "vow", "trans": "誓う"},
+        {"word": "pledge", "trans": "誓約する"},
+        {"word": "curse", "trans": "罵る（悪態の意味で）"},
+        {"word": "testify", "trans": "証言する"}
+      ],
+      "antonyms": [
+        {"word": "break", "trans": "破る（誓いを）"}
+      ],
+      "related": [
+        {"word": "oath", "trans": "名詞：誓い"},
+        {"word": "swear word", "trans": "名詞：罵り言葉"}
+      ]
+    },
+    {
+      "number": 493,
+      "word": "pledge",
+      "pos": "名詞/動詞",
+      "meaning": "誓約、公約 / 〜を誓約する、約束する",
+      "nuance": "厳粛な約束や誓い、または担保として何かを提供することを表します。swearよりもやや形式的で、政治的な約束や寄付の文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The president pledged to reduce taxes.",
+              "ja": "大統領は減税を誓約した。",
+              "highlight": "pledged"
+            },
+            {
+              "en": "They pledged their support for the cause.",
+              "ja": "彼らはその大義への支持を約束した。",
+              "highlight": "pledged"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "He made a pledge to donate money to charity.",
+              "ja": "彼は慈善団体にお金を寄付する誓約をした。",
+              "highlight": "pledge"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 plege (保証) <br>→ ラテン語 plebere (保証する)",
+      "synonyms": [
+        {"word": "promise", "trans": "約束する"},
+        {"word": "vow", "trans": "誓う"},
+        {"word": "commit", "trans": "約束する"},
+        {"word": "guarantee", "trans": "保証する"}
+      ],
+      "antonyms": [
+        {"word": "break", "trans": "破る"},
+        {"word": "renege", "trans": "約束を破る"}
+      ],
+      "related": [
+        {"word": "pledger", "trans": "名詞：誓約者"}
+      ]
+    },
+    {
+      "number": 494,
+      "word": "vow",
+      "pos": "名詞/動詞",
+      "meaning": "誓い、誓約 / 〜を誓う",
+      "nuance": "宗教的または個人的な厳粛な誓いを表します。結婚の誓い（wedding vows）や宗教的な誓願の文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "She vowed to never give up.",
+              "ja": "彼女は決してあきらめないと誓った。",
+              "highlight": "vowed"
+            },
+            {
+              "en": "They vowed revenge on their enemies.",
+              "ja": "彼らは敵への復讐を誓った。",
+              "highlight": "vowed"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The couple exchanged wedding vows.",
+              "ja": "カップルは結婚の誓いを交わした。",
+              "highlight": "vows"
+            },
+            {
+              "en": "He took a vow of silence.",
+              "ja": "彼は沈黙の誓いを立てた。",
+              "highlight": "vow"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 vou (誓い) <br>→ ラテン語 votum (誓い)",
+      "synonyms": [
+        {"word": "pledge", "trans": "誓約する"},
+        {"word": "swear", "trans": "誓う"},
+        {"word": "promise", "trans": "約束する"},
+        {"word": "oath", "trans": "誓い（名詞）"}
+      ],
+      "antonyms": [
+        {"word": "break", "trans": "破る"}
+      ],
+      "related": [
+        {"word": "avow", "trans": "動詞：公言する"}
+      ]
+    },
+    {
+      "number": 495,
+      "word": "multicultural",
+      "pos": "形容詞",
+      "meaning": "多文化の、多文化主義の",
+      "nuance": "複数の異なる文化が共存している状態、または多様な文化を尊重する態度を表します。現代社会や教育の文脈で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Canada is known as a multicultural society.",
+              "ja": "カナダは多文化社会として知られている。",
+              "highlight": "multicultural"
+            },
+            {
+              "en": "The school promotes multicultural education.",
+              "ja": "その学校は多文化教育を推進している。",
+              "highlight": "multicultural"
+            },
+            {
+              "en": "We live in an increasingly multicultural world.",
+              "ja": "私たちはますます多文化的な世界に住んでいる。",
+              "highlight": "multicultural"
+            }
+          ]
+        }
+      ],
+      "etymology": "multi (多くの) + cultural (文化の) <br>→ 多くの文化の",
+      "synonyms": [
+        {"word": "diverse", "trans": "多様な"},
+        {"word": "cosmopolitan", "trans": "国際的な"},
+        {"word": "pluralistic", "trans": "多元的な"}
+      ],
+      "antonyms": [
+        {"word": "monocultural", "trans": "単一文化の"},
+        {"word": "homogeneous", "trans": "均質な"}
+      ],
+      "related": [
+        {"word": "multiculturalism", "trans": "名詞：多文化主義"},
+        {"word": "culture", "trans": "名詞：文化"}
+      ]
+    },
+    {
+      "number": 496,
+      "word": "multitude",
+      "pos": "名詞",
+      "meaning": "多数、大勢、群衆",
+      "nuance": "非常に多くの人や物を表します。やや格式ばった表現で、「a multitude of ~（多数の〜）」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A multitude of people gathered in the square.",
+              "ja": "多数の人々が広場に集まった。",
+              "highlight": "multitude"
+            },
+            {
+              "en": "The project faces a multitude of challenges.",
+              "ja": "そのプロジェクトは多数の課題に直面している。",
+              "highlight": "multitude"
+            },
+            {
+              "en": "There are a multitude of reasons for this decision.",
+              "ja": "この決定には多数の理由がある。",
+              "highlight": "multitude"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 multitudo (多数) <br>→ multus (多くの) から",
+      "synonyms": [
+        {"word": "crowd", "trans": "群衆"},
+        {"word": "mass", "trans": "大衆"},
+        {"word": "host", "trans": "多数"},
+        {"word": "abundance", "trans": "豊富"}
+      ],
+      "antonyms": [
+        {"word": "few", "trans": "少数"},
+        {"word": "scarcity", "trans": "不足"}
+      ],
+      "related": [
+        {"word": "multitudinous", "trans": "形容詞：非常に多数の"}
+      ]
+    },
+    {
+      "number": "496-2",
+      "word": "multinational",
+      "pos": "形容詞/名詞",
+      "meaning": "多国籍の、国際的な / 多国籍企業",
+      "nuance": "複数の国にまたがって活動する企業や組織、または複数の国籍を持つことを表します。ビジネスの文脈で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "She works for a multinational corporation.",
+              "ja": "彼女は多国籍企業で働いている。",
+              "highlight": "multinational"
+            },
+            {
+              "en": "The conference brought together a multinational team.",
+              "ja": "その会議は多国籍チームを集めた。",
+              "highlight": "multinational"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The multinational announced plans to expand.",
+              "ja": "その多国籍企業は拡大計画を発表した。",
+              "highlight": "multinational"
+            }
+          ]
+        }
+      ],
+      "etymology": "multi (多くの) + national (国の) <br>→ 多くの国の",
+      "synonyms": [
+        {"word": "international", "trans": "国際的な"},
+        {"word": "global", "trans": "世界的な"},
+        {"word": "transnational", "trans": "国境を越えた"}
+      ],
+      "antonyms": [
+        {"word": "national", "trans": "国内の"},
+        {"word": "domestic", "trans": "国内の"},
+        {"word": "local", "trans": "地域の"}
+      ],
+      "related": [
+        {
+          "word": "multitude",
+          "trans": "名詞：多数",
+          "link": "496-multitude.html"
+        },
+        {
+          "word": "nation", "trans": "名詞：国"}
+      ]
     }
 
     
