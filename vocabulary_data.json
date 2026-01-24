@@ -7755,6 +7755,635 @@
         {
           "word": "cure", "trans": "動詞/名詞：治す/治療"}
       ]
+    },
+    {
+      "number": 514,
+      "word": "direct",
+      "pos": "形容詞/動詞/副詞",
+      "meaning": "直接の、率直な / 〜を指示する、監督する / 直接に",
+      "nuance": "仲介や迂回がないこと、またはまっすぐで率直であることを表します。動詞では何かを特定の方向に向けることや指示することを意味します。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "We need a direct approach to solve this problem.",
+              "ja": "この問題を解決するには直接的なアプローチが必要だ。",
+              "highlight": "direct"
+            },
+            {
+              "en": "She gave me direct instructions.",
+              "ja": "彼女は私に率直な指示を与えた。",
+              "highlight": "direct"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "He directed the movie.",
+              "ja": "彼はその映画を監督した。",
+              "highlight": "directed"
+            },
+            {
+              "en": "Please direct all questions to the manager.",
+              "ja": "すべての質問をマネージャーに向けてください。",
+              "highlight": "direct"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 directus (まっすぐな) <br>→ dirigere (導く) から",
+      "synonyms": [
+        {"word": "straight", "trans": "まっすぐな"},
+        {"word": "immediate", "trans": "直接の"},
+        {"word": "frank", "trans": "率直な"},
+        {"word": "guide", "trans": "導く（動詞）"}
+      ],
+      "antonyms": [
+        {"word": "indirect", "trans": "間接的な"},
+        {"word": "devious", "trans": "回りくどい"}
+      ],
+      "related": [
+        {"word": "direction", "trans": "名詞：方向・指示"},
+        {"word": "directly", "trans": "副詞：直接に"},
+        {"word": "director", "trans": "名詞：監督・取締役"}
+      ]
+    },
+    {
+      "number": 515,
+      "word": "upright",
+      "pos": "形容詞/副詞",
+      "meaning": "直立した、垂直の、正直な、高潔な",
+      "nuance": "物理的にまっすぐ立っていること、または道徳的に正しく誠実であることを表します。両方の意味で使われる多義語です。",
+      "example_sections": [
+        {
+          "title": "例文（直立した）",
+          "examples": [
+            {
+              "en": "Please keep the box upright during transport.",
+              "ja": "輸送中は箱を直立させておいてください。",
+              "highlight": "upright"
+            },
+            {
+              "en": "He stood upright with perfect posture.",
+              "ja": "彼は完璧な姿勢で直立していた。",
+              "highlight": "upright"
+            }
+          ]
+        },
+        {
+          "title": "例文（正直な）",
+          "examples": [
+            {
+              "en": "He is known as an upright citizen.",
+              "ja": "彼は高潔な市民として知られている。",
+              "highlight": "upright"
+            }
+          ]
+        }
+      ],
+      "etymology": "up (上に) + right (まっすぐな) <br>→ まっすぐ上に",
+      "synonyms": [
+        {"word": "vertical", "trans": "垂直の"},
+        {"word": "erect", "trans": "直立した"},
+        {"word": "honest", "trans": "正直な"},
+        {"word": "righteous", "trans": "正しい"}
+      ],
+      "antonyms": [
+        {"word": "horizontal", "trans": "水平の"},
+        {"word": "dishonest", "trans": "不正直な"},
+        {"word": "corrupt", "trans": "腐敗した"}
+      ],
+      "related": [
+        {"word": "uprightness", "trans": "名詞：正直さ"}
+      ]
+    },
+    {
+      "number": 516,
+      "word": "pharmacist",
+      "pos": "名詞",
+      "meaning": "薬剤師",
+      "nuance": "薬を調剤し、薬についての助言を提供する専門家を指します。アメリカ英語ではpharmacist、イギリス英語ではchemistとも呼ばれます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The pharmacist explained how to take the medication.",
+              "ja": "薬剤師は薬の飲み方を説明した。",
+              "highlight": "pharmacist"
+            },
+            {
+              "en": "You should consult a pharmacist about drug interactions.",
+              "ja": "薬の相互作用については薬剤師に相談すべきだ。",
+              "highlight": "pharmacist"
+            },
+            {
+              "en": "She works as a pharmacist at the local hospital.",
+              "ja": "彼女は地元の病院で薬剤師として働いている。",
+              "highlight": "pharmacist"
+            }
+          ]
+        }
+      ],
+      "etymology": "pharmacy (薬局) + ist (専門家) <br>→ 薬の専門家",
+      "synonyms": [
+        {"word": "chemist", "trans": "薬剤師（英）"},
+        {"word": "druggist", "trans": "薬剤師"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "pharmacy", "trans": "名詞：薬局"},
+        {"word": "pharmaceutical", "trans": "形容詞：製薬の"}
+      ]
+    },
+    {
+      "number": "516-2",
+      "word": "pharmacy",
+      "pos": "名詞",
+      "meaning": "薬局、薬学",
+      "nuance": "薬を販売する店、または薬学という学問分野を指します。アメリカでは大型チェーン店が多く、イギリスではchemist's shopとも呼ばれます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I need to pick up my prescription at the pharmacy.",
+              "ja": "薬局で処方箋を受け取る必要がある。",
+              "highlight": "pharmacy"
+            },
+            {
+              "en": "She is studying pharmacy at university.",
+              "ja": "彼女は大学で薬学を学んでいる。",
+              "highlight": "pharmacy"
+            },
+            {
+              "en": "The pharmacy is open 24 hours.",
+              "ja": "その薬局は24時間営業している。",
+              "highlight": "pharmacy"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 pharmakon (薬) <br>→ 薬に関する場所・学問",
+      "synonyms": [
+        {"word": "drugstore", "trans": "薬局（米）"},
+        {"word": "chemist's", "trans": "薬局（英）"},
+        {"word": "apothecary", "trans": "薬局（古語）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "pharmacist",
+          "trans": "名詞：薬剤師",
+          "link": "516-pharmacist.html"
+        }
+      ]
+    },
+    {
+      "number": 517,
+      "word": "prescription",
+      "pos": "名詞",
+      "meaning": "処方箋、処方薬、指示",
+      "nuance": "医師が患者に処方する薬の指示書、またはその薬自体を指します。「prescription drug（処方薬）」として市販薬と区別されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The doctor wrote me a prescription for antibiotics.",
+              "ja": "医師は私に抗生物質の処方箋を書いた。",
+              "highlight": "prescription"
+            },
+            {
+              "en": "This medication requires a prescription.",
+              "ja": "この薬には処方箋が必要だ。",
+              "highlight": "prescription"
+            },
+            {
+              "en": "I need to refill my prescription.",
+              "ja": "処方薬を補充する必要がある。",
+              "highlight": "prescription"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 praescriptio (書かれたもの) <br>→ praescribere (前もって書く)",
+      "synonyms": [
+        {"word": "medicine order", "trans": "薬の注文"},
+        {"word": "script", "trans": "処方箋（口語）"}
+      ],
+      "antonyms": [
+        {"word": "over-the-counter", "trans": "市販薬"}
+      ],
+      "related": [
+        {"word": "prescribe", "trans": "動詞：処方する"},
+        {"word": "prescriptive", "trans": "形容詞：規定的な"}
+      ]
+    },
+    {
+      "number": "517-2",
+      "word": "prescribe",
+      "pos": "動詞",
+      "meaning": "〜を処方する、規定する、命じる",
+      "nuance": "医師が患者に薬を処方すること、または規則や方法を定めることを表します。医療と規範設定の両方の文脈で使われます。",
+      "example_sections": [
+        {
+          "title": "例文（処方する）",
+          "examples": [
+            {
+              "en": "The doctor prescribed painkillers for her injury.",
+              "ja": "医師は彼女の怪我に対して鎮痛剤を処方した。",
+              "highlight": "prescribed"
+            },
+            {
+              "en": "What medication did the doctor prescribe?",
+              "ja": "医師はどんな薬を処方しましたか？",
+              "highlight": "prescribe"
+            }
+          ]
+        },
+        {
+          "title": "例文（規定する）",
+          "examples": [
+            {
+              "en": "The law prescribes severe penalties for this offense.",
+              "ja": "法律はこの違反に対して厳しい罰則を規定している。",
+              "highlight": "prescribes"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 praescribere (前もって書く) <br>→ prae (前に) + scribere (書く)",
+      "synonyms": [
+        {"word": "order", "trans": "命じる"},
+        {"word": "recommend", "trans": "推奨する"},
+        {"word": "stipulate", "trans": "規定する"},
+        {"word": "dictate", "trans": "指示する"}
+      ],
+      "antonyms": [
+        {"word": "forbid", "trans": "禁じる"}
+      ],
+      "related": [
+        {
+          "word": "prescription",
+          "trans": "名詞：処方箋",
+          "link": "517-prescription.html"
+        }
+      ]
+    },
+    {
+      "number": 518,
+      "word": "pill",
+      "pos": "名詞",
+      "meaning": "錠剤、丸薬、ピル",
+      "nuance": "小さく丸い形の薬を指します。特に「the pill」と定冠詞をつけると経口避妊薬を意味することが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Take one pill twice a day.",
+              "ja": "1日2回1錠ずつ飲んでください。",
+              "highlight": "pill"
+            },
+            {
+              "en": "She has trouble swallowing pills.",
+              "ja": "彼女は錠剤を飲み込むのに苦労している。",
+              "highlight": "pills"
+            },
+            {
+              "en": "The doctor prescribed sleeping pills.",
+              "ja": "医師は睡眠薬を処方した。",
+              "highlight": "pills"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 pilula (小さな球) <br>→ pila (球) の縮小形",
+      "synonyms": [
+        {"word": "tablet", "trans": "錠剤"},
+        {"word": "capsule", "trans": "カプセル"},
+        {"word": "medication", "trans": "薬"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "pillbox", "trans": "名詞：薬入れ"}
+      ]
+    },
+    {
+      "number": "518-2",
+      "word": "tablet",
+      "pos": "名詞",
+      "meaning": "錠剤、タブレット、板",
+      "nuance": "平たく圧縮された固形の薬を指します。pillよりもやや形式的で、医療文書でよく使われます。また、タブレット端末の意味もあります。",
+      "example_sections": [
+        {
+          "title": "例文（錠剤）",
+          "examples": [
+            {
+              "en": "Dissolve the tablet in water before drinking.",
+              "ja": "飲む前に錠剤を水に溶かしてください。",
+              "highlight": "tablet"
+            },
+            {
+              "en": "Take two tablets with meals.",
+              "ja": "食事と一緒に2錠服用してください。",
+              "highlight": "tablets"
+            }
+          ]
+        },
+        {
+          "title": "例文（タブレット端末）",
+          "examples": [
+            {
+              "en": "She uses a tablet for reading.",
+              "ja": "彼女は読書にタブレットを使っている。",
+              "highlight": "tablet"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 tablete (小さな板) <br>→ ラテン語 tabula (板)",
+      "synonyms": [
+        {"word": "pill", "trans": "錠剤"},
+        {"word": "lozenge", "trans": "トローチ"},
+        {"word": "capsule", "trans": "カプセル"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "pill",
+          "trans": "名詞：錠剤",
+          "link": "518-pill.html"
+        }
+      ]
+    },
+    {
+      "number": "518-3",
+      "word": "capsule",
+      "pos": "名詞",
+      "meaning": "カプセル、被包",
+      "nuance": "薬を包むゼラチン製の容器、または何かを包む小さな容器を指します。宇宙カプセルなど、比喩的にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The medicine comes in capsule form.",
+              "ja": "その薬はカプセルの形で提供される。",
+              "highlight": "capsule"
+            },
+            {
+              "en": "Swallow the capsule whole, don't chew it.",
+              "ja": "カプセルは噛まずに丸ごと飲み込んでください。",
+              "highlight": "capsule"
+            },
+            {
+              "en": "The space capsule returned safely to Earth.",
+              "ja": "宇宙カプセルは無事に地球に帰還した。",
+              "highlight": "capsule"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 capsula (小さな箱) <br>→ capsa (箱) の縮小形",
+      "synonyms": [
+        {"word": "pill", "trans": "錠剤"},
+        {"word": "tablet", "trans": "錠剤"},
+        {"word": "shell", "trans": "殻"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "tablet",
+          "trans": "名詞：錠剤",
+          "link": "518-pill.html"
+        },
+        {
+          "word": "encapsulate", "trans": "動詞：カプセル化する"}
+      ]
+    },
+    {
+      "number": "518-4",
+      "word": "ointment",
+      "pos": "名詞",
+      "meaning": "軟膏、塗り薬",
+      "nuance": "皮膚に塗る油性の薬を指します。クリームよりも油分が多く、傷や皮膚疾患の治療に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Apply the ointment to the affected area twice daily.",
+              "ja": "患部に1日2回軟膏を塗ってください。",
+              "highlight": "ointment"
+            },
+            {
+              "en": "The doctor prescribed an antibiotic ointment.",
+              "ja": "医師は抗生物質の軟膏を処方した。",
+              "highlight": "ointment"
+            },
+            {
+              "en": "This ointment helps heal burns.",
+              "ja": "この軟膏は火傷の治癒を助ける。",
+              "highlight": "ointment"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 oignement (塗る) <br>→ ラテン語 unguentum (軟膏)",
+      "synonyms": [
+        {"word": "salve", "trans": "軟膏"},
+        {"word": "cream", "trans": "クリーム"},
+        {"word": "balm", "trans": "香油"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "capsule",
+          "trans": "名詞：カプセル",
+          "link": "518-pill.html"
+        }
+      ]
+    },
+    {
+      "number": 519,
+      "word": "tranquilizer",
+      "pos": "名詞",
+      "meaning": "精神安定剤、鎮静剤",
+      "nuance": "不安や緊張を和らげる薬を指します。イギリス英語ではtranquiliserと綴ります。医療用と獣医用の両方で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The doctor prescribed a mild tranquilizer.",
+              "ja": "医師は軽い精神安定剤を処方した。",
+              "highlight": "tranquilizer"
+            },
+            {
+              "en": "She takes tranquilizers to help with anxiety.",
+              "ja": "彼女は不安を和らげるために精神安定剤を服用している。",
+              "highlight": "tranquilizers"
+            },
+            {
+              "en": "The veterinarian gave the dog a tranquilizer.",
+              "ja": "獣医は犬に鎮静剤を与えた。",
+              "highlight": "tranquilizer"
+            }
+          ]
+        }
+      ],
+      "etymology": "tranquil (穏やかな) + izer (〜するもの) <br>→ 穏やかにするもの",
+      "synonyms": [
+        {"word": "sedative", "trans": "鎮静剤"},
+        {"word": "calming drug", "trans": "鎮静薬"},
+        {"word": "anxiolytic", "trans": "抗不安薬"}
+      ],
+      "antonyms": [
+        {"word": "stimulant", "trans": "刺激剤"}
+      ],
+      "related": [
+        {"word": "tranquil", "trans": "形容詞：穏やかな"},
+        {"word": "tranquilize", "trans": "動詞：鎮静させる"}
+      ]
+    },
+    {
+      "number": "519-2",
+      "word": "antibiotic",
+      "pos": "名詞/形容詞",
+      "meaning": "抗生物質 / 抗生物質の",
+      "nuance": "細菌感染症を治療するために使われる薬を指します。ウイルスには効かないため、適切な使用が重要です。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The doctor prescribed antibiotics for the infection.",
+              "ja": "医師は感染症に対して抗生物質を処方した。",
+              "highlight": "antibiotics"
+            },
+            {
+              "en": "You must complete the full course of antibiotics.",
+              "ja": "抗生物質は最後まで飲みきらなければならない。",
+              "highlight": "antibiotics"
+            }
+          ]
+        },
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "Antibiotic resistance is a growing concern.",
+              "ja": "抗生物質耐性は高まりつつある懸念事項だ。",
+              "highlight": "Antibiotic"
+            }
+          ]
+        }
+      ],
+      "etymology": "anti (反対) + biotic (生命の) <br>→ 生命に反対する（細菌を殺す）",
+      "synonyms": [
+        {"word": "antimicrobial", "trans": "抗菌薬"},
+        {"word": "antibacterial", "trans": "抗菌剤"}
+      ],
+      "antonyms": [
+        {"word": "probiotic", "trans": "プロバイオティクス"}
+      ],
+      "related": [
+        {
+          "word": "tranquilizer",
+          "trans": "名詞：精神安定剤",
+          "link": "519-tranquilizer.html"
+        }
+      ]
+    },
+    {
+      "number": 520,
+      "word": "vaccine",
+      "pos": "名詞",
+      "meaning": "ワクチン、予防接種",
+      "nuance": "病気を予防するために体内に投与される物質を指します。免疫系を刺激して特定の病気に対する抵抗力を作ります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Scientists developed a vaccine for the disease.",
+              "ja": "科学者たちはその病気のワクチンを開発した。",
+              "highlight": "vaccine"
+            },
+            {
+              "en": "Children should receive all recommended vaccines.",
+              "ja": "子供たちは推奨されるすべてのワクチンを受けるべきだ。",
+              "highlight": "vaccines"
+            },
+            {
+              "en": "The vaccine proved to be highly effective.",
+              "ja": "そのワクチンは非常に効果的であることが証明された。",
+              "highlight": "vaccine"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 vaccinus (牛の) <br>→ 牛痘から最初のワクチンが開発された",
+      "synonyms": [
+        {"word": "immunization", "trans": "予防接種"},
+        {"word": "inoculation", "trans": "接種"},
+        {"word": "shot", "trans": "注射（口語）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "vaccinate", "trans": "動詞：予防接種する"},
+        {"word": "vaccination", "trans": "名詞：予防接種"}
+      ]
+    },
+    {
+      "number": "520-2",
+      "word": "vaccination",
+      "pos": "名詞",
+      "meaning": "予防接種、ワクチン接種",
+      "nuance": "ワクチンを投与する行為や過程を指します。vaccineが物質そのものを指すのに対し、vaccinationは接種という行為を表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Vaccination has saved millions of lives.",
+              "ja": "予防接種は何百万もの命を救ってきた。",
+              "highlight": "Vaccination"
+            },
+            {
+              "en": "She received her flu vaccination yesterday.",
+              "ja": "彼女は昨日インフルエンザの予防接種を受けた。",
+              "highlight": "vaccination"
+            },
+            {
+              "en": "Proof of vaccination is required for travel.",
+              "ja": "旅行には予防接種の証明が必要だ。",
+              "highlight": "vaccination"
+            }
+          ]
+        }
+      ],
+      "etymology": "vaccinate (予防接種する) + ion (名詞語尾) <br>→ 予防接種すること",
+      "synonyms": [
+        {"word": "immunization", "trans": "免疫化"},
+        {"word": "inoculation", "trans": "接種"},
+        {"word": "shot", "trans": "注射（口語）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "vaccine",
+          "trans": "名詞：ワクチン",
+          "link": "520-vaccine.html"
+        },
+        {
+          "word": "vaccinate", "trans": "動詞：予防接種する"}
+      ]
     }
 
     
