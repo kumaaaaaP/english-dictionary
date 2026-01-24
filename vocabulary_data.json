@@ -5839,6 +5839,639 @@
         {
           "word": "nation", "trans": "名詞：国"}
       ]
+    },
+    {
+      "number": 497,
+      "word": "inattentive",
+      "pos": "形容詞",
+      "meaning": "不注意な、注意力散漫な、気が散った",
+      "nuance": "注意を払っていない、または集中していない状態を表します。授業中の生徒や運転中のドライバーなど、注意が必要な状況で使われることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The inattentive driver caused an accident.",
+              "ja": "不注意な運転手が事故を起こした。",
+              "highlight": "inattentive"
+            },
+            {
+              "en": "Students became inattentive during the long lecture.",
+              "ja": "学生たちは長い講義の間に注意力散漫になった。",
+              "highlight": "inattentive"
+            },
+            {
+              "en": "She was criticized for being inattentive to details.",
+              "ja": "彼女は細部に注意を払わないことで批判された。",
+              "highlight": "inattentive"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + attentive (注意深い) <br>→ 注意深くない",
+      "synonyms": [
+        {"word": "careless", "trans": "不注意な"},
+        {"word": "distracted", "trans": "気が散った"},
+        {"word": "negligent", "trans": "怠慢な"},
+        {"word": "heedless", "trans": "不注意な"}
+      ],
+      "antonyms": [
+        {"word": "attentive", "trans": "注意深い"},
+        {"word": "alert", "trans": "警戒した"},
+        {"word": "focused", "trans": "集中した"}
+      ],
+      "related": [
+        {"word": "inattention", "trans": "名詞：不注意"},
+        {"word": "attentive", "trans": "形容詞：注意深い"}
+      ]
+    },
+    {
+      "number": 498,
+      "word": "indifferent",
+      "pos": "形容詞",
+      "meaning": "無関心な、冷淡な、どうでもよい",
+      "nuance": "興味や関心を示さない、または感情的に影響されない状態を表します。しばしば否定的なニュアンスを持ち、冷たさや無関心を示します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He seemed indifferent to her feelings.",
+              "ja": "彼は彼女の感情に無関心なようだった。",
+              "highlight": "indifferent"
+            },
+            {
+              "en": "The public remained indifferent to the issue.",
+              "ja": "大衆はその問題に無関心なままだった。",
+              "highlight": "indifferent"
+            },
+            {
+              "en": "She gave an indifferent shrug.",
+              "ja": "彼女は無関心に肩をすくめた。",
+              "highlight": "indifferent"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 indifferens (区別のない) <br>→ in (否定) + differens (異なる)",
+      "synonyms": [
+        {"word": "apathetic", "trans": "無関心な"},
+        {"word": "unconcerned", "trans": "無頓着な"},
+        {"word": "detached", "trans": "超然とした"},
+        {"word": "aloof", "trans": "よそよそしい"}
+      ],
+      "antonyms": [
+        {"word": "concerned", "trans": "関心のある"},
+        {"word": "interested", "trans": "興味のある"},
+        {"word": "enthusiastic", "trans": "熱心な"}
+      ],
+      "related": [
+        {"word": "indifference", "trans": "名詞：無関心"}
+      ]
+    },
+    {
+      "number": "498-2",
+      "word": "indifference",
+      "pos": "名詞",
+      "meaning": "無関心、冷淡、無頓着",
+      "nuance": "興味や関心の欠如を表します。他者の苦しみや重要な問題に対する無関心を批判する文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His indifference to their suffering was shocking.",
+              "ja": "彼らの苦しみに対する彼の無関心は衝撃的だった。",
+              "highlight": "indifference"
+            },
+            {
+              "en": "She showed complete indifference to the criticism.",
+              "ja": "彼女は批判に対して完全な無関心を示した。",
+              "highlight": "indifference"
+            },
+            {
+              "en": "Public indifference is the biggest obstacle.",
+              "ja": "大衆の無関心が最大の障害だ。",
+              "highlight": "indifference"
+            }
+          ]
+        }
+      ],
+      "etymology": "indifferent (無関心な) + ence (名詞語尾) <br>→ 無関心な状態",
+      "synonyms": [
+        {"word": "apathy", "trans": "無関心"},
+        {"word": "detachment", "trans": "超然"},
+        {"word": "unconcern", "trans": "無頓着"},
+        {"word": "coldness", "trans": "冷淡"}
+      ],
+      "antonyms": [
+        {"word": "concern", "trans": "関心"},
+        {"word": "interest", "trans": "興味"},
+        {"word": "enthusiasm", "trans": "熱意"}
+      ],
+      "related": [
+        {
+          "word": "indifferent",
+          "trans": "形容詞：無関心な",
+          "link": "498-indifferent.html"
+        }
+      ]
+    },
+    {
+      "number": 499,
+      "word": "infamous",
+      "pos": "形容詞",
+      "meaning": "悪名高い、恥ずべき、不名誉な",
+      "nuance": "悪い理由で有名であることを表します。famousの否定形ではなく、犯罪や悪行で知られていることを示す強い否定的な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is an infamous criminal.",
+              "ja": "彼は悪名高い犯罪者だ。",
+              "highlight": "infamous"
+            },
+            {
+              "en": "The battle became infamous for its brutality.",
+              "ja": "その戦いは残虐さで悪名高くなった。",
+              "highlight": "infamous"
+            },
+            {
+              "en": "That restaurant is infamous for its poor service.",
+              "ja": "そのレストランはひどいサービスで悪名高い。",
+              "highlight": "infamous"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 infamis (評判の悪い) <br>→ in (否定) + fama (評判)",
+      "synonyms": [
+        {"word": "notorious", "trans": "悪名高い"},
+        {"word": "disreputable", "trans": "評判の悪い"},
+        {"word": "scandalous", "trans": "恥ずべき"}
+      ],
+      "antonyms": [
+        {"word": "famous", "trans": "有名な"},
+        {"word": "reputable", "trans": "評判の良い"},
+        {"word": "honorable", "trans": "名誉ある"}
+      ],
+      "related": [
+        {"word": "infamy", "trans": "名詞：悪名・汚名"}
+      ]
+    },
+    {
+      "number": "499-2",
+      "word": "incorrect",
+      "pos": "形容詞",
+      "meaning": "正しくない、誤った、不適切な",
+      "nuance": "事実や規則に合っていないことを表します。wrongよりもやや形式的で、テストの答えや情報の誤りを指す際によく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Your answer is incorrect.",
+              "ja": "あなたの答えは間違っています。",
+              "highlight": "incorrect"
+            },
+            {
+              "en": "The report contains several incorrect facts.",
+              "ja": "その報告書にはいくつかの誤った事実が含まれている。",
+              "highlight": "incorrect"
+            },
+            {
+              "en": "It would be incorrect to assume that.",
+              "ja": "それを仮定するのは正しくないだろう。",
+              "highlight": "incorrect"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + correct (正しい) <br>→ 正しくない",
+      "synonyms": [
+        {"word": "wrong", "trans": "間違った"},
+        {"word": "false", "trans": "偽の"},
+        {"word": "inaccurate", "trans": "不正確な"},
+        {"word": "erroneous", "trans": "誤った"}
+      ],
+      "antonyms": [
+        {"word": "correct", "trans": "正しい"},
+        {"word": "right", "trans": "正しい"},
+        {"word": "accurate", "trans": "正確な"}
+      ],
+      "related": [
+        {
+          "word": "infamous",
+          "trans": "形容詞：悪名高い",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "incorrectly", "trans": "副詞：誤って"}
+      ]
+    },
+    {
+      "number": "499-3",
+      "word": "injustice",
+      "pos": "名詞",
+      "meaning": "不正、不公平、不当",
+      "nuance": "公正でない扱いや状況を表します。社会的、法的な不正義を議論する際に頻繁に使われる重要な概念です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They fought against social injustice.",
+              "ja": "彼らは社会的不正義と戦った。",
+              "highlight": "injustice"
+            },
+            {
+              "en": "The verdict was a grave injustice.",
+              "ja": "その評決は重大な不正義だった。",
+              "highlight": "injustice"
+            },
+            {
+              "en": "We cannot tolerate such injustice.",
+              "ja": "私たちはそのような不正を容認できない。",
+              "highlight": "injustice"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + justice (正義) <br>→ 正義でないこと",
+      "synonyms": [
+        {"word": "unfairness", "trans": "不公平"},
+        {"word": "inequity", "trans": "不公正"},
+        {"word": "wrong", "trans": "不正"}
+      ],
+      "antonyms": [
+        {"word": "justice", "trans": "正義"},
+        {"word": "fairness", "trans": "公平"},
+        {"word": "equity", "trans": "公正"}
+      ],
+      "related": [
+        {
+          "word": "incorrect",
+          "trans": "形容詞：正しくない",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "unjust", "trans": "形容詞：不正な"}
+      ]
+    },
+    {
+      "number": "499-4",
+      "word": "insufficient",
+      "pos": "形容詞",
+      "meaning": "不十分な、不足した、足りない",
+      "nuance": "必要な量や質に達していないことを表します。資源、証拠、時間などが足りない状況を示します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is insufficient evidence to convict him.",
+              "ja": "彼を有罪にする十分な証拠がない。",
+              "highlight": "insufficient"
+            },
+            {
+              "en": "The funding was insufficient for the project.",
+              "ja": "その資金はプロジェクトには不十分だった。",
+              "highlight": "insufficient"
+            },
+            {
+              "en": "His explanation was insufficient.",
+              "ja": "彼の説明は不十分だった。",
+              "highlight": "insufficient"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + sufficient (十分な) <br>→ 十分でない",
+      "synonyms": [
+        {"word": "inadequate", "trans": "不十分な"},
+        {"word": "deficient", "trans": "欠乏した"},
+        {"word": "lacking", "trans": "不足した"},
+        {"word": "scarce", "trans": "乏しい"}
+      ],
+      "antonyms": [
+        {"word": "sufficient", "trans": "十分な"},
+        {"word": "adequate", "trans": "適切な"},
+        {"word": "ample", "trans": "豊富な"}
+      ],
+      "related": [
+        {
+          "word": "injustice",
+          "trans": "名詞：不正",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "insufficiency", "trans": "名詞：不十分"}
+      ]
+    },
+    {
+      "number": "499-5",
+      "word": "insensitive",
+      "pos": "形容詞",
+      "meaning": "鈍感な、無神経な、思いやりのない",
+      "nuance": "他者の感情や状況に対して配慮が欠けていることを表します。感覚的に鈍いという物理的な意味もありますが、多くは精神的な鈍感さを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His insensitive remarks hurt her feelings.",
+              "ja": "彼の無神経な発言が彼女の気持ちを傷つけた。",
+              "highlight": "insensitive"
+            },
+            {
+              "en": "It was insensitive to joke about that topic.",
+              "ja": "その話題について冗談を言うのは思いやりがなかった。",
+              "highlight": "insensitive"
+            },
+            {
+              "en": "She accused him of being insensitive to their needs.",
+              "ja": "彼女は彼が彼らのニーズに鈍感だと非難した。",
+              "highlight": "insensitive"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + sensitive (敏感な) <br>→ 敏感でない",
+      "synonyms": [
+        {"word": "thoughtless", "trans": "思いやりのない"},
+        {"word": "callous", "trans": "冷淡な"},
+        {"word": "unfeeling", "trans": "無感覚な"},
+        {"word": "tactless", "trans": "無神経な"}
+      ],
+      "antonyms": [
+        {"word": "sensitive", "trans": "敏感な"},
+        {"word": "considerate", "trans": "思いやりのある"},
+        {"word": "tactful", "trans": "機転の利く"}
+      ],
+      "related": [
+        {
+          "word": "insufficient",
+          "trans": "形容詞：不十分な",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "insensitivity", "trans": "名詞：鈍感さ"}
+      ]
+    },
+    {
+      "number": "499-6",
+      "word": "indiscernible",
+      "pos": "形容詞",
+      "meaning": "見分けがつかない、識別できない、認識できない",
+      "nuance": "違いや存在を感覚で捉えることができないほど微妙であることを表します。視覚、聴覚などあらゆる知覚に関して使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The differences between them are almost indiscernible.",
+              "ja": "彼らの違いはほとんど見分けがつかない。",
+              "highlight": "indiscernible"
+            },
+            {
+              "en": "His voice was barely indiscernible in the noise.",
+              "ja": "彼の声は騒音の中でほとんど聞き取れなかった。",
+              "highlight": "indiscernible"
+            },
+            {
+              "en": "The change was indiscernible to the naked eye.",
+              "ja": "その変化は肉眼では識別できなかった。",
+              "highlight": "indiscernible"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + discernible (識別できる) <br>→ 識別できない",
+      "synonyms": [
+        {"word": "imperceptible", "trans": "知覚できない"},
+        {"word": "invisible", "trans": "見えない"},
+        {"word": "undetectable", "trans": "検出できない"}
+      ],
+      "antonyms": [
+        {"word": "discernible", "trans": "識別できる"},
+        {"word": "visible", "trans": "見える"},
+        {"word": "obvious", "trans": "明白な"}
+      ],
+      "related": [
+        {
+          "word": "insensitive",
+          "trans": "形容詞：鈍感な",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "discern", "trans": "動詞：識別する"}
+      ]
+    },
+    {
+      "number": "499-7",
+      "word": "inflexible",
+      "pos": "形容詞",
+      "meaning": "柔軟性のない、融通の利かない、頑固な",
+      "nuance": "物理的に曲がらないこと、または態度や考えが変わらないことを表します。規則や人の性格について否定的なニュアンスで使われることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company has inflexible policies.",
+              "ja": "その会社は融通の利かない方針を持っている。",
+              "highlight": "inflexible"
+            },
+            {
+              "en": "He is too inflexible in his thinking.",
+              "ja": "彼は考え方が柔軟性に欠けすぎている。",
+              "highlight": "inflexible"
+            },
+            {
+              "en": "The material is rigid and inflexible.",
+              "ja": "その材料は硬く柔軟性がない。",
+              "highlight": "inflexible"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + flexible (柔軟な) <br>→ 柔軟でない",
+      "synonyms": [
+        {"word": "rigid", "trans": "硬直した"},
+        {"word": "stubborn", "trans": "頑固な"},
+        {"word": "unyielding", "trans": "屈しない"},
+        {"word": "unbending", "trans": "曲がらない"}
+      ],
+      "antonyms": [
+        {"word": "flexible", "trans": "柔軟な"},
+        {"word": "adaptable", "trans": "適応できる"},
+        {"word": "elastic", "trans": "弾力のある"}
+      ],
+      "related": [
+        {
+          "word": "indiscernible",
+          "trans": "形容詞：識別できない",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "inflexibility", "trans": "名詞：柔軟性のなさ"}
+      ]
+    },
+    {
+      "number": "499-8",
+      "word": "incapable",
+      "pos": "形容詞",
+      "meaning": "〜できない、無能な、能力がない",
+      "nuance": "何かをする能力や資質を欠いていることを表します。「incapable of ~（〜することができない）」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She seems incapable of understanding the problem.",
+              "ja": "彼女は問題を理解することができないようだ。",
+              "highlight": "incapable"
+            },
+            {
+              "en": "He is incapable of telling a lie.",
+              "ja": "彼は嘘をつくことができない。",
+              "highlight": "incapable"
+            },
+            {
+              "en": "The system is incapable of handling such large data.",
+              "ja": "そのシステムはそのような大量のデータを処理できない。",
+              "highlight": "incapable"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + capable (能力のある) <br>→ 能力がない",
+      "synonyms": [
+        {"word": "unable", "trans": "できない"},
+        {"word": "incompetent", "trans": "無能な"},
+        {"word": "powerless", "trans": "無力な"},
+        {"word": "unfit", "trans": "不適格な"}
+      ],
+      "antonyms": [
+        {"word": "capable", "trans": "有能な"},
+        {"word": "able", "trans": "できる"},
+        {"word": "competent", "trans": "有能な"}
+      ],
+      "related": [
+        {
+          "word": "inflexible",
+          "trans": "形容詞：柔軟性のない",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "incapacity", "trans": "名詞：無能力"}
+      ]
+    },
+    {
+      "number": "499-9",
+      "word": "innumerable",
+      "pos": "形容詞",
+      "meaning": "無数の、数えきれないほど多い",
+      "nuance": "非常に多くて数えることができないことを表します。countlessやnumberlessと同義ですが、よりフォーマルな表現です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There are innumerable stars in the sky.",
+              "ja": "空には無数の星がある。",
+              "highlight": "innumerable"
+            },
+            {
+              "en": "She has made innumerable contributions to science.",
+              "ja": "彼女は科学に数えきれないほどの貢献をしてきた。",
+              "highlight": "innumerable"
+            },
+            {
+              "en": "The book has innumerable errors.",
+              "ja": "その本には無数の誤りがある。",
+              "highlight": "innumerable"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + numerable (数えられる) <br>→ 数えられない",
+      "synonyms": [
+        {"word": "countless", "trans": "無数の"},
+        {"word": "numberless", "trans": "数えきれない"},
+        {"word": "infinite", "trans": "無限の"},
+        {"word": "myriad", "trans": "無数の"}
+      ],
+      "antonyms": [
+        {"word": "few", "trans": "少数の"},
+        {"word": "countable", "trans": "数えられる"},
+        {"word": "limited", "trans": "限られた"}
+      ],
+      "related": [
+        {
+          "word": "incapable",
+          "trans": "形容詞：無能な",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "numerable", "trans": "形容詞：数えられる"}
+      ]
+    },
+    {
+      "number": "499-10",
+      "word": "illiterate",
+      "pos": "形容詞/名詞",
+      "meaning": "読み書きができない、無学な / 文盲の人",
+      "nuance": "基本的な読み書き能力がないこと、または特定の分野について知識がないことを表します。比喩的に「computer illiterate（コンピュータが使えない）」のように使われることもあります。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "Many adults in the region are illiterate.",
+              "ja": "その地域の多くの成人は読み書きができない。",
+              "highlight": "illiterate"
+            },
+            {
+              "en": "He is financially illiterate.",
+              "ja": "彼は金融リテラシーがない。",
+              "highlight": "illiterate"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The program aims to help illiterates learn to read.",
+              "ja": "そのプログラムは文盲の人々が読み方を学ぶのを支援することを目的としている。",
+              "highlight": "illiterates"
+            }
+          ]
+        }
+      ],
+      "etymology": "il (否定) + literate (読み書きできる) <br>→ 読み書きできない",
+      "synonyms": [
+        {"word": "uneducated", "trans": "教育を受けていない"},
+        {"word": "ignorant", "trans": "無知な"},
+        {"word": "unlettered", "trans": "無学な"}
+      ],
+      "antonyms": [
+        {"word": "literate", "trans": "読み書きできる"},
+        {"word": "educated", "trans": "教育を受けた"},
+        {"word": "learned", "trans": "学のある"}
+      ],
+      "related": [
+        {
+          "word": "innumerable",
+          "trans": "形容詞：無数の",
+          "link": "499-infamous.html"
+        },
+        {
+          "word": "illiteracy", "trans": "名詞：文盲"},
+        {"word": "literate", "trans": "形容詞：読み書きできる"}
+      ]
     }
 
     
