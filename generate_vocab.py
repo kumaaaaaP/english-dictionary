@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from pathlib import Path
 
 # メイン単語用のHTMLテンプレート
@@ -13,6 +14,12 @@ HTML_TEMPLATE_MAIN = """<!DOCTYPE html>
         :root {{ --primary-color: #2c3e50; --accent-color: #f4f7f6; --text-main: #333; --text-sub: #666; }}
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; color: var(--text-main); max-width: 700px; margin: 0 auto; padding: 30px 20px; background-color: #f0f2f5; }}
         .card {{ background: white; padding: 40px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }}
+        
+        /* ナビゲーション */
+        .nav-buttons {{ display: flex; justify-content: space-between; margin-bottom: 20px; gap: 10px; }}
+        .nav-button {{ flex: 1; padding: 12px 20px; border: 2px solid var(--primary-color); background: white; color: var(--primary-color); text-decoration: none; border-radius: 8px; font-weight: bold; text-align: center; transition: 0.3s; cursor: pointer; }}
+        .nav-button:hover:not(.disabled) {{ background: var(--primary-color); color: white; }}
+        .nav-button.disabled {{ opacity: 0.3; cursor: not-allowed; border-color: #ccc; color: #ccc; }}
         
         /* ヘッダー部分 */
         .back-link {{ display: inline-block; margin-bottom: 25px; text-decoration: none; color: var(--primary-color); font-weight: bold; }}
@@ -48,6 +55,11 @@ HTML_TEMPLATE_MAIN = """<!DOCTYPE html>
 <body>
 
     <a href="../index.html" class="back-link">← 一覧へ戻る</a>
+
+    <div class="nav-buttons">
+        {prev_button}
+        {next_button}
+    </div>
 
     <div class="card">
         <div class="word-header">
@@ -98,6 +110,12 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; color: var(--text-main); max-width: 700px; margin: 0 auto; padding: 30px 20px; background-color: #f0f2f5; }}
         .card {{ background: white; padding: 40px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }}
         
+        /* ナビゲーション */
+        .nav-buttons {{ display: flex; justify-content: space-between; margin-bottom: 20px; gap: 10px; }}
+        .nav-button {{ flex: 1; padding: 12px 20px; border: 2px solid var(--primary-color); background: white; color: var(--primary-color); text-decoration: none; border-radius: 8px; font-weight: bold; text-align: center; transition: 0.3s; cursor: pointer; }}
+        .nav-button:hover:not(.disabled) {{ background: var(--primary-color); color: white; }}
+        .nav-button.disabled {{ opacity: 0.3; cursor: not-allowed; border-color: #ccc; color: #ccc; }}
+        
         /* ヘッダー部分 */
         .back-link {{ display: inline-block; margin-bottom: 25px; text-decoration: none; color: var(--primary-color); font-weight: bold; }}
         .word-header {{ border-bottom: 3px solid var(--primary-color); padding-bottom: 15px; margin-bottom: 25px; }}
@@ -132,6 +150,11 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
 <body>
 
     <a href="../index.html" class="back-link">← 一覧へ戻る</a>
+
+    <div class="nav-buttons">
+        {prev_button}
+        {next_button}
+    </div>
 
     <div class="card">
         <div class="word-header">
@@ -171,6 +194,47 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
 </html>"""
 
 
+def parse_number(number_str):
+    """番号文字列をパース (例: "422" -> (422, 0), "422-2" -> (422, 2))"""
+    parts = str(number_str).split('-')
+    main_num = int(parts[0])
+    sub_num = int(parts[1]) if len(parts) > 1 else 0
+    return (main_num, sub_num)
+
+
+def sort_words_by_number(words):
+    """単語をメイン→サブの順番でソート"""
+    return sorted(words, key=lambda w: parse_number(w['number']))
+
+
+def get_filename(word_data):
+    """ファイル名を生成"""
+    number = str(word_data['number'])
+    word = word_data['word']
+    return f"{number}-{word}.html"
+
+
+def generate_nav_buttons(current_index, sorted_words):
+    """ナビゲーションボタンを生成"""
+    # 前の単語
+    if current_index > 0:
+        prev_word = sorted_words[current_index - 1]
+        prev_filename = get_filename(prev_word)
+        prev_button = f'<a href="{prev_filename}" class="nav-button">← 前の単語</a>'
+    else:
+        prev_button = '<span class="nav-button disabled">← 前の単語</span>'
+    
+    # 次の単語
+    if current_index < len(sorted_words) - 1:
+        next_word = sorted_words[current_index + 1]
+        next_filename = get_filename(next_word)
+        next_button = f'<a href="{next_filename}" class="nav-button">次の単語 →</a>'
+    else:
+        next_button = '<span class="nav-button disabled">次の単語 →</span>'
+    
+    return prev_button, next_button
+
+
 def generate_example_section(section_title, examples):
     """例文セクションを生成"""
     html = f'        <div class="section-title">{section_title}</div>\n'
@@ -200,12 +264,15 @@ def generate_word_list(words, is_sub_word=False, main_number=None):
     return html
 
 
-def generate_html(data):
+def generate_html(data, current_index, sorted_words):
     """JSONデータからHTMLを生成"""
     
     # 番号に "-" が含まれているかチェック（例: 422-2）
     is_sub_word = '-' in str(data['number'])
     template = HTML_TEMPLATE_SUB if is_sub_word else HTML_TEMPLATE_MAIN
+    
+    # ナビゲーションボタンを生成
+    prev_button, next_button = generate_nav_buttons(current_index, sorted_words)
     
     # メイン番号を取得（サブ単語の場合）
     main_number = str(data['number']).split('-')[0] if is_sub_word else None
@@ -235,23 +302,12 @@ def generate_html(data):
         etymology=data['etymology'],
         synonyms=synonyms,
         antonyms=antonyms,
-        related=related
+        related=related,
+        prev_button=prev_button,
+        next_button=next_button
     )
     
     return html
-
-
-def get_filename(word_data):
-    """ファイル名を生成"""
-    number = str(word_data['number'])
-    word = word_data['word']
-    
-    if '-' in number:
-        # サブ単語の場合: 422-2-degradation.html
-        return f"{number}-{word}.html"
-    else:
-        # メイン単語の場合: 422-degrade.html
-        return f"{number}-{word}.html"
 
 
 def main():
@@ -260,13 +316,16 @@ def main():
     with open('vocabulary_data.json', 'r', encoding='utf-8') as f:
         vocab_data = json.load(f)
     
+    # 単語をソート（メイン→サブの順）
+    sorted_words = sort_words_by_number(vocab_data['words'])
+    
     # dataディレクトリを作成
     data_dir = Path('data')
     data_dir.mkdir(exist_ok=True)
     
     # 各単語のHTMLファイルを生成
-    for word_data in vocab_data['words']:
-        html_content = generate_html(word_data)
+    for index, word_data in enumerate(sorted_words):
+        html_content = generate_html(word_data, index, sorted_words)
         
         # ファイル名を生成
         filename = get_filename(word_data)
@@ -279,7 +338,7 @@ def main():
         word_type = "サブ単語" if '-' in str(word_data['number']) else "メイン単語"
         print(f"✓ 生成完了 [{word_type}]: {filepath}")
     
-    print(f"\n合計 {len(vocab_data['words'])} 件のHTMLファイルを生成しました。")
+    print(f"\n合計 {len(sorted_words)} 件のHTMLファイルを生成しました。")
 
 
 if __name__ == '__main__':
