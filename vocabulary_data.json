@@ -8856,7 +8856,425 @@
           "link": "522-medication.html"
         }
       ]
-    }
+    },
+    {
+    "number": 523,
+    "word": "population",
+    "pos": "名詞",
+    "meaning": "人口、住民数、全個体数",
+    "nuance": "ある地域に住む人々の総数だけでなく、統計学や生物学において「調査対象となる集団全体（母集団）」や「特定の動植物の個体数」を指す際にも使われます。",
+    "example_sections": [
+      {
+        "title": "例文（人口）",
+        "examples": [
+          {
+            "en": "The world population is expected to reach 10 billion eventually.",
+            "ja": "世界の人口はいずれ100億人に達すると予想されている。",
+            "highlight": "population"
+          }
+        ]
+      },
+      {
+        "title": "例文（個体集団）",
+        "examples": [
+          {
+            "en": "The wolf population in this park has increased.",
+            "ja": "この公園内の狼の個体数は増加した。",
+            "highlight": "population"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 populus (人々) + ation (名詞語尾) <br>→ 人々が集まっている状態",
+    "synonyms": [
+      {"word": "inhabitants", "trans": "居住者"},
+      {"word": "residents", "trans": "住民"},
+      {"word": "community", "trans": "共同体、集団"}
+    ],
+    "antonyms": [
+      {"word": "individual", "trans": "個人"},
+      {"word": "emptiness", "trans": "空白、無人"}
+    ],
+    "related": [
+      {"word": "populate", "trans": "動詞：住まわせる"},
+      {"word": "populous", "trans": "形容詞：人口の多い"},
+      {"word": "overpopulation", "trans": "名詞：人口過剰"}
+    ]
+  },
+  {
+    "number": 524,
+    "word": "follow-up",
+    "pos": "名詞、形容詞",
+    "meaning": "追跡調査、続き、再点検、フォローアップの",
+    "nuance": "最初のアクションの後に、効果を確認したり詳細を補ったりするために行われる追加の行動を指します。医療での事後診察や、ビジネスでの進捗確認によく使われます。",
+    "example_sections": [
+      {
+        "title": "例文（名詞）",
+        "examples": [
+          {
+            "en": "The doctor scheduled a follow-up for next week.",
+            "ja": "医師は来週に再診（フォローアップ）の予約を入れた。",
+            "highlight": "follow-up"
+          }
+        ]
+      },
+      {
+        "title": "例文（形容詞）",
+        "examples": [
+          {
+            "en": "A follow-up study confirmed the original findings.",
+            "ja": "追跡調査により、当初の知見が裏付けられた。",
+            "highlight": "follow-up"
+          }
+        ]
+      }
+    ],
+    "etymology": "follow (従う、続く) + up (完全に、近くへ) <br>→ 後をしっかり追いかけること",
+    "synonyms": [
+      {"word": "supplement", "trans": "補足"},
+      {"word": "continuation", "trans": "継続"},
+      {"word": "review", "trans": "再点検"}
+    ],
+    "antonyms": [
+      {"word": "initial", "trans": "最初の"},
+      {"word": "preliminary", "trans": "予備的な"},
+      {"word": "withdrawal", "trans": "撤退、中止"}
+    ],
+    "related": [
+      {"word": "follow", "trans": "動詞：続く"},
+      {"word": "following", "trans": "形容詞：次の"}
+    ]
+  },
+  {
+    "number": 525,
+    "word": "extra",
+    "pos": "形容詞、副詞、名詞",
+    "meaning": "追加の、余分の、非常に、エキストラ",
+    "nuance": "標準的な量や範囲を超えた「プラスアルファ」を指します。名詞では映画の「エキストラ」や「別売りの品」という意味でも日常的に使われます。",
+    "example_sections": [
+      {
+        "title": "例文（形容詞・副詞）",
+        "examples": [
+          {
+            "en": "She worked extra hours to finish the project.",
+            "ja": "彼女はプロジェクトを終わらせるために追加で（残業して）働いた。",
+            "highlight": "extra"
+          },
+          {
+            "en": "This task requires extra care.",
+            "ja": "この作業には細心の（格別の）注意が必要だ。",
+            "highlight": "extra"
+          }
+        ]
+      },
+      {
+        "title": "例文（名詞）",
+        "examples": [
+          {
+            "en": "The car comes with many optional extras.",
+            "ja": "その車には多くのオプション（追加装備）が付いている。",
+            "highlight": "extras"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 extra (〜の外に) <br>→ 範囲の外にあるもの",
+    "synonyms": [
+      {"word": "additional", "trans": "追加の"},
+      {"word": "surplus", "trans": "余剰の"},
+      {"word": "spare", "trans": "予備の"}
+    ],
+    "antonyms": [
+      {"word": "insufficient", "trans": "不十分な"},
+      {"word": "basic", "trans": "基本的な"},
+      {"word": "limited", "trans": "限られた"}
+    ],
+    "related": [
+      {"word": "extracurricular", "trans": "形容詞：課外の"},
+      {"word": "extract", "trans": "動詞：抽出する"}
+    ]
+  },
+  {
+    "number": 526,
+    "word": "extravagant",
+    "pos": "形容詞",
+    "meaning": "浪費する、贅沢な、度を越した",
+    "nuance": "お金を使いすぎる（浪費的な）という意味だけでなく、要求や賞賛などが「大げさな、極端な」という意味でも使われます。否定的なニュアンスが含まれることが多いです。",
+    "example_sections": [
+      {
+        "title": "例文（金銭・贅沢）",
+        "examples": [
+          {
+            "en": "He has an extravagant lifestyle that he cannot afford.",
+            "ja": "彼は分不相応な贅沢なライフスタイルを送っている。",
+            "highlight": "extravagant"
+          }
+        ]
+      },
+      {
+        "title": "例文（度を越した）",
+        "examples": [
+          {
+            "en": "The actor made extravagant demands during filming.",
+            "ja": "その俳優は撮影中に法外な要求をした。",
+            "highlight": "extravagant"
+          }
+        ]
+      }
+    ],
+    "etymology": "extra (外に) + vagari (さまよう) <br>→ 定められた境界の外をさまよう = 度を越す",
+    "synonyms": [
+      {"word": "wasteful", "trans": "浪費的な"},
+      {"word": "luxurious", "trans": "豪華な"},
+      {"word": "excessive", "trans": "過度の"}
+    ],
+    "antonyms": [
+      {"word": "frugal", "trans": "質素な、倹約な"},
+      {"word": "thrifty", "trans": "節約する"},
+      {"word": "moderate", "trans": "適度な"}
+    ],
+    "related": [
+      {"word": "extravagance", "trans": "名詞：浪費、贅沢"},
+      {"word": "extravagantly", "trans": "副詞：贅沢に"}
+    ]
+  },
+  {
+    "number": "526-2",
+    "word": "extravagance",
+    "pos": "名詞",
+    "meaning": "浪費、贅沢品、度を越した言動",
+    "nuance": "不必要な支出や、贅沢すぎる行為そのものを指します。複数形で「贅沢品」を指すこともあります。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The princess was known for her shocking extravagance.",
+            "ja": "その王女は衝撃的な浪費癖で知られていた。",
+            "highlight": "extravagance"
+          },
+          {
+            "en": "He regretted the extravagance of buying a diamond-encrusted watch.",
+            "ja": "彼はダイヤモンドを散りばめた時計を買うという贅沢を後悔した。",
+            "highlight": "extravagance"
+          }
+        ]
+      }
+    ],
+    "etymology": "extravagantの名詞形 <br>→ 境界を越えること",
+    "synonyms": [
+      {"word": "lavishness", "trans": "豪華さ"},
+      {"word": "prodigality", "trans": "放蕩、浪費"},
+      {"word": "luxury", "trans": "贅沢"}
+    ],
+    "antonyms": [
+      {"word": "economy", "trans": "節約"},
+      {"word": "austerity", "trans": "厳格な簡素さ"},
+      {"word": "simplicity", "trans": "単純、簡素"}
+    ],
+    "related": [
+      {"word": "extravagant", "trans": "形容詞：浪費する"}
+    ]
+  },
+  {
+    "number": "526-3",
+    "word": "extraordinary",
+    "pos": "形容詞",
+    "meaning": "並外れた、驚くべき、異常な",
+    "nuance": "ordinary（普通の）の範囲を「extra（外に）」出ている、つまり「普通ではない＝素晴らしい、あるいは奇妙な」という意味になります。ポジティブな文脈（並外れた才能など）でよく使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "She has an extraordinary talent for playing the piano.",
+            "ja": "彼女はピアノ演奏において並外れた才能を持っている。",
+            "highlight": "extraordinary"
+          },
+          {
+            "en": "The meeting was called under extraordinary circumstances.",
+            "ja": "その会議は異常な（特殊な）状況下で招集された。",
+            "highlight": "extraordinary"
+          }
+        ]
+      }
+    ],
+    "etymology": "extra (外に) + ordinary (普通の) <br>→ 普通の範囲を超えた",
+    "synonyms": [
+      {"word": "exceptional", "trans": "格別の"},
+      {"word": "remarkable", "trans": "注目すべき"},
+      {"word": "unusual", "trans": "珍しい"}
+    ],
+    "antonyms": [
+      {"word": "ordinary", "trans": "普通の"},
+      {"word": "common", "trans": "一般的な"},
+      {"word": "typical", "trans": "典型的な"}
+    ],
+    "related": [
+      {"word": "extraordinarily", "trans": "副詞：並外れて"},
+      {"word": "order", "trans": "名詞：順序"}
+    ]
+  },
+  {
+    "number": 527,
+    "word": "precisely",
+    "pos": "副詞",
+    "meaning": "正確に、まさに、ちょうど",
+    "nuance": "詳細に至るまで一点の曇りもなく正確であることを指します。会話で「Precisely!」と言うと「その通り！」という強い同意になります。",
+    "example_sections": [
+      {
+        "title": "例文（正確に）",
+        "examples": [
+          {
+            "en": "The rocket was launched precisely at 8:00 AM.",
+            "ja": "ロケットは午前8時ちょうどに打ち上げられた。",
+            "highlight": "precisely"
+          }
+        ]
+      },
+      {
+        "title": "例文（強調）",
+        "examples": [
+          {
+            "en": "That is precisely what I was trying to say.",
+            "ja": "それはまさに私が言おうとしていたことだ。",
+            "highlight": "precisely"
+          }
+        ]
+      }
+    ],
+    "etymology": "pre (あらかじめ) + cise (切る) + ly (副詞語尾) <br>→ 余計なものをあらかじめ切り落とした = 的確な",
+    "synonyms": [
+      {"word": "exactly", "trans": "正確に"},
+      {"word": "accurately", "trans": "精密に"},
+      {"word": "strictly", "trans": "厳密に"}
+    ],
+    "antonyms": [
+      {"word": "vaguely", "trans": "漠然と"},
+      {"word": "approximately", "trans": "おおよそ"},
+      {"word": "imprecisely", "trans": "不正確に"}
+    ],
+    "related": [
+      {"word": "precise", "trans": "形容詞：正確な"},
+      {"word": "precision", "trans": "名詞：精度、精密さ"}
+    ]
+  },
+  {
+    "number": "527-2",
+    "word": "precise",
+    "pos": "形容詞",
+    "meaning": "正確な、精密な、厳格な",
+    "nuance": "数値や事実が「細かい点まで正しい」ことを意味します。また、人の性格が「几帳面な、細かい」ことを指す場合もあります。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "We need precise measurements for the construction.",
+            "ja": "建設には正確な測定値が必要だ。",
+            "highlight": "precise"
+          },
+          {
+            "en": "He is very precise in his work.",
+            "ja": "彼は仕事に対して非常に几帳面だ。",
+            "highlight": "precise"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 praecisus (切り詰められた) <br>→ 余分がなく、はっきりした",
+    "synonyms": [
+      {"word": "exact", "trans": "正確な"},
+      {"word": "specific", "trans": "具体的な"},
+      {"word": "detailed", "trans": "詳細な"}
+    ],
+    "antonyms": [
+      {"word": "inaccurate", "trans": "不正確な"},
+      {"word": "vague", "trans": "あいまいな"},
+      {"word": "loose", "trans": "大まかな"}
+    ],
+    "related": [
+      {"word": "precisely", "trans": "副詞：正確に"},
+      {"word": "concise", "trans": "形容詞：簡潔な"}
+    ]
+  },
+  {
+    "number": 528,
+    "word": "punctual",
+    "pos": "形容詞",
+    "meaning": "時間を守る、期限どおりの",
+    "nuance": "約束の時間を厳守する人や、予定どおりに行われる行動を指します。仕事の評価などで「几帳面さ」を強調する際によく使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "Please be punctual for the meeting tomorrow.",
+            "ja": "明日の会議は時間を守って出席してください。",
+            "highlight": "punctual"
+          },
+          {
+            "en": "The train service is usually very punctual.",
+            "ja": "列車の運行は通常、非常に正確（予定どおり）だ。",
+            "highlight": "punctual"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 punctum (点) <br>→ （時計の針が）一点を指す瞬間の = 時間どおりの",
+    "synonyms": [
+      {"word": "on time", "trans": "時間どおりに"},
+      {"word": "prompt", "trans": "迅速な、時間厳守の"},
+      {"word": "timely", "trans": "タイミングの良い"}
+    ],
+    "antonyms": [
+      {"word": "late", "trans": "遅れた"},
+      {"word": "tardy", "trans": "遅い、遅刻した"},
+      {"word": "unreliable", "trans": "当てにならない"}
+    ],
+    "related": [
+      {"word": "punctuality", "trans": "名詞：時間厳守"},
+      {"word": "punctuation", "trans": "名詞：句読点"}
+    ]
+  },
+  {
+    "number": "528-2",
+    "word": "punctuality",
+    "pos": "名詞",
+    "meaning": "時間厳守、きちょうめんさ",
+    "nuance": "約束の時間や期日を守るという性質・習慣を指します。ビジネスにおいて非常に重視される美徳の一つです。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "Punctuality is essential for a professional business person.",
+            "ja": "時間厳守はプロのビジネスパーソンにとって不可欠だ。",
+            "highlight": "Punctuality"
+          },
+          {
+            "en": "The company prides itself on the punctuality of its deliveries.",
+            "ja": "その会社は配送の正確さを自負している。",
+            "highlight": "punctuality"
+          }
+        ]
+      }
+    ],
+    "etymology": "punctualの名詞形",
+    "synonyms": [
+      {"word": "promptness", "trans": "迅速さ"},
+      {"word": "timeliness", "trans": "適時性"},
+      {"word": "readiness", "trans": "準備ができていること"}
+    ],
+    "antonyms": [
+      {"word": "lateness", "trans": "遅刻"},
+      {"word": "delay", "trans": "遅延"},
+      {"word": "tardiness", "trans": "遅刻、のろさ"}
+    ],
+    "related": [
+      {"word": "punctual", "trans": "形容詞：時間を守る"}
+    ]
+  }
 
     
   ]
