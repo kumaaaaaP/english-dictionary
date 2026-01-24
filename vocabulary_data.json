@@ -8384,6 +8384,478 @@
         {
           "word": "vaccinate", "trans": "動詞：予防接種する"}
       ]
+    },
+    {
+      "number": 521,
+      "word": "remedy",
+      "pos": "名詞/動詞",
+      "meaning": "治療法、救済策 / 〜を治す、改善する",
+      "nuance": "病気や問題を解決する方法を指します。医学的な治療法だけでなく、社会問題や困難な状況の解決策としても使われます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "There is no simple remedy for poverty.",
+              "ja": "貧困には簡単な解決策がない。",
+              "highlight": "remedy"
+            },
+            {
+              "en": "Herbal remedies are becoming more popular.",
+              "ja": "ハーブ療法がますます人気になっている。",
+              "highlight": "remedies"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "We must remedy this situation immediately.",
+              "ja": "この状況を直ちに改善しなければならない。",
+              "highlight": "remedy"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 remedium (治療) <br>→ re (再び) + mederi (癒す)",
+      "synonyms": [
+        {"word": "cure", "trans": "治療法"},
+        {"word": "treatment", "trans": "治療"},
+        {"word": "solution", "trans": "解決策"},
+        {"word": "fix", "trans": "修正する（動詞）"}
+      ],
+      "antonyms": [
+        {"word": "disease", "trans": "病気"},
+        {"word": "problem", "trans": "問題"}
+      ],
+      "related": [
+        {"word": "remedial", "trans": "形容詞：治療の・補習の"}
+      ]
+    },
+    {
+      "number": "521-2",
+      "word": "remedial",
+      "pos": "形容詞",
+      "meaning": "治療の、矯正の、補習の",
+      "nuance": "問題を修正したり、遅れを取り戻すための措置を表します。教育分野では「remedial class（補習クラス）」のように使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She takes remedial classes in mathematics.",
+              "ja": "彼女は数学の補習授業を受けている。",
+              "highlight": "remedial"
+            },
+            {
+              "en": "The company took remedial action to address the problem.",
+              "ja": "会社は問題に対処するための是正措置を取った。",
+              "highlight": "remedial"
+            },
+            {
+              "en": "Remedial exercises can help strengthen weak muscles.",
+              "ja": "矯正運動は弱い筋肉を強化するのに役立つ。",
+              "highlight": "Remedial"
+            }
+          ]
+        }
+      ],
+      "etymology": "remedy (治療法) + ial (形容詞語尾) <br>→ 治療に関する",
+      "synonyms": [
+        {"word": "corrective", "trans": "矯正の"},
+        {"word": "therapeutic", "trans": "治療の"},
+        {"word": "restorative", "trans": "回復の"}
+      ],
+      "antonyms": [
+        {"word": "preventive", "trans": "予防の"},
+        {"word": "advanced", "trans": "上級の（教育）"}
+      ],
+      "related": [
+        {
+          "word": "remedy",
+          "trans": "名詞：治療法",
+          "link": "521-remedy.html"
+        }
+      ]
+    },
+    {
+      "number": "521-3",
+      "word": "diagnosis",
+      "pos": "名詞",
+      "meaning": "診断、診断結果",
+      "nuance": "医師が症状を検査して病気を特定すること、またはその結果を指します。医学以外でも、問題の原因を特定する過程を表すことがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The doctor confirmed the diagnosis of pneumonia.",
+              "ja": "医師は肺炎の診断を確定した。",
+              "highlight": "diagnosis"
+            },
+            {
+              "en": "Early diagnosis can improve treatment outcomes.",
+              "ja": "早期診断は治療結果を改善できる。",
+              "highlight": "diagnosis"
+            },
+            {
+              "en": "She received a diagnosis of diabetes.",
+              "ja": "彼女は糖尿病の診断を受けた。",
+              "highlight": "diagnosis"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 diagnosis (識別) <br>→ dia (通して) + gignoskein (知る)",
+      "synonyms": [
+        {"word": "identification", "trans": "特定"},
+        {"word": "determination", "trans": "判定"},
+        {"word": "assessment", "trans": "評価"}
+      ],
+      "antonyms": [
+        {"word": "misdiagnosis", "trans": "誤診"}
+      ],
+      "related": [
+        {
+          "word": "remedial",
+          "trans": "形容詞：治療の",
+          "link": "521-remedy.html"
+        },
+        {
+          "word": "diagnose", "trans": "動詞：診断する"}
+      ]
+    },
+    {
+      "number": "521-4",
+      "word": "diagnose",
+      "pos": "動詞",
+      "meaning": "〜を診断する、〜の原因を突き止める",
+      "nuance": "症状や兆候を調べて病気や問題を特定することを表します。医学的な診断だけでなく、機械の故障診断などにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The doctor diagnosed her with bronchitis.",
+              "ja": "医師は彼女を気管支炎と診断した。",
+              "highlight": "diagnosed"
+            },
+            {
+              "en": "It took months to diagnose the rare disease.",
+              "ja": "その珍しい病気を診断するのに数ヶ月かかった。",
+              "highlight": "diagnose"
+            },
+            {
+              "en": "The mechanic diagnosed the problem quickly.",
+              "ja": "整備士はすぐに問題を診断した。",
+              "highlight": "diagnosed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 diagignoskein (識別する) <br>→ dia (通して) + gignoskein (知る)",
+      "synonyms": [
+        {"word": "identify", "trans": "特定する"},
+        {"word": "determine", "trans": "判定する"},
+        {"word": "detect", "trans": "検出する"}
+      ],
+      "antonyms": [
+        {"word": "misdiagnose", "trans": "誤診する"}
+      ],
+      "related": [
+        {
+          "word": "diagnosis",
+          "trans": "名詞：診断",
+          "link": "521-remedy.html"
+        },
+        {
+          "word": "diagnostic", "trans": "形容詞：診断の"}
+      ]
+    },
+    {
+      "number": 522,
+      "word": "medication",
+      "pos": "名詞",
+      "meaning": "薬物治療、投薬、薬",
+      "nuance": "治療のために使用される薬、または薬を投与する行為を指します。medicineよりもやや医学的・専門的な響きがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Are you taking any medication?",
+              "ja": "何か薬を服用していますか？",
+              "highlight": "medication"
+            },
+            {
+              "en": "The medication should relieve your symptoms.",
+              "ja": "その薬はあなたの症状を和らげるはずです。",
+              "highlight": "medication"
+            },
+            {
+              "en": "She is on medication for high blood pressure.",
+              "ja": "彼女は高血圧の薬を服用中です。",
+              "highlight": "medication"
+            }
+          ]
+        }
+      ],
+      "etymology": "medicate (薬を与える) + ion (名詞語尾) <br>→ 薬を与えること",
+      "synonyms": [
+        {"word": "medicine", "trans": "薬"},
+        {"word": "drug", "trans": "薬物"},
+        {"word": "prescription", "trans": "処方薬"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "medicate", "trans": "動詞：薬を投与する"},
+        {"word": "medicinal", "trans": "形容詞：薬用の"}
+      ]
+    },
+    {
+      "number": "522-2",
+      "word": "medicate",
+      "pos": "動詞",
+      "meaning": "〜に薬を投与する、薬物治療する",
+      "nuance": "病気や症状を治療するために薬を与えることを表します。しばしば受動態で「薬を投与されている」という意味で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The patient was heavily medicated.",
+              "ja": "その患者は大量に投薬されていた。",
+              "highlight": "medicated"
+            },
+            {
+              "en": "The doctor decided to medicate the child's fever.",
+              "ja": "医師は子供の熱を薬で治療することに決めた。",
+              "highlight": "medicate"
+            },
+            {
+              "en": "She medicates herself with herbal remedies.",
+              "ja": "彼女はハーブ療法で自己治療している。",
+              "highlight": "medicates"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 medicare (治療する) <br>→ medicus (医師) から",
+      "synonyms": [
+        {"word": "treat", "trans": "治療する"},
+        {"word": "dose", "trans": "投薬する"},
+        {"word": "administer", "trans": "投与する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "medication",
+          "trans": "名詞：薬物治療",
+          "link": "522-medication.html"
+        }
+      ]
+    },
+    {
+      "number": "522-3",
+      "word": "injection",
+      "pos": "名詞",
+      "meaning": "注射、注入",
+      "nuance": "針を使って薬液を体内に投与すること、または何かを強制的に注入することを指します。医学以外でも資金注入などの比喩的な意味で使われます。",
+      "example_sections": [
+        {
+          "title": "例文（医学的）",
+          "examples": [
+            {
+              "en": "The nurse gave me an injection.",
+              "ja": "看護師が私に注射をした。",
+              "highlight": "injection"
+            },
+            {
+              "en": "He is afraid of injections.",
+              "ja": "彼は注射が怖い。",
+              "highlight": "injections"
+            }
+          ]
+        },
+        {
+          "title": "例文（比喩的）",
+          "examples": [
+            {
+              "en": "The company needs an injection of cash.",
+              "ja": "会社は資金注入が必要だ。",
+              "highlight": "injection"
+            }
+          ]
+        }
+      ],
+      "etymology": "inject (注入する) + ion (名詞語尾) <br>→ 注入すること",
+      "synonyms": [
+        {"word": "shot", "trans": "注射（口語）"},
+        {"word": "inoculation", "trans": "接種"},
+        {"word": "jab", "trans": "注射（英口語）"}
+      ],
+      "antonyms": [
+        {"word": "extraction", "trans": "抽出"}
+      ],
+      "related": [
+        {
+          "word": "medicate",
+          "trans": "動詞：薬を投与する",
+          "link": "522-medication.html"
+        },
+        {
+          "word": "inject", "trans": "動詞：注射する"}
+      ]
+    },
+    {
+      "number": "522-4",
+      "word": "inject",
+      "pos": "動詞",
+      "meaning": "〜を注射する、注入する、投入する",
+      "nuance": "針を使って液体を体内に入れること、または何かを強制的に導入することを表します。物理的な注入から、比喩的な「活気を注入する」まで幅広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文（注射する）",
+          "examples": [
+            {
+              "en": "The doctor injected the vaccine into her arm.",
+              "ja": "医師は彼女の腕にワクチンを注射した。",
+              "highlight": "injected"
+            },
+            {
+              "en": "Insulin must be injected daily.",
+              "ja": "インスリンは毎日注射しなければならない。",
+              "highlight": "injected"
+            }
+          ]
+        },
+        {
+          "title": "例文（投入する）",
+          "examples": [
+            {
+              "en": "She tried to inject some humor into the conversation.",
+              "ja": "彼女は会話にユーモアを注入しようとした。",
+              "highlight": "inject"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 inicere (投げ込む) <br>→ in (中へ) + jacere (投げる)",
+      "synonyms": [
+        {"word": "administer", "trans": "投与する"},
+        {"word": "introduce", "trans": "導入する"},
+        {"word": "insert", "trans": "挿入する"}
+      ],
+      "antonyms": [
+        {"word": "extract", "trans": "抽出する"},
+        {"word": "withdraw", "trans": "引き出す"}
+      ],
+      "related": [
+        {
+          "word": "injection",
+          "trans": "名詞：注射",
+          "link": "522-medication.html"
+        }
+      ]
+    },
+    {
+      "number": "522-5",
+      "word": "rehabilitation",
+      "pos": "名詞",
+      "meaning": "リハビリテーション、社会復帰、復権",
+      "nuance": "病気や怪我からの回復訓練、または犯罪者や薬物依存者の社会復帰支援を指します。名誉の回復という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（医学的）",
+          "examples": [
+            {
+              "en": "She is undergoing physical rehabilitation.",
+              "ja": "彼女は理学療法のリハビリテーションを受けている。",
+              "highlight": "rehabilitation"
+            },
+            {
+              "en": "The rehabilitation process takes several months.",
+              "ja": "リハビリテーションの過程には数ヶ月かかる。",
+              "highlight": "rehabilitation"
+            }
+          ]
+        },
+        {
+          "title": "例文（社会復帰）",
+          "examples": [
+            {
+              "en": "The program focuses on drug rehabilitation.",
+              "ja": "そのプログラムは薬物中毒者の社会復帰に焦点を当てている。",
+              "highlight": "rehabilitation"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 rehabilitare (復権させる) <br>→ re (再び) + habilitare (適格にする)",
+      "synonyms": [
+        {"word": "recovery", "trans": "回復"},
+        {"word": "restoration", "trans": "回復"},
+        {"word": "therapy", "trans": "治療"}
+      ],
+      "antonyms": [
+        {"word": "deterioration", "trans": "悪化"}
+      ],
+      "related": [
+        {
+          "word": "inject",
+          "trans": "動詞：注射する",
+          "link": "522-medication.html"
+        },
+        {
+          "word": "rehabilitate", "trans": "動詞：リハビリする"}
+      ]
+    },
+    {
+      "number": "522-6",
+      "word": "rehabilitate",
+      "pos": "動詞",
+      "meaning": "〜をリハビリする、社会復帰させる、復権させる",
+      "nuance": "病気や怪我から回復させること、または犯罪者などを社会に再適応させることを表します。建物の修復という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The program helps rehabilitate injured athletes.",
+              "ja": "そのプログラムは負傷したアスリートのリハビリを支援する。",
+              "highlight": "rehabilitate"
+            },
+            {
+              "en": "They are working to rehabilitate former prisoners.",
+              "ja": "彼らは元受刑者の社会復帰のために働いている。",
+              "highlight": "rehabilitate"
+            },
+            {
+              "en": "The old building was rehabilitated and turned into apartments.",
+              "ja": "その古い建物は修復されアパートに変わった。",
+              "highlight": "rehabilitated"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 rehabilitare (復権させる) <br>→ re (再び) + habilitare (適格にする)",
+      "synonyms": [
+        {"word": "restore", "trans": "回復させる"},
+        {"word": "recover", "trans": "回復する"},
+        {"word": "reintegrate", "trans": "再統合する"}
+      ],
+      "antonyms": [
+        {"word": "disable", "trans": "無力化する"},
+        {"word": "impair", "trans": "損なう"}
+      ],
+      "related": [
+        {
+          "word": "rehabilitation",
+          "trans": "名詞：リハビリテーション",
+          "link": "522-medication.html"
+        }
+      ]
     }
 
     
