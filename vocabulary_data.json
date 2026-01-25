@@ -9274,7 +9274,553 @@
     "related": [
       {"word": "punctual", "trans": "形容詞：時間を守る"}
     ]
-  }
+  },
+    {
+      "number": 529,
+      "word": "regulator",
+      "pos": "名詞",
+      "meaning": "規制当局、調整装置、レギュレーター",
+      "nuance": "規則を制定・監督する機関や人、または機械の調整装置を指します。金融や産業分野での監督機関を表すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Financial regulators monitor the banking industry.",
+              "ja": "金融規制当局は銀行業界を監視している。",
+              "highlight": "regulators"
+            },
+            {
+              "en": "The government appointed a new regulator for the sector.",
+              "ja": "政府はその部門の新しい規制当局を任命した。",
+              "highlight": "regulator"
+            },
+            {
+              "en": "The pressure regulator controls the gas flow.",
+              "ja": "圧力調整器がガスの流れを制御する。",
+              "highlight": "regulator"
+            }
+          ]
+        }
+      ],
+      "etymology": "regulate (規制する) + or (人・もの) <br>→ 規制する人・装置",
+      "synonyms": [
+        {"word": "controller", "trans": "管理者"},
+        {"word": "supervisor", "trans": "監督者"},
+        {"word": "watchdog", "trans": "監視機関"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "regulate", "trans": "動詞：規制する"},
+        {"word": "regulation", "trans": "名詞：規制"}
+      ]
+    },
+    {
+      "number": "529-2",
+      "word": "regulate",
+      "pos": "動詞",
+      "meaning": "〜を規制する、調整する、管理する",
+      "nuance": "規則や法律で制御すること、または機械や系統を適切に調整することを表します。秩序を保つために制御する行為を示します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government regulates the pharmaceutical industry.",
+              "ja": "政府は製薬業界を規制している。",
+              "highlight": "regulates"
+            },
+            {
+              "en": "This device regulates temperature automatically.",
+              "ja": "この装置は自動的に温度を調整する。",
+              "highlight": "regulates"
+            },
+            {
+              "en": "Laws regulate our behavior in society.",
+              "ja": "法律は社会における私たちの行動を規制する。",
+              "highlight": "regulate"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 regulare (規則に従わせる) <br>→ regula (規則) から",
+      "synonyms": [
+        {"word": "control", "trans": "制御する"},
+        {"word": "govern", "trans": "統治する"},
+        {"word": "manage", "trans": "管理する"},
+        {"word": "adjust", "trans": "調整する"}
+      ],
+      "antonyms": [
+        {"word": "deregulate", "trans": "規制緩和する"},
+        {"word": "liberate", "trans": "自由にする"}
+      ],
+      "related": [
+        {
+          "word": "regulator",
+          "trans": "名詞：規制当局",
+          "link": "529-regulator.html"
+        },
+        {
+          "word": "regulation", "trans": "名詞：規制"}
+      ]
+    },
+    {
+      "number": "529-3",
+      "word": "regulation",
+      "pos": "名詞/形容詞",
+      "meaning": "規制、規則、調整 / 規定の、標準の",
+      "nuance": "公式に定められた規則や、それを施行する行為を指します。形容詞としては「規定に従った」という意味になります。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Safety regulations must be followed strictly.",
+              "ja": "安全規則は厳格に従わなければならない。",
+              "highlight": "regulations"
+            },
+            {
+              "en": "The new regulation will take effect next month.",
+              "ja": "新しい規制は来月発効する。",
+              "highlight": "regulation"
+            }
+          ]
+        },
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "This is regulation size for the sport.",
+              "ja": "これはそのスポーツの規定サイズだ。",
+              "highlight": "regulation"
+            }
+          ]
+        }
+      ],
+      "etymology": "regulate (規制する) + ion (名詞語尾) <br>→ 規制すること",
+      "synonyms": [
+        {"word": "rule", "trans": "規則"},
+        {"word": "law", "trans": "法律"},
+        {"word": "ordinance", "trans": "条例"},
+        {"word": "directive", "trans": "指令"}
+      ],
+      "antonyms": [
+        {"word": "deregulation", "trans": "規制緩和"},
+        {"word": "freedom", "trans": "自由"}
+      ],
+      "related": [
+        {
+          "word": "regulate",
+          "trans": "動詞：規制する",
+          "link": "529-regulator.html"
+        }
+      ]
+    },
+    {
+      "number": "529-4",
+      "word": "regulative",
+      "pos": "形容詞",
+      "meaning": "規制的な、調整的な",
+      "nuance": "規制や調整の機能を持つことを表します。regulatoryよりも使用頻度は低いですが、同様の意味を持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The body has regulative mechanisms to maintain temperature.",
+              "ja": "体には温度を維持する調整機構がある。",
+              "highlight": "regulative"
+            },
+            {
+              "en": "Regulative policies are necessary for market stability.",
+              "ja": "市場の安定には規制政策が必要だ。",
+              "highlight": "Regulative"
+            }
+          ]
+        }
+      ],
+      "etymology": "regulate (規制する) + ive (形容詞語尾) <br>→ 規制する性質の",
+      "synonyms": [
+        {"word": "regulatory", "trans": "規制の"},
+        {"word": "controlling", "trans": "制御する"}
+      ],
+      "antonyms": [
+        {"word": "unregulated", "trans": "規制されていない"}
+      ],
+      "related": [
+        {
+          "word": "regulation",
+          "trans": "名詞：規制",
+          "link": "529-regulator.html"
+        }
+      ]
+    },
+    {
+      "number": "529-5",
+      "word": "regulatory",
+      "pos": "形容詞",
+      "meaning": "規制の、調整の、監督の",
+      "nuance": "規制や監督に関連することを表します。「regulatory agency（規制機関）」「regulatory framework（規制の枠組み）」のように使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The regulatory agency approved the new drug.",
+              "ja": "規制機関は新薬を承認した。",
+              "highlight": "regulatory"
+            },
+            {
+              "en": "Companies must comply with regulatory requirements.",
+              "ja": "企業は規制要件を遵守しなければならない。",
+              "highlight": "regulatory"
+            },
+            {
+              "en": "Regulatory changes will affect the industry.",
+              "ja": "規制の変更は業界に影響を与えるだろう。",
+              "highlight": "Regulatory"
+            }
+          ]
+        }
+      ],
+      "etymology": "regulate (規制する) + ory (形容詞語尾) <br>→ 規制に関する",
+      "synonyms": [
+        {"word": "supervisory", "trans": "監督の"},
+        {"word": "controlling", "trans": "制御する"},
+        {"word": "regulative", "trans": "規制的な"}
+      ],
+      "antonyms": [
+        {"word": "deregulated", "trans": "規制緩和された"}
+      ],
+      "related": [
+        {
+          "word": "regulative",
+          "trans": "形容詞：規制的な",
+          "link": "529-regulator.html"
+        }
+      ]
+    },
+    {
+      "number": 530,
+      "word": "voluntary",
+      "pos": "形容詞",
+      "meaning": "自発的な、任意の、無償の",
+      "nuance": "自分の意志で行われること、または強制されずに選択できることを表します。ボランティア活動のように無償で行われることも含みます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Participation in the program is voluntary.",
+              "ja": "プログラムへの参加は任意だ。",
+              "highlight": "voluntary"
+            },
+            {
+              "en": "She does voluntary work at the hospital.",
+              "ja": "彼女は病院でボランティア活動をしている。",
+              "highlight": "voluntary"
+            },
+            {
+              "en": "The company offered a voluntary retirement package.",
+              "ja": "会社は自発的退職パッケージを提供した。",
+              "highlight": "voluntary"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 voluntarius (意志の) <br>→ voluntas (意志) から",
+      "synonyms": [
+        {"word": "optional", "trans": "任意の"},
+        {"word": "willing", "trans": "進んでする"},
+        {"word": "unpaid", "trans": "無償の"},
+        {"word": "volunteer", "trans": "ボランティアの"}
+      ],
+      "antonyms": [
+        {"word": "involuntary", "trans": "不本意な"},
+        {"word": "compulsory", "trans": "強制的な"},
+        {"word": "mandatory", "trans": "義務的な"}
+      ],
+      "related": [
+        {"word": "volunteer", "trans": "名詞/動詞：ボランティア/志願する"},
+        {"word": "voluntarily", "trans": "副詞：自発的に"}
+      ]
+    },
+    {
+      "number": 531,
+      "word": "involuntary",
+      "pos": "形容詞",
+      "meaning": "不本意な、無意識の、自動的な",
+      "nuance": "自分の意志によらない、または意図せずに起こることを表します。身体の反射的な動きや、望まない状況を示すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He gave an involuntary gasp of surprise.",
+              "ja": "彼は思わず驚きの息を呑んだ。",
+              "highlight": "involuntary"
+            },
+            {
+              "en": "Blinking is an involuntary reflex.",
+              "ja": "まばたきは無意識の反射だ。",
+              "highlight": "involuntary"
+            },
+            {
+              "en": "The patient experienced involuntary muscle contractions.",
+              "ja": "患者は不随意の筋肉収縮を経験した。",
+              "highlight": "involuntary"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + voluntary (自発的な) <br>→ 自発的でない",
+      "synonyms": [
+        {"word": "automatic", "trans": "自動的な"},
+        {"word": "reflex", "trans": "反射的な"},
+        {"word": "unintentional", "trans": "意図しない"},
+        {"word": "forced", "trans": "強制された"}
+      ],
+      "antonyms": [
+        {"word": "voluntary", "trans": "自発的な"},
+        {"word": "intentional", "trans": "意図的な"},
+        {"word": "deliberate", "trans": "故意の"}
+      ],
+      "related": [
+        {"word": "involuntarily", "trans": "副詞：不本意に"}
+      ]
+    },
+    {
+      "number": 532,
+      "word": "spontaneous",
+      "pos": "形容詞",
+      "meaning": "自発的な、自然発生的な、即興の",
+      "nuance": "計画されずに自然に起こること、または衝動的で予期しない行動を表します。voluntaryと似ていますが、より「計画性がない」というニュアンスがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The crowd broke into spontaneous applause.",
+              "ja": "群衆は自然に拍手を始めた。",
+              "highlight": "spontaneous"
+            },
+            {
+              "en": "We decided to take a spontaneous trip to the beach.",
+              "ja": "私たちは衝動的にビーチへ行くことに決めた。",
+              "highlight": "spontaneous"
+            },
+            {
+              "en": "She has a spontaneous personality.",
+              "ja": "彼女は自発的な性格を持っている。",
+              "highlight": "spontaneous"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 spontaneus (自発的な) <br>→ sponte (自由意志で) から",
+      "synonyms": [
+        {"word": "impulsive", "trans": "衝動的な"},
+        {"word": "impromptu", "trans": "即興の"},
+        {"word": "unplanned", "trans": "計画されていない"},
+        {"word": "natural", "trans": "自然な"}
+      ],
+      "antonyms": [
+        {"word": "planned", "trans": "計画された"},
+        {"word": "deliberate", "trans": "意図的な"},
+        {"word": "forced", "trans": "強制された"}
+      ],
+      "related": [
+        {"word": "spontaneously", "trans": "副詞：自発的に"},
+        {"word": "spontaneity", "trans": "名詞：自発性"}
+      ]
+    },
+    {
+      "number": "532-2",
+      "word": "spontaneously",
+      "pos": "副詞",
+      "meaning": "自発的に、自然に、即座に",
+      "nuance": "計画や外部からの働きかけなしに自然に起こる様子を表します。化学反応などが自然に起こることにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The fire started spontaneously.",
+              "ja": "火事は自然発火した。",
+              "highlight": "spontaneously"
+            },
+            {
+              "en": "People spontaneously began to sing.",
+              "ja": "人々は自然に歌い始めた。",
+              "highlight": "spontaneously"
+            },
+            {
+              "en": "The idea came to her spontaneously.",
+              "ja": "そのアイデアは彼女に自然に浮かんだ。",
+              "highlight": "spontaneously"
+            }
+          ]
+        }
+      ],
+      "etymology": "spontaneous (自発的な) + ly (副詞語尾) <br>→ 自発的に",
+      "synonyms": [
+        {"word": "naturally", "trans": "自然に"},
+        {"word": "impulsively", "trans": "衝動的に"},
+        {"word": "automatically", "trans": "自動的に"}
+      ],
+      "antonyms": [
+        {"word": "deliberately", "trans": "意図的に"},
+        {"word": "intentionally", "trans": "故意に"}
+      ],
+      "related": [
+        {
+          "word": "spontaneous",
+          "trans": "形容詞：自発的な",
+          "link": "532-spontaneous.html"
+        }
+      ]
+    },
+    {
+      "number": 533,
+      "word": "arbitrary",
+      "pos": "形容詞",
+      "meaning": "恣意的な、独断的な、任意の",
+      "nuance": "理由や原則に基づかず、個人の気まぐれや独断で決められることを表します。しばしば否定的なニュアンスを持ち、不公平さを示唆します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The decision seemed arbitrary and unfair.",
+              "ja": "その決定は恣意的で不公平に思えた。",
+              "highlight": "arbitrary"
+            },
+            {
+              "en": "The rules appear arbitrary with no clear logic.",
+              "ja": "その規則は明確な論理がなく恣意的に見える。",
+              "highlight": "arbitrary"
+            },
+            {
+              "en": "He made an arbitrary choice without consulting others.",
+              "ja": "彼は他人に相談せず独断的な選択をした。",
+              "highlight": "arbitrary"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 arbitrarius (裁定者の) <br>→ arbiter (仲裁人) から",
+      "synonyms": [
+        {"word": "random", "trans": "無作為の"},
+        {"word": "capricious", "trans": "気まぐれな"},
+        {"word": "whimsical", "trans": "気まぐれな"},
+        {"word": "unreasonable", "trans": "不合理な"}
+      ],
+      "antonyms": [
+        {"word": "reasoned", "trans": "理にかなった"},
+        {"word": "logical", "trans": "論理的な"},
+        {"word": "systematic", "trans": "体系的な"}
+      ],
+      "related": [
+        {"word": "arbitrarily", "trans": "副詞：恣意的に"},
+        {"word": "arbitrariness", "trans": "名詞：恣意性"}
+      ]
+    },
+    {
+      "number": 534,
+      "word": "mandatory",
+      "pos": "形容詞",
+      "meaning": "義務的な、必須の、強制的な",
+      "nuance": "法律や規則によって要求され、従わなければならないことを表します。選択の余地がなく、必ず行わなければならないという強い意味を持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Attendance at the meeting is mandatory.",
+              "ja": "会議への出席は必須だ。",
+              "highlight": "mandatory"
+            },
+            {
+              "en": "Wearing a seatbelt is mandatory by law.",
+              "ja": "シートベルトの着用は法律で義務付けられている。",
+              "highlight": "mandatory"
+            },
+            {
+              "en": "The training is mandatory for all new employees.",
+              "ja": "その研修はすべての新入社員に必須だ。",
+              "highlight": "mandatory"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 mandatorius (命令の) <br>→ mandare (命じる) から",
+      "synonyms": [
+        {"word": "compulsory", "trans": "強制的な"},
+        {"word": "required", "trans": "必須の"},
+        {"word": "obligatory", "trans": "義務的な"},
+        {"word": "necessary", "trans": "必要な"}
+      ],
+      "antonyms": [
+        {"word": "optional", "trans": "任意の"},
+        {"word": "voluntary", "trans": "自発的な"},
+        {"word": "elective", "trans": "選択の"}
+      ],
+      "related": [
+        {"word": "mandate", "trans": "名詞/動詞：命令/義務付ける"},
+        {"word": "mandatorily", "trans": "副詞：義務的に"}
+      ]
+    },
+    {
+      "number": "534-2",
+      "word": "compulsory",
+      "pos": "形容詞",
+      "meaning": "強制的な、義務的な、必修の",
+      "nuance": "法律や規則によって強制されることを表します。mandatoryとほぼ同義ですが、教育の文脈で「compulsory education（義務教育）」のように使われることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Education is compulsory until age 16.",
+              "ja": "教育は16歳まで義務だ。",
+              "highlight": "compulsory"
+            },
+            {
+              "en": "Military service is compulsory in some countries.",
+              "ja": "兵役はいくつかの国で義務的だ。",
+              "highlight": "compulsory"
+            },
+            {
+              "en": "The course includes both compulsory and optional subjects.",
+              "ja": "そのコースには必修科目と選択科目の両方が含まれている。",
+              "highlight": "compulsory"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 compulsorius (強制の) <br>→ compellere (強いる) から",
+      "synonyms": [
+        {"word": "mandatory", "trans": "義務的な"},
+        {"word": "required", "trans": "必須の"},
+        {"word": "obligatory", "trans": "義務的な"},
+        {"word": "forced", "trans": "強制された"}
+      ],
+      "antonyms": [
+        {"word": "optional", "trans": "任意の"},
+        {"word": "voluntary", "trans": "自発的な"},
+        {"word": "elective", "trans": "選択の"}
+      ],
+      "related": [
+        {
+          "word": "mandatory",
+          "trans": "形容詞：義務的な",
+          "link": "534-mandatory.html"
+        },
+        {
+          "word": "compulsion", "trans": "名詞：強制"},
+        {"word": "compel", "trans": "動詞：強いる"}
+      ]
+    }
 
     
   ]
