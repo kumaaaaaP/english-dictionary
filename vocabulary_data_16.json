@@ -2043,6 +2043,942 @@
         ]
       },
       {
+        "title": "例文（比喩的）",
+        "examples": [
+          {
+            "en": "He felt invisible at the large party.",
+            "ja": "彼はその大きなパーティーで、自分の存在が無視されているように感じた。",
+            "highlight": "invisible"
+          }
+        ]
+      }
+    ],
+    "etymology": "in (否定) + visible (見える) <br>→ 見ることができない",
+    "synonyms": [
+      {"word": "unseen", "trans": "見られていない"},
+      {"word": "hidden", "trans": "隠された"},
+      {"word": "imperceptible", "trans": "知覚できない"}
+    ],
+    "antonyms": [
+      {"word": "visible", "trans": "目に見える"},
+      {"word": "apparent", "trans": "明らかな"}
+    ],
+    "related": [
+      {"word": "invisibility", "trans": "名詞：目に見えないこと"},
+      {"word": "visibly", "trans": "副詞：目に見えて"}
+    ]
+  },
+  {
+    "number": "460-2",
+    "word": "visible",
+    "pos": "形容詞",
+    "meaning": "目に見える、明白な、人目に付く",
+    "nuance": "視覚的に確認できることや、証拠や変化がはっきりと分かることを表します。公の場での露出度が高い場合（visible role）にも使われます。",
+    "example_sections": [
+      {
+        "title": "例文（視覚的）",
+        "examples": [
+          {
+            "en": "The stars are clearly visible on a cloudless night.",
+            "ja": "雲のない夜には星がはっきりと見える。",
+            "highlight": "visible"
+          }
+        ]
+      },
+      {
+        "title": "例文（明白な）",
+        "examples": [
+          {
+            "en": "There was a visible improvement in his health.",
+            "ja": "彼の健康状態には明らかな改善が見られた。",
+            "highlight": "visible"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 videre (見る) + ible (できる) <br>→ 見ることができる",
+    "synonyms": [
+      {"word": "observable", "trans": "観察できる"},
+      {"word": "noticeable", "trans": "目立つ"},
+      {"word": "evident", "trans": "明白な"}
+    ],
+    "antonyms": [
+      {"word": "invisible", "trans": "目に見えない"},
+      {"word": "obscure", "trans": "不明瞭な"}
+    ],
+    "related": [
+      {"word": "visibility", "trans": "名詞：視界、露出度"},
+      {"word": "vision", "trans": "名詞：視力、ビジョン"},
+      {"word": "visual", "trans": "形容詞：視覚の"}
+    ]
+  },
+  {
+    "number": 461,
+    "word": "fundamentally",
+    "pos": "副詞",
+    "meaning": "根本的に、本質的に",
+    "nuance": "物事の最も基礎となる部分や、本質に触れる際に使われます。「根本から覆す」「本質的に異なる」といった強い強調を伴うことが多いです。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The two systems are fundamentally different from each other.",
+            "ja": "その2つのシステムは、互いに根本的に異なっている。",
+            "highlight": "fundamentally"
+          },
+          {
+            "en": "We need to fundamentally rethink our approach to the problem.",
+            "ja": "私たちはその問題へのアプローチを根本的に再考する必要がある。",
+            "highlight": "fundamentally"
+          }
+        ]
+      }
+    ],
+    "etymology": "fundamental (基礎の) + ly (副詞語尾) <br>→ 基礎の部分から",
+    "synonyms": [
+      {"word": "essentially", "trans": "本質的に"},
+      {"word": "basically", "trans": "基本的に"},
+      {"word": "radically", "trans": "根本的に（過激に）"}
+    ],
+    "antonyms": [
+      {"word": "superficially", "trans": "表面上は"},
+      {"word": "slightly", "trans": "わずかに"}
+    ],
+    "related": [
+      {"word": "fundamental", "trans": "形容詞：根本的な"},
+      {"word": "foundation", "trans": "名詞：土台、基礎"},
+      {"word": "fundamentalism", "trans": "名詞：原理主義"}
+    ]
+  },
+  {
+    "number": "461-2",
+    "word": "fundamental",
+    "pos": "形容詞",
+    "meaning": "根本的な、基本的な、主要な",
+    "nuance": "建物でいう「土台」のように、それがないと全体が成り立たないほど重要な要素を指します。名詞（fundamentals）で「基本、原理」を指すこともあります。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "Freedom of speech is a fundamental human right.",
+            "ja": "言論の自由は、基本的人権である。",
+            "highlight": "fundamental"
+          },
+          {
+            "en": "There is a fundamental flaw in your argument.",
+            "ja": "あなたの主張には根本的な欠陥がある。",
+            "highlight": "fundamental"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 fundamentum (土台) <br>→ 底にある基盤となるもの",
+    "synonyms": [
+      {"word": "basic", "trans": "基礎的な"},
+      {"word": "primary", "trans": "主要な"},
+      {"word": "elementary", "trans": "初歩的な"}
+    ],
+    "antonyms": [
+      {"word": "secondary", "trans": "二次的な、付随的な"},
+      {"word": "incidental", "trans": "些細な"}
+    ],
+    "related": [
+      {"word": "fundamentally", "trans": "副詞：根本的に"},
+      {"word": "fundamentals", "trans": "名詞：基本、諸原則"}
+    ]
+  },
+  {
+    "number": 462,
+    "word": "elemental",
+    "pos": "形容詞",
+    "meaning": "自然の力の、基本的な、元素の",
+    "nuance": "「element（要素・元素）」から派生し、自然界の抗えない強大な力（嵐や火など）や、非常に単純かつ不可欠な性質を指します。fundamentalよりも「生々しい自然の力」や「構成要素」というニュアンスが強いです。",
+    "example_sections": [
+      {
+        "title": "例文（自然の力）",
+        "examples": [
+          {
+            "en": "They struggled against the elemental force of the storm.",
+            "ja": "彼らは嵐という自然の猛威（抗えない力）に抗って苦闘した。",
+            "highlight": "elemental"
+          }
+        ]
+      },
+      {
+        "title": "例文（基本的な）",
+        "examples": [
+          {
+            "en": "The story explores the elemental human emotions of love and fear.",
+            "ja": "その物語は、愛や恐怖といった人間としての根源的な感情を掘り下げている。",
+            "highlight": "elemental"
+          }
+        ]
+      }
+    ],
+    "etymology": "element (要素、自然の力) + al (形容詞語尾) <br>→ 要素に関する",
+    "synonyms": [
+      {"word": "primitive", "trans": "原始的な"},
+      {"word": "natural", "trans": "自然の"},
+      {"word": "essential", "trans": "不可欠な"}
+    ],
+    "antonyms": [
+      {"word": "complex", "trans": "複雑な"},
+      {"word": "artificial", "trans": "人工的な"}
+    ],
+    "related": [
+      {"word": "element", "trans": "名詞：要素、元素"},
+      {"word": "elementary", "trans": "形容詞：初歩的な"}
+    ]
+  },
+  {
+    "number": 463,
+    "word": "integral",
+    "pos": "形容詞",
+    "meaning": "不可欠な、組み込まれた、整数の",
+    "nuance": "全体を構成する一部として「欠かせない」ことを強調します。ある機能が最初から内蔵されている状態（built-in）を指すことも多いです。数学では「積分の」という意味でも使われます。",
+    "example_sections": [
+      {
+        "title": "例文（不可欠な）",
+        "examples": [
+          {
+            "en": "Music is an integral part of his life.",
+            "ja": "音楽は彼の人生にとって不可欠な（切り離せない）一部だ。",
+            "highlight": "integral"
+          }
+        ]
+      },
+      {
+        "title": "例文（組み込まれた）",
+        "examples": [
+          {
+            "en": "The team needs a leader with integral skills in both management and tech.",
+            "ja": "チームは、経営と技術の両面で統合されたスキルを持つリーダーを必要としている。",
+            "highlight": "integral"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 integer (手つかずの、完全な) <br>→ 欠けていない全体を構成するもの",
+    "synonyms": [
+      {"word": "essential", "trans": "本質的な"},
+      {"word": "indispensable", "trans": "なしでは済まされない"},
+      {"word": "component", "trans": "構成要素の"}
+    ],
+    "antonyms": [
+      {"word": "peripheral", "trans": "周囲の、重要でない"},
+      {"word": "optional", "trans": "任意の、あってもなくてもよい"}
+    ],
+    "related": [
+      {"word": "integrate", "trans": "動詞：統合する"},
+      {"word": "integrity", "trans": "名詞：誠実さ、完全性"},
+      {"word": "integration", "trans": "名詞：統合"}
+    ]
+  },
+    {
+      "number": 464,
+      "word": "intrinsic",
+      "pos": "形容詞",
+      "meaning": "本質的な、固有の、内在的な",
+      "nuance": "物事の本来の性質や、外部の要因に依存しない内在的な価値を表します。extrinsic（外在的な）の対義語で、哲学や経済学でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The painting has intrinsic value beyond its market price.",
+              "ja": "その絵画は市場価格を超えた本質的な価値を持っている。",
+              "highlight": "intrinsic"
+            },
+            {
+              "en": "Curiosity is intrinsic to human nature.",
+              "ja": "好奇心は人間の本性に固有のものだ。",
+              "highlight": "intrinsic"
+            },
+            {
+              "en": "The material has intrinsic strength that makes it ideal for construction.",
+              "ja": "その材料は建設に理想的な固有の強度を持っている。",
+              "highlight": "intrinsic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 intrinsecus (内部の) <br>→ intra (内部に) + secus (沿って)",
+      "synonyms": [
+        {"word": "inherent", "trans": "固有の"},
+        {"word": "innate", "trans": "生まれつきの"},
+        {"word": "essential", "trans": "本質的な"},
+        {"word": "built-in", "trans": "組み込まれた"}
+      ],
+      "antonyms": [
+        {"word": "extrinsic", "trans": "外在的な"},
+        {"word": "external", "trans": "外部の"},
+        {"word": "acquired", "trans": "獲得した"}
+      ],
+      "related": [
+        {"word": "intrinsically", "trans": "副詞：本質的に"}
+      ]
+    },
+    {
+      "number": "464-2",
+      "word": "requisite",
+      "pos": "形容詞/名詞",
+      "meaning": "必要な、必須の / 必需品、必要条件",
+      "nuance": "何かを達成するために絶対に必要なものを表します。requiredよりもやや格式ばった表現で、法律や学術的な文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "She has the requisite skills for the job.",
+              "ja": "彼女はその仕事に必要なスキルを持っている。",
+              "highlight": "requisite"
+            },
+            {
+              "en": "The requisite documents must be submitted by Friday.",
+              "ja": "必要書類は金曜日までに提出しなければならない。",
+              "highlight": "requisite"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "A college degree is a requisite for this position.",
+              "ja": "大学の学位はこの職位の必要条件だ。",
+              "highlight": "requisite"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 requisitus (要求された) <br>→ requirere (求める) から",
+      "synonyms": [
+        {"word": "necessary", "trans": "必要な"},
+        {"word": "required", "trans": "必須の"},
+        {"word": "essential", "trans": "不可欠な"},
+        {"word": "mandatory", "trans": "義務的な"}
+      ],
+      "antonyms": [
+        {"word": "optional", "trans": "任意の"},
+        {"word": "unnecessary", "trans": "不必要な"},
+        {"word": "superfluous", "trans": "余分な"}
+      ],
+      "related": [
+        {
+          "word": "intrinsic",
+          "trans": "形容詞：本質的な",
+          "link": "464-intrinsic.html"
+        },
+        {
+          "word": "require", "trans": "動詞：必要とする"},
+        {"word": "prerequisite", "trans": "名詞：前提条件"}
+      ]
+    },
+    {
+      "number": 465,
+      "word": "discriminatory",
+      "pos": "形容詞",
+      "meaning": "差別的な、不公平な",
+      "nuance": "特定の集団に対して不当な扱いをする政策や行動を表します。人種、性別、年齢などに基づく差別を批判する際に使われる否定的な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The law prohibits discriminatory hiring practices.",
+              "ja": "その法律は差別的な採用慣行を禁止している。",
+              "highlight": "discriminatory"
+            },
+            {
+              "en": "Discriminatory policies must be eliminated from our society.",
+              "ja": "差別的な政策は私たちの社会から排除されなければならない。",
+              "highlight": "Discriminatory"
+            },
+            {
+              "en": "The court ruled that the treatment was discriminatory.",
+              "ja": "裁判所はその扱いが差別的であると判決を下した。",
+              "highlight": "discriminatory"
+            }
+          ]
+        }
+      ],
+      "etymology": "discriminate (差別する) + ory (形容詞語尾) <br>→ 差別する性質の",
+      "synonyms": [
+        {"word": "prejudiced", "trans": "偏見のある"},
+        {"word": "biased", "trans": "偏った"},
+        {"word": "unfair", "trans": "不公平な"},
+        {"word": "partial", "trans": "偏った"}
+      ],
+      "antonyms": [
+        {"word": "nondiscriminatory", "trans": "無差別の"},
+        {"word": "fair", "trans": "公平な"},
+        {"word": "equal", "trans": "平等な"},
+        {"word": "impartial", "trans": "公平な"}
+      ],
+      "related": [
+        {"word": "discriminate", "trans": "動詞：差別する"},
+        {"word": "discrimination", "trans": "名詞：差別"}
+      ]
+    },
+    {
+      "number": "465-2",
+      "word": "nondiscriminatory",
+      "pos": "形容詞",
+      "meaning": "無差別の、差別のない、公平な",
+      "nuance": "特定の集団を不当に扱わない、すべての人を平等に扱う政策や行動を表します。法律や公的文書でよく使われる肯定的な表現です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company has a nondiscriminatory employment policy.",
+              "ja": "その会社は無差別の雇用方針を持っている。",
+              "highlight": "nondiscriminatory"
+            },
+            {
+              "en": "All citizens deserve nondiscriminatory treatment under the law.",
+              "ja": "すべての市民は法の下で差別のない扱いを受けるに値する。",
+              "highlight": "nondiscriminatory"
+            },
+            {
+              "en": "The organization promotes nondiscriminatory practices.",
+              "ja": "その組織は無差別の慣行を推進している。",
+              "highlight": "nondiscriminatory"
+            }
+          ]
+        }
+      ],
+      "etymology": "non (非) + discriminatory (差別的な) <br>→ 差別的でない",
+      "synonyms": [
+        {"word": "fair", "trans": "公平な"},
+        {"word": "equal", "trans": "平等な"},
+        {"word": "impartial", "trans": "公平な"},
+        {"word": "unbiased", "trans": "偏見のない"}
+      ],
+      "antonyms": [
+        {"word": "discriminatory", "trans": "差別的な"},
+        {"word": "biased", "trans": "偏った"},
+        {"word": "prejudiced", "trans": "偏見のある"}
+      ],
+      "related": [
+        {
+          "word": "discriminatory",
+          "trans": "形容詞：差別的な",
+          "link": "465-discriminatory.html"
+        }
+      ]
+    },
+    {
+      "number": "465-3",
+      "word": "discriminate",
+      "pos": "動詞",
+      "meaning": "差別する、区別する、識別する",
+      "nuance": "否定的な文脈では「不当に差別する」、中立的な文脈では「見分ける、区別する」という意味になります。「discriminate against ~（〜を差別する）」「discriminate between A and B（AとBを区別する）」の形で使います。",
+      "example_sections": [
+        {
+          "title": "例文（差別する：否定的）",
+          "examples": [
+            {
+              "en": "It is illegal to discriminate against employees based on age.",
+              "ja": "年齢に基づいて従業員を差別することは違法だ。",
+              "highlight": "discriminate"
+            },
+            {
+              "en": "The company was accused of discriminating against women.",
+              "ja": "その会社は女性を差別していると非難された。",
+              "highlight": "discriminating"
+            }
+          ]
+        },
+        {
+          "title": "例文（区別する：中立的）",
+          "examples": [
+            {
+              "en": "Can you discriminate between the two wines?",
+              "ja": "二つのワインを区別できますか？",
+              "highlight": "discriminate"
+            },
+            {
+              "en": "The test discriminates between various levels of ability.",
+              "ja": "その試験は様々な能力レベルを識別する。",
+              "highlight": "discriminates"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 discriminare (区別する) <br>→ discrimen (区別) から",
+      "synonyms": [
+        {"word": "distinguish", "trans": "区別する"},
+        {"word": "differentiate", "trans": "識別する"},
+        {"word": "bias", "trans": "偏見を持つ（否定的）"}
+      ],
+      "antonyms": [
+        {"word": "equalize", "trans": "平等にする"},
+        {"word": "confuse", "trans": "混同する（区別の意味で）"}
+      ],
+      "related": [
+        {
+          "word": "discriminatory",
+          "trans": "形容詞：差別的な",
+          "link": "465-discriminatory.html"
+        },
+        {
+          "word": "discrimination",
+          "trans": "名詞：差別"
+        },
+        {"word": "discriminating", "trans": "形容詞：鋭い識別力のある"}
+      ]
+    },
+    {
+      "number": "465-4",
+      "word": "discrimination",
+      "pos": "名詞",
+      "meaning": "差別、識別、鑑識眼",
+      "nuance": "否定的な文脈では「不当な差別」、中立的・肯定的な文脈では「優れた識別能力」を意味します。社会問題としての差別を議論する際に最も頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文（差別：否定的）",
+          "examples": [
+            {
+              "en": "Racial discrimination is prohibited by law.",
+              "ja": "人種差別は法律で禁止されている。",
+              "highlight": "discrimination"
+            },
+            {
+              "en": "We must fight against all forms of discrimination.",
+              "ja": "私たちはあらゆる形態の差別と戦わなければならない。",
+              "highlight": "discrimination"
+            },
+            {
+              "en": "Gender discrimination remains a serious problem.",
+              "ja": "性差別は依然として深刻な問題である。",
+              "highlight": "discrimination"
+            }
+          ]
+        },
+        {
+          "title": "例文（識別力：肯定的）",
+          "examples": [
+            {
+              "en": "She shows great discrimination in her choice of art.",
+              "ja": "彼女は芸術の選択において優れた鑑識眼を示す。",
+              "highlight": "discrimination"
+            }
+          ]
+        }
+      ],
+      "etymology": "discriminate (区別する) + ion (名詞語尾) <br>→ 区別すること",
+      "synonyms": [
+        {"word": "prejudice", "trans": "偏見（否定的）"},
+        {"word": "bias", "trans": "偏り（否定的）"},
+        {"word": "discernment", "trans": "識別力（肯定的）"}
+      ],
+      "antonyms": [
+        {"word": "equality", "trans": "平等"},
+        {"word": "fairness", "trans": "公平"},
+        {"word": "impartiality", "trans": "公平性"}
+      ],
+      "related": [
+        {
+          "word": "discriminate",
+          "trans": "動詞：差別する",
+          "link": "465-discriminatory.html"
+        },
+        {
+          "word": "discriminatory",
+          "trans": "形容詞：差別的な"
+        }
+      ]
+    },
+    {
+      "number": "465-5",
+      "word": "nonsense",
+      "pos": "名詞/間投詞",
+      "meaning": "無意味なこと、ばかげたこと、たわごと",
+      "nuance": "論理的に意味をなさないことや、馬鹿げた考えや発言を表します。「That's nonsense!（ばかげている！）」のように強い否定を表現する際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "That theory is complete nonsense.",
+              "ja": "その理論は全くのたわごとだ。",
+              "highlight": "nonsense"
+            },
+            {
+              "en": "Don't talk nonsense! That's impossible.",
+              "ja": "ばかなことを言うな！それは不可能だ。",
+              "highlight": "nonsense"
+            },
+            {
+              "en": "The article was full of nonsense and misinformation.",
+              "ja": "その記事は無意味なことと誤情報でいっぱいだった。",
+              "highlight": "nonsense"
+            },
+            {
+              "en": "Nonsense! I don't believe a word of it.",
+              "ja": "ばかげている！一言も信じない。",
+              "highlight": "Nonsense"
+            }
+          ]
+        }
+      ],
+      "etymology": "non (無) + sense (意味) <br>→ 意味のないこと",
+      "synonyms": [
+        {"word": "rubbish", "trans": "くだらないこと"},
+        {"word": "absurdity", "trans": "不条理"},
+        {"word": "foolishness", "trans": "愚かさ"},
+        {"word": "drivel", "trans": "たわごと"}
+      ],
+      "antonyms": [
+        {"word": "sense", "trans": "意味"},
+        {"word": "logic", "trans": "論理"},
+        {"word": "reason", "trans": "理性"},
+        {"word": "wisdom", "trans": "知恵"}
+      ],
+      "related": [
+        {"word": "nonsensical", "trans": "形容詞：無意味な"}
+      ]
+    },
+    {
+      "number": 466,
+      "word": "segregate",
+      "pos": "動詞",
+      "meaning": "〜を分離する、隔離する、人種差別する",
+      "nuance": "集団を分けて別々にすることを表します。特に人種や民族に基づいて人々を分離する文脈で使われ、歴史的には人種隔離政策を指すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Schools were once segregated by race in the United States.",
+              "ja": "アメリカでは学校がかつて人種によって分離されていた。",
+              "highlight": "segregated"
+            },
+            {
+              "en": "The policy sought to segregate different ethnic groups.",
+              "ja": "その政策は異なる民族集団を分離しようとした。",
+              "highlight": "segregate"
+            },
+            {
+              "en": "Prisoners are segregated according to the severity of their crimes.",
+              "ja": "囚人は犯罪の重さに応じて隔離される。",
+              "highlight": "segregated"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 segregare (群れから離す) <br>→ se (離れて) + grex (群れ)",
+      "synonyms": [
+        {"word": "separate", "trans": "分離する"},
+        {"word": "isolate", "trans": "隔離する"},
+        {"word": "divide", "trans": "分ける"},
+        {"word": "partition", "trans": "仕切る"}
+      ],
+      "antonyms": [
+        {"word": "integrate", "trans": "統合する"},
+        {"word": "unite", "trans": "統一する"},
+        {"word": "combine", "trans": "結合する"},
+        {"word": "desegregate", "trans": "人種統合する"}
+      ],
+      "related": [
+        {"word": "segregation", "trans": "名詞：分離・隔離"},
+        {"word": "segregated", "trans": "形容詞：分離された"}
+      ]
+    },
+    {
+      "number": "466-2",
+      "word": "segregation",
+      "pos": "名詞",
+      "meaning": "分離、隔離、人種隔離",
+      "nuance": "集団を分けて別々にする行為や状態を表します。特にアメリカの公民権運動の文脈で、人種による分離政策を指すことが多く、否定的なニュアンスを持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Racial segregation was officially ended in the 1960s.",
+              "ja": "人種隔離は1960年代に公式に終わった。",
+              "highlight": "segregation"
+            },
+            {
+              "en": "The civil rights movement fought against segregation.",
+              "ja": "公民権運動は人種隔離に対して戦った。",
+              "highlight": "segregation"
+            },
+            {
+              "en": "Gender segregation exists in some societies.",
+              "ja": "一部の社会では性別による隔離が存在する。",
+              "highlight": "segregation"
+            }
+          ]
+        }
+      ],
+      "etymology": "segregate (分離する) + ion (名詞語尾) <br>→ 分離すること",
+      "synonyms": [
+        {"word": "separation", "trans": "分離"},
+        {"word": "isolation", "trans": "隔離"},
+        {"word": "partition", "trans": "分割"},
+        {"word": "apartheid", "trans": "アパルトヘイト"}
+      ],
+      "antonyms": [
+        {"word": "integration", "trans": "統合"},
+        {"word": "unification", "trans": "統一"},
+        {"word": "desegregation", "trans": "人種統合"}
+      ],
+      "related": [
+        {
+          "word": "segregate",
+          "trans": "動詞：分離する",
+          "link": "466-segregate.html"
+        }
+      ]
+    },
+    {
+      "number": 467,
+      "word": "implicit",
+      "pos": "形容詞",
+      "meaning": "暗黙の、含蓄的な、絶対的な",
+      "nuance": "明示的に述べられていないが理解されている、または当然含まれていることを表します。explicit（明示的な）の対義語で、言葉にされない前提や信頼を表現します。",
+      "example_sections": [
+        {
+          "title": "例文（暗黙の）",
+          "examples": [
+            {
+              "en": "There was an implicit assumption that everyone would agree.",
+              "ja": "全員が同意するという暗黙の前提があった。",
+              "highlight": "implicit"
+            },
+            {
+              "en": "The message was implicit in her tone of voice.",
+              "ja": "そのメッセージは彼女の声のトーンに含まれていた。",
+              "highlight": "implicit"
+            }
+          ]
+        },
+        {
+          "title": "例文（絶対的な信頼）",
+          "examples": [
+            {
+              "en": "She has implicit trust in her partner.",
+              "ja": "彼女はパートナーに絶対的な信頼を置いている。",
+              "highlight": "implicit"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 implicitus (巻き込まれた) <br>→ implicare (折り込む) から",
+      "synonyms": [
+        {"word": "implied", "trans": "暗示された"},
+        {"word": "understood", "trans": "理解された"},
+        {"word": "tacit", "trans": "暗黙の"},
+        {"word": "unspoken", "trans": "言葉にされない"}
+      ],
+      "antonyms": [
+        {"word": "explicit", "trans": "明示的な"},
+        {"word": "stated", "trans": "述べられた"},
+        {"word": "expressed", "trans": "表現された"}
+      ],
+      "related": [
+        {"word": "implicitly", "trans": "副詞：暗黙的に"},
+        {"word": "imply", "trans": "動詞：暗示する"}
+      ]
+    },
+    {
+      "number": 468,
+      "word": "impulsive",
+      "pos": "形容詞",
+      "meaning": "衝動的な、軽率な、思いつきの",
+      "nuance": "よく考えずに突然行動する傾向を表します。spontaneous（自発的な）よりも計画性がなく、しばしば後悔を伴うような軽率さのニュアンスがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He made an impulsive decision to quit his job.",
+              "ja": "彼は衝動的に仕事を辞める決断をした。",
+              "highlight": "impulsive"
+            },
+            {
+              "en": "Impulsive buying can lead to financial problems.",
+              "ja": "衝動買いは経済的問題につながる可能性がある。",
+              "highlight": "Impulsive"
+            },
+            {
+              "en": "She tends to be impulsive and acts without thinking.",
+              "ja": "彼女は衝動的になりがちで、考えずに行動する。",
+              "highlight": "impulsive"
+            }
+          ]
+        }
+      ],
+      "etymology": "impulse (衝動) + ive (形容詞語尾) <br>→ 衝動的な",
+      "synonyms": [
+        {"word": "rash", "trans": "軽率な"},
+        {"word": "hasty", "trans": "性急な"},
+        {"word": "spontaneous", "trans": "自発的な"},
+        {"word": "reckless", "trans": "無謀な"}
+      ],
+      "antonyms": [
+        {"word": "cautious", "trans": "慎重な"},
+        {"word": "deliberate", "trans": "慎重な"},
+        {"word": "thoughtful", "trans": "思慮深い"},
+        {"word": "calculated", "trans": "計算された"}
+      ],
+      "related": [
+        {"word": "impulse", "trans": "名詞：衝動"},
+        {"word": "impulsively", "trans": "副詞：衝動的に"}
+      ]
+    },
+    {
+      "number": "468-2",
+      "word": "impulse",
+      "pos": "名詞",
+      "meaning": "衝動、刺激、推進力",
+      "nuance": "突然の強い欲求や行動への駆り立て、または物理的な推進力を表します。「on impulse（衝動的に）」という表現でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（衝動）",
+          "examples": [
+            {
+              "en": "I bought the dress on impulse.",
+              "ja": "私は衝動的にそのドレスを買った。",
+              "highlight": "impulse"
+            },
+            {
+              "en": "He resisted the impulse to check his phone.",
+              "ja": "彼は携帯電話をチェックしたい衝動を抑えた。",
+              "highlight": "impulse"
+            },
+            {
+              "en": "She felt a sudden impulse to laugh.",
+              "ja": "彼女は突然笑いたい衝動を感じた。",
+              "highlight": "impulse"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 impulsus (押すこと) <br>→ impellere (押す) から",
+      "synonyms": [
+        {"word": "urge", "trans": "衝動"},
+        {"word": "desire", "trans": "欲求"},
+        {"word": "whim", "trans": "気まぐれ"},
+        {"word": "instinct", "trans": "本能"}
+      ],
+      "antonyms": [
+        {"word": "restraint", "trans": "抑制"},
+        {"word": "deliberation", "trans": "熟考"}
+      ],
+      "related": [
+        {
+          "word": "impulsive",
+          "trans": "形容詞：衝動的な",
+          "link": "468-impulsive.html"
+        },
+        {
+          "word": "impel", "trans": "動詞：駆り立てる"}
+      ]
+    },
+    {
+      "number": 469,
+      "word": "impair",
+      "pos": "動詞",
+      "meaning": "〜を損なう、弱める、悪化させる",
+      "nuance": "能力や機能を低下させ、正常に働かなくすることを表します。特に健康や視力、判断力などの低下について使われることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Lack of sleep can impair your judgment.",
+              "ja": "睡眠不足はあなたの判断力を損なう可能性がある。",
+              "highlight": "impair"
+            },
+            {
+              "en": "The disease impaired his vision.",
+              "ja": "その病気は彼の視力を低下させた。",
+              "highlight": "impaired"
+            },
+            {
+              "en": "Alcohol impairs driving ability.",
+              "ja": "アルコールは運転能力を損なう。",
+              "highlight": "impairs"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 empeirier (悪化させる) <br>→ ラテン語 pejorare (より悪くする)",
+      "synonyms": [
+        {"word": "damage", "trans": "損傷する"},
+        {"word": "weaken", "trans": "弱める"},
+        {"word": "diminish", "trans": "減少させる"},
+        {"word": "undermine", "trans": "損なう"}
+      ],
+      "antonyms": [
+        {"word": "improve", "trans": "改善する"},
+        {"word": "enhance", "trans": "高める"},
+        {"word": "strengthen", "trans": "強化する"}
+      ],
+      "related": [
+        {"word": "impairment", "trans": "名詞：障害・損傷"},
+        {"word": "impaired", "trans": "形容詞：損なわれた"}
+      ]
+    },
+    {
+      "number": "469-2",
+      "word": "immoral",
+      "pos": "形容詞",
+      "meaning": "不道徳な、非道徳的な、みだらな",
+      "nuance": "道徳的な基準に反する行動や考えを表します。amoralが「道徳観念がない」という中立的な意味であるのに対し、immoralは明確に「道徳に反する」という否定的な意味を持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Many people consider cheating to be immoral.",
+              "ja": "多くの人がカンニングを不道徳だと考えている。",
+              "highlight": "immoral"
+            },
+            {
+              "en": "The company was criticized for its immoral business practices.",
+              "ja": "その会社は非道徳的なビジネス慣行で批判された。",
+              "highlight": "immoral"
+            },
+            {
+              "en": "It would be immoral to ignore their suffering.",
+              "ja": "彼らの苦しみを無視するのは不道徳だろう。",
+              "highlight": "immoral"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + moral (道徳的な) <br>→ 道徳的でない",
+      "synonyms": [
+        {"word": "unethical", "trans": "非倫理的な"},
+        {"word": "wrong", "trans": "間違った"},
+        {"word": "wicked", "trans": "邪悪な"},
+        {"word": "corrupt", "trans": "腐敗した"}
+      ],
+      "antonyms": [
+        {"word": "moral", "trans": "道徳的な"},
+        {"word": "ethical", "trans": "倫理的な"},
+        {"word": "virtuous", "trans": "高潔な"},
+        {"word": "righteous", "trans": "正義の"}
+      ],
+      "related": [
+        {
+          "word": "impair",
+          "trans": "動詞：損なう",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "immorality", "trans": "名詞：不道徳"},
+        {"word": "immorally", "trans": "副詞：不道徳に"}
+      ]
+    },
+    {
       "number": "469-3",
       "word": "immortal",
       "pos": "形容詞/名詞",
