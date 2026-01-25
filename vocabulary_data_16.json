@@ -1,0 +1,880 @@
+    {
+      "number": "469-3",
+      "word": "immortal",
+      "pos": "形容詞/名詞",
+      "meaning": "不死の、不滅の、永遠の / 不死者、神",
+      "nuance": "死なない、または永遠に記憶される存在を表します。神話の神々や、偉大な業績によって歴史に名を残す人物について使われます。mortalの対義語です。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "The ancient Greeks believed in immortal gods.",
+              "ja": "古代ギリシャ人は不死の神々を信じていた。",
+              "highlight": "immortal"
+            },
+            {
+              "en": "Shakespeare's works have made him immortal.",
+              "ja": "シェイクスピアの作品は彼を不滅にした。",
+              "highlight": "immortal"
+            },
+            {
+              "en": "The poem captures the immortal beauty of nature.",
+              "ja": "その詩は自然の永遠の美しさを捉えている。",
+              "highlight": "immortal"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + mortal (死すべき) <br>→ 死なない",
+      "synonyms": [
+        {"word": "eternal", "trans": "永遠の"},
+        {"word": "undying", "trans": "不滅の"},
+        {"word": "everlasting", "trans": "永続する"},
+        {"word": "imperishable", "trans": "朽ちない"}
+      ],
+      "antonyms": [
+        {"word": "mortal", "trans": "死すべき"},
+        {"word": "temporary", "trans": "一時的な"},
+        {"word": "transient", "trans": "はかない"}
+      ],
+      "related": [
+        {
+          "word": "immoral",
+          "trans": "形容詞：不道徳な",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "immortality", "trans": "名詞：不死・不滅"},
+        {"word": "mortal", "trans": "形容詞：死すべき"}
+      ]
+    },
+    {
+      "number": "469-4",
+      "word": "impolite",
+      "pos": "形容詞",
+      "meaning": "無礼な、失礼な、不作法な",
+      "nuance": "社会的なマナーや礼儀に欠ける行動や態度を表します。rudeよりもやや婉曲的で、軽度から中度の無礼さを示します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It is impolite to interrupt someone while they're speaking.",
+              "ja": "人が話している最中に割り込むのは失礼だ。",
+              "highlight": "impolite"
+            },
+            {
+              "en": "His impolite behavior offended the guests.",
+              "ja": "彼の無礼な振る舞いはゲストの気分を害した。",
+              "highlight": "impolite"
+            },
+            {
+              "en": "She made an impolite remark about his appearance.",
+              "ja": "彼女は彼の外見について失礼な発言をした。",
+              "highlight": "impolite"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + polite (礼儀正しい) <br>→ 礼儀正しくない",
+      "synonyms": [
+        {"word": "rude", "trans": "無礼な"},
+        {"word": "discourteous", "trans": "失礼な"},
+        {"word": "disrespectful", "trans": "無礼な"},
+        {"word": "uncivil", "trans": "不作法な"}
+      ],
+      "antonyms": [
+        {"word": "polite", "trans": "礼儀正しい"},
+        {"word": "courteous", "trans": "丁寧な"},
+        {"word": "respectful", "trans": "礼儀正しい"}
+      ],
+      "related": [
+        {
+          "word": "immortal",
+          "trans": "形容詞：不死の",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "impolitely", "trans": "副詞：無礼に"},
+        {"word": "politeness", "trans": "名詞：礼儀正しさ"}
+      ]
+    },
+    {
+      "number": "469-5",
+      "word": "imprison",
+      "pos": "動詞",
+      "meaning": "〜を投獄する、監禁する、閉じ込める",
+      "nuance": "刑務所や牢に入れること、または物理的・比喩的に自由を奪うことを表します。法的な投獄だけでなく、状況や感情に「閉じ込められている」という比喩的な意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（投獄する）",
+          "examples": [
+            {
+              "en": "He was imprisoned for ten years for the crime.",
+              "ja": "彼はその犯罪で10年間投獄された。",
+              "highlight": "imprisoned"
+            },
+            {
+              "en": "The dictator imprisoned his political opponents.",
+              "ja": "その独裁者は政敵を投獄した。",
+              "highlight": "imprisoned"
+            }
+          ]
+        },
+        {
+          "title": "例文（比喩的）",
+          "examples": [
+            {
+              "en": "She felt imprisoned by her circumstances.",
+              "ja": "彼女は自分の境遇に閉じ込められていると感じた。",
+              "highlight": "imprisoned"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (中に) + prison (刑務所) <br>→ 刑務所に入れる",
+      "synonyms": [
+        {"word": "jail", "trans": "投獄する"},
+        {"word": "incarcerate", "trans": "投獄する"},
+        {"word": "confine", "trans": "監禁する"},
+        {"word": "detain", "trans": "拘束する"}
+      ],
+      "antonyms": [
+        {"word": "free", "trans": "解放する"},
+        {"word": "release", "trans": "釈放する"},
+        {"word": "liberate", "trans": "自由にする"}
+      ],
+      "related": [
+        {
+          "word": "impolite",
+          "trans": "形容詞：無礼な",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imprisonment", "trans": "名詞：投獄"},
+        {"word": "prison", "trans": "名詞：刑務所"}
+      ]
+    },
+    {
+      "number": "469-6",
+      "word": "imperative",
+      "pos": "形容詞/名詞",
+      "meaning": "必須の、緊急の、命令的な / 必要不可欠なこと、命令法",
+      "nuance": "絶対に必要で避けられないことを表します。単なる「重要」を超えて、「やらなければならない」という強い義務や緊急性を含みます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "It is imperative that we act now.",
+              "ja": "私たちが今行動することが必須だ。",
+              "highlight": "imperative"
+            },
+            {
+              "en": "Quick action is imperative in this situation.",
+              "ja": "この状況では迅速な行動が不可欠だ。",
+              "highlight": "imperative"
+            },
+            {
+              "en": "Customer satisfaction is imperative for business success.",
+              "ja": "顧客満足はビジネスの成功に不可欠だ。",
+              "highlight": "imperative"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 imperativus (命令的な) <br>→ imperare (命令する) から",
+      "synonyms": [
+        {"word": "essential", "trans": "不可欠な"},
+        {"word": "crucial", "trans": "極めて重要な"},
+        {"word": "vital", "trans": "必須の"},
+        {"word": "necessary", "trans": "必要な"}
+      ],
+      "antonyms": [
+        {"word": "optional", "trans": "任意の"},
+        {"word": "unnecessary", "trans": "不必要な"},
+        {"word": "unimportant", "trans": "重要でない"}
+      ],
+      "related": [
+        {
+          "word": "imprison",
+          "trans": "動詞：投獄する",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imperatively", "trans": "副詞：命令的に"}
+      ]
+    },
+    {
+      "number": "469-7",
+      "word": "implication",
+      "pos": "名詞",
+      "meaning": "含意、暗示、影響、関与",
+      "nuance": "明示的に述べられていないが推測される意味や、ある行動がもたらす結果を表します。「implication for ~（〜への影響）」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（含意・暗示）",
+          "examples": [
+            {
+              "en": "The implication of his words was clear.",
+              "ja": "彼の言葉の含意は明らかだった。",
+              "highlight": "implication"
+            },
+            {
+              "en": "What are the implications of this decision?",
+              "ja": "この決定の影響は何だろうか？",
+              "highlight": "implications"
+            }
+          ]
+        },
+        {
+          "title": "例文（関与）",
+          "examples": [
+            {
+              "en": "His implication in the scandal ruined his career.",
+              "ja": "そのスキャンダルへの彼の関与は彼のキャリアを台無しにした。",
+              "highlight": "implication"
+            }
+          ]
+        }
+      ],
+      "etymology": "imply (暗示する) + ation (名詞語尾) <br>→ 暗示すること",
+      "synonyms": [
+        {"word": "consequence", "trans": "結果"},
+        {"word": "inference", "trans": "推論"},
+        {"word": "suggestion", "trans": "示唆"},
+        {"word": "ramification", "trans": "影響"}
+      ],
+      "antonyms": [
+        {"word": "statement", "trans": "明言"},
+        {"word": "declaration", "trans": "宣言"}
+      ],
+      "related": [
+        {
+          "word": "imperative",
+          "trans": "形容詞：必須の",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imply", "trans": "動詞：暗示する"},
+        {"word": "implicit", "trans": "形容詞：暗黙の"}
+      ]
+    },
+    {
+      "number": "469-8",
+      "word": "impose",
+      "pos": "動詞",
+      "meaning": "〜を課す、押し付ける、制定する",
+      "nuance": "権威や力を使って義務や制限を強制すること、または人に負担をかけることを表します。「impose on ~（〜に迷惑をかける）」という表現もよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（課す・制定する）",
+          "examples": [
+            {
+              "en": "The government imposed new taxes on imports.",
+              "ja": "政府は輸入品に新しい税を課した。",
+              "highlight": "imposed"
+            },
+            {
+              "en": "The court imposed a heavy fine on the company.",
+              "ja": "裁判所はその会社に重い罰金を科した。",
+              "highlight": "imposed"
+            }
+          ]
+        },
+        {
+          "title": "例文（押し付ける・迷惑をかける）",
+          "examples": [
+            {
+              "en": "I don't want to impose on your hospitality.",
+              "ja": "あなたのご厚意に甘えたくありません。",
+              "highlight": "impose"
+            },
+            {
+              "en": "He imposed his views on others.",
+              "ja": "彼は自分の意見を他人に押し付けた。",
+              "highlight": "imposed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 imponere (置く、課す) <br>→ in (上に) + ponere (置く)",
+      "synonyms": [
+        {"word": "levy", "trans": "課す"},
+        {"word": "enforce", "trans": "強制する"},
+        {"word": "inflict", "trans": "負わせる"},
+        {"word": "force", "trans": "強いる"}
+      ],
+      "antonyms": [
+        {"word": "remove", "trans": "取り除く"},
+        {"word": "lift", "trans": "解除する"},
+        {"word": "relieve", "trans": "解放する"}
+      ],
+      "related": [
+        {
+          "word": "implication",
+          "trans": "名詞：含意",
+          "link": "469-impair.html"
+        },
+        {
+          "word": "imposition", "trans": "名詞：課すこと・押し付け"},
+        {"word": "imposing", "trans": "形容詞：堂々とした"}
+      ]
+    },
+    {
+      "number": 470,
+      "word": "likeness",
+      "pos": "名詞",
+      "meaning": "類似、似ていること、肖像",
+      "nuance": "外見や性質が似ていることを表します。特に肖像画や写真が本人に「似ている」という意味でよく使われ、やや格式ばった表現です。",
+      "example_sections": [
+        {
+          "title": "例文（類似）",
+          "examples": [
+            {
+              "en": "There is a strong likeness between the two sisters.",
+              "ja": "二人の姉妹には強い類似性がある。",
+              "highlight": "likeness"
+            },
+            {
+              "en": "The child bears a striking likeness to her mother.",
+              "ja": "その子供は母親に驚くほど似ている。",
+              "highlight": "likeness"
+            }
+          ]
+        },
+        {
+          "title": "例文（肖像）",
+          "examples": [
+            {
+              "en": "The artist captured a perfect likeness of the subject.",
+              "ja": "芸術家は被写体の完璧な肖像を捉えた。",
+              "highlight": "likeness"
+            },
+            {
+              "en": "The statue is a good likeness of the historical figure.",
+              "ja": "その像は歴史上の人物によく似ている。",
+              "highlight": "likeness"
+            }
+          ]
+        }
+      ],
+      "etymology": "like (似た) + ness (名詞語尾) <br>→ 似ていること",
+      "synonyms": [
+        {"word": "resemblance", "trans": "類似"},
+        {"word": "similarity", "trans": "類似性"},
+        {"word": "portrait", "trans": "肖像"},
+        {"word": "image", "trans": "像"}
+      ],
+      "antonyms": [
+        {"word": "difference", "trans": "相違"},
+        {"word": "dissimilarity", "trans": "非類似性"},
+        {"word": "contrast", "trans": "対照"}
+      ],
+      "related": [
+        {"word": "like", "trans": "形容詞：似た"},
+        {"word": "alike", "trans": "形容詞：似ている"},
+        {"word": "likely", "trans": "形容詞：ありそうな"}
+      ]
+    },
+    {
+      "number": 471,
+      "word": "responsiveness",
+      "pos": "名詞",
+      "meaning": "反応の良さ、応答性、敏感さ",
+      "nuance": "刺激や要求に対して迅速かつ適切に反応する性質を表します。ビジネスや技術の文脈では「顧客への対応の良さ」や「システムの応答速度」を指すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Customer service responsiveness is crucial for business success.",
+              "ja": "顧客サービスの応答性はビジネスの成功に不可欠だ。",
+              "highlight": "responsiveness"
+            },
+            {
+              "en": "The company is known for its responsiveness to market changes.",
+              "ja": "その会社は市場の変化への反応の良さで知られている。",
+              "highlight": "responsiveness"
+            },
+            {
+              "en": "The child showed great responsiveness to the therapy.",
+              "ja": "その子供は治療に対して非常に良い反応を示した。",
+              "highlight": "responsiveness"
+            }
+          ]
+        }
+      ],
+      "etymology": "responsive (反応する) + ness (名詞語尾) <br>→ 反応する性質",
+      "synonyms": [
+        {"word": "sensitivity", "trans": "敏感さ"},
+        {"word": "reactivity", "trans": "反応性"},
+        {"word": "attentiveness", "trans": "注意深さ"}
+      ],
+      "antonyms": [
+        {"word": "unresponsiveness", "trans": "無反応"},
+        {"word": "insensitivity", "trans": "鈍感さ"}
+      ],
+      "related": [
+        {"word": "responsive", "trans": "形容詞：反応の良い"},
+        {"word": "respond", "trans": "動詞：応答する"}
+      ]
+    },
+    {
+      "number": "471-2",
+      "word": "responsive",
+      "pos": "形容詞",
+      "meaning": "反応の良い、敏感な、応答性のある",
+      "nuance": "刺激や要求に対して迅速に適切な反応を示すことを表します。「responsive to ~（〜に反応する）」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company is very responsive to customer feedback.",
+              "ja": "その会社は顧客のフィードバックに非常に反応が良い。",
+              "highlight": "responsive"
+            },
+            {
+              "en": "He is responsive to new ideas and suggestions.",
+              "ja": "彼は新しいアイデアや提案に対して反応が良い。",
+              "highlight": "responsive"
+            },
+            {
+              "en": "The website has a responsive design that works on all devices.",
+              "ja": "そのウェブサイトはすべてのデバイスで機能するレスポンシブデザインを持っている。",
+              "highlight": "responsive"
+            }
+          ]
+        }
+      ],
+      "etymology": "respond (応答する) + ive (形容詞語尾) <br>→ 応答する性質の",
+      "synonyms": [
+        {"word": "sensitive", "trans": "敏感な"},
+        {"word": "reactive", "trans": "反応する"},
+        {"word": "attentive", "trans": "注意深い"}
+      ],
+      "antonyms": [
+        {"word": "unresponsive", "trans": "無反応な"},
+        {"word": "insensitive", "trans": "鈍感な"},
+        {"word": "indifferent", "trans": "無関心な"}
+      ],
+      "related": [
+        {
+          "word": "responsiveness",
+          "trans": "名詞：反応の良さ",
+          "link": "471-responsiveness.html"
+        },
+        {
+          "word": "respond", "trans": "動詞：応答する"}
+      ]
+    },
+    {
+      "number": 472,
+      "word": "richness",
+      "pos": "名詞",
+      "meaning": "豊かさ、豊富さ、濃厚さ",
+      "nuance": "量や質が豊富であること、または色や味が濃厚であることを表します。物質的な富だけでなく、経験や文化の豊かさも指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The richness of the culture impressed the visitors.",
+              "ja": "その文化の豊かさは訪問者たちを感動させた。",
+              "highlight": "richness"
+            },
+            {
+              "en": "The sauce has a wonderful richness and depth of flavor.",
+              "ja": "そのソースは素晴らしい濃厚さと味の深みを持っている。",
+              "highlight": "richness"
+            },
+            {
+              "en": "The museum displays the richness of ancient art.",
+              "ja": "その博物館は古代芸術の豊かさを展示している。",
+              "highlight": "richness"
+            }
+          ]
+        }
+      ],
+      "etymology": "rich (豊かな) + ness (名詞語尾) <br>→ 豊かなこと",
+      "synonyms": [
+        {"word": "abundance", "trans": "豊富"},
+        {"word": "wealth", "trans": "富"},
+        {"word": "opulence", "trans": "豊かさ"},
+        {"word": "fullness", "trans": "豊満"}
+      ],
+      "antonyms": [
+        {"word": "poverty", "trans": "貧困"},
+        {"word": "scarcity", "trans": "不足"},
+        {"word": "plainness", "trans": "質素さ"}
+      ],
+      "related": [
+        {"word": "rich", "trans": "形容詞：豊かな"},
+        {"word": "enrich", "trans": "動詞：豊かにする"}
+      ]
+    },
+    {
+      "number": "472-2",
+      "word": "anxiousness",
+      "pos": "名詞",
+      "meaning": "不安、心配、切望",
+      "nuance": "心配や不安を感じている状態、または何かを強く望んでいる状態を表します。anxietyよりもやや軽度で一時的な不安を指すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文（不安・心配）",
+          "examples": [
+            {
+              "en": "His anxiousness about the exam kept him awake at night.",
+              "ja": "試験への不安が彼を夜眠れなくさせた。",
+              "highlight": "anxiousness"
+            },
+            {
+              "en": "The anxiousness in her voice was evident.",
+              "ja": "彼女の声の中の不安は明らかだった。",
+              "highlight": "anxiousness"
+            }
+          ]
+        },
+        {
+          "title": "例文（切望）",
+          "examples": [
+            {
+              "en": "They showed great anxiousness to help.",
+              "ja": "彼らは助けたいという強い切望を示した。",
+              "highlight": "anxiousness"
+            }
+          ]
+        }
+      ],
+      "etymology": "anxious (不安な) + ness (名詞語尾) <br>→ 不安な状態",
+      "synonyms": [
+        {"word": "anxiety", "trans": "不安"},
+        {"word": "worry", "trans": "心配"},
+        {"word": "nervousness", "trans": "神経質"},
+        {"word": "eagerness", "trans": "切望（肯定的な意味で）"}
+      ],
+      "antonyms": [
+        {"word": "calmness", "trans": "落ち着き"},
+        {"word": "confidence", "trans": "自信"},
+        {"word": "tranquility", "trans": "平穏"}
+      ],
+      "related": [
+        {
+          "word": "richness",
+          "trans": "名詞：豊かさ",
+          "link": "472-richness.html"
+        },
+        {
+          "word": "anxious", "trans": "形容詞：不安な"}
+      ]
+    },
+    {
+      "number": "472-3",
+      "word": "eagerness",
+      "pos": "名詞",
+      "meaning": "熱心さ、熱意、切望",
+      "nuance": "何かを強く望み、それに向かって意欲的に取り組む姿勢を表します。肯定的なニュアンスを持ち、情熱や積極性を示します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She showed great eagerness to learn new skills.",
+              "ja": "彼女は新しいスキルを学ぶことに大きな熱意を示した。",
+              "highlight": "eagerness"
+            },
+            {
+              "en": "The students' eagerness to participate was impressive.",
+              "ja": "生徒たちの参加への熱心さは印象的だった。",
+              "highlight": "eagerness"
+            },
+            {
+              "en": "His eagerness for success drove him to work hard.",
+              "ja": "成功への彼の切望が彼を懸命に働かせた。",
+              "highlight": "eagerness"
+            }
+          ]
+        }
+      ],
+      "etymology": "eager (熱心な) + ness (名詞語尾) <br>→ 熱心なこと",
+      "synonyms": [
+        {"word": "enthusiasm", "trans": "熱意"},
+        {"word": "keenness", "trans": "熱心さ"},
+        {"word": "zeal", "trans": "熱意"},
+        {"word": "avidity", "trans": "熱望"}
+      ],
+      "antonyms": [
+        {"word": "indifference", "trans": "無関心"},
+        {"word": "apathy", "trans": "無気力"},
+        {"word": "reluctance", "trans": "気乗りしないこと"}
+      ],
+      "related": [
+        {
+          "word": "anxiousness",
+          "trans": "名詞：不安",
+          "link": "472-richness.html"
+        },
+        {
+          "word": "eager", "trans": "形容詞：熱心な"}
+      ]
+    },
+    {
+      "number": "472-4",
+      "word": "gratefulness",
+      "pos": "名詞",
+      "meaning": "感謝、感謝の気持ち",
+      "nuance": "親切や好意に対して感謝している状態を表します。gratitudeと同義ですが、gratefulnessの方がやや口語的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She expressed her gratefulness for their support.",
+              "ja": "彼女は彼らのサポートへの感謝を表明した。",
+              "highlight": "gratefulness"
+            },
+            {
+              "en": "His gratefulness was evident in his words.",
+              "ja": "彼の感謝の気持ちは言葉に表れていた。",
+              "highlight": "gratefulness"
+            },
+            {
+              "en": "They showed deep gratefulness for the opportunity.",
+              "ja": "彼らはその機会に対して深い感謝を示した。",
+              "highlight": "gratefulness"
+            }
+          ]
+        }
+      ],
+      "etymology": "grateful (感謝している) + ness (名詞語尾) <br>→ 感謝している状態",
+      "synonyms": [
+        {"word": "gratitude", "trans": "感謝"},
+        {"word": "appreciation", "trans": "感謝"},
+        {"word": "thankfulness", "trans": "感謝の気持ち"}
+      ],
+      "antonyms": [
+        {"word": "ingratitude", "trans": "恩知らず"},
+        {"word": "ungratefulness", "trans": "感謝しないこと"}
+      ],
+      "related": [
+        {
+          "word": "eagerness",
+          "trans": "名詞：熱心さ",
+          "link": "472-richness.html"
+        },
+        {
+          "word": "grateful", "trans": "形容詞：感謝している"}
+      ]
+    },
+    {
+      "number": "472-5",
+      "word": "loneliness",
+      "pos": "名詞",
+      "meaning": "孤独、寂しさ、孤立",
+      "nuance": "人との繋がりや交流が欠如していることから生じる寂しさや孤独感を表します。物理的な孤立だけでなく、心理的な孤独も含みます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The elderly man suffered from loneliness after his wife died.",
+              "ja": "その老人は妻が亡くなった後、孤独に苦しんだ。",
+              "highlight": "loneliness"
+            },
+            {
+              "en": "Social media can sometimes increase feelings of loneliness.",
+              "ja": "ソーシャルメディアは時に孤独感を増大させることがある。",
+              "highlight": "loneliness"
+            },
+            {
+              "en": "She moved to a new city and experienced profound loneliness.",
+              "ja": "彼女は新しい街に引っ越して深い孤独を経験した。",
+              "highlight": "loneliness"
+            }
+          ]
+        }
+      ],
+      "etymology": "lonely (孤独な) + ness (名詞語尾) <br>→ 孤独な状態",
+      "synonyms": [
+        {"word": "solitude", "trans": "孤独"},
+        {"word": "isolation", "trans": "孤立"},
+        {"word": "seclusion", "trans": "隔離"}
+      ],
+      "antonyms": [
+        {"word": "companionship", "trans": "交友"},
+        {"word": "togetherness", "trans": "一体感"},
+        {"word": "company", "trans": "仲間"}
+      ],
+      "related": [
+        {
+          "word": "gratefulness",
+          "trans": "名詞：感謝",
+          "link": "472-richness.html"
+        },
+        {
+          "word": "lonely", "trans": "形容詞：孤独な"},
+        {"word": "alone", "trans": "形容詞：一人で"}
+      ]
+    },
+    {
+      "number": "472-6",
+      "word": "selfishness",
+      "pos": "名詞",
+      "meaning": "利己主義、自分勝手、わがまま",
+      "nuance": "自分の利益や欲求だけを優先し、他者への配慮に欠ける態度や行動を表します。否定的なニュアンスを持つ言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His selfishness destroyed many friendships.",
+              "ja": "彼の利己主義は多くの友情を壊した。",
+              "highlight": "selfishness"
+            },
+            {
+              "en": "The decision was motivated by pure selfishness.",
+              "ja": "その決定は純粋な自分勝手さによって動機づけられた。",
+              "highlight": "selfishness"
+            },
+            {
+              "en": "Parents teach children to overcome selfishness.",
+              "ja": "親は子供たちにわがままを克服することを教える。",
+              "highlight": "selfishness"
+            }
+          ]
+        }
+      ],
+      "etymology": "selfish (利己的な) + ness (名詞語尾) <br>→ 利己的な状態",
+      "synonyms": [
+        {"word": "egoism", "trans": "利己主義"},
+        {"word": "self-centeredness", "trans": "自己中心性"},
+        {"word": "greed", "trans": "貪欲"}
+      ],
+      "antonyms": [
+        {"word": "selflessness", "trans": "無私"},
+        {"word": "generosity", "trans": "寛大さ"},
+        {"word": "altruism", "trans": "利他主義"}
+      ],
+      "related": [
+        {
+          "word": "loneliness",
+          "trans": "名詞：孤独",
+          "link": "472-richness.html"
+        },
+        {
+          "word": "selfish", "trans": "形容詞：利己的な"}
+      ]
+    },
+    {
+      "number": "472-7",
+      "word": "usefulness",
+      "pos": "名詞",
+      "meaning": "有用性、役立つこと、便利さ",
+      "nuance": "実用的な価値や目的を果たす能力を表します。何かが実際に役に立つ度合いを示す肯定的な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The usefulness of this tool cannot be overstated.",
+              "ja": "この道具の有用性はいくら強調してもしすぎることはない。",
+              "highlight": "usefulness"
+            },
+            {
+              "en": "They questioned the usefulness of the new policy.",
+              "ja": "彼らは新しい政策の有用性を疑問視した。",
+              "highlight": "usefulness"
+            },
+            {
+              "en": "The training improved the usefulness of the software.",
+              "ja": "トレーニングはそのソフトウェアの有用性を向上させた。",
+              "highlight": "usefulness"
+            }
+          ]
+        }
+      ],
+      "etymology": "useful (役立つ) + ness (名詞語尾) <br>→ 役立つこと",
+      "synonyms": [
+        {"word": "utility", "trans": "有用性"},
+        {"word": "value", "trans": "価値"},
+        {"word": "practicality", "trans": "実用性"},
+        {"word": "benefit", "trans": "利益"}
+      ],
+      "antonyms": [
+        {"word": "uselessness", "trans": "無用"},
+        {"word": "futility", "trans": "無益"},
+        {"word": "worthlessness", "trans": "無価値"}
+      ],
+      "related": [
+        {
+          "word": "selfishness",
+          "trans": "名詞：利己主義",
+          "link": "472-richness.html"
+        },
+        {
+          "word": "useful", "trans": "形容詞：役立つ"}
+      ]
+    },
+    {
+      "number": "472-8",
+      "word": "weakness",
+      "pos": "名詞",
+      "meaning": "弱さ、弱点、欠点",
+      "nuance": "物理的・精神的な力の欠如、または性格や能力の弱点を表します。「have a weakness for ~（〜に目がない）」という表現で特定のものへの抗しがたい好みを示すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文（弱さ・弱点）",
+          "examples": [
+            {
+              "en": "Physical weakness prevented him from completing the race.",
+              "ja": "体力的な弱さが彼のレース完走を妨げた。",
+              "highlight": "weakness"
+            },
+            {
+              "en": "The team's weakness is their defense.",
+              "ja": "チームの弱点は守備だ。",
+              "highlight": "weakness"
+            },
+            {
+              "en": "Admitting your weaknesses is a sign of strength.",
+              "ja": "自分の弱点を認めることは強さの証だ。",
+              "highlight": "weaknesses"
+            }
+          ]
+        },
+        {
+          "title": "例文（〜に目がない）",
+          "examples": [
+            {
+              "en": "She has a weakness for chocolate.",
+              "ja": "彼女はチョコレートに目がない。",
+              "highlight": "weakness"
+            }
+          ]
+        }
+      ],
+      "etymology": "weak (弱い) + ness (名詞語尾) <br>→ 弱いこと",
+      "synonyms": [
+        {"word": "frailty", "trans": "虚弱"},
+        {"word": "flaw", "trans": "欠陥"},
+        {"word": "vulnerability", "trans": "脆弱性"},
+        {"word": "deficiency", "trans": "欠乏"}
+      ],
+      "antonyms": [
+        {"word": "strength", "trans": "強さ"},
+        {"word": "power", "trans": "力"},
+        {"word": "asset", "trans": "長所"}
+      ],
+      "related": [
+        {
+          "word": "usefulness",
+          "trans": "名詞：有用性",
+          "link": "472-richness.html"
+        },
+        {
+          "word": "weak", "trans": "形容詞：弱い"},
+        {"word": "weaken", "trans": "動詞：弱める"}
+      ]
+    }
