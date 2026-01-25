@@ -2,7 +2,6 @@ import json
 import os
 import re
 from pathlib import Path
-import glob
 
 # メイン単語用のHTMLテンプレート
 HTML_TEMPLATE_MAIN = """<!DOCTYPE html>
@@ -195,33 +194,6 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
 </html>"""
 
 
-def load_all_vocabulary_data():
-    """すべてのJSONファイルを読み込んで統合"""
-    all_words = []
-    
-    # vocabulary_data.json が存在する場合（従来の単一ファイル）
-    if os.path.exists('vocabulary_data.json'):
-        print("📖 vocabulary_data.json を読み込んでいます...")
-        with open('vocabulary_data.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            all_words.extend(data.get('words', []))
-    
-    # vocabulary_data/ フォルダ内のJSONファイルを読み込み（新しい分割方式）
-    if os.path.exists('vocabulary_data'):
-        json_files = sorted(glob.glob('vocabulary_data/*.json'))
-        for json_file in json_files:
-            print(f"📖 {json_file} を読み込んでいます...")
-            with open(json_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                all_words.extend(data.get('words', []))
-    
-    if not all_words:
-        print("⚠️  単語データが見つかりません！")
-        print("   vocabulary_data.json または vocabulary_data/*.json を確認してください。")
-    
-    return all_words
-
-
 def parse_number(number_str):
     """番号文字列をパース (例: "422" -> (422, 0), "422-2" -> (422, 2))"""
     parts = str(number_str).split('-')
@@ -280,35 +252,46 @@ def generate_word_list(words, is_sub_word=False, main_number=None):
     html = ""
     for w in words:
         if 'link' in w and w['link']:
+            # リンク付きの関連語（メイン単語へのリンク）
             color = '#28a745' if is_sub_word else '#2c3e50'
             html += f'''                <a href="{w['link']}" style="text-decoration: none;">
                     <span class="word-small" style="color: {color};">{w["word"]}</span>
                     <span class="trans-small">({w["trans"]})</span>
                 </a>\n'''
         else:
+            # 通常の単語
             html += f'                <div class="list-unit"><span class="word-small">{w["word"]}</span><span class="trans-small">({w["trans"]})</span></div>\n'
     return html
 
 
 def generate_html(data, current_index, sorted_words):
     """JSONデータからHTMLを生成"""
+    
+    # 番号に "-" が含まれているかチェック（例: 422-2）
     is_sub_word = '-' in str(data['number'])
     template = HTML_TEMPLATE_SUB if is_sub_word else HTML_TEMPLATE_MAIN
     
+    # ナビゲーションボタンを生成
     prev_button, next_button = generate_nav_buttons(current_index, sorted_words)
+    
+    # メイン番号を取得（サブ単語の場合）
     main_number = str(data['number']).split('-')[0] if is_sub_word else None
     
+    # 例文セクションを生成
     examples_sections = ""
     if 'example_sections' in data:
         for section in data['example_sections']:
             examples_sections += generate_example_section(section['title'], section['examples'])
     else:
+        # 例文セクションがない場合はデフォルトで「例文」として処理
         examples_sections = generate_example_section('例文', data.get('examples', []))
     
+    # 単語リストを生成
     synonyms = generate_word_list(data.get('synonyms', []), is_sub_word, main_number)
     antonyms = generate_word_list(data.get('antonyms', []), is_sub_word, main_number)
     related = generate_word_list(data.get('related', []), is_sub_word, main_number)
     
+    # HTMLを生成
     html = template.format(
         number=data['number'],
         word=data['word'],
@@ -329,14 +312,12 @@ def generate_html(data, current_index, sorted_words):
 
 def main():
     """メイン処理"""
-    # すべてのJSONファイルから単語データを読み込み
-    all_words = load_all_vocabulary_data()
-    
-    if not all_words:
-        return
+    # JSONファイルを読み込み
+    with open('vocabulary_data.json', 'r', encoding='utf-8') as f:
+        vocab_data = json.load(f)
     
     # 単語をソート（メイン→サブの順）
-    sorted_words = sort_words_by_number(all_words)
+    sorted_words = sort_words_by_number(vocab_data['words'])
     
     # dataディレクトリを作成
     data_dir = Path('data')
@@ -346,9 +327,11 @@ def main():
     for index, word_data in enumerate(sorted_words):
         html_content = generate_html(word_data, index, sorted_words)
         
+        # ファイル名を生成
         filename = get_filename(word_data)
         filepath = data_dir / filename
         
+        # HTMLファイルを保存
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(html_content)
         
