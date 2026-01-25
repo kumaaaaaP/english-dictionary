@@ -2,6 +2,7 @@ import json
 import os
 import re
 from pathlib import Path
+from glob import glob
 
 # メイン単語用のHTMLテンプレート
 HTML_TEMPLATE_MAIN = """<!DOCTYPE html>
@@ -194,6 +195,30 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
 </html>"""
 
 
+def load_all_vocabulary_files():
+    """vocabulary_data*.jsonファイルをすべて読み込んで統合"""
+    all_words = []
+    
+    # vocabulary_data.json と vocabulary_data_*.json の両方に対応
+    json_files = sorted(glob('vocabulary_data*.json'))
+    
+    if not json_files:
+        print("エラー: vocabulary_data.json または vocabulary_data_*.json が見つかりません")
+        return []
+    
+    print(f"\n読み込むJSONファイル: {len(json_files)}件")
+    for json_file in json_files:
+        print(f"  - {json_file}")
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            words = data.get('words', [])
+            all_words.extend(words)
+            print(f"    → {len(words)}個の単語を読み込み")
+    
+    print(f"\n合計: {len(all_words)}個の単語を統合")
+    return all_words
+
+
 def parse_number(number_str):
     """番号文字列をパース (例: "422" -> (422, 0), "422-2" -> (422, 2))"""
     parts = str(number_str).split('-')
@@ -312,17 +337,20 @@ def generate_html(data, current_index, sorted_words):
 
 def main():
     """メイン処理"""
-    # JSONファイルを読み込み
-    with open('vocabulary_data.json', 'r', encoding='utf-8') as f:
-        vocab_data = json.load(f)
+    # すべてのJSONファイルを読み込んで統合
+    all_words = load_all_vocabulary_files()
+    
+    if not all_words:
+        return
     
     # 単語をソート（メイン→サブの順）
-    sorted_words = sort_words_by_number(vocab_data['words'])
+    sorted_words = sort_words_by_number(all_words)
     
     # dataディレクトリを作成
     data_dir = Path('data')
     data_dir.mkdir(exist_ok=True)
     
+    print(f"\nHTML生成開始...")
     # 各単語のHTMLファイルを生成
     for index, word_data in enumerate(sorted_words):
         html_content = generate_html(word_data, index, sorted_words)
@@ -338,7 +366,7 @@ def main():
         word_type = "サブ単語" if '-' in str(word_data['number']) else "メイン単語"
         print(f"✓ 生成完了 [{word_type}]: {filepath}")
     
-    print(f"\n合計 {len(sorted_words)} 件のHTMLファイルを生成しました。")
+    print(f"\n✅ 合計 {len(sorted_words)} 件のHTMLファイルを生成しました。")
 
 
 if __name__ == '__main__':
