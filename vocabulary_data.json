@@ -1,4 +1,5 @@
-[
+{
+  "words": [
   {
     "number": 1,
     "word": "complexity",
@@ -168,4 +169,5 @@
       {"word": "tailwind", "trans": "名詞：追い風（関連：状況の勢い）"}
     ]
   }
-  
+  ]
+}
