@@ -1,4 +1,1022 @@
+{
+  "words": [
+    
+
+    
+
     {
+      "number": 441,
+      "word": "color-blind",
+      "pos": "形容詞",
+      "meaning": "色覚異常の、色盲の、人種差別をしない",
+      "nuance": "文字通りには色の区別がつかない状態を指しますが、比喩的には「人種や肌の色による差別をしない」という肯定的な意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（医学的な意味）",
+          "examples": [
+            {
+              "en": "He is color-blind and cannot distinguish red from green.",
+              "ja": "彼は色覚異常で赤と緑の区別がつかない。",
+              "highlight": "color-blind"
+            }
+          ]
+        },
+        {
+          "title": "例文（比喩的な意味）",
+          "examples": [
+            {
+              "en": "We should strive to be color-blind in our hiring practices.",
+              "ja": "採用活動では人種差別をしないよう努めるべきだ。",
+              "highlight": "color-blind"
+            },
+            {
+              "en": "A truly color-blind society treats everyone equally.",
+              "ja": "真に人種差別のない社会はすべての人を平等に扱う。",
+              "highlight": "color-blind"
+            }
+          ]
+        }
+      ],
+      "etymology": "color (色) + blind (見えない) <br>→ 色が見えない",
+      "synonyms": [
+        {"word": "colorblind", "trans": "色覚異常の（ハイフンなし）"},
+        {"word": "race-neutral", "trans": "人種中立的な"}
+      ],
+      "antonyms": [
+        {"word": "race-conscious", "trans": "人種を意識した"},
+        {"word": "discriminatory", "trans": "差別的な"}
+      ],
+      "related": [
+        {"word": "blind", "trans": "形容詞：盲目の"},
+        {"word": "color blindness", "trans": "名詞：色覚異常"}
+      ]
+    },
+    {
+      "number": "441-2",
+      "word": "blind",
+      "pos": "形容詞/動詞",
+      "meaning": "盲目の、見えない / 〜の目を見えなくする",
+      "nuance": "視覚的に見えない状態だけでなく、「blind to ~（〜に気づかない）」のように比喩的にも使われます。動詞では一時的または永久的に視力を奪うことを表します。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "He has been blind since birth.",
+              "ja": "彼は生まれつき目が見えない。",
+              "highlight": "blind"
+            },
+            {
+              "en": "She was blind to his faults.",
+              "ja": "彼女は彼の欠点に気づいていなかった。",
+              "highlight": "blind"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The bright light temporarily blinded me.",
+              "ja": "強い光で一時的に目が見えなくなった。",
+              "highlight": "blinded"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 blind (見えない) <br>→ ゲルマン祖語由来",
+      "synonyms": [
+        {"word": "sightless", "trans": "視力のない"},
+        {"word": "unseeing", "trans": "見えない"},
+        {"word": "oblivious", "trans": "気づかない（比喩）"}
+      ],
+      "antonyms": [
+        {"word": "sighted", "trans": "目の見える"},
+        {"word": "aware", "trans": "気づいている"}
+      ],
+      "related": [
+        {
+          "word": "color-blind",
+          "trans": "形容詞：色覚異常の",
+          "link": "441-color-blind.html"
+        },
+        {
+          "word": "blindness",
+          "trans": "名詞：盲目"
+        }
+      ]
+    },
+    {
+      "number": 442,
+      "word": "dazzle",
+      "pos": "動詞/名詞",
+      "meaning": "〜の目をくらませる、まばゆくする、魅了する",
+      "nuance": "強い光で目がくらむことから、転じて「圧倒的な美しさや才能で人を魅了する」という意味でも使われます。ポジティブな驚きや感動を伴います。",
+      "example_sections": [
+        {
+          "title": "例文（動詞：光で目をくらませる）",
+          "examples": [
+            {
+              "en": "The sunlight reflecting off the snow dazzled my eyes.",
+              "ja": "雪に反射する日光が私の目をくらませた。",
+              "highlight": "dazzled"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞：魅了する）",
+          "examples": [
+            {
+              "en": "She dazzled the audience with her performance.",
+              "ja": "彼女はその演技で観客を魅了した。",
+              "highlight": "dazzled"
+            },
+            {
+              "en": "The city's skyline dazzles visitors at night.",
+              "ja": "その街のスカイラインは夜に訪問者を魅了する。",
+              "highlight": "dazzles"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語 daselen (目をくらます) <br>→ スカンジナビア語源",
+      "synonyms": [
+        {"word": "blind", "trans": "目をくらませる"},
+        {"word": "bedazzle", "trans": "魅了する"},
+        {"word": "impress", "trans": "感銘を与える"},
+        {"word": "amaze", "trans": "驚かせる"}
+      ],
+      "antonyms": [
+        {"word": "bore", "trans": "退屈させる"},
+        {"word": "disappoint", "trans": "失望させる"}
+      ],
+      "related": [
+        {"word": "dazzling", "trans": "形容詞：まばゆい、素晴らしい"},
+        {"word": "dazzlement", "trans": "名詞：眩惑"}
+      ]
+    },
+    {
+      "number": 443,
+      "word": "racial",
+      "pos": "形容詞",
+      "meaning": "人種の、人種に関する",
+      "nuance": "人種に関連する事柄を表す中立的な形容詞です。「racial discrimination（人種差別）」「racial equality（人種平等）」など、社会問題の文脈で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Racial discrimination is prohibited by law in many countries.",
+              "ja": "人種差別は多くの国で法律で禁止されている。",
+              "highlight": "Racial"
+            },
+            {
+              "en": "The organization works to promote racial harmony.",
+              "ja": "その組織は人種間の調和を促進するために活動している。",
+              "highlight": "racial"
+            },
+            {
+              "en": "We must address racial inequality in our society.",
+              "ja": "私たちは社会における人種的不平等に取り組まなければならない。",
+              "highlight": "racial"
+            }
+          ]
+        }
+      ],
+      "etymology": "race (人種) + ial (形容詞語尾) <br>→ 人種に関する",
+      "synonyms": [
+        {"word": "ethnic", "trans": "民族の"},
+        {"word": "ethnological", "trans": "民族学的な"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "race", "trans": "名詞：人種"},
+        {"word": "racism", "trans": "名詞：人種差別"},
+        {"word": "racist", "trans": "名詞/形容詞：人種差別主義者/人種差別的な"}
+      ]
+    },
+    {
+      "number": "443-2",
+      "word": "race",
+      "pos": "名詞",
+      "meaning": "人種、民族、競争、レース",
+      "nuance": "「人種」という意味では生物学的・文化的集団を指し、「競争」という意味ではスピードを競うことを表します。文脈によって意味が大きく異なる多義語です。",
+      "example_sections": [
+        {
+          "title": "例文（人種）",
+          "examples": [
+            {
+              "en": "People of all races should be treated equally.",
+              "ja": "すべての人種の人々は平等に扱われるべきだ。",
+              "highlight": "races"
+            },
+            {
+              "en": "The human race faces many challenges.",
+              "ja": "人類は多くの課題に直面している。",
+              "highlight": "race"
+            }
+          ]
+        },
+        {
+          "title": "例文（競争・レース）",
+          "examples": [
+            {
+              "en": "She won the race by a large margin.",
+              "ja": "彼女は大差でそのレースに勝った。",
+              "highlight": "race"
+            }
+          ]
+        }
+      ],
+      "etymology": "イタリア語 razza (種類、血統) <br>→ 起源不詳",
+      "synonyms": [
+        {"word": "ethnicity", "trans": "民族性（人種の意味）"},
+        {"word": "competition", "trans": "競争（レースの意味）"},
+        {"word": "contest", "trans": "競技"}
+      ],
+      "antonyms": [],
+      "related": [
+        {
+          "word": "racial",
+          "trans": "形容詞：人種の",
+          "link": "443-racial.html"
+        },
+        {
+          "word": "racism",
+          "trans": "名詞：人種差別"
+        }
+      ]
+    },
+    {
+      "number": 444,
+      "word": "tribal",
+      "pos": "形容詞",
+      "meaning": "部族の、種族の",
+      "nuance": "部族社会や伝統的な集団に関することを表します。また比喩的に「集団への強い帰属意識」を意味する「tribalism（部族主義）」という概念でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Tribal customs have been passed down for generations.",
+              "ja": "部族の習慣は何世代にもわたって受け継がれてきた。",
+              "highlight": "Tribal"
+            },
+            {
+              "en": "The region is home to many tribal communities.",
+              "ja": "その地域には多くの部族社会が存在する。",
+              "highlight": "tribal"
+            },
+            {
+              "en": "Tribal conflicts have plagued the area for decades.",
+              "ja": "部族間の紛争が何十年もこの地域を悩ませてきた。",
+              "highlight": "Tribal"
+            }
+          ]
+        }
+      ],
+      "etymology": "tribe (部族) + al (形容詞語尾) <br>→ 部族に関する",
+      "synonyms": [
+        {"word": "ethnic", "trans": "民族の"},
+        {"word": "indigenous", "trans": "先住民の"},
+        {"word": "native", "trans": "原住民の"}
+      ],
+      "antonyms": [
+        {"word": "modern", "trans": "現代的な"},
+        {"word": "cosmopolitan", "trans": "国際的な"}
+      ],
+      "related": [
+        {"word": "tribe", "trans": "名詞：部族"},
+        {"word": "tribalism", "trans": "名詞：部族主義"}
+      ]
+    },
+    {
+      "number": "444-2",
+      "word": "tribe",
+      "pos": "名詞",
+      "meaning": "部族、種族、一族",
+      "nuance": "伝統的な社会集団や血縁関係で結ばれた集団を指します。人類学的な文脈だけでなく、「a tribe of artists（芸術家の集団）」のように比喩的にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The tribe has lived in this area for thousands of years.",
+              "ja": "その部族は何千年もこの地域に住んできた。",
+              "highlight": "tribe"
+            },
+            {
+              "en": "Each tribe has its own language and traditions.",
+              "ja": "各部族には独自の言語と伝統がある。",
+              "highlight": "tribe"
+            },
+            {
+              "en": "The whole tribe gathered for the ceremony.",
+              "ja": "部族全体が儀式のために集まった。",
+              "highlight": "tribe"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 tribus (ローマの3部族) <br>→ 三分割された集団",
+      "synonyms": [
+        {"word": "clan", "trans": "氏族"},
+        {"word": "group", "trans": "集団"},
+        {"word": "community", "trans": "共同体"}
+      ],
+      "antonyms": [
+        {"word": "individual", "trans": "個人"}
+      ],
+      "related": [
+        {
+          "word": "tribal",
+          "trans": "形容詞：部族の",
+          "link": "444-tribal.html"
+        },
+        {
+          "word": "tribesman",
+          "trans": "名詞：部族の一員"
+        }
+      ]
+    },
+    {
+      "number": 445,
+      "word": "impartial",
+      "pos": "形容詞",
+      "meaning": "公平な、偏らない、中立の",
+      "nuance": "特定の側に偏ることなく、公正な判断や態度を保つことを表します。裁判官やジャーナリストなど、中立性が求められる立場で重要な概念です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Judges must remain impartial in all cases.",
+              "ja": "裁判官はすべての事件において公平でなければならない。",
+              "highlight": "impartial"
+            },
+            {
+              "en": "The committee conducted an impartial investigation.",
+              "ja": "委員会は公平な調査を実施した。",
+              "highlight": "impartial"
+            },
+            {
+              "en": "It's difficult to be completely impartial about one's own work.",
+              "ja": "自分自身の仕事について完全に公平でいるのは難しい。",
+              "highlight": "impartial"
+            }
+          ]
+        }
+      ],
+      "etymology": "im (否定) + partial (偏った) <br>→ 偏っていない",
+      "synonyms": [
+        {"word": "unbiased", "trans": "偏見のない"},
+        {"word": "neutral", "trans": "中立の"},
+        {"word": "fair", "trans": "公平な"},
+        {"word": "objective", "trans": "客観的な"}
+      ],
+      "antonyms": [
+        {"word": "partial", "trans": "偏った"},
+        {"word": "biased", "trans": "偏見のある"},
+        {"word": "prejudiced", "trans": "先入観のある"}
+      ],
+      "related": [
+        {"word": "impartiality", "trans": "名詞：公平性"},
+        {"word": "partial", "trans": "形容詞：偏った"}
+      ]
+    },
+    {
+      "number": "445-2",
+      "word": "partial",
+      "pos": "形容詞",
+      "meaning": "部分的な、不完全な、偏った、えこひいきする",
+      "nuance": "「一部の」という中立的な意味と、「特定の側に偏っている」という否定的な意味の両方があります。「be partial to ~（〜が好きだ）」という表現もよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（部分的な）",
+          "examples": [
+            {
+              "en": "The project is only in partial completion.",
+              "ja": "プロジェクトはまだ部分的にしか完成していない。",
+              "highlight": "partial"
+            },
+            {
+              "en": "There was a partial eclipse of the sun.",
+              "ja": "部分日食があった。",
+              "highlight": "partial"
+            }
+          ]
+        },
+        {
+          "title": "例文（偏った・好む）",
+          "examples": [
+            {
+              "en": "The referee was accused of being partial to the home team.",
+              "ja": "審判はホームチームをえこひいきしていると非難された。",
+              "highlight": "partial"
+            },
+            {
+              "en": "I'm quite partial to chocolate cake.",
+              "ja": "私はチョコレートケーキがとても好きです。",
+              "highlight": "partial"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 partialis (部分の) <br>→ pars (部分) から派生",
+      "synonyms": [
+        {"word": "incomplete", "trans": "不完全な"},
+        {"word": "biased", "trans": "偏った"},
+        {"word": "fond of", "trans": "〜が好きな"}
+      ],
+      "antonyms": [
+        {"word": "complete", "trans": "完全な"},
+        {"word": "impartial", "trans": "公平な"},
+        {"word": "total", "trans": "全体の"}
+      ],
+      "related": [
+        {
+          "word": "impartial",
+          "trans": "形容詞：公平な",
+          "link": "445-impartial.html"
+        },
+        {
+          "word": "partially",
+          "trans": "副詞：部分的に"
+        }
+      ]
+    },
+    {
+      "number": 446,
+      "word": "reasoning",
+      "pos": "名詞",
+      "meaning": "推論、論理的思考、理由づけ",
+      "nuance": "論理的に考えて結論を導き出すプロセス、または何かを正当化する理由を表します。学術的な文脈や議論で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Your reasoning is flawed in several places.",
+              "ja": "あなたの推論にはいくつかの箇所に欠陥がある。",
+              "highlight": "reasoning"
+            },
+            {
+              "en": "The court explained its reasoning in the decision.",
+              "ja": "裁判所はその判決における理由づけを説明した。",
+              "highlight": "reasoning"
+            },
+            {
+              "en": "Good reasoning skills are essential for problem-solving.",
+              "ja": "優れた論理的思考力は問題解決に不可欠だ。",
+              "highlight": "reasoning"
+            }
+          ]
+        }
+      ],
+      "etymology": "reason (理性、理由) + ing (名詞語尾) <br>→ 理性を使うこと",
+      "synonyms": [
+        {"word": "logic", "trans": "論理"},
+        {"word": "rationale", "trans": "理論的根拠"},
+        {"word": "argument", "trans": "論証"}
+      ],
+      "antonyms": [
+        {"word": "irrationality", "trans": "非合理性"},
+        {"word": "intuition", "trans": "直感"}
+      ],
+      "related": [
+        {"word": "reason", "trans": "名詞/動詞：理由/推論する"},
+        {"word": "reasonable", "trans": "形容詞：合理的な"}
+      ]
+    },
+    {
+      "number": "446-2",
+      "word": "reasonable",
+      "pos": "形容詞",
+      "meaning": "合理的な、理にかなった、妥当な、適度な",
+      "nuance": "理性や常識に基づいた判断や行動を表します。価格や量が「手頃な」「適度な」という意味でも使われ、日常会話で非常に頻繁に使われる単語です。",
+      "example_sections": [
+        {
+          "title": "例文（合理的な）",
+          "examples": [
+            {
+              "en": "That seems like a reasonable solution to the problem.",
+              "ja": "それは問題に対する合理的な解決策のようだ。",
+              "highlight": "reasonable"
+            },
+            {
+              "en": "Any reasonable person would agree with this decision.",
+              "ja": "理性的な人なら誰でもこの決定に同意するだろう。",
+              "highlight": "reasonable"
+            }
+          ]
+        },
+        {
+          "title": "例文（妥当な・適度な）",
+          "examples": [
+            {
+              "en": "The hotel offers rooms at reasonable prices.",
+              "ja": "そのホテルは手頃な価格で部屋を提供している。",
+              "highlight": "reasonable"
+            },
+            {
+              "en": "We completed the work in a reasonable amount of time.",
+              "ja": "私たちは妥当な時間内に仕事を完了した。",
+              "highlight": "reasonable"
+            }
+          ]
+        }
+      ],
+      "etymology": "reason (理性) + able (できる) <br>→ 理性が働く",
+      "synonyms": [
+        {"word": "rational", "trans": "合理的な"},
+        {"word": "sensible", "trans": "分別のある"},
+        {"word": "fair", "trans": "公正な"},
+        {"word": "moderate", "trans": "適度な"}
+      ],
+      "antonyms": [
+        {"word": "unreasonable", "trans": "不合理な"},
+        {"word": "irrational", "trans": "非合理的な"},
+        {"word": "excessive", "trans": "過度の"}
+      ],
+      "related": [
+        {
+          "word": "reasoning",
+          "trans": "名詞：推論",
+          "link": "446-reasoning.html"
+        },
+        {
+          "word": "reasonably",
+          "trans": "副詞：合理的に"
+        }
+      ]
+    },
+    {
+      "number": "446-3",
+      "word": "reasonably",
+      "pos": "副詞",
+      "meaning": "合理的に、かなり、まあまあ、適度に",
+      "nuance": "理性的な方法で、または「それなりに」「まずまず」という程度を表します。「reasonably well（まあまあうまく）」のように程度を和らげる表現でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She handled the situation reasonably well.",
+              "ja": "彼女はその状況をかなりうまく処理した。",
+              "highlight": "reasonably"
+            },
+            {
+              "en": "We can reasonably assume that he will attend.",
+              "ja": "彼が出席すると合理的に推測できる。",
+              "highlight": "reasonably"
+            },
+            {
+              "en": "The test was reasonably difficult.",
+              "ja": "試験は適度に難しかった。",
+              "highlight": "reasonably"
+            }
+          ]
+        }
+      ],
+      "etymology": "reasonable (合理的な) + ly (副詞語尾) <br>→ 合理的に",
+      "synonyms": [
+        {"word": "fairly", "trans": "かなり"},
+        {"word": "moderately", "trans": "適度に"},
+        {"word": "rationally", "trans": "合理的に"}
+      ],
+      "antonyms": [
+        {"word": "unreasonably", "trans": "不合理に"},
+        {"word": "extremely", "trans": "極端に"}
+      ],
+      "related": [
+        {
+          "word": "reasonable",
+          "trans": "形容詞：合理的な",
+          "link": "446-reasoning.html"
+        }
+      ]
+    },
+    {
+      "number": "446-4",
+      "word": "rational",
+      "pos": "形容詞",
+      "meaning": "理性的な、合理的な、筋の通った",
+      "nuance": "感情ではなく論理や理性に基づいた判断や行動を表します。reasonableよりも論理性や知性が強調されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Let's try to approach this in a rational manner.",
+              "ja": "これに理性的な方法で取り組もう。",
+              "highlight": "rational"
+            },
+            {
+              "en": "His fears were not rational.",
+              "ja": "彼の恐怖は理性的なものではなかった。",
+              "highlight": "rational"
+            },
+            {
+              "en": "A rational person would consider all the evidence.",
+              "ja": "理性的な人ならすべての証拠を考慮するだろう。",
+              "highlight": "rational"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 rationalis (理性の) <br>→ ratio (理性、計算) から派生",
+      "synonyms": [
+        {"word": "reasonable", "trans": "合理的な"},
+        {"word": "logical", "trans": "論理的な"},
+        {"word": "sensible", "trans": "分別のある"}
+      ],
+      "antonyms": [
+        {"word": "irrational", "trans": "非合理的な"},
+        {"word": "illogical", "trans": "非論理的な"},
+        {"word": "emotional", "trans": "感情的な"}
+      ],
+      "related": [
+        {"word": "rationality", "trans": "名詞：合理性"},
+        {"word": "rationally", "trans": "副詞：合理的に"},
+        {"word": "rationalize", "trans": "動詞：合理化する"}
+      ]
+    },
+    {
+      "number": "446-5",
+      "word": "rationally",
+      "pos": "副詞",
+      "meaning": "理性的に、合理的に、論理的に",
+      "nuance": "感情に流されず、論理的な思考に基づいて行動する様子を表します。科学的・学問的な文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need to think about this rationally, not emotionally.",
+              "ja": "これについては感情的にではなく理性的に考える必要がある。",
+              "highlight": "rationally"
+            },
+            {
+              "en": "She explained her position rationally and clearly.",
+              "ja": "彼女は自分の立場を理性的かつ明確に説明した。",
+              "highlight": "rationally"
+            },
+            {
+              "en": "It's hard to behave rationally in a crisis.",
+              "ja": "危機的状況で理性的に行動するのは難しい。",
+              "highlight": "rationally"
+            }
+          ]
+        }
+      ],
+      "etymology": "rational (理性的な) + ly (副詞語尾) <br>→ 理性的に",
+      "synonyms": [
+        {"word": "logically", "trans": "論理的に"},
+        {"word": "reasonably", "trans": "合理的に"},
+        {"word": "sensibly", "trans": "分別をもって"}
+      ],
+      "antonyms": [
+        {"word": "irrationally", "trans": "非合理的に"},
+        {"word": "emotionally", "trans": "感情的に"}
+      ],
+      "related": [
+        {
+          "word": "rational",
+          "trans": "形容詞：理性的な",
+          "link": "446-reasoning.html"
+        },
+        {
+          "word": "rationality",
+          "trans": "名詞：合理性"
+        }
+      ]
+    },
+    {
+      "number": 447,
+      "word": "irrational",
+      "pos": "形容詞",
+      "meaning": "非合理的な、不合理な、理性的でない",
+      "nuance": "論理や理性に基づかない、感情的または不条理な判断や行動を表します。rationalの対義語として、否定的なニュアンスを持ちます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She has an irrational fear of flying.",
+              "ja": "彼女は飛行機に対する不合理な恐怖を持っている。",
+              "highlight": "irrational"
+            },
+            {
+              "en": "It would be irrational to refuse such a generous offer.",
+              "ja": "そのような寛大な申し出を断るのは非合理的だろう。",
+              "highlight": "irrational"
+            },
+            {
+              "en": "His irrational behavior alarmed his colleagues.",
+              "ja": "彼の不合理な行動は同僚たちを心配させた。",
+              "highlight": "irrational"
+            }
+          ]
+        }
+      ],
+      "etymology": "ir (否定) + rational (理性的な) <br>→ 理性的でない",
+      "synonyms": [
+        {"word": "unreasonable", "trans": "不合理な"},
+        {"word": "illogical", "trans": "非論理的な"},
+        {"word": "absurd", "trans": "不条理な"}
+      ],
+      "antonyms": [
+        {"word": "rational", "trans": "理性的な"},
+        {"word": "logical", "trans": "論理的な"},
+        {"word": "reasonable", "trans": "合理的な"}
+      ],
+      "related": [
+        {"word": "irrationally", "trans": "副詞：非合理的に"},
+        {"word": "irrationality", "trans": "名詞：非合理性"}
+      ]
+    },
+    {
+      "number": "447-2",
+      "word": "illogically",
+      "pos": "副詞",
+      "meaning": "非論理的に、不合理に",
+      "nuance": "論理的な筋道が通っていない方法で、または矛盾した形で行動・思考する様子を表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He argued illogically and failed to convince anyone.",
+              "ja": "彼は非論理的に議論し、誰も説得できなかった。",
+              "highlight": "illogically"
+            },
+            {
+              "en": "The policy was illogically designed and created confusion.",
+              "ja": "その政策は非論理的に設計されており、混乱を生んだ。",
+              "highlight": "illogically"
+            }
+          ]
+        }
+      ],
+      "etymology": "illogical (非論理的な) + ly (副詞語尾) <br>→ 非論理的に",
+      "synonyms": [
+        {"word": "irrationally", "trans": "非合理的に"},
+        {"word": "unreasonably", "trans": "不合理に"},
+        {"word": "absurdly", "trans": "不条理に"}
+      ],
+      "antonyms": [
+        {"word": "logically", "trans": "論理的に"},
+        {"word": "rationally", "trans": "合理的に"},
+        {"word": "sensibly", "trans": "分別をもって"}
+      ],
+      "related": [
+        {
+          "word": "irrational",
+          "trans": "形容詞：非合理的な",
+          "link": "447-irrational.html"
+        },
+        {
+          "word": "illogical",
+          "trans": "形容詞：非論理的な"
+        }
+      ]
+    },
+    {
+      "number": 448,
+      "word": "defect",
+      "pos": "名詞/動詞",
+      "meaning": "欠陥、欠点、不具合 / 亡命する、離脱する",
+      "nuance": "名詞では製品や性質の「欠陥」、動詞では国や組織からの「離反・亡命」を意味します。動詞の場合は政治的な文脈で使われることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文（名詞：欠陥）",
+          "examples": [
+            {
+              "en": "The car was recalled due to a safety defect.",
+              "ja": "その車は安全上の欠陥のためにリコールされた。",
+              "highlight": "defect"
+            },
+            {
+              "en": "The software has several minor defects.",
+              "ja": "そのソフトウェアにはいくつかの軽微な不具合がある。",
+              "highlight": "defects"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞：亡命する）",
+          "examples": [
+            {
+              "en": "The spy defected to the West during the Cold War.",
+              "ja": "そのスパイは冷戦中に西側に亡命した。",
+              "highlight": "defected"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 defectus (欠けている) <br>→ de (離れて) + facere (する)",
+      "synonyms": [
+        {"word": "flaw", "trans": "欠陥"},
+        {"word": "fault", "trans": "欠点"},
+        {"word": "imperfection", "trans": "不完全さ"},
+        {"word": "desert", "trans": "見捨てる（動詞）"}
+      ],
+      "antonyms": [
+        {"word": "perfection", "trans": "完璧"},
+        {"word": "advantage", "trans": "利点"}
+      ],
+      "related": [
+        {"word": "defective", "trans": "形容詞：欠陥のある"},
+        {"word": "defection", "trans": "名詞：離反・亡命"}
+      ]
+    },
+    {
+      "number": "448-2",
+      "word": "defective",
+      "pos": "形容詞",
+      "meaning": "欠陥のある、不完全な、故障した",
+      "nuance": "製品や機能に問題があり、正常に動作しない状態を表します。品質管理や製造業の文脈で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please return any defective products within 30 days.",
+              "ja": "欠陥のある製品は30日以内に返品してください。",
+              "highlight": "defective"
+            },
+            {
+              "en": "The machine was shut down due to a defective part.",
+              "ja": "その機械は欠陥のある部品のため停止された。",
+              "highlight": "defective"
+            },
+            {
+              "en": "Defective merchandise will be replaced free of charge.",
+              "ja": "不良品は無料で交換されます。",
+              "highlight": "Defective"
+            }
+          ]
+        }
+      ],
+      "etymology": "defect (欠陥) + ive (形容詞語尾) <br>→ 欠陥がある",
+      "synonyms": [
+        {"word": "faulty", "trans": "欠陥のある"},
+        {"word": "flawed", "trans": "欠点のある"},
+        {"word": "imperfect", "trans": "不完全な"},
+        {"word": "broken", "trans": "壊れた"}
+      ],
+      "antonyms": [
+        {"word": "perfect", "trans": "完璧な"},
+        {"word": "flawless", "trans": "欠点のない"},
+        {"word": "functional", "trans": "機能する"}
+      ],
+      "related": [
+        {
+          "word": "defect",
+          "trans": "名詞：欠陥",
+          "link": "448-defect.html"
+        }
+      ]
+    },
+    {
+      "number": "448-3",
+      "word": "defection",
+      "pos": "名詞",
+      "meaning": "離反、亡命、脱党、背信",
+      "nuance": "国家、組織、党派などから離れて敵対する側に移ることを指します。政治的・軍事的な文脈で使われることが多く、裏切りのニュアンスを伴います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His defection to the opposing party shocked everyone.",
+              "ja": "彼の野党への離反は皆を驚かせた。",
+              "highlight": "defection"
+            },
+            {
+              "en": "The defection of key members weakened the organization.",
+              "ja": "主要メンバーの離反が組織を弱体化させた。",
+              "highlight": "defection"
+            },
+            {
+              "en": "The government tried to prevent further defections.",
+              "ja": "政府はさらなる離反を防ごうとした。",
+              "highlight": "defections"
+            }
+          ]
+        }
+      ],
+      "etymology": "defect (離反する) + ion (名詞語尾) <br>→ 離反すること",
+      "synonyms": [
+        {"word": "desertion", "trans": "脱走・離反"},
+        {"word": "betrayal", "trans": "裏切り"},
+        {"word": "apostasy", "trans": "背教"}
+      ],
+      "antonyms": [
+        {"word": "loyalty", "trans": "忠誠"},
+        {"word": "allegiance", "trans": "忠誠"}
+      ],
+      "related": [
+        {
+          "word": "defect",
+          "trans": "動詞：亡命する",
+          "link": "448-defect.html"
+        },
+        {
+          "word": "defector",
+          "trans": "名詞：亡命者・離反者"
+        }
+      ]
+    },
+    {
+      "number": 449,
+      "word": "flaw",
+      "pos": "名詞/動詞",
+      "meaning": "欠陥、欠点、傷 / 〜に傷をつける",
+      "nuance": "完璧さを損なう小さな欠点や傷を指します。defectよりも軽微なニュアンスで、性格や計画、物理的なものなど幅広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "There's a flaw in your argument.",
+              "ja": "あなたの議論には欠陥がある。",
+              "highlight": "flaw"
+            },
+            {
+              "en": "The diamond has a small flaw that reduces its value.",
+              "ja": "そのダイヤモンドには価値を下げる小さな傷がある。",
+              "highlight": "flaw"
+            },
+            {
+              "en": "His only flaw is his tendency to be too cautious.",
+              "ja": "彼の唯一の欠点は慎重すぎる傾向だ。",
+              "highlight": "flaw"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語 flawe (薄片、破片) <br>→ スカンジナビア語源",
+      "synonyms": [
+        {"word": "defect", "trans": "欠陥"},
+        {"word": "imperfection", "trans": "不完全さ"},
+        {"word": "fault", "trans": "欠点"},
+        {"word": "weakness", "trans": "弱点"}
+      ],
+      "antonyms": [
+        {"word": "perfection", "trans": "完璧"},
+        {"word": "strength", "trans": "強み"},
+        {"word": "virtue", "trans": "美点"}
+      ],
+      "related": [
+        {"word": "flawed", "trans": "形容詞：欠陥のある"},
+        {"word": "flawless", "trans": "形容詞：完璧な"}
+      ]
+    },
+    {
+      "number": 450,
+      "word": "inferiority",
+      "pos": "名詞",
+      "meaning": "劣等、下位、劣っていること",
+      "nuance": "他と比べて質や地位が劣っている状態を表します。心理学では「inferiority complex（劣等感）」という表現で頻繁に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He struggled with feelings of inferiority throughout his childhood.",
+              "ja": "彼は子供時代を通じて劣等感に苦しんだ。",
+              "highlight": "inferiority"
+            },
+            {
+              "en": "The study revealed the inferiority of the old method.",
+              "ja": "その研究は古い方法の劣位性を明らかにした。",
+              "highlight": "inferiority"
+            },
+            {
+              "en": "She has an inferiority complex about her appearance.",
+              "ja": "彼女は自分の容姿に劣等感を持っている。",
+              "highlight": "inferiority"
+            }
+          ]
+        }
+      ],
+      "etymology": "inferior (劣った) + ity (名詞語尾) <br>→ 劣っていること",
+      "synonyms": [
+        {"word": "inadequacy", "trans": "不十分さ"},
+        {"word": "deficiency", "trans": "欠乏"},
+        {"word": "weakness", "trans": "弱さ"}
+      ],
+      "antonyms": [
+        {"word": "superiority", "trans": "優越"},
+        {"word": "excellence", "trans": "卓越"}
+      ],
+      "related": [
+        {"word": "inferior", "trans": "形容詞：劣った"},
+        {"word": "inferiority complex", "trans": "名詞句：劣等感"}
+      ]
+    },
+      {
       "number": "469-3",
       "word": "immortal",
       "pos": "形容詞/名詞",
@@ -878,3 +1896,5 @@
         {"word": "weaken", "trans": "動詞：弱める"}
       ]
     }
+  ]
+}
