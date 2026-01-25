@@ -1,0 +1,171 @@
+[
+  {
+    "number": 1,
+    "word": "complexity",
+    "pos": "名詞",
+    "meaning": "複雑さ、複雑なもの",
+    "nuance": "物事が多くの要素から成り立ち、理解や解決が困難な状態を指します。単に「入り組んでいる」だけでなく、制度や感情、技術的な「難解さ」を強調する際によく使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The complexity of the legal system can be overwhelming.",
+            "ja": "法律制度の複雑さは、圧倒されるほどである場合がある。",
+            "highlight": "complexity"
+          },
+          {
+            "en": "We need to embrace the complexity of the issue rather than seeking simple answers.",
+            "ja": "私たちは単純な答えを求めるのではなく、問題の複雑さを受け入れる必要がある。",
+            "highlight": "complexity"
+          }
+        ]
+      }
+    ],
+    "etymology": "complex (複雑な) + ity (名詞語尾) <br>→ 複雑な状態",
+    "synonyms": [
+      {"word": "complication", "trans": "複雑化、紛糾"},
+      {"word": "intricacy", "trans": "複雑、精緻"},
+      {"word": "sophistication", "trans": "高度な複雑さ"}
+    ],
+    "antonyms": [
+      {"word": "simplicity", "trans": "単純さ"},
+      {"word": "clarity", "trans": "明快さ"}
+    ],
+    "related": [
+      {"word": "complex", "trans": "形容詞：複雑な"},
+      {"word": "complexion", "trans": "名詞：顔色、外観"}
+    ]
+  },
+  {
+    "number": "1-2",
+    "word": "complex",
+    "pos": "形容詞、名詞",
+    "meaning": "複雑な、複合体、コンプレックス",
+    "nuance": "形容詞としては「多くの部分が絡み合って理解しにくい」ことを意味します。名詞としては「建物群（shopping complex）」や、心理学的な「抑圧された感情（inferiority complex）」を指します。",
+    "example_sections": [
+      {
+        "title": "例文（形容詞）",
+        "examples": [
+          {
+            "en": "The human brain is an incredibly complex organ.",
+            "ja": "人間の脳は信じられないほど複雑な臓器だ。",
+            "highlight": "complex"
+          }
+        ]
+      },
+      {
+        "title": "例文（名詞）",
+        "examples": [
+          {
+            "en": "They are building a new sports complex near the station.",
+            "ja": "彼らは駅の近くに新しい総合スポーツ施設を建設している。",
+            "highlight": "complex"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 complexus (結び合わせる、囲む) <br>→ com (共に) + plectere (編む)",
+    "synonyms": [
+      {"word": "complicated", "trans": "複雑な（理解しにくい）"},
+      {"word": "intricate", "trans": "入り組んだ"},
+      {"word": "multifaceted", "trans": "多面的な"}
+    ],
+    "antonyms": [
+      {"word": "simple", "trans": "単純な"},
+      {"word": "straightforward", "trans": "分かりやすい"}
+    ],
+    "related": [
+      {"word": "complexity", "trans": "名詞：複雑さ"},
+      {"word": "perplex", "trans": "動詞：当惑させる"}
+    ]
+  },
+  {
+    "number": 2,
+    "word": "weave",
+    "pos": "動詞、名詞",
+    "meaning": "（布を）織る、編む、（物語などを）作り上げる",
+    "nuance": "糸を交差させて布を作る物理的な動作から転じて、異なる要素やエピソードを組み合わせて一つの緻密な物語や計画を作り上げる際にも使われます。",
+    "example_sections": [
+      {
+        "title": "例文（物理的）",
+        "examples": [
+          {
+            "en": "The artisan weaves beautiful baskets from bamboo.",
+            "ja": "職人は竹で美しい籠を編む。",
+            "highlight": "weaves"
+          }
+        ]
+      },
+      {
+        "title": "例文（比喩的）",
+        "examples": [
+          {
+            "en": "The author weaves historical facts into the fictional story.",
+            "ja": "著者は架空の物語の中に歴史的事実を織り込んでいる。",
+            "highlight": "weaves"
+          }
+        ]
+      }
+    ],
+    "etymology": "古期英語 wefan (織る) <br>→ 糸を交差させる",
+    "synonyms": [
+      {"word": "intertwine", "trans": "絡み合わせる"},
+      {"word": "knit", "trans": "編む"},
+      {"word": "construct", "trans": "構成する"}
+    ],
+    "antonyms": [
+      {"word": "unravel", "trans": "ほどく"},
+      {"word": "disentangle", "trans": "もつれを解く"},
+      {"word": "separate", "trans": "分離する"}
+    ],
+    "related": [
+      {"word": "weaver", "trans": "名詞：織り手"},
+      {"word": "web", "trans": "名詞：クモの巣、網"}
+    ]
+  },
+  {
+    "number": "2-2",
+    "word": "spin",
+    "pos": "動詞、名詞",
+    "meaning": "紡ぐ、回転させる、話をでっち上げる",
+    "nuance": "繭や綿から糸を取り出す（紡ぐ）ことや、高速回転を指します。比喩的に「spin a yarn/tale」で「（面白いまたは嘘の）話を長々と語る」という意味や、情報を自分に都合よく解釈させる（情報操作）という意味もあります。",
+    "example_sections": [
+      {
+        "title": "例文（回転・紡ぐ）",
+        "examples": [
+          {
+            "en": "Spiders spin webs to catch insects.",
+            "ja": "クモは昆虫を捕らえるために巣を張る（紡ぐ）。",
+            "highlight": "spin"
+          }
+        ]
+      },
+      {
+        "title": "例文（比喩的）",
+        "examples": [
+          {
+            "en": "He tried to spin the news in his favor.",
+            "ja": "彼はそのニュースを自分に都合がいいように言い換えようとした。",
+            "highlight": "spin"
+          }
+        ]
+      }
+    ],
+    "etymology": "古期英語 spinnan (紡ぐ) <br>→ 繊維を引き伸ばしてよる",
+    "synonyms": [
+      {"word": "rotate", "trans": "回転させる"},
+      {"word": "twirl", "trans": "くるくる回す"},
+      {"word": "fabricate", "trans": "（話を）作り上げる"}
+    ],
+    "antonyms": [
+      {"word": "stop", "trans": "止める"},
+      {"word": "stagnate", "trans": "停滞する"}
+    ],
+    "related": [
+      {"word": "spinner", "trans": "名詞：紡ぎ手"},
+      {"word": "spindle", "trans": "名詞：紡ぎ駒"},
+      {"word": "tailwind", "trans": "名詞：追い風（関連：状況の勢い）"}
+    ]
+  }
+  
