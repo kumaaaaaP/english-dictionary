@@ -467,6 +467,126 @@
       {"word": "colony", "trans": "名詞：植民地"},
       {"word": "colonially", "trans": "副詞：植民地として"}
     ]
+  },
+  {
+    "number": 8,
+    "word": "remarkable",
+    "pos": "形容詞",
+    "meaning": "注目すべき、並外れた、驚くべき",
+    "nuance": "「remark（述べる、注目する）＋able（できる）」が語源で、思わず口に出して言いたくなるほど「並外れていて目立つ」ことを指します。能力、業績、変化などが期待を大きく超える際に使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The young athlete has shown remarkable progress this year.",
+            "ja": "その若きアスリートは今年、目覚ましい（注目すべき）進歩を見せた。",
+            "highlight": "remarkable"
+          },
+          {
+            "en": "It is remarkable that she finished the project ahead of schedule.",
+            "ja": "彼女が予定より早くプロジェクトを終わらせたのは驚くべきことだ。",
+            "highlight": "remarkable"
+          }
+        ]
+      }
+    ],
+    "etymology": "re (強調) + mark (印をつける、注目する) + able (できる) <br>→ 注目するに値する",
+    "synonyms": [
+      {"word": "extraordinary", "trans": "並外れた"},
+      {"word": "outstanding", "trans": "傑出した"},
+      {"word": "striking", "trans": "目立つ、印象的な"}
+    ],
+    "antonyms": [
+      {"word": "ordinary", "trans": "普通の"},
+      {"word": "unremarkable", "trans": "平凡な"},
+      {"word": "commonplace", "trans": "ありふれた"}
+    ],
+    "related": [
+      {"word": "remark", "trans": "動詞/名詞：述べる、意見"},
+      {"word": "remarkably", "trans": "副詞：目立って、非常に"}
+    ]
+  },
+  {
+    "number": "8-2",
+    "word": "remarkably",
+    "pos": "副詞",
+    "meaning": "驚くほど、非常に、目立って",
+    "nuance": "予想や普通の状態に反して、際立って何かである様子を強調します。「驚いたことに」というニュアンスを含めて文全体を修飾することもあります。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The two brothers look remarkably alike.",
+            "ja": "その兄弟は驚くほどよく似ている。",
+            "highlight": "remarkably"
+          },
+          {
+            "en": "Remarkably, no one was injured in the accident.",
+            "ja": "驚くべきことに、その事故で怪我をした人は誰もいなかった。",
+            "highlight": "Remarkably"
+          }
+        ]
+      }
+    ],
+    "etymology": "remarkable + ly (副詞語尾) <br>→ 注目すべきほどに",
+    "synonyms": [
+      {"word": "surprisingly", "trans": "驚くほど"},
+      {"word": "unusually", "trans": "異常なほど"},
+      {"word": "exceptionally", "trans": "格別に"}
+    ],
+    "antonyms": [
+      {"word": "slightly", "trans": "わずかに"},
+      {"word": "ordinarily", "trans": "普通に"}
+    ],
+    "related": [
+      {"word": "remarkable", "trans": "形容詞：注目すべき"}
+    ]
+  },
+  {
+    "number": 9,
+    "word": "awesome",
+    "pos": "形容詞",
+    "meaning": "素晴らしい、最高の、畏敬の念を抱かせる",
+    "nuance": "日常会話では「最高！」「すごい！」というポジティブな感嘆として非常に頻繁に使われます。本来は「awe（畏怖）」からきており、自然の猛威や神のような「恐ろしいほどの威厳」を指す重い言葉でもあります。",
+    "example_sections": [
+      {
+        "title": "例文（日常会話）",
+        "examples": [
+          {
+            "en": "That concert was absolutely awesome!",
+            "ja": "あのコンサートは本当に最高だった！",
+            "highlight": "awesome"
+          }
+        ]
+      },
+      {
+        "title": "例文（本来の畏怖）",
+        "examples": [
+          {
+            "en": "The eruption of the volcano was an awesome sight.",
+            "ja": "火山の噴火は、畏敬の念を抱かせる（圧倒されるような）光景だった。",
+            "highlight": "awesome"
+          }
+        ]
+      }
+    ],
+    "etymology": "awe (畏敬、恐れ) + some (〜に満ちた) <br>→ 圧倒されるような",
+    "synonyms": [
+      {"word": "amazing", "trans": "驚くべき"},
+      {"word": "impressive", "trans": "印象的な"},
+      {"word": "breathtaking", "trans": "息をのむような"}
+    ],
+    "antonyms": [
+      {"word": "awful", "trans": "ひどい（本来は同語源）"},
+      {"word": "boring", "trans": "つまらない"},
+      {"word": "ordinary", "trans": "普通の"}
+    ],
+    "related": [
+      {"word": "awe", "trans": "名詞：畏敬、畏怖"},
+      {"word": "awestruck", "trans": "形容詞：畏怖の念に打たれた"}
+    ]
   }
 
       
