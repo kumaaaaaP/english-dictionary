@@ -587,6 +587,131 @@
       {"word": "awe", "trans": "名詞：畏敬、畏怖"},
       {"word": "awestruck", "trans": "形容詞：畏怖の念に打たれた"}
     ]
+  },
+  {
+    "number": 10,
+    "word": "awe",
+    "pos": "名詞、動詞",
+    "meaning": "畏敬、畏怖、強い感銘",
+    "nuance": "単なる「尊敬」や「恐怖」ではなく、神聖なものや圧倒的な自然、偉大な才能などを前にして、自分が小さく感じられるような「恐れ多くも敬う気持ち」を指します。",
+    "example_sections": [
+      {
+        "title": "例文（名詞）",
+        "examples": [
+          {
+            "en": "The sight of the Grand Canyon filled us with awe.",
+            "ja": "グランドキャニオンの光景は、私たちを畏敬の念でいっぱいにした。",
+            "highlight": "awe"
+          }
+        ]
+      },
+      {
+        "title": "例文（動詞）",
+        "examples": [
+          {
+            "en": "We were awed by the sheer size of the mountains.",
+            "ja": "私たちはその山のあまりの大きさに圧倒された（畏怖の念を抱いた）。",
+            "highlight": "awed"
+          }
+        ]
+      }
+    ],
+    "etymology": "古期英語 ege (恐怖、畏怖) <br>→ 圧倒的な力に対する恐れ",
+    "synonyms": [
+      {"word": "reverence", "trans": "崇敬"},
+      {"word": "veneration", "trans": "尊敬、崇拝"},
+      {"word": "wonder", "trans": "驚嘆"}
+    ],
+    "antonyms": [
+      {"word": "contempt", "trans": "軽蔑"},
+      {"word": "disdain", "trans": "見下すこと"},
+      {"word": "indifference", "trans": "無関心"}
+    ],
+    "related": [
+      {"word": "awesome", "trans": "形容詞：素晴らしい、畏敬の念を抱かせる"},
+      {"word": "awestruck", "trans": "形容詞：畏敬の念に打たれた"}
+    ]
+  },
+  {
+    "number": "10-2",
+    "word": "awful",
+    "pos": "形容詞",
+    "meaning": "ひどい、不快な、恐ろしい",
+    "nuance": "本来は「awe（畏怖）に満ちた」という意味でしたが、現代では主に「（質や気分が）非常に悪い、最悪な」というネガティブな意味で使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The weather was awful throughout our vacation.",
+            "ja": "休暇中ずっと天気がひどかった。",
+            "highlight": "awful"
+          },
+          {
+            "en": "I feel awful about forgetting your birthday.",
+            "ja": "君の誕生日を忘れてしまって、本当に申し訳なく（嫌な気分に）思っている。",
+            "highlight": "awful"
+          }
+        ]
+      }
+    ],
+    "etymology": "awe (畏怖) + ful (満ちた) <br>→ 恐ろしいほどの = ひどい",
+    "synonyms": [
+      {"word": "terrible", "trans": "ひどい"},
+      {"word": "dreadful", "trans": "恐ろしい、最悪な"},
+      {"word": "horrible", "trans": "恐ろしい"}
+    ],
+    "antonyms": [
+      {"word": "wonderful", "trans": "素晴らしい"},
+      {"word": "excellent", "trans": "優れた"},
+      {"word": "pleasant", "trans": "心地よい"}
+    ],
+    "related": [
+      {"word": "awfully", "trans": "副詞：非常に、ひどく"}
+    ]
+  },
+  {
+    "number": "10-3",
+    "word": "awfully",
+    "pos": "副詞",
+    "meaning": "非常に、大変、ひどく",
+    "nuance": "形容詞のawful（ひどい）の意味を残して「ひどいやり方で」という意味もありますが、日常会話では「very」の強調形として「ものすごく」という意味でよく使われます（特にイギリス英語に多い）。",
+    "example_sections": [
+      {
+        "title": "例文（強調）",
+        "examples": [
+          {
+            "en": "It's awfully kind of you to help me.",
+            "ja": "助けていただいて、本当に（大変）ありがとうございます。",
+            "highlight": "awfully"
+          }
+        ]
+      },
+      {
+        "title": "例文（ひどく）",
+        "examples": [
+          {
+            "en": "She suffered awfully during the long illness.",
+            "ja": "彼女は長い病気の間、ひどく苦しんだ。",
+            "highlight": "awfully"
+          }
+        ]
+      }
+    ],
+    "etymology": "awful + ly (副詞語尾)",
+    "synonyms": [
+      {"word": "extremely", "trans": "極めて"},
+      {"word": "terribly", "trans": "ひどく、非常に"},
+      {"word": "very", "trans": "とても"}
+    ],
+    "antonyms": [
+      {"word": "slightly", "trans": "わずかに"},
+      {"word": "somewhat", "trans": "多少"},
+      {"word": "moderately", "trans": "適度に"}
+    ],
+    "related": [
+      {"word": "awful", "trans": "形容詞：ひどい"}
+    ]
   }
 
       
