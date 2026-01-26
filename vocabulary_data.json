@@ -337,6 +337,136 @@
       {"word": "dispersion", "trans": "名詞：分散"},
       {"word": "dispersal", "trans": "名詞：解散、散布"}
     ]
+  },
+  {
+    "number": 6,
+    "word": "nectar",
+    "pos": "名詞",
+    "meaning": "（花の）蜜、甘い飲料、（ギリシャ神話の）神酒",
+    "nuance": "花が昆虫を誘い寄せるために分泌する甘い液体を指します。比喩的に「非常に美味しい飲み物」や、ギリシャ神話に登場する不老不死の神々の飲み物（ネクタル）を指すこともあります。",
+    "example_sections": [
+      {
+        "title": "例文（植物学）",
+        "examples": [
+          {
+            "en": "Bees collect nectar from flowers to make honey.",
+            "ja": "ハチははちみつを作るために花から蜜を集める。",
+            "highlight": "nectar"
+          }
+        ]
+      },
+      {
+        "title": "例文（比喩・飲料）",
+        "examples": [
+          {
+            "en": "After the long hike, the cold water tasted like nectar.",
+            "ja": "長いハイキングの後、冷たい水は神酒（最高に美味しい飲み物）のような味がした。",
+            "highlight": "nectar"
+          }
+        ]
+      }
+    ],
+    "etymology": "ギリシャ語 nektar (死を克服するもの) <br>→ nek (死) + tar (打ち勝つ) = 神々の飲み物",
+    "synonyms": [
+      {"word": "honey", "trans": "（加工された）蜜"},
+      {"word": "syrup", "trans": "シロップ"},
+      {"word": "ambrosia", "trans": "（神話上の）神々の食べ物、絶品"}
+    ],
+    "antonyms": [
+      {"word": "poison", "trans": "毒"},
+      {"word": "bitterness", "trans": "苦渋、苦いもの"}
+    ],
+    "related": [
+      {"word": "pollen", "trans": "名詞：花粉"},
+      {"word": "pollinate", "trans": "動詞：授粉する"}
+    ]
+  },
+  {
+    "number": 7,
+    "word": "colony",
+    "pos": "名詞",
+    "meaning": "植民地、居留地、（生物の）コロニー・群生",
+    "nuance": "政治的な「植民地」という意味のほか、同じ国籍の人が集まって住む「居留区」や、アリやハチなどの「集団（社会）」、細菌などの「群生」を指す生物学用語としても頻繁に使われます。",
+    "example_sections": [
+      {
+        "title": "例文（歴史・政治）",
+        "examples": [
+          {
+            "en": "The country was once a British colony.",
+            "ja": "その国はかつてイギリスの植民地だった。",
+            "highlight": "colony"
+          }
+        ]
+      },
+      {
+        "title": "例文（生物学）",
+        "examples": [
+          {
+            "en": "Ants live in highly organized colonies.",
+            "ja": "アリは非常に高度に組織化されたコロニー（集団）で生活している。",
+            "highlight": "colonies"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 colonia (農園、入植地) <br>→ colere (耕す、住む)",
+    "synonyms": [
+      {"word": "settlement", "trans": "定住地、入植地"},
+      {"word": "community", "trans": "共同体"},
+      {"word": "outpost", "trans": "辺境の駐在所、前哨"}
+    ],
+    "antonyms": [
+      {"word": "homeland", "trans": "本国、故郷"},
+      {"word": "individual", "trans": "個体（集団に対して）"}
+    ],
+    "related": [
+      {"word": "colonize", "trans": "動詞：植民地化する"},
+      {"word": "colonist", "trans": "名詞：入植者"},
+      {"word": "colonialism", "trans": "名詞：植民地主義"}
+    ]
+  },
+  {
+    "number": "7-2",
+    "word": "colonial",
+    "pos": "形容詞",
+    "meaning": "植民地の、植民地時代の、コロニアル様式の",
+    "nuance": "植民地に関すること全般を指します。アメリカなどの「独立前（植民地時代）」を指すことが多く、建築や家具のスタイル（Colonial style）を指す際にもよく登場します。",
+    "example_sections": [
+      {
+        "title": "例文（歴史・社会）",
+        "examples": [
+          {
+            "en": "The city still has many buildings from the colonial era.",
+            "ja": "その都市には今も植民地時代の建物が多く残っている。",
+            "highlight": "colonial"
+          }
+        ]
+      },
+      {
+        "title": "例文（建築・様式）",
+        "examples": [
+          {
+            "en": "They live in a beautiful colonial-style house.",
+            "ja": "彼らは美しいコロニアル様式（植民地風）の家に住んでいる。",
+            "highlight": "colonial-style"
+          }
+        ]
+      }
+    ],
+    "etymology": "colony + al (形容詞語尾) <br>→ 植民地の",
+    "synonyms": [
+      {"word": "provincial", "trans": "地方の、属領の"},
+      {"word": "dependent", "trans": "依存的な、属国の"}
+    ],
+    "antonyms": [
+      {"word": "independent", "trans": "独立した"},
+      {"word": "metropolitan", "trans": "本国の、大都市の"},
+      {"word": "post-colonial", "trans": "脱植民地化後の"}
+    ],
+    "related": [
+      {"word": "colony", "trans": "名詞：植民地"},
+      {"word": "colonially", "trans": "副詞：植民地として"}
+    ]
   }
 
       
