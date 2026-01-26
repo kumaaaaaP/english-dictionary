@@ -168,6 +168,177 @@
       {"word": "spindle", "trans": "名詞：紡ぎ駒"},
       {"word": "tailwind", "trans": "名詞：追い風（関連：状況の勢い）"}
     ]
+  },
+  {
+    "number": 3,
+    "word": "transmit",
+    "pos": "動詞",
+    "meaning": "送る、伝える、放送する、（病気を）感染させる",
+    "nuance": "信号や情報を送る、光や熱を通す、あるいは病気や遺伝子を次世代や他者に「受け渡す」際に使われます。一方通行の「伝達」や「透過」のニュアンスが強いです。",
+    "example_sections": [
+      {
+        "title": "例文（情報・通信）",
+        "examples": [
+          {
+            "en": "The satellite transmits data back to Earth.",
+            "ja": "その人工衛星は地球にデータを送信する。",
+            "highlight": "transmits"
+          }
+        ]
+      },
+      {
+        "title": "例文（感染・遺伝）",
+        "examples": [
+          {
+            "en": "The disease is transmitted by mosquitoes.",
+            "ja": "その病気は蚊によって媒介（感染）される。",
+            "highlight": "transmitted"
+          }
+        ]
+      }
+    ],
+    "etymology": "trans (越えて) + mittere (送る) <br>→ 向こう側へ送る",
+    "synonyms": [
+      {"word": "transfer", "trans": "移す"},
+      {"word": "broadcast", "trans": "放送する"},
+      {"word": "convey", "trans": "運ぶ、伝える"}
+    ],
+    "antonyms": [
+      {"word": "receive", "trans": "受け取る"},
+      {"word": "block", "trans": "遮断する"},
+      {"word": "retain", "trans": "保持する"}
+    ],
+    "related": [
+      {"word": "transmission", "trans": "名詞：伝達、送信"},
+      {"word": "transmitter", "trans": "名詞：送信機"}
+    ]
+  },
+  {
+    "number": "3-2",
+    "word": "transmission",
+    "pos": "名詞",
+    "meaning": "伝達、送信、放送、変速機（トランスミッション）",
+    "nuance": "情報の送信や病気の伝染という行為そのものを指します。また、自動車のエンジン出力を車輪に伝える「変速機」という意味でも一般的に使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "They are taking measures to prevent the transmission of the virus.",
+            "ja": "彼らはウイルスの感染（伝播）を防ぐための措置を講じている。",
+            "highlight": "transmission"
+          },
+          {
+            "en": "This car has a manual transmission.",
+            "ja": "この車はマニュアルの変速機を搭載している。",
+            "highlight": "transmission"
+          }
+        ]
+      }
+    ],
+    "etymology": "transmitの名詞形",
+    "synonyms": [
+      {"word": "communication", "trans": "通信"},
+      {"word": "contagion", "trans": "伝染"},
+      {"word": "transfer", "trans": "譲渡、移動"}
+    ],
+    "antonyms": [
+      {"word": "reception", "trans": "受信"},
+      {"word": "insulation", "trans": "絶縁、遮断"}
+    ],
+    "related": [
+      {"word": "transmit", "trans": "動詞：送る"}
+    ]
+  },
+  {
+    "number": 4,
+    "word": "diffuse",
+    "pos": "動詞、形容詞",
+    "meaning": "普及させる、散らす、広がる、拡散した",
+    "nuance": "光、熱、知識、あるいは噂などがゆっくりと周囲に「広がる・染み渡る」様子を表します。形容詞としては「（文章などが）まとまりのない、冗長な」という意味もあります。",
+    "example_sections": [
+      {
+        "title": "例文（動詞）",
+        "examples": [
+          {
+            "en": "The internet helped to diffuse knowledge quickly.",
+            "ja": "インターネットは知識を素早く普及させるのに役立った。",
+            "highlight": "diffuse"
+          }
+        ]
+      },
+      {
+        "title": "例文（形容詞）",
+        "examples": [
+          {
+            "en": "The light was soft and diffuse.",
+            "ja": "その光は柔らかく、拡散していた。",
+            "highlight": "diffuse"
+          }
+        ]
+      }
+    ],
+    "etymology": "dis (別々に) + fundere (注ぐ) <br>→ 四方に注ぎ出す",
+    "synonyms": [
+      {"word": "spread", "trans": "広がる"},
+      {"word": "scatter", "trans": "まき散らす"},
+      {"word": "circulate", "trans": "循環させる、流布する"}
+    ],
+    "antonyms": [
+      {"word": "concentrate", "trans": "集中させる"},
+      {"word": "condense", "trans": "凝縮する"},
+      {"word": "gather", "trans": "集める"}
+    ],
+    "related": [
+      {"word": "diffusion", "trans": "名詞：拡散、普及"},
+      {"word": "diffuse reflection", "trans": "名詞：乱反射"}
+    ]
+  },
+  {
+    "number": 5,
+    "word": "disperse",
+    "pos": "動詞",
+    "meaning": "分散させる、追い散らす、解散する",
+    "nuance": "固まっていた集団や群衆、あるいは雲などが「バラバラに分かれて消えていく」様子に重点が置かれます。警察がデモ隊を散らす際など、強制的なニュアンスを伴うこともあります。",
+    "example_sections": [
+      {
+        "title": "例文（解散・分散）",
+        "examples": [
+          {
+            "en": "The police ordered the crowd to disperse.",
+            "ja": "警察は群衆に解散するよう命じた。",
+            "highlight": "disperse"
+          }
+        ]
+      },
+      {
+        "title": "例文（散布）",
+        "examples": [
+          {
+            "en": "The seeds are dispersed by the wind.",
+            "ja": "種子は風によって運ばれる（まき散らされる）。",
+            "highlight": "dispersed"
+          }
+        ]
+      }
+    ],
+    "etymology": "dis (離れて) + spargere (まき散らす) <br>→ 離れた場所へまき散らす",
+    "synonyms": [
+      {"word": "dissolve", "trans": "解消する"},
+      {"word": "scatter", "trans": "追い散らす"},
+      {"word": "distribute", "trans": "分配する"}
+    ],
+    "antonyms": [
+      {"word": "assemble", "trans": "集める、集まる"},
+      {"word": "collect", "trans": "収集する"},
+      {"word": "unite", "trans": "団結する"}
+    ],
+    "related": [
+      {"word": "dispersion", "trans": "名詞：分散"},
+      {"word": "dispersal", "trans": "名詞：解散、散布"}
+    ]
   }
+
+      
   ]
 }
