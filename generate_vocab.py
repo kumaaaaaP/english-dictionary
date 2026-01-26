@@ -199,8 +199,17 @@ def load_all_vocabulary_files():
     """vocabulary_data*.jsonファイルをすべて読み込んで統合"""
     all_words = []
     
-    # vocabulary_data.json と vocabulary_data_*.json の両方に対応
-    json_files = sorted(glob('vocabulary_data*.json'))
+    # vocabulary_data.json と vocabulary_data_N.json の両方を取得
+    json_files = []
+    
+    # まず vocabulary_data.json を確認
+    if os.path.exists('vocabulary_data.json'):
+        json_files.append('vocabulary_data.json')
+    
+    # 次に vocabulary_data_N.json を取得（数字順にソート）
+    numbered_files = sorted(glob('vocabulary_data_*.json'), 
+                           key=lambda x: int(re.search(r'_(\d+)\.json', x).group(1)))
+    json_files.extend(numbered_files)
     
     if not json_files:
         print("エラー: vocabulary_data.json または vocabulary_data_*.json が見つかりません")
@@ -209,11 +218,14 @@ def load_all_vocabulary_files():
     print(f"\n読み込むJSONファイル: {len(json_files)}件")
     for json_file in json_files:
         print(f"  - {json_file}")
-        with open(json_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            words = data.get('words', [])
-            all_words.extend(words)
-            print(f"    → {len(words)}個の単語を読み込み")
+        try:
+            with open(json_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                words = data.get('words', [])
+                all_words.extend(words)
+                print(f"    → {len(words)}個の単語を読み込み")
+        except Exception as e:
+            print(f"    ⚠ エラー: {e}")
     
     print(f"\n合計: {len(all_words)}個の単語を統合")
     return all_words
