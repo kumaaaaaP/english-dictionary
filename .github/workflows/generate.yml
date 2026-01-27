@@ -39,14 +39,21 @@ jobs:
         run: |
           if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -q "vocabulary_data.*\.json"; then
             echo "json_changed=true" >> $GITHUB_OUTPUT
+            echo "✅ JSON files changed - will generate HTML"
           else
             echo "json_changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ No JSON changes - skipping HTML generation"
           fi
       
       - name: Generate vocabulary HTML files
         if: steps.check_json.outputs.json_changed == 'true' || github.event_name == 'workflow_dispatch'
         run: |
+          echo "🔧 Generating HTML files..."
           python generate_vocab.py
+          echo ""
+          echo "📁 Files in data/ directory:"
+          ls -lh data/ | head -20
+          echo ""
           echo "✅ Vocabulary HTML files generated"
       
       # 5. index.htmlを更新（build_index.py を使用）
@@ -59,6 +66,16 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
+          echo "📊 Git status:"
+          git status
+          echo ""
+          echo "📝 Git diff for data/:"
+          git diff --stat data/
+          echo ""
+          echo "📝 Git diff for index.html:"
+          git diff --stat index.html
+          echo ""
+          
           if git diff --quiet data/ index.html; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "ℹ️ No changes detected"
@@ -71,11 +88,21 @@ jobs:
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
+          echo "📦 Adding files to git..."
+          git add data/*.html index.html
+          
+          echo "📋 Files to be committed:"
+          git diff --cached --name-only
+          
+          echo "💾 Committing changes..."
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/*.html index.html
           git commit -m "🤖 Auto-generate vocabulary HTML files and update index [skip ci]"
+          
+          echo "🚀 Pushing changes..."
           git push
+          
+          echo "✅ Changes pushed successfully"
       
       # 8. 完了サマリー
       - name: Job summary
