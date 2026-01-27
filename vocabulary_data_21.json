@@ -1,0 +1,86 @@
+{
+  "words": [
+    {
+      "number": 558,
+      "word": "distort",
+      "pos": "動詞",
+      "meaning": "ゆがめる、ねじ曲げる、ひずませる",
+      "nuance": "物理的な形を無理やり変えるだけでなく、事実や真実を自分に都合がいいように「曲げて伝える」際によく使われます。また、音響機器などで音が割れたり変化したりすることも指します。",
+      "example_sections": [
+        {
+          "title": "例文（事実の歪曲）",
+          "examples": [
+            {
+              "en": "The newspaper was accused of distorting the facts.",
+              "ja": "その新聞社は事実を歪曲したとして非難された。",
+              "highlight": "distorting"
+            }
+          ]
+        },
+        {
+          "title": "例文（物理的・視覚的）",
+          "examples": [
+            {
+              "en": "The mirror distorted her reflection.",
+              "ja": "鏡が彼女の姿をゆがめて映し出した。",
+              "highlight": "distorted"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて/完全に) + torquere (ねじる) <br>→ ひどくねじ曲げる",
+      "synonyms": [
+        {"word": "misrepresent", "trans": "誤って伝える"},
+        {"word": "twist", "trans": "ねじる、曲解する"},
+        {"word": "warp", "trans": "反らせる、ゆがめる"}
+      ],
+      "antonyms": [
+        {"word": "clarify", "trans": "明確にする"},
+        {"word": "straighten", "trans": "真っ直ぐにする"},
+        {"word": "preserve", "trans": "（ありのまま）保存する"}
+      ],
+      "related": [
+        {"word": "distortion", "trans": "名詞：ゆがみ"},
+        {"word": "torture", "trans": "名詞/動詞：拷問（語源：ねじり上げる）"}
+      ]
+    },
+    {
+      "number": 559,
+      "word": "distortion",
+      "pos": "名詞",
+      "meaning": "ゆがみ、歪曲、ひずみ",
+      "nuance": "形や音が本来の状態から崩れていること、または情報が正しく伝わっていない状態そのものを指します。ギターの音をわざとひずませるエフェクター（ディストーション）の名前でもお馴染みです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The story was a complete distortion of the truth.",
+              "ja": "その話は真実を完全に歪曲したものだった。",
+              "highlight": "distortion"
+            },
+            {
+              "en": "Wide-angle lenses can cause some image distortion.",
+              "ja": "広角レンズは画像にいくらかのゆがみを生じさせることがある。",
+              "highlight": "distortion"
+            }
+          ]
+        }
+      ],
+      "etymology": "distortの名詞形",
+      "synonyms": [
+        {"word": "deformation", "trans": "変形"},
+        {"word": "perversion", "trans": "曲解、悪用"},
+        {"word": "falsification", "trans": "偽造、歪曲"}
+      ],
+      "antonyms": [
+        {"word": "accuracy", "trans": "正確さ"},
+        {"word": "fidelity", "trans": "忠実度、再現性"},
+        {"word": "truth", "trans": "真実"}
+      ],
+      "related": [
+        {"word": "distort", "trans": "動詞：ゆがめる"}
+      ]
+    }
+  ]
+}
