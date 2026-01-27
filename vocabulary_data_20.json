@@ -2069,6 +2069,642 @@
     {"word": "benefit", "trans": "名詞・動詞：利益"},
     {"word": "malevolent", "trans": "形容詞：悪意のある"}
   ]
+},
+{
+  "number": 549,
+  "word": "deceitfully",
+  "pos": "副詞",
+  "meaning": "欺瞞的に、不正に、人を欺いて",
+  "nuance": "意図的に人を騙すような方法で行動する様子を表します。正直さや誠実さに欠け、嘘や偽りによって人を誤った方向に導く行為を示します。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "He deceitfully promised to help, but never intended to.",
+          "ja": "彼は助けると欺瞞的に約束したが、そのつもりは全くなかった。",
+          "highlight": "deceitfully"
+        },
+        {
+          "en": "The contract was deceitfully worded to hide important details.",
+          "ja": "その契約書は重要な詳細を隠すため欺瞞的に書かれていた。",
+          "highlight": "deceitfully"
+        },
+        {
+          "en": "She smiled deceitfully while plotting against them.",
+          "ja": "彼女は彼らに対する陰謀を企てながら欺瞞的に微笑んだ。",
+          "highlight": "deceitfully"
+        }
+      ]
+    }
+  ],
+  "etymology": "deceitful (欺瞞的な) + ly (副詞語尾) <br>→ 欺瞞的に",
+  "synonyms": [
+    {"word": "dishonestly", "trans": "不正直に"},
+    {"word": "fraudulently", "trans": "詐欺的に"},
+    {"word": "deceptively", "trans": "欺いて"}
+  ],
+  "antonyms": [
+    {"word": "honestly", "trans": "正直に"},
+    {"word": "truthfully", "trans": "誠実に"},
+    {"word": "sincerely", "trans": "真摯に"}
+  ],
+  "related": [
+    {
+      "word": "deceitful",
+      "trans": "形容詞：欺瞞的な",
+      "link": "549-2-deceitful.html"
+    },
+    {
+      "word": "deceit",
+      "trans": "名詞：欺瞞",
+      "link": "549-3-deceit.html"
+    }
+  ]
+},
+{
+  "number": "549-2",
+  "word": "deceitful",
+  "pos": "形容詞",
+  "meaning": "欺瞞的な、不誠実な、人を欺く",
+  "nuance": "意図的に嘘をついたり、真実を隠したりする性質を表します。人の性格や行動が信頼できず、騙す傾向があることを示します。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "His deceitful behavior destroyed their friendship.",
+          "ja": "彼の欺瞞的な行動は彼らの友情を壊した。",
+          "highlight": "deceitful"
+        },
+        {
+          "en": "The advertisement was deceitful and misleading.",
+          "ja": "その広告は欺瞞的で誤解を招くものだった。",
+          "highlight": "deceitful"
+        },
+        {
+          "en": "She found him to be a deceitful person.",
+          "ja": "彼女は彼が不誠実な人間だとわかった。",
+          "highlight": "deceitful"
+        }
+      ]
+    }
+  ],
+  "etymology": "deceit (欺瞞) + ful (満ちた) <br>→ 欺瞞に満ちた",
+  "synonyms": [
+    {"word": "dishonest", "trans": "不正直な"},
+    {"word": "fraudulent", "trans": "詐欺的な"},
+    {"word": "untrustworthy", "trans": "信頼できない"}
+  ],
+  "antonyms": [
+    {"word": "honest", "trans": "正直な"},
+    {"word": "truthful", "trans": "誠実な"},
+    {"word": "trustworthy", "trans": "信頼できる"}
+  ],
+  "related": [
+    {
+      "word": "deceit",
+      "trans": "名詞：欺瞞",
+      "link": "549-3-deceit.html"
+    },
+    {
+      "word": "deceive",
+      "trans": "動詞：欺く",
+      "link": "549-4-deceive.html"
+    }
+  ]
+},
+{
+  "number": "549-3",
+  "word": "deceit",
+  "pos": "名詞",
+  "meaning": "欺瞞、詐欺、ごまかし",
+  "nuance": "「捕らえる（ceive）ことから離れて（de）」が語源で、意図的に人を騙す行為や、嘘をついて真実を隠すことを表します。不誠実さや裏切りを含む概念です。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "The relationship was built on lies and deceit.",
+          "ja": "その関係は嘘と欺瞞の上に築かれていた。",
+          "highlight": "deceit"
+        },
+        {
+          "en": "She was shocked by his deceit.",
+          "ja": "彼女は彼の欺瞞にショックを受けた。",
+          "highlight": "deceit"
+        },
+        {
+          "en": "The investigation revealed a web of deceit.",
+          "ja": "調査は欺瞞の網を明らかにした。",
+          "highlight": "deceit"
+        }
+      ]
+    }
+  ],
+  "etymology": "de (離れて) + ceive (捕らえる) <br>→ 真実から離れて捕らえる、欺く",
+  "synonyms": [
+    {"word": "deception", "trans": "欺瞞"},
+    {"word": "fraud", "trans": "詐欺"},
+    {"word": "dishonesty", "trans": "不正直"}
+  ],
+  "antonyms": [
+    {"word": "honesty", "trans": "正直"},
+    {"word": "truth", "trans": "真実"},
+    {"word": "sincerity", "trans": "誠実"}
+  ],
+  "related": [
+    {
+      "word": "deceive",
+      "trans": "動詞：欺く",
+      "link": "549-4-deceive.html"
+    },
+    {
+      "word": "deceitful",
+      "trans": "形容詞：欺瞞的な",
+      "link": "549-2-deceitful.html"
+    }
+  ]
+},
+{
+  "number": "549-4",
+  "word": "deceive",
+  "pos": "動詞",
+  "meaning": "欺く、だます、裏切る",
+  "nuance": "意図的に嘘の情報を与えたり、真実を隠したりして、人に誤った信念を持たせることを表します。信頼を裏切る行為を含みます。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "He deceived his partners about the company's finances.",
+          "ja": "彼は会社の財務状況についてパートナーたちを欺いた。",
+          "highlight": "deceived"
+        },
+        {
+          "en": "Don't be deceived by his friendly appearance.",
+          "ja": "彼の親しげな外見に騙されてはいけない。",
+          "highlight": "deceived"
+        },
+        {
+          "en": "She felt deeply hurt when she realized he had deceived her.",
+          "ja": "彼に騙されていたことに気づいた時、彼女は深く傷ついた。",
+          "highlight": "deceived"
+        }
+      ]
+    }
+  ],
+  "etymology": "de (離れて) + ceive (捕らえる) <br>→ 真実から引き離す、欺く",
+  "synonyms": [
+    {"word": "mislead", "trans": "誤解させる"},
+    {"word": "trick", "trans": "だます"},
+    {"word": "fool", "trans": "欺く"}
+  ],
+  "antonyms": [
+    {"word": "enlighten", "trans": "啓発する"},
+    {"word": "inform", "trans": "知らせる"},
+    {"word": "reveal", "trans": "明らかにする"}
+  ],
+  "related": [
+    {
+      "word": "deceit",
+      "trans": "名詞：欺瞞",
+      "link": "549-3-deceit.html"
+    },
+    {
+      "word": "deception",
+      "trans": "名詞：欺瞞・ごまかし",
+      "link": "549-5-deception.html"
+    }
+  ]
+},
+{
+  "number": "549-5",
+  "word": "deception",
+  "pos": "名詞",
+  "meaning": "欺瞞、ごまかし、詐欺行為",
+  "nuance": "人を騙す行為や状態を指します。deceitとほぼ同義ですが、deceptionはより具体的な騙す行為やトリックを指すことが多く、deceitは性質や傾向を表すことが多いという微妙な違いがあります。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "The magician's trick was a clever deception.",
+          "ja": "そのマジシャンのトリックは巧妙な欺瞞だった。",
+          "highlight": "deception"
+        },
+        {
+          "en": "The company was accused of deception in its advertising.",
+          "ja": "その会社は広告における欺瞞で告発された。",
+          "highlight": "deception"
+        },
+        {
+          "en": "She discovered the deception too late.",
+          "ja": "彼女は欺瞞に気づくのが遅すぎた。",
+          "highlight": "deception"
+        }
+      ]
+    }
+  ],
+  "etymology": "deceive (欺く) + tion (こと) <br>→ 欺くこと",
+  "synonyms": [
+    {"word": "deceit", "trans": "欺瞞"},
+    {"word": "trickery", "trans": "ごまかし"},
+    {"word": "fraud", "trans": "詐欺"}
+  ],
+  "antonyms": [
+    {"word": "honesty", "trans": "正直"},
+    {"word": "truth", "trans": "真実"},
+    {"word": "transparency", "trans": "透明性"}
+  ],
+  "related": [
+    {
+      "word": "deceive",
+      "trans": "動詞：欺く",
+      "link": "549-4-deceive.html"
+    },
+    {"word": "deceptive", "trans": "形容詞：欺瞞的な"}
+  ]
+},
+{
+  "number": 550,
+  "word": "betray",
+  "pos": "動詞",
+  "meaning": "裏切る、背く、暴露する",
+  "nuance": "信頼や忠誠を裏切ること、または秘密を明かしてしまうことを表します。意図的な裏切りだけでなく、無意識に感情や情報を漏らしてしまう場合にも使われます。",
+  "example_sections": [
+    {
+      "title": "例文（裏切る）",
+      "examples": [
+        {
+          "en": "He betrayed his country by selling secrets to the enemy.",
+          "ja": "彼は敵に機密を売ることで国を裏切った。",
+          "highlight": "betrayed"
+        },
+        {
+          "en": "She felt betrayed by her best friend.",
+          "ja": "彼女は親友に裏切られたと感じた。",
+          "highlight": "betrayed"
+        }
+      ]
+    },
+    {
+      "title": "例文（暴露する・明かす）",
+      "examples": [
+        {
+          "en": "His nervousness betrayed his lack of confidence.",
+          "ja": "彼の神経質さが自信のなさを露呈した。",
+          "highlight": "betrayed"
+        },
+        {
+          "en": "Don't betray my trust by telling others.",
+          "ja": "他人に話して私の信頼を裏切らないでください。",
+          "highlight": "betray"
+        }
+      ]
+    }
+  ],
+  "etymology": "be (完全に) + tray (引き渡す) <br>→ 引き渡す、裏切る",
+  "synonyms": [
+    {"word": "deceive", "trans": "欺く"},
+    {"word": "double-cross", "trans": "裏切る"},
+    {"word": "reveal", "trans": "明かす"}
+  ],
+  "antonyms": [
+    {"word": "support", "trans": "支持する"},
+    {"word": "protect", "trans": "守る"},
+    {"word": "remain loyal", "trans": "忠実でいる"}
+  ],
+  "related": [
+    {
+      "word": "betrayal",
+      "trans": "名詞：裏切り",
+      "link": "550-2-betrayal.html"
+    },
+    {"word": "betrayer", "trans": "名詞：裏切り者"}
+  ]
+},
+{
+  "number": "550-2",
+  "word": "betrayal",
+  "pos": "名詞",
+  "meaning": "裏切り、背信行為",
+  "nuance": "信頼や忠誠を裏切る行為を指します。個人的な関係における裏切りから、国家に対する背信行為まで、幅広い文脈で使われます。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "The betrayal of trust damaged their relationship forever.",
+          "ja": "信頼の裏切りが彼らの関係を永久に損なった。",
+          "highlight": "betrayal"
+        },
+        {
+          "en": "She couldn't forgive his betrayal.",
+          "ja": "彼女は彼の裏切りを許すことができなかった。",
+          "highlight": "betrayal"
+        },
+        {
+          "en": "The spy's betrayal led to the capture of many agents.",
+          "ja": "そのスパイの裏切りは多くの工作員の捕獲につながった。",
+          "highlight": "betrayal"
+        }
+      ]
+    }
+  ],
+  "etymology": "betray (裏切る) + al (こと) <br>→ 裏切ること",
+  "synonyms": [
+    {"word": "treachery", "trans": "裏切り"},
+    {"word": "disloyalty", "trans": "不忠"},
+    {"word": "treason", "trans": "反逆"}
+  ],
+  "antonyms": [
+    {"word": "loyalty", "trans": "忠誠"},
+    {"word": "faithfulness", "trans": "誠実"},
+    {"word": "allegiance", "trans": "忠義"}
+  ],
+  "related": [
+    {
+      "word": "betray",
+      "trans": "動詞：裏切る",
+      "link": "550-betray.html"
+    }
+  ]
+},
+{
+  "number": 551,
+  "word": "cluster",
+  "pos": "名詞・動詞",
+  "meaning": "集まり、群れ、集まる、群がる",
+  "nuance": "同じような物や人が密集して集まっている状態を表します。ブドウの房のように、個々は独立しているが近くに寄り集まっている様子を示します。",
+  "example_sections": [
+    {
+      "title": "例文（名詞：集まり）",
+      "examples": [
+        {
+          "en": "A cluster of stars lit up the night sky.",
+          "ja": "星の集まりが夜空を照らした。",
+          "highlight": "cluster"
+        },
+        {
+          "en": "There was a cluster of houses near the lake.",
+          "ja": "湖の近くに家々の集まりがあった。",
+          "highlight": "cluster"
+        }
+      ]
+    },
+    {
+      "title": "例文（動詞：集まる）",
+      "examples": [
+        {
+          "en": "People clustered around the street performer.",
+          "ja": "人々は大道芸人の周りに群がった。",
+          "highlight": "clustered"
+        },
+        {
+          "en": "The grapes cluster on the vine.",
+          "ja": "ブドウは蔓に房をなしている。",
+          "highlight": "cluster"
+        }
+      ]
+    }
+  ],
+  "etymology": "古英語 clyster (束、集まり) <br>→ 密集した集まり",
+  "synonyms": [
+    {"word": "group", "trans": "集まり"},
+    {"word": "bunch", "trans": "束"},
+    {"word": "gather", "trans": "集まる"}
+  ],
+  "antonyms": [
+    {"word": "scatter", "trans": "散らばる"},
+    {"word": "disperse", "trans": "分散する"},
+    {"word": "spread", "trans": "広がる"}
+  ],
+  "related": [
+    {"word": "clustering", "trans": "名詞：集まること"},
+    {"word": "clustered", "trans": "形容詞：集まった"}
+  ]
+},
+{
+  "number": 552,
+  "word": "flock",
+  "pos": "名詞・動詞",
+  "meaning": "（鳥や羊の）群れ、集団、群がる",
+  "nuance": "主に鳥や羊などの動物の群れを指しますが、人々が大勢集まる様子にも使われます。「flock together（群がる）」という表現が一般的です。",
+  "example_sections": [
+    {
+      "title": "例文（名詞：群れ）",
+      "examples": [
+        {
+          "en": "A flock of birds flew south for the winter.",
+          "ja": "鳥の群れが冬のため南へ飛んでいった。",
+          "highlight": "flock"
+        },
+        {
+          "en": "The shepherd watched over his flock of sheep.",
+          "ja": "羊飼いは羊の群れを見守った。",
+          "highlight": "flock"
+        }
+      ]
+    },
+    {
+      "title": "例文（動詞：群がる）",
+      "examples": [
+        {
+          "en": "Tourists flock to the city during summer.",
+          "ja": "夏には観光客がその都市に群がる。",
+          "highlight": "flock"
+        },
+        {
+          "en": "People flocked to the new restaurant.",
+          "ja": "人々は新しいレストランに殺到した。",
+          "highlight": "flocked"
+        }
+      ]
+    }
+  ],
+  "etymology": "古英語 flocc (群れ、集団) <br>→ 一緒に動く集団",
+  "synonyms": [
+    {"word": "herd", "trans": "群れ"},
+    {"word": "crowd", "trans": "群衆"},
+    {"word": "swarm", "trans": "群がる"}
+  ],
+  "antonyms": [
+    {"word": "scatter", "trans": "散らばる"},
+    {"word": "disperse", "trans": "分散する"},
+    {"word": "separate", "trans": "分かれる"}
+  ],
+  "related": [
+    {"word": "flock together", "trans": "群がる"},
+    {"word": "herd", "trans": "名詞：（大型動物の）群れ"}
+  ]
+},
+{
+  "number": 553,
+  "word": "herd",
+  "pos": "名詞・動詞",
+  "meaning": "（大型動物の）群れ、集団、群れをなす",
+  "nuance": "主に牛や象などの大型動物の群れを指しますが、人々が集団で無思慮に行動する様子を批判的に表現する場合にも使われます。「herd mentality（群衆心理）」という表現が一般的です。",
+  "example_sections": [
+    {
+      "title": "例文（名詞：群れ）",
+      "examples": [
+        {
+          "en": "A herd of cattle grazed in the field.",
+          "ja": "牛の群れが野原で草を食んでいた。",
+          "highlight": "herd"
+        },
+        {
+          "en": "The herd of elephants moved slowly across the savanna.",
+          "ja": "象の群れはサバンナをゆっくりと横切った。",
+          "highlight": "herd"
+        }
+      ]
+    },
+    {
+      "title": "例文（動詞：群れをなす・集める）",
+      "examples": [
+        {
+          "en": "The cowboys herded the cattle toward the ranch.",
+          "ja": "カウボーイたちは牛を牧場に向けて追い立てた。",
+          "highlight": "herded"
+        },
+        {
+          "en": "People were herded into the auditorium.",
+          "ja": "人々は講堂に追い込まれた。",
+          "highlight": "herded"
+        }
+      ]
+    }
+  ],
+  "etymology": "古英語 heord (群れ) <br>→ 一緒に飼われる動物の集団",
+  "synonyms": [
+    {"word": "flock", "trans": "群れ"},
+    {"word": "drove", "trans": "家畜の群れ"},
+    {"word": "crowd", "trans": "群衆"}
+  ],
+  "antonyms": [
+    {"word": "individual", "trans": "個体"},
+    {"word": "scatter", "trans": "散らばる"},
+    {"word": "disperse", "trans": "分散する"}
+  ],
+  "related": [
+    {"word": "herder", "trans": "名詞：牧夫"},
+    {"word": "herd mentality", "trans": "群衆心理"}
+  ]
+},
+{
+  "number": 554,
+  "word": "mob",
+  "pos": "名詞・動詞",
+  "meaning": "暴徒、群衆、群がる、襲う",
+  "nuance": "無秩序で制御不能な群衆を指し、しばしば否定的な意味合いを持ちます。暴力的または混乱した集団行動を示唆することが多く、「mob violence（暴徒による暴力）」などの表現で使われます。",
+  "example_sections": [
+    {
+      "title": "例文（名詞：暴徒・群衆）",
+      "examples": [
+        {
+          "en": "An angry mob gathered outside the government building.",
+          "ja": "怒った暴徒が政府庁舎の外に集まった。",
+          "highlight": "mob"
+        },
+        {
+          "en": "The celebrity was surrounded by a mob of fans.",
+          "ja": "その有名人はファンの群衆に囲まれた。",
+          "highlight": "mob"
+        }
+      ]
+    },
+    {
+      "title": "例文（動詞：群がる・襲う）",
+      "examples": [
+        {
+          "en": "Shoppers mobbed the store during the sale.",
+          "ja": "セール中、買い物客が店に殺到した。",
+          "highlight": "mobbed"
+        },
+        {
+          "en": "The rock star was mobbed by adoring fans.",
+          "ja": "そのロックスターは熱狂的なファンに取り囲まれた。",
+          "highlight": "mobbed"
+        }
+      ]
+    }
+  ],
+  "etymology": "ラテン語 mobile vulgus (動きやすい群衆) <br>→ 不安定な群衆",
+  "synonyms": [
+    {"word": "crowd", "trans": "群衆"},
+    {"word": "throng", "trans": "大群"},
+    {"word": "swarm", "trans": "群がる"}
+  ],
+  "antonyms": [
+    {"word": "individual", "trans": "個人"},
+    {"word": "order", "trans": "秩序"},
+    {"word": "disperse", "trans": "散らばる"}
+  ],
+  "related": [
+    {"word": "mobster", "trans": "名詞：マフィア"},
+    {"word": "mob rule", "trans": "暴民政治"}
+  ]
+},
+{
+  "number": 555,
+  "word": "rally",
+  "pos": "動詞・名詞",
+  "meaning": "集まる、結集する、回復する、集会",
+  "nuance": "「再び（re）結びつける（ally）」が語源で、共通の目的のために人々が集まること、または困難から立ち直ることを表します。政治集会やスポーツでの逆転劇など、ポジティブな文脈で使われることが多い語です。",
+  "example_sections": [
+    {
+      "title": "例文（動詞：集まる・結集する）",
+      "examples": [
+        {
+          "en": "Supporters rallied behind the candidate.",
+          "ja": "支持者たちは候補者の背後に結集した。",
+          "highlight": "rallied"
+        },
+        {
+          "en": "The community rallied to help the victims.",
+          "ja": "地域社会は被害者を助けるために団結した。",
+          "highlight": "rallied"
+        }
+      ]
+    },
+    {
+      "title": "例文（動詞：回復する）",
+      "examples": [
+        {
+          "en": "The stock market rallied after the positive news.",
+          "ja": "好材料の後、株式市場は回復した。",
+          "highlight": "rallied"
+        }
+      ]
+    },
+    {
+      "title": "例文（名詞：集会）",
+      "examples": [
+        {
+          "en": "Thousands attended the political rally.",
+          "ja": "何千人もの人々が政治集会に参加した。",
+          "highlight": "rally"
+        }
+      ]
+    }
+  ],
+  "etymology": "re (再び) + ally (結びつく) <br>→ 再び結集する",
+  "synonyms": [
+    {"word": "gather", "trans": "集まる"},
+    {"word": "assemble", "trans": "集合する"},
+    {"word": "recover", "trans": "回復する"}
+  ],
+  "antonyms": [
+    {"word": "disperse", "trans": "散らばる"},
+    {"word": "decline", "trans": "衰える"},
+    {"word": "scatter", "trans": "散る"}
+  ],
+  "related": [
+    {"word": "rallying point", "trans": "結集点"},
+    {"word": "rallying cry", "trans": "合言葉"}
+  ]
 }
 
     
