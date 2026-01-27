@@ -2325,6 +2325,267 @@
     "related": [
       {"word": "alliance", "trans": "名詞：同盟"}
     ]
+  },
+  {
+    "number": 556,
+    "word": "confide",
+    "pos": "動詞",
+    "meaning": "（秘密などを）打ち明ける、信頼する",
+    "nuance": "信頼できる相手に、他の人には言えないような個人的な秘密や悩みを「心から信じて託す」というニュアンスです。「confide in (someone)」で、その人を全面的に信頼するという意味になります。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "She confided her secrets to her best friend.",
+            "ja": "彼女は親友に自分の秘密を打ち明けた。",
+            "highlight": "confided"
+          },
+          {
+            "en": "He needed someone he could confide in.",
+            "ja": "彼は心の内を打ち明けられる（信頼できる）誰かを必要としていた。",
+            "highlight": "confide"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (完全に) + fidere (信じる) <br>→ 完全に信頼して預ける",
+    "synonyms": [
+      {"word": "disclose", "trans": "暴露する、明かす"},
+      {"word": "reveal", "trans": "漏らす"},
+      {"word": "entrust", "trans": "委託する"}
+    ],
+    "antonyms": [
+      {"word": "conceal", "trans": "隠す"},
+      {"word": "hide", "trans": "隠す"},
+      {"word": "distrust", "trans": "疑う"}
+    ],
+    "related": [
+      {"word": "confidence", "trans": "名詞：信頼、自信"},
+      {"word": "confidential", "trans": "形容詞：機密の"}
+    ]
+  },
+  {
+    "number": 557,
+    "word": "contrive",
+    "pos": "動詞",
+    "meaning": "（悪だくみなどを）企てる、考案する、どうにかして〜する",
+    "nuance": "知恵を絞って、あるいは工夫を凝らして何か（時に悪いことや困難なこと）を実現させることを指します。「contrive to do」で「苦労してどうにか〜する」という文脈でよく使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "They contrived a plan to escape from the prison.",
+            "ja": "彼らは刑務所から脱走する計画を企てた。",
+            "highlight": "contrived"
+          },
+          {
+            "en": "She contrived to finish the work despite the noise.",
+            "ja": "彼女は騒音にもかかわらず、どうにかして仕事を終わらせた。",
+            "highlight": "contrived"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (共に) + trovere (見つける/創作する) <br>→ 知恵を出し合って作り出す",
+    "synonyms": [
+      {"word": "devise", "trans": "考案する"},
+      {"word": "scheme", "trans": "企む"},
+      {"word": "manage", "trans": "どうにか成し遂げる"}
+    ],
+    "antonyms": [
+      {"word": "fail", "trans": "失敗する"},
+      {"word": "neglect", "trans": "放置する"},
+      {"word": "destroy", "trans": "破壊する"}
+    ],
+    "related": [
+      {"word": "contrivance", "trans": "名詞：考案、仕掛け"}
+    ]
+  },
+  {
+    "number": "557-2",
+    "word": "configure",
+    "pos": "動詞",
+    "meaning": "設定する、構成する、配置する",
+    "nuance": "ITや技術分野で頻出する言葉で、ソフトウェアやハードウェアを特定の目的のために「使える状態に整える」ことを指します。要素を組み合わせて全体の形を作るイメージです。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "You need to configure the network settings before using the internet.",
+            "ja": "インターネットを使う前に、ネットワーク設定を構成（設定）する必要がある。",
+            "highlight": "configure"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (共に) + figurare (形作る) <br>→ 一緒に形を作る",
+    "synonyms": [
+      {"word": "set up", "trans": "設定する"},
+      {"word": "arrange", "trans": "配置する"},
+      {"word": "customize", "trans": "カスタマイズする"}
+    ],
+    "antonyms": [
+      {"word": "disorganize", "trans": "混乱させる"},
+      {"word": "reset", "trans": "初期化する"}
+    ],
+    "related": [
+      {"word": "configuration", "trans": "名詞：構成、設定"},
+      {"word": "figure", "trans": "名詞：形、数字"}
+    ]
+  },
+  {
+    "number": "557-3",
+    "word": "configuration",
+    "pos": "名詞",
+    "meaning": "構成、設定、配置、外形",
+    "nuance": "部品や要素がどのように組み合わされているかという「型」や「状態」を指します。PCの設定ファイルや、星の配置、分子構造などについて使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The laptop has a powerful hardware configuration.",
+            "ja": "そのノートパソコンは強力なハードウェア構成を備えている。",
+            "highlight": "configuration"
+          },
+          {
+            "en": "Check the system configuration for any errors.",
+            "ja": "システム設定（構成）にエラーがないか確認してください。",
+            "highlight": "configuration"
+          }
+        ]
+      }
+    ],
+    "etymology": "configureの名詞形",
+    "synonyms": [
+      {"word": "arrangement", "trans": "配置"},
+      {"word": "structure", "trans": "構造"},
+      {"word": "setup", "trans": "設定"}
+    ],
+    "antonyms": [
+      {"word": "chaos", "trans": "混沌"},
+      {"word": "disarray", "trans": "乱雑"}
+    ],
+    "related": [
+      {"word": "configure", "trans": "動詞：設定する"}
+    ]
+  },
+  {
+    "number": "557-4",
+    "word": "congressional",
+    "pos": "形容詞",
+    "meaning": "国会の、議会の、米国連邦議会の",
+    "nuance": "アメリカの連邦議会（Congress）に関連することを指します。選挙、聴聞会、承認手続きなど、政治的で公的な文脈で使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The bill is currently under congressional review.",
+            "ja": "その法案は現在、議会の審査を受けている。",
+            "highlight": "congressional"
+          },
+          {
+            "en": "Congressional elections are held every two years.",
+            "ja": "議会選挙（連邦議会選挙）は2年ごとに行われる。",
+            "highlight": "Congressional"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (共に) + gradi (行く/歩く) <br>→ 人が集まる場所 (Congress) の",
+    "synonyms": [
+      {"word": "legislative", "trans": "立法上の"},
+      {"word": "parliamentary", "trans": "議会の（英など）"}
+    ],
+    "antonyms": [
+      {"word": "executive", "trans": "行政の"},
+      {"word": "judicial", "trans": "司法の"}
+    ],
+    "related": [
+      {"word": "congress", "trans": "名詞：議会"},
+      {"word": "congressman", "trans": "名詞：国会議員"}
+    ]
+  },
+  {
+    "number": "557-5",
+    "word": "conspicuous",
+    "pos": "形容詞",
+    "meaning": "目立つ、人目を引く、顕著な",
+    "nuance": "その場にそぐわなかったり、非常に際立っていたりするために、嫌でも目に入ってしまう状態を指します。「conspicuous consumption（誇示的消費：見せびらかしのための贅沢）」という用語も有名です。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The red sign was conspicuous even from a distance.",
+            "ja": "その赤い看板は、遠くからでも目立っていた。",
+            "highlight": "conspicuous"
+          },
+          {
+            "en": "He felt conspicuous in his bright suit at the funeral.",
+            "ja": "彼は葬儀で明るい色のスーツを着ていて、人目が気になった（浮いていると感じた）。",
+            "highlight": "conspicuous"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (完全に) + specere (見る) <br>→ はっきりと見える",
+    "synonyms": [
+      {"word": "noticeable", "trans": "目立つ"},
+      {"word": "prominent", "trans": "卓越した、目立つ"},
+      {"word": "obvious", "trans": "明らかな"}
+    ],
+    "antonyms": [
+      {"word": "inconspicuous", "trans": "目立たない"},
+      {"word": "hidden", "trans": "隠れた"},
+      {"word": "subtle", "trans": "微妙な、繊細な"}
+    ],
+    "related": [
+      {"word": "spectacle", "trans": "名詞：壮観、光景"},
+      {"word": "inspect", "trans": "動詞：検査する"}
+    ]
+  },
+  {
+    "number": "557-6",
+    "word": "conscience",
+    "pos": "名詞",
+    "meaning": "良心、道徳心、罪悪感",
+    "nuance": "「何が正しく何が間違っているか」を判断する内面的な心の声を指します。「a clear conscience（潔白、やましいところがない）」や「a guilty conscience（罪悪感）」といった表現で使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "He couldn't do it because it went against his conscience.",
+            "ja": "良心が咎めたので、彼はそれをすることができなかった。",
+            "highlight": "conscience"
+          },
+          {
+            "en": "She has a guilty conscience about lying to her parents.",
+            "ja": "彼女は両親に嘘をついたことに罪悪感を感じている。",
+            "highlight": "conscience"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (共に) + scire (知る) <br>→ 自ら共に知っていること（自覚している道徳的知識）",
+    "synonyms": [
+      {"word": "morals", "trans": "道徳"},
+      {"word": "scruples", "trans": "ためらい、良心の呵責"},
+      {"word": "ethics", "trans": "倫理"}
+    ],
+    "antonyms": [
+      {"word": "immorality", "trans": "不道徳"},
+      {"word": "insensibility", "trans": "無感覚、無関心"}
+    ],
+    "related": [
+      {"word": "conscientious", "trans": "形容詞：良心的な、きちょうめんな"},
+      {"word": "conscious", "trans": "形容詞：意識している"}
+    ]
   }
   ]
 }
