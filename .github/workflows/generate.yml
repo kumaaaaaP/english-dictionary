@@ -1,12 +1,11 @@
 name: Generate Vocabulary HTML Files
-
-# vocabulary_data.json が変更されたときのみ実行
+# vocabulary_data*.json が変更されたときに実行
 on:
   push:
     branches:
       - main
     paths:
-      - 'vocabulary_data.json'
+      - 'vocabulary_data*.json'  # ← ここを変更！すべてのvocabulary_data*.jsonを監視
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
@@ -69,6 +68,12 @@ jobs:
       - name: Job summary
         run: |
           echo "## 📊 Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### JSON Files Detected" >> $GITHUB_STEP_SUMMARY
+          ls -1 vocabulary_data*.json 2>/dev/null | while read file; do
+            count=$(jq '.words | length' "$file" 2>/dev/null || echo "0")
+            echo "- \`$file\`: $count words" >> $GITHUB_STEP_SUMMARY
+          done
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "✅ Vocabulary HTML files generated in \`data/\` directory" >> $GITHUB_STEP_SUMMARY
           echo "✅ \`index.html\` updated with new words" >> $GITHUB_STEP_SUMMARY
