@@ -964,2061 +964,456 @@
         {"word": "compel", "trans": "動詞：強いる"}
       ]
     },
-    {
-  "number": 535,
-  "word": "consent",
-  "pos": "名詞・動詞",
-  "meaning": "同意、承諾、同意する",
-  "nuance": "「共に（con）感じる（sent）」が語源で、相手の提案や要求に対して正式に同意することを表します。特に法律や医療の分野では「informed consent（インフォームド・コンセント）」として重要な概念です。動詞では「consent to 〜」の形で使われます。",
-  "example_sections": [
-    {
-      "title": "例文（名詞：同意）",
-      "examples": [
-        {
-          "en": "You need parental consent to go on the school trip.",
-          "ja": "学校の旅行に行くには保護者の同意が必要です。",
-          "highlight": "consent"
-        },
-        {
-          "en": "The patient gave informed consent before the surgery.",
-          "ja": "患者は手術前にインフォームド・コンセントを行った。",
-          "highlight": "consent"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：同意する）",
-      "examples": [
-        {
-          "en": "She consented to the interview after some hesitation.",
-          "ja": "彼女はためらった後、インタビューに同意した。",
-          "highlight": "consented"
-        }
-      ]
-    }
-  ],
-  "etymology": "con (共に) + sent (感じる) <br>→ 共に感じること、同意",
-  "synonyms": [
-    {"word": "approval", "trans": "承認"},
-    {"word": "permission", "trans": "許可"},
-    {"word": "agreement", "trans": "合意"}
-  ],
-  "antonyms": [
-    {"word": "refusal", "trans": "拒否"},
-    {"word": "dissent", "trans": "反対"},
-    {"word": "objection", "trans": "異議"}
-  ],
-  "related": [
-    {"word": "consensus", "trans": "名詞：総意・合意"},
-    {"word": "assent", "trans": "名詞・動詞：賛成"}
-  ]
-},
-{
-  "number": 536,
-  "word": "assent",
-  "pos": "名詞・動詞",
-  "meaning": "賛成、同意、賛成する",
-  "nuance": "「〜の方へ（as = ad）感じる（sent）」が語源で、提案や意見に賛同することを表します。consentよりもやや形式的で、特に公式な場面や議会での承認などに使われます。",
-  "example_sections": [
-    {
-      "title": "例文（名詞：賛成）",
-      "examples": [
-        {
-          "en": "The bill received royal assent yesterday.",
-          "ja": "その法案は昨日、国王の裁可を受けた。",
-          "highlight": "assent"
-        },
-        {
-          "en": "He nodded his assent to the proposal.",
-          "ja": "彼は提案に賛成のうなずきをした。",
-          "highlight": "assent"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：賛成する）",
-      "examples": [
-        {
-          "en": "The committee assented to the new regulations.",
-          "ja": "委員会は新しい規則に賛成した。",
-          "highlight": "assented"
-        }
-      ]
-    }
-  ],
-  "etymology": "as (= ad, 〜へ) + sent (感じる) <br>→ 〜の方へ感じる、賛同する",
-  "synonyms": [
-    {"word": "consent", "trans": "同意"},
-    {"word": "agreement", "trans": "同意"},
-    {"word": "approval", "trans": "承認"}
-  ],
-  "antonyms": [
-    {"word": "dissent", "trans": "反対"},
-    {"word": "disagreement", "trans": "不同意"},
-    {"word": "opposition", "trans": "反対"}
-  ],
-  "related": [
-    {"word": "consent", "trans": "名詞・動詞：同意", "link": "535-consent.html"},
-    {"word": "dissent", "trans": "名詞・動詞：反対意見"}
-  ]
-},
-{
-  "number": 537,
-  "word": "blessing",
-  "pos": "名詞",
-  "meaning": "祝福、恩恵、承認",
-  "nuance": "神や権威者からの祝福、または幸運なこと・ありがたいことを指します。「give one's blessing」で「承認を与える」という意味でも使われます。宗教的な文脈だけでなく、日常的な「恵み」の意味でも頻出します。",
-  "example_sections": [
-    {
-      "title": "例文（祝福・恩恵）",
-      "examples": [
-        {
-          "en": "Good health is a great blessing.",
-          "ja": "健康であることは大きな恵みです。",
-          "highlight": "blessing"
-        },
-        {
-          "en": "The priest gave the couple his blessing.",
-          "ja": "司祭はそのカップルに祝福を与えた。",
-          "highlight": "blessing"
-        }
-      ]
-    },
-    {
-      "title": "例文（承認）",
-      "examples": [
-        {
-          "en": "They got married with their parents' blessing.",
-          "ja": "彼らは両親の承認を得て結婚した。",
-          "highlight": "blessing"
-        }
-      ]
-    }
-  ],
-  "etymology": "bless (祝福する) + ing (こと・もの) <br>→ 祝福すること、祝福されたもの",
-  "synonyms": [
-    {"word": "benediction", "trans": "祝福"},
-    {"word": "favor", "trans": "恩恵"},
-    {"word": "approval", "trans": "承認"}
-  ],
-  "antonyms": [
-    {"word": "curse", "trans": "呪い"},
-    {"word": "misfortune", "trans": "不運"},
-    {"word": "disapproval", "trans": "不承認"}
-  ],
-  "related": [
-    {"word": "bless", "trans": "動詞：祝福する"},
-    {"word": "blessed", "trans": "形容詞：祝福された"}
-  ]
-},
-{
-  "number": "537-2",
-  "word": "approval",
-  "pos": "名詞",
-  "meaning": "承認、賛成、是認",
-  "nuance": "正式に認めること、または良いと判断することを表します。ビジネスや公的な場面での「承認」から、個人的な「好意的評価」まで幅広く使われます。「meet with approval（承認を得る）」などの表現が一般的です。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The project needs management approval before we can proceed.",
-          "ja": "プロジェクトを進めるには経営陣の承認が必要です。",
-          "highlight": "approval"
-        },
-        {
-          "en": "She looked at him with approval.",
-          "ja": "彼女は彼を好意的な目で見た。",
-          "highlight": "approval"
-        },
-        {
-          "en": "The drug is still awaiting FDA approval.",
-          "ja": "その薬はまだFDAの承認待ちです。",
-          "highlight": "approval"
-        }
-      ]
-    }
-  ],
-  "etymology": "approve (承認する) + al (こと) <br>→ 承認すること",
-  "synonyms": [
-    {"word": "consent", "trans": "同意"},
-    {"word": "endorsement", "trans": "支持"},
-    {"word": "sanction", "trans": "認可"}
-  ],
-  "antonyms": [
-    {"word": "disapproval", "trans": "不承認"},
-    {"word": "rejection", "trans": "却下"},
-    {"word": "refusal", "trans": "拒否"}
-  ],
-  "related": [
-    {
-      "word": "approve",
-      "trans": "動詞：承認する",
-      "link": "537-3-approve.html"
-    },
-    {
-      "word": "blessing",
-      "trans": "名詞：祝福・承認",
-      "link": "537-blessing.html"
-    }
-  ]
-},
-{
-  "number": "537-3",
-  "word": "approve",
-  "pos": "動詞",
-  "meaning": "承認する、賛成する、良いと思う",
-  "nuance": "正式に認可すること、または好意的に評価することを表します。他動詞では「approve of 〜」の形で「〜を良いと思う、賛成する」、他動詞では「〜を承認する」という意味で使われます。",
-  "example_sections": [
-    {
-      "title": "例文（承認する）",
-      "examples": [
-        {
-          "en": "The committee approved the budget for next year.",
-          "ja": "委員会は来年度の予算を承認した。",
-          "highlight": "approved"
-        },
-        {
-          "en": "The plan was approved by a majority vote.",
-          "ja": "その計画は多数決で承認された。",
-          "highlight": "approved"
-        }
-      ]
-    },
-    {
-      "title": "例文（賛成する・良いと思う）",
-      "examples": [
-        {
-          "en": "I don't approve of his behavior.",
-          "ja": "私は彼の行動を良いとは思わない。",
-          "highlight": "approve"
-        }
-      ]
-    }
-  ],
-  "etymology": "ap (= ad, 〜へ) + prove (証明する) <br>→ 良いと証明する",
-  "synonyms": [
-    {"word": "authorize", "trans": "認可する"},
-    {"word": "endorse", "trans": "支持する"},
-    {"word": "sanction", "trans": "承認する"}
-  ],
-  "antonyms": [
-    {"word": "disapprove", "trans": "不承認とする"},
-    {"word": "reject", "trans": "却下する"},
-    {"word": "oppose", "trans": "反対する"}
-  ],
-  "related": [
-    {
-      "word": "approval",
-      "trans": "名詞：承認",
-      "link": "537-2-approval.html"
-    },
-    {"word": "prove", "trans": "動詞：証明する"}
-  ]
-},
-{
-  "number": "537-4",
-  "word": "endorse",
-  "pos": "動詞",
-  "meaning": "支持する、承認する、推奨する",
-  "nuance": "公式に支持や承認を表明することを指します。政治家や有名人が候補者を支持する場合や、製品を推奨する場合によく使われます。また、小切手の裏に署名する意味もあります。",
-  "example_sections": [
-    {
-      "title": "例文（支持する・推奨する）",
-      "examples": [
-        {
-          "en": "Several celebrities endorsed the charity campaign.",
-          "ja": "数名の有名人がそのチャリティーキャンペーンを支持した。",
-          "highlight": "endorsed"
-        },
-        {
-          "en": "The committee endorsed the proposal unanimously.",
-          "ja": "委員会は満場一致でその提案を承認した。",
-          "highlight": "endorsed"
-        },
-        {
-          "en": "Many doctors endorse this treatment method.",
-          "ja": "多くの医師がこの治療法を推奨している。",
-          "highlight": "endorse"
-        }
-      ]
-    }
-  ],
-  "etymology": "en (中に) + dorsum (背中) <br>→ 裏に書く（裏書きする）",
-  "synonyms": [
-    {"word": "support", "trans": "支持する"},
-    {"word": "approve", "trans": "承認する"},
-    {"word": "back", "trans": "後援する"}
-  ],
-  "antonyms": [
-    {"word": "oppose", "trans": "反対する"},
-    {"word": "reject", "trans": "拒否する"},
-    {"word": "condemn", "trans": "非難する"}
-  ],
-  "related": [
-    {
-      "word": "endorsement",
-      "trans": "名詞：支持・推奨",
-      "link": "537-5-endorsement.html"
-    },
-    {"word": "endorser", "trans": "名詞：支持者"}
-  ]
-},
-{
-  "number": "537-5",
-  "word": "endorsement",
-  "pos": "名詞",
-  "meaning": "支持、承認、推奨、裏書き",
-  "nuance": "公式な支持表明や承認を指します。特に商業的な文脈では有名人による製品推奨を意味し、政治的な文脈では候補者への支持表明を意味します。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The athlete signed a lucrative endorsement deal with the sportswear company.",
-          "ja": "そのアスリートはスポーツウェア会社と高額の推奨契約を結んだ。",
-          "highlight": "endorsement"
-        },
-        {
-          "en": "The candidate received endorsements from several major newspapers.",
-          "ja": "その候補者は複数の主要新聞から支持を受けた。",
-          "highlight": "endorsements"
-        },
-        {
-          "en": "The policy has the full endorsement of the board.",
-          "ja": "その方針は理事会の全面的な承認を得ている。",
-          "highlight": "endorsement"
-        }
-      ]
-    }
-  ],
-  "etymology": "endorse (支持する) + ment (こと) <br>→ 支持すること",
-  "synonyms": [
-    {"word": "approval", "trans": "承認"},
-    {"word": "support", "trans": "支持"},
-    {"word": "backing", "trans": "後援"}
-  ],
-  "antonyms": [
-    {"word": "opposition", "trans": "反対"},
-    {"word": "rejection", "trans": "拒否"},
-    {"word": "condemnation", "trans": "非難"}
-  ],
-  "related": [
-    {
-      "word": "endorse",
-      "trans": "動詞：支持する",
-      "link": "537-4-endorse.html"
-    }
-  ]
-},
-{
-  "number": 538,
-  "word": "severely",
-  "pos": "副詞",
-  "meaning": "厳しく、ひどく、深刻に",
-  "nuance": "程度が激しいこと、または厳格な様子を表します。批判や罰が厳しい場合、または損害や影響が深刻な場合に使われます。",
-  "example_sections": [
-    {
-      "title": "例文（厳しく）",
-      "examples": [
-        {
-          "en": "The student was severely punished for cheating.",
-          "ja": "その生徒はカンニングで厳しく罰せられた。",
-          "highlight": "severely"
-        },
-        {
-          "en": "The report severely criticized the government's policy.",
-          "ja": "その報告書は政府の政策を厳しく批判した。",
-          "highlight": "severely"
-        }
-      ]
-    },
-    {
-      "title": "例文（ひどく・深刻に）",
-      "examples": [
-        {
-          "en": "Several people were severely injured in the accident.",
-          "ja": "事故で数人がひどく負傷した。",
-          "highlight": "severely"
-        },
-        {
-          "en": "The economy was severely affected by the pandemic.",
-          "ja": "経済はパンデミックによって深刻な影響を受けた。",
-          "highlight": "severely"
-        }
-      ]
-    }
-  ],
-  "etymology": "severe (厳しい) + ly (副詞語尾) <br>→ 厳しく",
-  "synonyms": [
-    {"word": "harshly", "trans": "厳しく"},
-    {"word": "seriously", "trans": "深刻に"},
-    {"word": "critically", "trans": "重大に"}
-  ],
-  "antonyms": [
-    {"word": "mildly", "trans": "穏やかに"},
-    {"word": "lightly", "trans": "軽く"},
-    {"word": "gently", "trans": "優しく"}
-  ],
-  "related": [
-    {
-      "word": "severe",
-      "trans": "形容詞：厳しい",
-      "link": "538-2-severe.html"
-    },
-    {"word": "severity", "trans": "名詞：厳しさ"}
-  ]
-},
-{
-  "number": "538-2",
-  "word": "severe",
-  "pos": "形容詞",
-  "meaning": "厳しい、深刻な、過酷な",
-  "nuance": "程度が激しく容赦がないこと、または状況が深刻であることを表します。天候、批判、罰、病気など、さまざまな文脈で「厳しい」「深刻な」ことを示します。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The region is expecting severe weather conditions tonight.",
-          "ja": "その地域は今夜、厳しい気象状況が予想されている。",
-          "highlight": "severe"
-        },
-        {
-          "en": "He received a severe reprimand from his boss.",
-          "ja": "彼は上司から厳しい叱責を受けた。",
-          "highlight": "severe"
-        },
-        {
-          "en": "The patient is in severe pain.",
-          "ja": "患者はひどい痛みを抱えている。",
-          "highlight": "severe"
-        },
-        {
-          "en": "The company faces severe financial difficulties.",
-          "ja": "その会社は深刻な財政難に直面している。",
-          "highlight": "severe"
-        }
-      ]
-    }
-  ],
-  "etymology": "ラテン語 severus (厳格な、厳しい) <br>→ 容赦のない",
-  "synonyms": [
-    {"word": "harsh", "trans": "厳しい"},
-    {"word": "strict", "trans": "厳格な"},
-    {"word": "serious", "trans": "深刻な"}
-  ],
-  "antonyms": [
-    {"word": "mild", "trans": "穏やかな"},
-    {"word": "lenient", "trans": "寛大な"},
-    {"word": "gentle", "trans": "優しい"}
-  ],
-  "related": [
-    {
-      "word": "severely",
-      "trans": "副詞：厳しく",
-      "link": "538-severely.html"
-    },
-    {"word": "severity", "trans": "名詞：厳しさ・深刻さ"}
-  ]
-},
-{
-  "number": 539,
-  "word": "stern",
-  "pos": "形容詞",
-  "meaning": "厳格な、断固とした、厳しい",
-  "nuance": "表情や態度が厳しく、妥協を許さない様子を表します。severeよりも人の性格や態度に焦点を当てた語で、権威的で冷徹な印象を与えます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The teacher gave the students a stern warning about plagiarism.",
-          "ja": "教師は生徒たちに盗作について厳しい警告を与えた。",
-          "highlight": "stern"
-        },
-        {
-          "en": "He spoke in a stern voice.",
-          "ja": "彼は厳しい口調で話した。",
-          "highlight": "stern"
-        },
-        {
-          "en": "Her stern expression showed she was not pleased.",
-          "ja": "彼女の厳しい表情は不満を示していた。",
-          "highlight": "stern"
-        },
-        {
-          "en": "The judge issued a stern rebuke to the defendant.",
-          "ja": "裁判官は被告に厳しい叱責を与えた。",
-          "highlight": "stern"
-        }
-      ]
-    }
-  ],
-  "etymology": "古英語 styrne (厳しい、厳格な) <br>→ 妥協しない態度",
-  "synonyms": [
-    {"word": "strict", "trans": "厳格な"},
-    {"word": "austere", "trans": "厳しい"},
-    {"word": "severe", "trans": "厳しい"}
-  ],
-  "antonyms": [
-    {"word": "lenient", "trans": "寛大な"},
-    {"word": "gentle", "trans": "優しい"},
-    {"word": "mild", "trans": "穏やかな"}
-  ],
-  "related": [
-    {"word": "sternly", "trans": "副詞：厳格に"},
-    {"word": "sternness", "trans": "名詞：厳格さ"}
-  ]
-},
-{
-  "number": 540,
-  "word": "stubborn",
-  "pos": "形容詞",
-  "meaning": "頑固な、強情な、手ごわい",
-  "nuance": "自分の意見や態度を変えようとしない様子を表します。人の性格だけでなく、問題や汚れなどが「なかなか解決しない」「取れない」という意味でも使われます。",
-  "example_sections": [
-    {
-      "title": "例文（頑固な）",
-      "examples": [
-        {
-          "en": "He is too stubborn to admit he was wrong.",
-          "ja": "彼は頑固すぎて自分が間違っていたと認めない。",
-          "highlight": "stubborn"
-        },
-        {
-          "en": "My grandfather is stubborn about using new technology.",
-          "ja": "祖父は新しい技術を使うことに関して頑固だ。",
-          "highlight": "stubborn"
-        }
-      ]
-    },
-    {
-      "title": "例文（手ごわい・しつこい）",
-      "examples": [
-        {
-          "en": "This is a stubborn stain that won't come out.",
-          "ja": "これはなかなか落ちない頑固な染みです。",
-          "highlight": "stubborn"
-        },
-        {
-          "en": "The fever proved to be stubborn and lasted for days.",
-          "ja": "熱はしつこく、何日も続いた。",
-          "highlight": "stubborn"
-        }
-      ]
-    }
-  ],
-  "etymology": "中英語 stuborn (頑固な、扱いにくい) <br>→ 曲がらない、動かない",
-  "synonyms": [
-    {"word": "obstinate", "trans": "頑固な"},
-    {"word": "persistent", "trans": "しつこい"},
-    {"word": "inflexible", "trans": "融通の利かない"}
-  ],
-  "antonyms": [
-    {"word": "flexible", "trans": "柔軟な"},
-    {"word": "compliant", "trans": "従順な"},
-    {"word": "amenable", "trans": "素直な"}
-  ],
-  "related": [
-    {"word": "stubbornly", "trans": "副詞：頑固に"},
-    {"word": "stubbornness", "trans": "名詞：頑固さ"}
-  ]
-},
-{
-  "number": 541,
-  "word": "constrain",
-  "pos": "動詞",
-  "meaning": "制約する、強いる、抑制する",
-  "nuance": "「共に（con）縛る（strain）」が語源で、外的な力や状況によって行動や選択が制限されることを表します。物理的な制約だけでなく、社会的・経済的な制約にも使われます。",
-  "example_sections": [
-    {
-      "title": "例文（制約する）",
-      "examples": [
-        {
-          "en": "Budget limitations constrain our ability to hire new staff.",
-          "ja": "予算の制約が新しいスタッフを雇う能力を制限している。",
-          "highlight": "constrain"
-        },
-        {
-          "en": "Social norms constrain individual behavior.",
-          "ja": "社会規範は個人の行動を制約する。",
-          "highlight": "constrain"
-        }
-      ]
-    },
-    {
-      "title": "例文（強いる）",
-      "examples": [
-        {
-          "en": "I felt constrained to accept their offer.",
-          "ja": "私は彼らの申し出を受け入れざるを得ないと感じた。",
-          "highlight": "constrained"
-        }
-      ]
-    }
-  ],
-  "etymology": "con (共に) + strain (引く・締める) <br>→ 共に締める、制限する",
-  "synonyms": [
-    {"word": "restrict", "trans": "制限する"},
-    {"word": "limit", "trans": "限定する"},
-    {"word": "confine", "trans": "閉じ込める"}
-  ],
-  "antonyms": [
-    {"word": "free", "trans": "解放する"},
-    {"word": "liberate", "trans": "自由にする"},
-    {"word": "release", "trans": "解き放つ"}
-  ],
-  "related": [
-    {
-      "word": "constraint",
-      "trans": "名詞：制約",
-      "link": "541-2-constraint.html"
-    },
-    {"word": "restrain", "trans": "動詞：抑制する"}
-  ]
-},
-{
-  "number": "541-2",
-  "word": "constraint",
-  "pos": "名詞",
-  "meaning": "制約、束縛、制限",
-  "nuance": "行動や選択の自由を制限するもの、または強制的な力を指します。ビジネスやプロジェクト管理では「制約条件」として頻出し、時間・予算・リソースなどの限界を表します。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "Time constraints prevented us from completing the project.",
-          "ja": "時間的制約のため、私たちはプロジェクトを完了できなかった。",
-          "highlight": "constraints"
-        },
-        {
-          "en": "Financial constraints limit our options.",
-          "ja": "財政的制約が私たちの選択肢を制限している。",
-          "highlight": "constraints"
-        },
-        {
-          "en": "She felt the constraints of traditional gender roles.",
-          "ja": "彼女は伝統的な性別役割の束縛を感じていた。",
-          "highlight": "constraints"
-        }
-      ]
-    }
-  ],
-  "etymology": "constrain (制約する) + t (名詞語尾) <br>→ 制約すること、制約",
-  "synonyms": [
-    {"word": "restriction", "trans": "制限"},
-    {"word": "limitation", "trans": "限界"},
-    {"word": "restraint", "trans": "抑制"}
-  ],
-  "antonyms": [
-    {"word": "freedom", "trans": "自由"},
-    {"word": "liberty", "trans": "自由"},
-    {"word": "flexibility", "trans": "柔軟性"}
-  ],
-  "related": [
-    {
-      "word": "constrain",
-      "trans": "動詞：制約する",
-      "link": "541-constrain.html"
-    },
-    {"word": "unconstrained", "trans": "形容詞：制約のない"}
-  ]
-},
-{
-  "number": 542,
-  "word": "restrain",
-  "pos": "動詞",
-  "meaning": "抑制する、制止する、拘束する",
-  "nuance": "「後ろへ（re）引く（strain）」が語源で、力や感情、行動を抑えることを表します。constrainが外的状況による制約を指すのに対し、restrainは意志や力による抑制を強調します。",
-  "example_sections": [
-    {
-      "title": "例文（抑制する・制止する）",
-      "examples": [
-        {
-          "en": "She could barely restrain her anger.",
-          "ja": "彼女はかろうじて怒りを抑えた。",
-          "highlight": "restrain"
-        },
-        {
-          "en": "The police had to restrain the violent suspect.",
-          "ja": "警察は暴力的な容疑者を取り押さえなければならなかった。",
-          "highlight": "restrain"
-        },
-        {
-          "en": "Please restrain yourself from making comments during the presentation.",
-          "ja": "プレゼンテーション中はコメントを控えてください。",
-          "highlight": "restrain"
-        }
-      ]
-    }
-  ],
-  "etymology": "re (後ろへ) + strain (引く) <br>→ 後ろへ引く、抑える",
-  "synonyms": [
-    {"word": "control", "trans": "抑える"},
-    {"word": "hold back", "trans": "抑制する"},
-    {"word": "contain", "trans": "抑える"}
-  ],
-  "antonyms": [
-    {"word": "release", "trans": "解放する"},
-    {"word": "unleash", "trans": "解き放つ"},
-    {"word": "encourage", "trans": "促進する"}
-  ],
-  "related": [
-    {
-      "word": "restraint",
-      "trans": "名詞：抑制",
-      "link": "542-2-restraint.html"
-    },
-    {"word": "constrain", "trans": "動詞：制約する"}
-  ]
-},
-{
-  "number": "542-2",
-  "word": "restraint",
-  "pos": "名詞",
-  "meaning": "抑制、自制、拘束",
-  "nuance": "感情や行動を抑えること、または自制心を指します。「show restraint（自制心を示す）」のように、冷静さや節度を保つことを表す場合もあります。物理的な拘束具の意味もあります。",
-  "example_sections": [
-    {
-      "title": "例文（抑制・自制）",
-      "examples": [
-        {
-          "en": "He showed remarkable restraint in not responding to the insult.",
-          "ja": "彼は侮辱に反応しないという顕著な自制心を示した。",
-          "highlight": "restraint"
-        },
-        {
-          "en": "The government called for wage restraint to control inflation.",
-          "ja": "政府はインフレ抑制のため賃金抑制を求めた。",
-          "highlight": "restraint"
-        }
-      ]
-    },
-    {
-      "title": "例文（拘束）",
-      "examples": [
-        {
-          "en": "The patient was put in restraints for their own safety.",
-          "ja": "患者は自身の安全のため拘束された。",
-          "highlight": "restraints"
-        }
-      ]
-    }
-  ],
-  "etymology": "restrain (抑制する) + t (名詞語尾) <br>→ 抑制すること",
-  "synonyms": [
-    {"word": "control", "trans": "抑制"},
-    {"word": "self-control", "trans": "自制"},
-    {"word": "moderation", "trans": "節度"}
-  ],
-  "antonyms": [
-    {"word": "excess", "trans": "過剰"},
-    {"word": "indulgence", "trans": "放縦"},
-    {"word": "freedom", "trans": "自由"}
-  ],
-  "related": [
-    {
-      "word": "restrain",
-      "trans": "動詞：抑制する",
-      "link": "542-restrain.html"
-    },
-    {"word": "unrestrained", "trans": "形容詞：抑制のない"}
-  ]
-},
-{
-  "number": 543,
-  "word": "insistent",
-  "pos": "形容詞",
-  "meaning": "強く主張する、しつこい、執拗な",
-  "nuance": "「中に（in）立つ（sist）」が語源で、自分の意見や要求を繰り返し強く主張する様子を表します。人の態度だけでなく、音や感覚が「絶え間ない」「しつこい」場合にも使われます。",
-  "example_sections": [
-    {
-      "title": "例文（強く主張する）",
-      "examples": [
-        {
-          "en": "She was insistent that we leave immediately.",
-          "ja": "彼女は私たちがすぐに出発すべきだと強く主張した。",
-          "highlight": "insistent"
-        },
-        {
-          "en": "Despite their refusal, he remained insistent on his proposal.",
-          "ja": "彼らの拒否にもかかわらず、彼は自分の提案に固執し続けた。",
-          "highlight": "insistent"
-        }
-      ]
-    },
-    {
-      "title": "例文（しつこい・執拗な）",
-      "examples": [
-        {
-          "en": "The insistent ringing of the phone woke me up.",
-          "ja": "電話の執拗な呼び出し音で目が覚めた。",
-          "highlight": "insistent"
-        }
-      ]
-    }
-  ],
-  "etymology": "in (中に) + sist (立つ) + ent (形容詞語尾) <br>→ 中に立ち続ける、固執する",
-  "synonyms": [
-    {"word": "persistent", "trans": "しつこい"},
-    {"word": "demanding", "trans": "要求の多い"},
-    {"word": "adamant", "trans": "断固とした"}
-  ],
-  "antonyms": [
-    {"word": "flexible", "trans": "柔軟な"},
-    {"word": "yielding", "trans": "譲歩的な"},
-    {"word": "compliant", "trans": "従順な"}
-  ],
-  "related": [
-    {"word": "insist", "trans": "動詞：主張する"},
-    {"word": "insistence", "trans": "名詞：主張"},
-    {"word": "insistently", "trans": "副詞：しつこく"}
-  ]
-},
-{
-  "number": 544,
-  "word": "doubly",
-  "pos": "副詞",
-  "meaning": "二重に、二倍に、特に",
-  "nuance": "通常の二倍の程度で、または二つの理由や側面において、という意味を表します。「doubly important（特に重要な）」のように強調の意味でも使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "This makes the situation doubly difficult.",
-          "ja": "これは状況を二重に困難にしている。",
-          "highlight": "doubly"
-        },
-        {
-          "en": "She felt doubly betrayed by her closest friend.",
-          "ja": "彼女は最も親しい友人に二重に裏切られたと感じた。",
-          "highlight": "doubly"
-        },
-        {
-          "en": "It is doubly important to check all the details before submission.",
-          "ja": "提出前にすべての詳細を確認することは特に重要です。",
-          "highlight": "doubly"
-        }
-      ]
-    }
-  ],
-  "etymology": "double (二重の) + ly (副詞語尾) <br>→ 二重に",
-  "synonyms": [
-    {"word": "twice", "trans": "二倍に"},
-    {"word": "especially", "trans": "特に"},
-    {"word": "particularly", "trans": "とりわけ"}
-  ],
-  "antonyms": [
-    {"word": "singly", "trans": "単独で"},
-    {"word": "simply", "trans": "単に"}
-  ],
-  "related": [
-    {
-      "word": "double",
-      "trans": "形容詞・動詞：二重の・二倍にする",
-      "link": "544-2-double.html"
-    },
-    {"word": "dual", "trans": "形容詞：二重の"}
-  ]
-},
-{
-  "number": "544-2",
-  "word": "double",
-  "pos": "形容詞・動詞・名詞",
-  "meaning": "二重の、二倍の、二倍にする、二倍",
-  "nuance": "数や量が二つまたは二倍であることを表します。形容詞では「二重の」、動詞では「二倍にする」、名詞では「二倍の量」や「そっくりさん」を意味します。",
-  "example_sections": [
-    {
-      "title": "例文（形容詞：二重の・二倍の）",
-      "examples": [
-        {
-          "en": "The hotel room has a double bed.",
-          "ja": "そのホテルの部屋にはダブルベッドがある。",
-          "highlight": "double"
-        },
-        {
-          "en": "He leads a double life.",
-          "ja": "彼は二重生活を送っている。",
-          "highlight": "double"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：二倍にする）",
-      "examples": [
-        {
-          "en": "The company's profits doubled last year.",
-          "ja": "その会社の利益は昨年二倍になった。",
-          "highlight": "doubled"
-        }
-      ]
-    }
-  ],
-  "etymology": "ラテン語 duplus (二倍の) <br>→ duo (二つ) + plus (より多く)",
-  "synonyms": [
-    {"word": "twice", "trans": "二倍"},
-    {"word": "dual", "trans": "二重の"},
-    {"word": "twofold", "trans": "二倍の"}
-  ],
-  "antonyms": [
-    {"word": "single", "trans": "単一の"},
-    {"word": "half", "trans": "半分"}
-  ],
-  "related": [
-    {
-      "word": "doubly",
-      "trans": "副詞：二重に",
-      "link": "544-doubly.html"
-    },
-    {"word": "dual", "trans": "形容詞：二重の"}
-  ]
-},
-{
-  "number": 545,
-  "word": "dual",
-  "pos": "形容詞",
-  "meaning": "二重の、二元的な、二つの部分からなる",
-  "nuance": "二つの性質や機能を持つこと、または二つの要素で構成されていることを表します。doubleよりも形式的で、「dual purpose（二重目的）」「dual citizenship（二重国籍）」のように公式な文脈で使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The device serves a dual purpose as both a phone and a camera.",
-          "ja": "その装置は電話とカメラの両方として二重の目的を果たす。",
-          "highlight": "dual"
-        },
-        {
-          "en": "She holds dual citizenship in the US and Japan.",
-          "ja": "彼女はアメリカと日本の二重国籍を持っている。",
-          "highlight": "dual"
-        },
-        {
-          "en": "The company adopted a dual management structure.",
-          "ja": "その会社は二元的経営構造を採用した。",
-          "highlight": "dual"
-        }
-      ]
-    }
-  ],
-  "etymology": "ラテン語 dualis (二つの) <br>→ duo (二つ)",
-  "synonyms": [
-    {"word": "double", "trans": "二重の"},
-    {"word": "twofold", "trans": "二倍の"},
-    {"word": "binary", "trans": "二元的な"}
-  ],
-  "antonyms": [
-    {"word": "single", "trans": "単一の"},
-    {"word": "unitary", "trans": "単一の"},
-    {"word": "singular", "trans": "単独の"}
-  ],
-  "related": [
-    {"word": "duality", "trans": "名詞：二元性"},
-    {"word": "dualism", "trans": "名詞：二元論"},
-    {"word": "double", "trans": "形容詞：二重の"}
-  ]
-},
-{
-  "number": 546,
-  "word": "benefit",
-  "pos": "名詞・動詞",
-  "meaning": "利益、恩恵、利益を得る、役立つ",
-  "nuance": "「良く（bene）する（fit）」が語源で、何かから得られる良い結果や利点を表します。名詞では「恩恵」「手当」、動詞では「利益を得る」「役立つ」という意味で使われます。",
-  "example_sections": [
-    {
-      "title": "例文（名詞：利益・恩恵）",
-      "examples": [
-        {
-          "en": "Regular exercise has many health benefits.",
-          "ja": "定期的な運動には多くの健康上の利益がある。",
-          "highlight": "benefits"
-        },
-        {
-          "en": "The company offers excellent employee benefits.",
-          "ja": "その会社は優れた従業員福利厚生を提供している。",
-          "highlight": "benefits"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：利益を得る・役立つ）",
-      "examples": [
-        {
-          "en": "Everyone will benefit from this new policy.",
-          "ja": "すべての人がこの新しい方針から利益を得るでしょう。",
-          "highlight": "benefit"
-        },
-        {
-          "en": "The new road will benefit local businesses.",
-          "ja": "新しい道路は地元企業の役に立つでしょう。",
-          "highlight": "benefit"
-        }
-      ]
-    }
-  ],
-  "etymology": "bene (良く) + fit (する) <br>→ 良くすること、利益",
-  "synonyms": [
-    {"word": "advantage", "trans": "利点"},
-    {"word": "profit", "trans": "利益"},
-    {"word": "gain", "trans": "得"}
-  ],
-  "antonyms": [
-    {"word": "disadvantage", "trans": "不利"},
-    {"word": "harm", "trans": "害"},
-    {"word": "detriment", "trans": "損害"}
-  ],
-  "related": [
-    {"word": "beneficial", "trans": "形容詞：有益な"},
-    {"word": "beneficiary", "trans": "名詞：受益者"},
-    {"word": "benevolent", "trans": "形容詞：慈悲深い"}
-  ]
-},
-{
-  "number": 547,
-  "word": "avail",
-  "pos": "動詞・名詞",
-  "meaning": "役立つ、利用する、効果、利益",
-  "nuance": "「価値がある（val）」が語源で、何かが役に立つこと、または利用することを表します。やや古風な表現で、現代では「of no avail（無駄である）」「avail oneself of（〜を利用する）」などの形で使われます。",
-  "example_sections": [
-    {
-      "title": "例文（動詞：役立つ・利用する）",
-      "examples": [
-        {
-          "en": "His protests availed him nothing.",
-          "ja": "彼の抗議は何の役にも立たなかった。",
-          "highlight": "availed"
-        },
-        {
-          "en": "You should avail yourself of this opportunity.",
-          "ja": "あなたはこの機会を利用すべきです。",
-          "highlight": "avail"
-        }
-      ]
-    },
-    {
-      "title": "例文（名詞：効果・利益）",
-      "examples": [
-        {
-          "en": "All our efforts were of no avail.",
-          "ja": "私たちの努力はすべて無駄だった。",
-          "highlight": "avail"
-        }
-      ]
-    }
-  ],
-  "etymology": "a (〜へ) + val (価値がある) <br>→ 価値を持つ、役立つ",
-  "synonyms": [
-    {"word": "help", "trans": "役立つ"},
-    {"word": "benefit", "trans": "利益"},
-    {"word": "use", "trans": "利用"}
-  ],
-  "antonyms": [
-    {"word": "fail", "trans": "失敗する"},
-    {"word": "harm", "trans": "害する"}
-  ],
-  "related": [
-    {"word": "available", "trans": "形容詞：利用可能な"},
-    {"word": "availability", "trans": "名詞：利用可能性"},
-    {"word": "prevail", "trans": "動詞：勝つ・優勢である"}
-  ]
-},
-{
-  "number": 548,
-  "word": "benevolent",
-  "pos": "形容詞",
-  "meaning": "慈悲深い、善意の、博愛的な",
-  "nuance": "「良く（bene）願う（vol）」が語源で、他人の幸福を願い、親切で思いやりのある態度を表します。個人の性格だけでなく、組織や制度が「慈善的な」という意味でも使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "She has a benevolent attitude toward all her students.",
-          "ja": "彼女はすべての生徒に対して慈悲深い態度を持っている。",
-          "highlight": "benevolent"
-        },
-        {
-          "en": "The organization is a benevolent society that helps the poor.",
-          "ja": "その組織は貧しい人々を助ける慈善団体です。",
-          "highlight": "benevolent"
-        },
-        {
-          "en": "He smiled with benevolent approval.",
-          "ja": "彼は善意に満ちた賛同の笑みを浮かべた。",
-          "highlight": "benevolent"
-        }
-      ]
-    }
-  ],
-  "etymology": "bene (良く) + vol (願う) + ent (形容詞語尾) <br>→ 良く願う、善意の",
-  "synonyms": [
-    {"word": "kind", "trans": "親切な"},
-    {"word": "charitable", "trans": "慈悲深い"},
-    {"word": "compassionate", "trans": "思いやりのある"}
-  ],
-  "antonyms": [
-    {"word": "malevolent", "trans": "悪意のある"},
-    {"word": "cruel", "trans": "残酷な"},
-    {"word": "hostile", "trans": "敵対的な"}
-  ],
-  "related": [
-    {"word": "benevolence", "trans": "名詞：慈悲・善意"},
-    {"word": "benefit", "trans": "名詞・動詞：利益"},
-    {"word": "malevolent", "trans": "形容詞：悪意のある"}
-  ]
-},
-{
-  "number": 549,
-  "word": "deceitfully",
-  "pos": "副詞",
-  "meaning": "欺瞞的に、不正に、人を欺いて",
-  "nuance": "意図的に人を騙すような方法で行動する様子を表します。正直さや誠実さに欠け、嘘や偽りによって人を誤った方向に導く行為を示します。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "He deceitfully promised to help, but never intended to.",
-          "ja": "彼は助けると欺瞞的に約束したが、そのつもりは全くなかった。",
-          "highlight": "deceitfully"
-        },
-        {
-          "en": "The contract was deceitfully worded to hide important details.",
-          "ja": "その契約書は重要な詳細を隠すため欺瞞的に書かれていた。",
-          "highlight": "deceitfully"
-        },
-        {
-          "en": "She smiled deceitfully while plotting against them.",
-          "ja": "彼女は彼らに対する陰謀を企てながら欺瞞的に微笑んだ。",
-          "highlight": "deceitfully"
-        }
-      ]
-    }
-  ],
-  "etymology": "deceitful (欺瞞的な) + ly (副詞語尾) <br>→ 欺瞞的に",
-  "synonyms": [
-    {"word": "dishonestly", "trans": "不正直に"},
-    {"word": "fraudulently", "trans": "詐欺的に"},
-    {"word": "deceptively", "trans": "欺いて"}
-  ],
-  "antonyms": [
-    {"word": "honestly", "trans": "正直に"},
-    {"word": "truthfully", "trans": "誠実に"},
-    {"word": "sincerely", "trans": "真摯に"}
-  ],
-  "related": [
-    {
-      "word": "deceitful",
-      "trans": "形容詞：欺瞞的な",
-      "link": "549-2-deceitful.html"
-    },
-    {
-      "word": "deceit",
-      "trans": "名詞：欺瞞",
-      "link": "549-3-deceit.html"
-    }
-  ]
-},
-{
-  "number": "549-2",
-  "word": "deceitful",
-  "pos": "形容詞",
-  "meaning": "欺瞞的な、不誠実な、人を欺く",
-  "nuance": "意図的に嘘をついたり、真実を隠したりする性質を表します。人の性格や行動が信頼できず、騙す傾向があることを示します。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "His deceitful behavior destroyed their friendship.",
-          "ja": "彼の欺瞞的な行動は彼らの友情を壊した。",
-          "highlight": "deceitful"
-        },
-        {
-          "en": "The advertisement was deceitful and misleading.",
-          "ja": "その広告は欺瞞的で誤解を招くものだった。",
-          "highlight": "deceitful"
-        },
-        {
-          "en": "She found him to be a deceitful person.",
-          "ja": "彼女は彼が不誠実な人間だとわかった。",
-          "highlight": "deceitful"
-        }
-      ]
-    }
-  ],
-  "etymology": "deceit (欺瞞) + ful (満ちた) <br>→ 欺瞞に満ちた",
-  "synonyms": [
-    {"word": "dishonest", "trans": "不正直な"},
-    {"word": "fraudulent", "trans": "詐欺的な"},
-    {"word": "untrustworthy", "trans": "信頼できない"}
-  ],
-  "antonyms": [
-    {"word": "honest", "trans": "正直な"},
-    {"word": "truthful", "trans": "誠実な"},
-    {"word": "trustworthy", "trans": "信頼できる"}
-  ],
-  "related": [
-    {
-      "word": "deceit",
-      "trans": "名詞：欺瞞",
-      "link": "549-3-deceit.html"
-    },
-    {
-      "word": "deceive",
-      "trans": "動詞：欺く",
-      "link": "549-4-deceive.html"
-    }
-  ]
-},
-{
-  "number": "549-3",
-  "word": "deceit",
-  "pos": "名詞",
-  "meaning": "欺瞞、詐欺、ごまかし",
-  "nuance": "「捕らえる（ceive）ことから離れて（de）」が語源で、意図的に人を騙す行為や、嘘をついて真実を隠すことを表します。不誠実さや裏切りを含む概念です。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The relationship was built on lies and deceit.",
-          "ja": "その関係は嘘と欺瞞の上に築かれていた。",
-          "highlight": "deceit"
-        },
-        {
-          "en": "She was shocked by his deceit.",
-          "ja": "彼女は彼の欺瞞にショックを受けた。",
-          "highlight": "deceit"
-        },
-        {
-          "en": "The investigation revealed a web of deceit.",
-          "ja": "調査は欺瞞の網を明らかにした。",
-          "highlight": "deceit"
-        }
-      ]
-    }
-  ],
-  "etymology": "de (離れて) + ceive (捕らえる) <br>→ 真実から離れて捕らえる、欺く",
-  "synonyms": [
-    {"word": "deception", "trans": "欺瞞"},
-    {"word": "fraud", "trans": "詐欺"},
-    {"word": "dishonesty", "trans": "不正直"}
-  ],
-  "antonyms": [
-    {"word": "honesty", "trans": "正直"},
-    {"word": "truth", "trans": "真実"},
-    {"word": "sincerity", "trans": "誠実"}
-  ],
-  "related": [
-    {
-      "word": "deceive",
-      "trans": "動詞：欺く",
-      "link": "549-4-deceive.html"
-    },
-    {
-      "word": "deceitful",
-      "trans": "形容詞：欺瞞的な",
-      "link": "549-2-deceitful.html"
-    }
-  ]
-},
-{
-  "number": "549-4",
-  "word": "deceive",
-  "pos": "動詞",
-  "meaning": "欺く、だます、裏切る",
-  "nuance": "意図的に嘘の情報を与えたり、真実を隠したりして、人に誤った信念を持たせることを表します。信頼を裏切る行為を含みます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "He deceived his partners about the company's finances.",
-          "ja": "彼は会社の財務状況についてパートナーたちを欺いた。",
-          "highlight": "deceived"
-        },
-        {
-          "en": "Don't be deceived by his friendly appearance.",
-          "ja": "彼の親しげな外見に騙されてはいけない。",
-          "highlight": "deceived"
-        },
-        {
-          "en": "She felt deeply hurt when she realized he had deceived her.",
-          "ja": "彼に騙されていたことに気づいた時、彼女は深く傷ついた。",
-          "highlight": "deceived"
-        }
-      ]
-    }
-  ],
-  "etymology": "de (離れて) + ceive (捕らえる) <br>→ 真実から引き離す、欺く",
-  "synonyms": [
-    {"word": "mislead", "trans": "誤解させる"},
-    {"word": "trick", "trans": "だます"},
-    {"word": "fool", "trans": "欺く"}
-  ],
-  "antonyms": [
-    {"word": "enlighten", "trans": "啓発する"},
-    {"word": "inform", "trans": "知らせる"},
-    {"word": "reveal", "trans": "明らかにする"}
-  ],
-  "related": [
-    {
-      "word": "deceit",
-      "trans": "名詞：欺瞞",
-      "link": "549-3-deceit.html"
-    },
-    {
-      "word": "deception",
-      "trans": "名詞：欺瞞・ごまかし",
-      "link": "549-5-deception.html"
-    }
-  ]
-},
-{
-  "number": "549-5",
-  "word": "deception",
-  "pos": "名詞",
-  "meaning": "欺瞞、ごまかし、詐欺行為",
-  "nuance": "人を騙す行為や状態を指します。deceitとほぼ同義ですが、deceptionはより具体的な騙す行為やトリックを指すことが多く、deceitは性質や傾向を表すことが多いという微妙な違いがあります。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The magician's trick was a clever deception.",
-          "ja": "そのマジシャンのトリックは巧妙な欺瞞だった。",
-          "highlight": "deception"
-        },
-        {
-          "en": "The company was accused of deception in its advertising.",
-          "ja": "その会社は広告における欺瞞で告発された。",
-          "highlight": "deception"
-        },
-        {
-          "en": "She discovered the deception too late.",
-          "ja": "彼女は欺瞞に気づくのが遅すぎた。",
-          "highlight": "deception"
-        }
-      ]
-    }
-  ],
-  "etymology": "deceive (欺く) + tion (こと) <br>→ 欺くこと",
-  "synonyms": [
-    {"word": "deceit", "trans": "欺瞞"},
-    {"word": "trickery", "trans": "ごまかし"},
-    {"word": "fraud", "trans": "詐欺"}
-  ],
-  "antonyms": [
-    {"word": "honesty", "trans": "正直"},
-    {"word": "truth", "trans": "真実"},
-    {"word": "transparency", "trans": "透明性"}
-  ],
-  "related": [
-    {
-      "word": "deceive",
-      "trans": "動詞：欺く",
-      "link": "549-4-deceive.html"
-    },
-    {"word": "deceptive", "trans": "形容詞：欺瞞的な"}
-  ]
-},
-{
-  "number": 550,
-  "word": "betray",
-  "pos": "動詞",
-  "meaning": "裏切る、背く、暴露する",
-  "nuance": "信頼や忠誠を裏切ること、または秘密を明かしてしまうことを表します。意図的な裏切りだけでなく、無意識に感情や情報を漏らしてしまう場合にも使われます。",
-  "example_sections": [
-    {
-      "title": "例文（裏切る）",
-      "examples": [
-        {
-          "en": "He betrayed his country by selling secrets to the enemy.",
-          "ja": "彼は敵に機密を売ることで国を裏切った。",
-          "highlight": "betrayed"
-        },
-        {
-          "en": "She felt betrayed by her best friend.",
-          "ja": "彼女は親友に裏切られたと感じた。",
-          "highlight": "betrayed"
-        }
-      ]
-    },
-    {
-      "title": "例文（暴露する・明かす）",
-      "examples": [
-        {
-          "en": "His nervousness betrayed his lack of confidence.",
-          "ja": "彼の神経質さが自信のなさを露呈した。",
-          "highlight": "betrayed"
-        },
-        {
-          "en": "Don't betray my trust by telling others.",
-          "ja": "他人に話して私の信頼を裏切らないでください。",
-          "highlight": "betray"
-        }
-      ]
-    }
-  ],
-  "etymology": "be (完全に) + tray (引き渡す) <br>→ 引き渡す、裏切る",
-  "synonyms": [
-    {"word": "deceive", "trans": "欺く"},
-    {"word": "double-cross", "trans": "裏切る"},
-    {"word": "reveal", "trans": "明かす"}
-  ],
-  "antonyms": [
-    {"word": "support", "trans": "支持する"},
-    {"word": "protect", "trans": "守る"},
-    {"word": "remain loyal", "trans": "忠実でいる"}
-  ],
-  "related": [
-    {
-      "word": "betrayal",
-      "trans": "名詞：裏切り",
-      "link": "550-2-betrayal.html"
-    },
-    {"word": "betrayer", "trans": "名詞：裏切り者"}
-  ]
-},
-{
-  "number": "550-2",
-  "word": "betrayal",
-  "pos": "名詞",
-  "meaning": "裏切り、背信行為",
-  "nuance": "信頼や忠誠を裏切る行為を指します。個人的な関係における裏切りから、国家に対する背信行為まで、幅広い文脈で使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The betrayal of trust damaged their relationship forever.",
-          "ja": "信頼の裏切りが彼らの関係を永久に損なった。",
-          "highlight": "betrayal"
-        },
-        {
-          "en": "She couldn't forgive his betrayal.",
-          "ja": "彼女は彼の裏切りを許すことができなかった。",
-          "highlight": "betrayal"
-        },
-        {
-          "en": "The spy's betrayal led to the capture of many agents.",
-          "ja": "そのスパイの裏切りは多くの工作員の捕獲につながった。",
-          "highlight": "betrayal"
-        }
-      ]
-    }
-  ],
-  "etymology": "betray (裏切る) + al (こと) <br>→ 裏切ること",
-  "synonyms": [
-    {"word": "treachery", "trans": "裏切り"},
-    {"word": "disloyalty", "trans": "不忠"},
-    {"word": "treason", "trans": "反逆"}
-  ],
-  "antonyms": [
-    {"word": "loyalty", "trans": "忠誠"},
-    {"word": "faithfulness", "trans": "誠実"},
-    {"word": "allegiance", "trans": "忠義"}
-  ],
-  "related": [
-    {
-      "word": "betray",
-      "trans": "動詞：裏切る",
-      "link": "550-betray.html"
-    }
-  ]
-},
-{
-  "number": 551,
-  "word": "cluster",
-  "pos": "名詞・動詞",
-  "meaning": "集まり、群れ、集まる、群がる",
-  "nuance": "同じような物や人が密集して集まっている状態を表します。ブドウの房のように、個々は独立しているが近くに寄り集まっている様子を示します。",
-  "example_sections": [
-    {
-      "title": "例文（名詞：集まり）",
-      "examples": [
-        {
-          "en": "A cluster of stars lit up the night sky.",
-          "ja": "星の集まりが夜空を照らした。",
-          "highlight": "cluster"
-        },
-        {
-          "en": "There was a cluster of houses near the lake.",
-          "ja": "湖の近くに家々の集まりがあった。",
-          "highlight": "cluster"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：集まる）",
-      "examples": [
-        {
-          "en": "People clustered around the street performer.",
-          "ja": "人々は大道芸人の周りに群がった。",
-          "highlight": "clustered"
-        },
-        {
-          "en": "The grapes cluster on the vine.",
-          "ja": "ブドウは蔓に房をなしている。",
-          "highlight": "cluster"
-        }
-      ]
-    }
-  ],
-  "etymology": "古英語 clyster (束、集まり) <br>→ 密集した集まり",
-  "synonyms": [
-    {"word": "group", "trans": "集まり"},
-    {"word": "bunch", "trans": "束"},
-    {"word": "gather", "trans": "集まる"}
-  ],
-  "antonyms": [
-    {"word": "scatter", "trans": "散らばる"},
-    {"word": "disperse", "trans": "分散する"},
-    {"word": "spread", "trans": "広がる"}
-  ],
-  "related": [
-    {"word": "clustering", "trans": "名詞：集まること"},
-    {"word": "clustered", "trans": "形容詞：集まった"}
-  ]
-},
-{
-  "number": 552,
-  "word": "flock",
-  "pos": "名詞・動詞",
-  "meaning": "（鳥や羊の）群れ、集団、群がる",
-  "nuance": "主に鳥や羊などの動物の群れを指しますが、人々が大勢集まる様子にも使われます。「flock together（群がる）」という表現が一般的です。",
-  "example_sections": [
-    {
-      "title": "例文（名詞：群れ）",
-      "examples": [
-        {
-          "en": "A flock of birds flew south for the winter.",
-          "ja": "鳥の群れが冬のため南へ飛んでいった。",
-          "highlight": "flock"
-        },
-        {
-          "en": "The shepherd watched over his flock of sheep.",
-          "ja": "羊飼いは羊の群れを見守った。",
-          "highlight": "flock"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：群がる）",
-      "examples": [
-        {
-          "en": "Tourists flock to the city during summer.",
-          "ja": "夏には観光客がその都市に群がる。",
-          "highlight": "flock"
-        },
-        {
-          "en": "People flocked to the new restaurant.",
-          "ja": "人々は新しいレストランに殺到した。",
-          "highlight": "flocked"
-        }
-      ]
-    }
-  ],
-  "etymology": "古英語 flocc (群れ、集団) <br>→ 一緒に動く集団",
-  "synonyms": [
-    {"word": "herd", "trans": "群れ"},
-    {"word": "crowd", "trans": "群衆"},
-    {"word": "swarm", "trans": "群がる"}
-  ],
-  "antonyms": [
-    {"word": "scatter", "trans": "散らばる"},
-    {"word": "disperse", "trans": "分散する"},
-    {"word": "separate", "trans": "分かれる"}
-  ],
-  "related": [
-    {"word": "flock together", "trans": "群がる"},
-    {"word": "herd", "trans": "名詞：（大型動物の）群れ"}
-  ]
-},
-{
-  "number": 553,
-  "word": "herd",
-  "pos": "名詞・動詞",
-  "meaning": "（大型動物の）群れ、集団、群れをなす",
-  "nuance": "主に牛や象などの大型動物の群れを指しますが、人々が集団で無思慮に行動する様子を批判的に表現する場合にも使われます。「herd mentality（群衆心理）」という表現が一般的です。",
-  "example_sections": [
-    {
-      "title": "例文（名詞：群れ）",
-      "examples": [
-        {
-          "en": "A herd of cattle grazed in the field.",
-          "ja": "牛の群れが野原で草を食んでいた。",
-          "highlight": "herd"
-        },
-        {
-          "en": "The herd of elephants moved slowly across the savanna.",
-          "ja": "象の群れはサバンナをゆっくりと横切った。",
-          "highlight": "herd"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：群れをなす・集める）",
-      "examples": [
-        {
-          "en": "The cowboys herded the cattle toward the ranch.",
-          "ja": "カウボーイたちは牛を牧場に向けて追い立てた。",
-          "highlight": "herded"
-        },
-        {
-          "en": "People were herded into the auditorium.",
-          "ja": "人々は講堂に追い込まれた。",
-          "highlight": "herded"
-        }
-      ]
-    }
-  ],
-  "etymology": "古英語 heord (群れ) <br>→ 一緒に飼われる動物の集団",
-  "synonyms": [
-    {"word": "flock", "trans": "群れ"},
-    {"word": "drove", "trans": "家畜の群れ"},
-    {"word": "crowd", "trans": "群衆"}
-  ],
-  "antonyms": [
-    {"word": "individual", "trans": "個体"},
-    {"word": "scatter", "trans": "散らばる"},
-    {"word": "disperse", "trans": "分散する"}
-  ],
-  "related": [
-    {"word": "herder", "trans": "名詞：牧夫"},
-    {"word": "herd mentality", "trans": "群衆心理"}
-  ]
-},
-{
-  "number": 554,
-  "word": "mob",
-  "pos": "名詞・動詞",
-  "meaning": "暴徒、群衆、群がる、襲う",
-  "nuance": "無秩序で制御不能な群衆を指し、しばしば否定的な意味合いを持ちます。暴力的または混乱した集団行動を示唆することが多く、「mob violence（暴徒による暴力）」などの表現で使われます。",
-  "example_sections": [
-    {
-      "title": "例文（名詞：暴徒・群衆）",
-      "examples": [
-        {
-          "en": "An angry mob gathered outside the government building.",
-          "ja": "怒った暴徒が政府庁舎の外に集まった。",
-          "highlight": "mob"
-        },
-        {
-          "en": "The celebrity was surrounded by a mob of fans.",
-          "ja": "その有名人はファンの群衆に囲まれた。",
-          "highlight": "mob"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：群がる・襲う）",
-      "examples": [
-        {
-          "en": "Shoppers mobbed the store during the sale.",
-          "ja": "セール中、買い物客が店に殺到した。",
-          "highlight": "mobbed"
-        },
-        {
-          "en": "The rock star was mobbed by adoring fans.",
-          "ja": "そのロックスターは熱狂的なファンに取り囲まれた。",
-          "highlight": "mobbed"
-        }
-      ]
-    }
-  ],
-  "etymology": "ラテン語 mobile vulgus (動きやすい群衆) <br>→ 不安定な群衆",
-  "synonyms": [
-    {"word": "crowd", "trans": "群衆"},
-    {"word": "throng", "trans": "大群"},
-    {"word": "swarm", "trans": "群がる"}
-  ],
-  "antonyms": [
-    {"word": "individual", "trans": "個人"},
-    {"word": "order", "trans": "秩序"},
-    {"word": "disperse", "trans": "散らばる"}
-  ],
-  "related": [
-    {"word": "mobster", "trans": "名詞：マフィア"},
-    {"word": "mob rule", "trans": "暴民政治"}
-  ]
-},
-{
-  "number": 555,
-  "word": "rally",
-  "pos": "動詞・名詞",
-  "meaning": "集まる、結集する、回復する、集会",
-  "nuance": "「再び（re）結びつける（ally）」が語源で、共通の目的のために人々が集まること、または困難から立ち直ることを表します。政治集会やスポーツでの逆転劇など、ポジティブな文脈で使われることが多い語です。",
-  "example_sections": [
-    {
-      "title": "例文（動詞：集まる・結集する）",
-      "examples": [
-        {
-          "en": "Supporters rallied behind the candidate.",
-          "ja": "支持者たちは候補者の背後に結集した。",
-          "highlight": "rallied"
-        },
-        {
-          "en": "The community rallied to help the victims.",
-          "ja": "地域社会は被害者を助けるために団結した。",
-          "highlight": "rallied"
-        }
-      ]
-    },
-    {
-      "title": "例文（動詞：回復する）",
-      "examples": [
-        {
-          "en": "The stock market rallied after the positive news.",
-          "ja": "好材料の後、株式市場は回復した。",
-          "highlight": "rallied"
-        }
-      ]
-    },
-    {
-      "title": "例文（名詞：集会）",
-      "examples": [
-        {
-          "en": "Thousands attended the political rally.",
-          "ja": "何千人もの人々が政治集会に参加した。",
-          "highlight": "rally"
-        }
-      ]
-    }
-  ],
-  "etymology": "re (再び) + ally (結びつく) <br>→ 再び結集する",
-  "synonyms": [
-    {"word": "gather", "trans": "集まる"},
-    {"word": "assemble", "trans": "集合する"},
-    {"word": "recover", "trans": "回復する"}
-  ],
-  "antonyms": [
-    {"word": "disperse", "trans": "散らばる"},
-    {"word": "decline", "trans": "衰える"},
-    {"word": "scatter", "trans": "散る"}
-  ],
-  "related": [
-    {"word": "rallying point", "trans": "結集点"},
-    {"word": "rallying cry", "trans": "合言葉"}
-  ]
-},
-{
-  "number": 556,
-  "word": "confide",
-  "pos": "動詞",
-  "meaning": "打ち明ける、秘密を話す、信頼する",
-  "nuance": "「完全に（con）信頼する（fide）」が語源で、信頼できる相手に秘密や個人的な情報を打ち明けることを表します。「confide in someone（人に打ち明ける）」の形で使われることが多い語です。",
-  "example_sections": [
-    {
-      "title": "例文（打ち明ける）",
-      "examples": [
-        {
-          "en": "She confided her worries to her best friend.",
-          "ja": "彼女は親友に悩みを打ち明けた。",
-          "highlight": "confided"
-        },
-        {
-          "en": "He confided in me that he was planning to quit his job.",
-          "ja": "彼は仕事を辞めるつもりだと私に打ち明けた。",
-          "highlight": "confided"
-        },
-        {
-          "en": "I need someone I can confide in.",
-          "ja": "私には打ち明けられる相手が必要だ。",
-          "highlight": "confide"
-        }
-      ]
-    }
-  ],
-  "etymology": "con (完全に) + fide (信頼) <br>→ 完全に信頼する、秘密を託す",
-  "synonyms": [
-    {"word": "reveal", "trans": "明かす"},
-    {"word": "disclose", "trans": "打ち明ける"},
-    {"word": "trust", "trans": "信頼する"}
-  ],
-  "antonyms": [
-    {"word": "conceal", "trans": "隠す"},
-    {"word": "withhold", "trans": "伏せる"},
-    {"word": "distrust", "trans": "不信に思う"}
-  ],
-  "related": [
-    {"word": "confidence", "trans": "名詞：信頼・自信"},
-    {"word": "confidential", "trans": "形容詞：機密の"},
-    {"word": "confidant", "trans": "名詞：親友・腹心"}
-  ]
-},
-{
-  "number": 557,
-  "word": "contrive",
-  "pos": "動詞",
-  "meaning": "工夫する、考案する、どうにかして成し遂げる",
-  "nuance": "「共に（con）見つける（trive）」が語源で、困難な状況下で巧みに計画したり、工夫して何かを作り出したりすることを表します。創意工夫や巧妙さを含意します。",
-  "example_sections": [
-    {
-      "title": "例文（工夫する・考案する）",
-      "examples": [
-        {
-          "en": "She contrived a way to escape from the locked room.",
-          "ja": "彼女は鍵のかかった部屋から脱出する方法を考案した。",
-          "highlight": "contrived"
-        },
-        {
-          "en": "He contrived to meet her at the party.",
-          "ja": "彼はパーティーで彼女に会うよう工夫した。",
-          "highlight": "contrived"
-        },
-        {
-          "en": "The engineer contrived a simple but effective solution.",
-          "ja": "そのエンジニアはシンプルだが効果的な解決策を考案した。",
-          "highlight": "contrived"
-        }
-      ]
-    }
-  ],
-  "etymology": "con (共に) + trive (見つける) <br>→ 工夫して見つける、考案する",
-  "synonyms": [
-    {"word": "devise", "trans": "考案する"},
-    {"word": "invent", "trans": "発明する"},
-    {"word": "manage", "trans": "どうにかする"}
-  ],
-  "antonyms": [
-    {"word": "fail", "trans": "失敗する"},
-    {"word": "bungle", "trans": "しくじる"}
-  ],
-  "related": [
-    {"word": "contrivance", "trans": "名詞：工夫・仕掛け"},
-    {"word": "contrived", "trans": "形容詞：不自然な・わざとらしい"}
-  ]
-},
-{
-  "number": "557-2",
-  "word": "configure",
-  "pos": "動詞",
-  "meaning": "設定する、構成する、配置する",
-  "nuance": "「共に（con）形づくる（figure）」が語源で、特にコンピュータやシステムを特定の目的に合わせて設定・調整することを表します。技術分野で頻出する語です。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "You need to configure the software before first use.",
-          "ja": "初回使用前にソフトウェアを設定する必要があります。",
-          "highlight": "configure"
-        },
-        {
-          "en": "The system can be configured to meet your specific needs.",
-          "ja": "システムはあなたの特定のニーズに合わせて構成できます。",
-          "highlight": "configured"
-        },
-        {
-          "en": "He configured the network settings correctly.",
-          "ja": "彼はネットワーク設定を正しく構成した。",
-          "highlight": "configured"
-        }
-      ]
-    }
-  ],
-  "etymology": "con (共に) + figure (形づくる) <br>→ 共に形づくる、設定する",
-  "synonyms": [
-    {"word": "set up", "trans": "設定する"},
-    {"word": "arrange", "trans": "配置する"},
-    {"word": "organize", "trans": "整える"}
-  ],
-  "antonyms": [
-    {"word": "disorganize", "trans": "乱す"},
-    {"word": "disarrange", "trans": "混乱させる"}
-  ],
-  "related": [
-    {
-      "word": "configuration",
-      "trans": "名詞：設定・構成",
-      "link": "557-3-configuration.html"
-    },
-    {"word": "figure", "trans": "名詞：形・図形"}
-  ]
-},
-{
-  "number": "557-3",
-  "word": "configuration",
-  "pos": "名詞",
-  "meaning": "設定、構成、配置",
-  "nuance": "部品やシステムの配置や設定の仕方を指します。コンピュータの設定から物理的な配置まで、幅広い文脈で使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The room's configuration allows for flexible seating arrangements.",
-          "ja": "その部屋の配置は柔軟な座席配置を可能にする。",
-          "highlight": "configuration"
-        },
-        {
-          "en": "Check the system configuration before installing updates.",
-          "ja": "アップデートをインストールする前にシステム設定を確認してください。",
-          "highlight": "configuration"
-        },
-        {
-          "en": "The aircraft is available in several different configurations.",
-          "ja": "その航空機はいくつかの異なる構成で利用可能です。",
-          "highlight": "configurations"
-        }
-      ]
-    }
-  ],
-  "etymology": "configure (設定する) + ation (こと) <br>→ 設定すること、構成",
-  "synonyms": [
-    {"word": "arrangement", "trans": "配置"},
-    {"word": "setup", "trans": "設定"},
-    {"word": "layout", "trans": "レイアウト"}
-  ],
-  "antonyms": [
-    {"word": "disorganization", "trans": "無秩序"},
-    {"word": "chaos", "trans": "混沌"}
-  ],
-  "related": [
-    {
-      "word": "configure",
-      "trans": "動詞：設定する",
-      "link": "557-2-configure.html"
-    },
-    {"word": "reconfigure", "trans": "動詞：再設定する"}
-  ]
-},
-{
-  "number": "557-4",
-  "word": "congressional",
-  "pos": "形容詞",
-  "meaning": "議会の、国会の",
-  "nuance": "「共に（con）集まる（gress）」が語源のcongressから派生した形容詞で、特にアメリカの連邦議会に関連することを表します。立法機関や議会の活動に関する文脈で使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "The congressional hearing lasted for three hours.",
-          "ja": "議会公聴会は3時間続いた。",
-          "highlight": "congressional"
-        },
-        {
-          "en": "She announced her congressional campaign yesterday.",
-          "ja": "彼女は昨日、議会選挙への立候補を発表した。",
-          "highlight": "congressional"
-        },
-        {
-          "en": "Congressional approval is required for the budget.",
-          "ja": "予算には議会の承認が必要です。",
-          "highlight": "Congressional"
-        }
-      ]
-    }
-  ],
-  "etymology": "congress (議会) + ional (〜の) <br>→ 議会の",
-  "synonyms": [
-    {"word": "legislative", "trans": "立法の"},
-    {"word": "parliamentary", "trans": "議会の"}
-  ],
-  "antonyms": [
-    {"word": "executive", "trans": "行政の"},
-    {"word": "judicial", "trans": "司法の"}
-  ],
-  "related": [
-    {"word": "Congress", "trans": "名詞：議会"},
-    {"word": "congressman", "trans": "名詞：下院議員"},
-    {"word": "congresswoman", "trans": "名詞：女性下院議員"}
-  ]
-},
-{
-  "number": "557-5",
-  "word": "conspicuous",
-  "pos": "形容詞",
-  "meaning": "目立つ、顕著な、人目を引く",
-  "nuance": "「共に（con）見る（spic）」が語源で、誰の目にも明らかで、気づかないわけにはいかないほど目立つことを表します。良い意味でも悪い意味でも使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "She wore a conspicuous red dress to the party.",
-          "ja": "彼女はパーティーに目立つ赤いドレスを着ていった。",
-          "highlight": "conspicuous"
-        },
-        {
-          "en": "His absence from the meeting was conspicuous.",
-          "ja": "会議での彼の不在は目立っていた。",
-          "highlight": "conspicuous"
-        },
-        {
-          "en": "The building's modern design is conspicuous among the old houses.",
-          "ja": "その建物の現代的なデザインは古い家々の中で際立っている。",
-          "highlight": "conspicuous"
-        }
-      ]
-    }
-  ],
-  "etymology": "con (共に) + spic (見る) + uous (形容詞語尾) <br>→ 皆が見る、目立つ",
-  "synonyms": [
-    {"word": "noticeable", "trans": "目につく"},
-    {"word": "obvious", "trans": "明白な"},
-    {"word": "prominent", "trans": "顕著な"}
-  ],
-  "antonyms": [
-    {"word": "inconspicuous", "trans": "目立たない"},
-    {"word": "subtle", "trans": "控えめな"},
-    {"word": "hidden", "trans": "隠れた"}
-  ],
-  "related": [
-    {"word": "conspicuously", "trans": "副詞：目立って"},
-    {"word": "conspicuousness", "trans": "名詞：顕著さ"},
-    {"word": "inspect", "trans": "動詞：検査する"}
-  ]
-},
-　　　{
-  "number": "557-6",
-  "word": "conscience",
-  "pos": "名詞",
-  "meaning": "良心、道徳心、善悪の判断",
-  "nuance": "「共に（con）知る（science）」が語源で、善悪を判断する内なる道徳的感覚を表します。「guilty conscience（罪悪感）」「clear conscience（やましさのない心）」などの表現で使われます。",
-  "example_sections": [
-    {
-      "title": "例文",
-      "examples": [
-        {
-          "en": "His conscience wouldn't allow him to lie.",
-          "ja": "彼の良心は嘘をつくことを許さなかった。",
-          "highlight": "conscience"
-        },
-        {
-          "en": "She has a guilty conscience about what she did.",
-          "ja": "彼女は自分がしたことについて罪悪感を抱いている。",
-          "highlight": "conscience"
-        },
-        {
-          "en": "I can sleep with a clear conscience knowing I did the right thing.",
-          "ja": "正しいことをしたとわかっているので、私はやましさなく眠れる。",
-          "highlight": "conscience"
-        }
-      ]
-    }
-  ],
-  "etymology": "con (共に) + science (知る) <br>→ 共に知る、良心",
-  "synonyms": [
-    {"word": "morality", "trans": "道徳"},
-    {"word": "scruples", "trans": "良心の呵責"},
-    {"word": "ethics", "trans": "倫理"}
-  ],
-  "antonyms": [
-    {"word": "shamelessness", "trans": "恥知らず"},
-    {"word": "amorality", "trans": "不道徳"}
-  ],
-  "related": [
-        {"word": "conscientious", "trans": "形容詞：良心的な・誠実な"},
-        {"word": "conscious", "trans": "形容詞：意識している"},
-        {"word": "consciousness", "trans": "名詞:意識"}
-      ]
-    }
+  {
+    "number": 535,
+    "word": "consent",
+    "pos": "名詞、動詞",
+    "meaning": "同意、承諾、許可",
+    "nuance": "（特に権限を持つ人や当事者が）提案や要求に対して「いいですよ」と承諾することを指します。医療の「informed consent（説明を受けた上での同意）」のように、法的な文脈や個人の意思決定で重要視される言葉です。",
+    "example_sections": [
+      {
+        "title": "例文（名詞）",
+        "examples": [
+          {
+            "en": "The patient gave her informed consent for the surgery.",
+            "ja": "患者は手術に対して、説明を受けた上での同意を与えた。",
+            "highlight": "consent"
+          }
+        ]
+      },
+      {
+        "title": "例文（動詞）",
+        "examples": [
+          {
+            "en": "Her parents finally consented to the marriage.",
+            "ja": "彼女の両親は、ついにその結婚に同意した。",
+            "highlight": "consented"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (共に) + sentire (感じる) <br>→ 感情や意見を共にする",
+    "synonyms": [
+      {"word": "agreement", "trans": "合意"},
+      {"word": "permission", "trans": "許可"},
+      {"word": "compliance", "trans": "応諾"}
+    ],
+    "antonyms": [
+      {"word": "dissent", "trans": "異議"},
+      {"word": "refusal", "trans": "拒絶"},
+      {"word": "objection", "trans": "反対"}
+    ],
+    "related": [
+      {"word": "consensus", "trans": "名詞：意見の一致"},
+      {"word": "sensible", "trans": "形容詞：賢明な"}
+    ]
+  },
+  {
+    "number": 536,
+    "word": "assent",
+    "pos": "名詞、動詞",
+    "meaning": "（公式な）同意、賛成",
+    "nuance": "consentよりもさらにフォーマルで、提案や意見に対して知的に「その通りだ」と肯定・同意することを指します。政府の法案に対する国王の裁可（Royal Assent）などで使われる硬い言葉です。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The director gave his assent to the new project plan.",
+            "ja": "取締役は新しいプロジェクト計画に同意を与えた。",
+            "highlight": "assent"
+          },
+          {
+            "en": "There was a murmur of assent from the audience.",
+            "ja": "聴衆から賛成のささやきが漏れた。",
+            "highlight": "assent"
+          }
+        ]
+      }
+    ],
+    "etymology": "ad (〜へ) + sentire (感じる) <br>→ 意見の方向を合わせる",
+    "synonyms": [
+      {"word": "concurrence", "trans": "一致、同意"},
+      {"word": "acceptance", "trans": "受け入れ"},
+      {"word": "sanction", "trans": "認可"}
+    ],
+    "antonyms": [
+      {"word": "dissent", "trans": "異議を唱える"},
+      {"word": "rejection", "trans": "拒絶"}
+    ],
+    "related": [
+      {"word": "consent", "trans": "名詞/動詞：同意（より一般的）"},
+      {"word": "sentiment", "trans": "名詞：感情、情緒"}
+    ]
+  },
+  {
+    "number": 537,
+    "word": "blessing",
+    "pos": "名詞",
+    "meaning": "祝福、賛成、ありがたいもの",
+    "nuance": "宗教的な「祝福」から転じて、親や目上の人からの「（快い）賛成・許可」を指します。また、「a blessing in disguise（災い転じて福となす）」のように、幸運な出来事に対しても使われます。",
+    "example_sections": [
+      {
+        "title": "例文（賛成）",
+        "examples": [
+          {
+            "en": "They started the business with their father's blessing.",
+            "ja": "彼らは父親の賛成（許し）を得て事業を始めた。",
+            "highlight": "blessing"
+          }
+        ]
+      },
+      {
+        "title": "例文（ありがたいもの）",
+        "examples": [
+          {
+            "en": "The rain was a blessing for the farmers.",
+            "ja": "その雨は農家にとってありがたいもの（恵み）だった。",
+            "highlight": "blessing"
+          }
+        ]
+      }
+    ],
+    "etymology": "古期英語 bletsian (血で聖別する) <br>→ 神聖なものとする、祝福する",
+    "synonyms": [
+      {"word": "approval", "trans": "承認"},
+      {"word": "benediction", "trans": "祝福の祈り"},
+      {"word": "boon", "trans": "恩恵"}
+    ],
+    "antonyms": [
+      {"word": "curse", "trans": "呪い"},
+      {"word": "condemnation", "trans": "非難"},
+      {"word": "misfortune", "trans": "不幸"}
+    ],
+    "related": [
+      {"word": "bless", "trans": "動詞：祝福する"},
+      {"word": "blessed", "trans": "形容詞：神聖な、幸運な"}
+    ]
+  },
+  {
+    "number": "537-2",
+    "word": "approval",
+    "pos": "名詞",
+    "meaning": "承認、賛成、認可",
+    "nuance": "何かが「良い」と認められること。上司からの仕事の許可や、社会的な「受け入れ」を指します。公式な書類の「認可」という意味でも使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The plan is subject to the board's approval.",
+            "ja": "その計画は取締役会の承認を必要とする。",
+            "highlight": "approval"
+          },
+          {
+            "en": "Children often seek their parents' approval.",
+            "ja": "子供たちはしばしば親の賛成（認められること）を求める。",
+            "highlight": "approval"
+          }
+        ]
+      }
+    ],
+    "etymology": "approve + al (名詞語尾) <br>→ 良いと認めること",
+    "synonyms": [
+      {"word": "acceptance", "trans": "受け入れ"},
+      {"word": "consent", "trans": "同意"},
+      {"word": "authorization", "trans": "権限付与"}
+    ],
+    "antonyms": [
+      {"word": "disapproval", "trans": "不賛成"},
+      {"word": "rejection", "trans": "拒絶"},
+      {"word": "criticism", "trans": "批判"}
+    ],
+    "related": [
+      {"word": "approve", "trans": "動詞：承認する"},
+      {"word": "approved", "trans": "形容詞：承認済みの"}
+    ]
+  },
+  {
+    "number": "537-3",
+    "word": "approve",
+    "pos": "動詞",
+    "meaning": "承認する、賛成する、認可する",
+    "nuance": "ある事柄を「良い」あるいは「適切だ」と判断して認めることです。「approve of ~」の形で「（人の行動などを）良しとする」という評価の意味でも使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The committee approved the budget proposal.",
+            "ja": "委員会は予算案を承認した。",
+            "highlight": "approved"
+          },
+          {
+            "en": "I don't necessarily approve of your methods.",
+            "ja": "私は必ずしも君のやり方に賛成しているわけではない。",
+            "highlight": "approve"
+          }
+        ]
+      }
+    ],
+    "etymology": "ad (〜へ) + probare (試して良いと認める) <br>→ 正当性を認める",
+    "synonyms": [
+      {"word": "accept", "trans": "受け入れる"},
+      {"word": "sanction", "trans": "認可する"},
+      {"word": "endorse", "trans": "支持する"}
+    ],
+    "antonyms": [
+      {"word": "disapprove", "trans": "不賛成である"},
+      {"word": "reject", "trans": "拒絶する"},
+      {"word": "veto", "trans": "拒否権を行使する"}
+    ],
+    "related": [
+      {"word": "approval", "trans": "名詞：承認"},
+      {"word": "probation", "trans": "名詞：試験期間、保護観察"}
+    ]
+  },
+  {
+    "number": "537-4",
+    "word": "endorse",
+    "pos": "動詞",
+    "meaning": "支持する、承認する、（小切手に）裏書きする、（有名人が商品を）宣伝する",
+    "nuance": "公の場で誰かや何かを「全面的にサポートする」という強い姿勢を示します。政治家が他候補を支持したり、有名人が商品の品質を保証してCMに出たりする際に使われます。",
+    "example_sections": [
+      {
+        "title": "例文（支持・宣伝）",
+        "examples": [
+          {
+            "en": "The celebrity endorsed the new line of sports shoes.",
+            "ja": "その有名人は新しいスポーツシューズのラインを宣伝（推薦）した。",
+            "highlight": "endorsed"
+          }
+        ]
+      },
+      {
+        "title": "例文（公的承認）",
+        "examples": [
+          {
+            "en": "The council endorsed the proposal for a new park.",
+            "ja": "議会は新しい公園の提案を承認した。",
+            "highlight": "endorsed"
+          }
+        ]
+      }
+    ],
+    "etymology": "en (中に/の上に) + dorsum (背中) <br>→ （書類の）背面に署名する = 裏書きして保証する",
+    "synonyms": [
+      {"word": "support", "trans": "支持する"},
+      {"word": "back", "trans": "後押しする"},
+      {"word": "recommend", "trans": "勧める"}
+    ],
+    "antonyms": [
+      {"word": "oppose", "trans": "反対する"},
+      {"word": "denounce", "trans": "非難する"},
+      {"word": "condemn", "trans": "糾弾する"}
+    ],
+    "related": [
+      {"word": "endorsement", "trans": "名詞：支持、裏書き"},
+      {"word": "dorsal", "trans": "形容詞：背中の"}
+    ]
+  },
+  {
+    "number": "537-5",
+    "word": "endorsement",
+    "pos": "名詞",
+    "meaning": "（公的な）支持、承認、裏書き、（有名人による）商品の推奨",
+    "nuance": "人や組織が何かを「素晴らしい」と公に認めること。アスリートとスポーツメーカーの「スポンサー契約」などもendorsement dealと呼ばれます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The candidate received an endorsement from the labor union.",
+            "ja": "その候補者は労働組合からの支持を取り付けた。",
+            "highlight": "endorsement"
+          },
+          {
+            "en": "The athlete signed a multi-million dollar endorsement deal.",
+            "ja": "そのアスリートは数百万ドルの商品推奨（広告）契約を結んだ。",
+            "highlight": "endorsement"
+          }
+        ]
+      }
+    ],
+    "etymology": "endorseの名詞形",
+    "synonyms": [
+      {"word": "backing", "trans": "支援"},
+      {"word": "sanction", "trans": "認可"},
+      {"word": "advocacy", "trans": "擁護、支持"}
+    ],
+    "antonyms": [
+      {"word": "opposition", "trans": "反対"},
+      {"word": "disclaim", "trans": "否認、拒否"}
+    ],
+    "related": [
+      {"word": "endorse", "trans": "動詞：支持する"}
+    ]
+  },
+  {
+    "number": 538,
+    "word": "severely",
+    "pos": "副詞",
+    "meaning": "厳しく、ひどく、猛烈に",
+    "nuance": "被害や痛みが「非常に大きい」ことや、人に対する態度が「非常に厳しい」ことを表します。「厳罰に処す（punish severely）」や「ひどく損傷する（severely damaged）」のように使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The area was severely affected by the flood.",
+            "ja": "その地域は洪水によって深刻な（ひどい）影響を受けた。",
+            "highlight": "severely"
+          },
+          {
+            "en": "Anyone who breaks the law will be severely punished.",
+            "ja": "法を破る者は誰でも厳しく罰せられる。",
+            "highlight": "severely"
+          }
+        ]
+      }
+    ],
+    "etymology": "severe + ly (副詞語尾) <br>→ 厳しいやり方で",
+    "synonyms": [
+      {"word": "harshly", "trans": "厳しく、容赦なく"},
+      {"word": "critically", "trans": "致命的に、危うく"},
+      {"word": "sharply", "trans": "鋭く、激しく"}
+    ],
+    "antonyms": [
+      {"word": "mildly", "trans": "緩やかに、軽く"},
+      {"word": "leniently", "trans": "寛大に"},
+      {"word": "gently", "trans": "優しく"}
+    ],
+    "related": [
+      {"word": "severe", "trans": "形容詞：厳しい、深刻な"},
+      {"word": "severity", "trans": "名詞：厳しさ、深刻度"}
+    ]
+  },
+  {
+    "number": "538-2",
+    "word": "severe",
+    "pos": "形容詞",
+    "meaning": "（痛み・天候などが）ひどい、深刻な、厳しい、厳格な",
+    "nuance": "状況が「極めて悪い」あるいは「一切の妥協がない」ことを指します。病気の症状が「重い」場合や、天候が「荒れている」場合、また人の性格が「厳格な」場合など幅広く使われます。",
+    "example_sections": [
+      {
+        "title": "例文（状況・深刻度）",
+        "examples": [
+          {
+            "en": "The patient is suffering from severe chest pain.",
+            "ja": "その患者は激しい（ひどい）胸の痛みに苦しんでいる。",
+            "highlight": "severe"
+          }
+        ]
+      },
+      {
+        "title": "例文（厳格さ）",
+        "examples": [
+          {
+            "en": "The teacher had a severe look on her face.",
+            "ja": "先生は厳しい表情を浮かべていた。",
+            "highlight": "severe"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 severus (厳しい、真面目な) <br>→ 妥協のない",
+    "synonyms": [
+      {"word": "acute", "trans": "激しい、急性の"},
+      {"word": "intense", "trans": "強烈な"},
+      {"word": "stern", "trans": "厳格な"}
+    ],
+    "antonyms": [
+      {"word": "mild", "trans": "穏やかな、軽い"},
+      {"word": "slight", "trans": "わずかな"},
+      {"word": "gentle", "trans": "優しい"}
+    ],
+    "related": [
+      {"word": "severely", "trans": "副詞：厳しく"},
+      {"word": "severity", "trans": "名詞：過酷さ"}
+    ]
+  },
+  {
+    "number": 539,
+    "word": "stern",
+    "pos": "形容詞",
+    "meaning": "厳格な、厳しい、いかめしい",
+    "nuance": "人の顔つき、態度、規律などが「一切の甘えを許さない」様子を指します。 severeよりも「態度や表情の厳しさ」に重点が置かれることが多いです。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The father gave his son a stern warning.",
+            "ja": "父親は息子に厳しい警告を与えた。",
+            "highlight": "stern"
+          },
+          {
+            "en": "The soldiers maintained a stern discipline.",
+            "ja": "兵士たちは厳格な規律を維持した。",
+            "highlight": "stern"
+          }
+        ]
+      }
+    ],
+    "etymology": "古期英語 styrne (厳しい、冷酷な) <br>→ 固く動かない",
+    "synonyms": [
+      {"word": "strict", "trans": "厳しい"},
+      {"word": "rigid", "trans": "硬直した、厳格な"},
+      {"word": "uncompromising", "trans": "妥協のない"}
+    ],
+    "antonyms": [
+      {"word": "lenient", "trans": "寛大な"},
+      {"word": "kind", "trans": "親切な"},
+      {"word": "flexible", "trans": "柔軟な"}
+    ],
+    "related": [
+      {"word": "sternly", "trans": "副詞：厳しく"},
+      {"word": "strictness", "trans": "名詞：厳格さ"}
+    ]
+  },
+  {
+    "number": 540,
+    "word": "stubborn",
+    "pos": "形容詞",
+    "meaning": "頑固な、しぶとい、強情な",
+    "nuance": "他人の意見を聞き入れず、自分の考えややり方を決して変えようとしない様子を指します（多くは否定的なニュアンス）。また、「なかなか治らない汚れや病気」に対しても使われます。",
+    "example_sections": [
+      {
+        "title": "例文（性格）",
+        "examples": [
+          {
+            "en": "He is too stubborn to admit he was wrong.",
+            "ja": "彼は頑固すぎて、自分が間違っていたと認めない。",
+            "highlight": "stubborn"
+          }
+        ]
+      },
+      {
+        "title": "例文（しぶとい）",
+        "examples": [
+          {
+            "en": "This stubborn stain won't come out of my shirt.",
+            "ja": "このしぶとい（なかなか落ちない）汚れがシャツから取れない。",
+            "highlight": "stubborn"
+          }
+        ]
+      }
+    ],
+    "etymology": "おそらく stub (切り株) に由来 <br>→ 切り株のように動かない、固い",
+    "synonyms": [
+      {"word": "obstinate", "trans": "強情な"},
+      {"word": "persistent", "trans": "しつこい、持続的な"},
+      {"word": "dogged", "trans": "屈強な、執拗な"}
+    ],
+    "antonyms": [
+      {"word": "flexible", "trans": "柔軟な"},
+      {"word": "compliant", "trans": "従順な"},
+      {"word": "yielding", "trans": "譲歩する"}
+    ],
+    "related": [
+      {"word": "stubbornness", "trans": "名詞：頑固さ"},
+      {"word": "stubbornly", "trans": "副詞：頑固に"}
+    ]
+  }
   ]
 }
