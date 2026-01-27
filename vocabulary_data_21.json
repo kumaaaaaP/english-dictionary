@@ -81,6 +81,449 @@
       "related": [
         {"word": "distort", "trans": "動詞：ゆがめる"}
       ]
+    },
+    {
+      "number": 560,
+      "word": "experimental",
+      "pos": "形容詞",
+      "meaning": "実験的な、実験の、試行的な",
+      "nuance": "単に科学実験に関することだけでなく、音楽や芸術において「新しい試みをする（前衛的な）」という意味でも使われます。まだ確立されていない、テスト段階であるというニュアンスを含みます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The drug is still in the experimental stage.",
+              "ja": "その薬はまだ実験段階にある。",
+              "highlight": "experimental"
+            },
+            {
+              "en": "The band is known for their experimental music.",
+              "ja": "そのバンドは実験的な（独創的な試みの）音楽で知られている。",
+              "highlight": "experimental"
+            }
+          ]
+        }
+      ],
+      "etymology": "experiment + al (形容詞語尾) <br>→ 試みる段階の",
+      "synonyms": [
+        {"word": "trial", "trans": "試行の"},
+        {"word": "innovative", "trans": "革新的な"},
+        {"word": "tentative", "trans": "仮の、試験的な"}
+      ],
+      "antonyms": [
+        {"word": "proven", "trans": "証明済みの"},
+        {"word": "established", "trans": "確立された"},
+        {"word": "traditional", "trans": "伝統的な"}
+      ],
+      "related": [
+        {"word": "experiment", "trans": "名詞/動詞：実験"},
+        {"word": "experimentation", "trans": "名詞：実験すること"}
+      ]
+    },
+    {
+      "number": "560-2",
+      "word": "experiment",
+      "pos": "名詞、動詞",
+      "meaning": "実験、試み、実験する",
+      "nuance": "新しい事実を発見したり、仮説を証明したりするために行う活動です。名詞としては「do/conduct an experiment」という形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We performed an experiment to test the theory.",
+              "ja": "私たちはその理論を検証するために実験を行った。",
+              "highlight": "experiment"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 experiri (試みる、経験する)",
+      "synonyms": [
+        {"word": "test", "trans": "試験"},
+        {"word": "trial", "trans": "試行"},
+        {"word": "research", "trans": "研究"}
+      ],
+      "antonyms": [
+        {"word": "theory", "trans": "理論（実践に対して）"},
+        {"word": "neglect", "trans": "放置"}
+      ],
+      "related": [
+        {"word": "experimental", "trans": "形容詞：実験的な"},
+        {"word": "expert", "trans": "名詞：専門家（経験を積んだ人）"}
+      ]
+    },
+    {
+      "number": 561,
+      "word": "empirical",
+      "pos": "形容詞",
+      "meaning": "経験的な、実証的な、経験主義の",
+      "nuance": "理論や理屈だけではなく、実際に観察したり実験したりして得られた「データや事実に基づいている」ことを強調する際に使われます。科学論文で非常に重要な単語です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is no empirical evidence to support this claim.",
+              "ja": "この主張を裏付ける実証的な（経験に基づいた）証拠はない。",
+              "highlight": "empirical"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 empeirikos (経験のある) <br>→ en (中に) + peira (試み)",
+      "synonyms": [
+        {"word": "factual", "trans": "事実に基づいた"},
+        {"word": "observational", "trans": "観察による"},
+        {"word": "practical", "trans": "実践的な"}
+      ],
+      "antonyms": [
+        {"word": "theoretical", "trans": "理論上の"},
+        {"word": "speculative", "trans": "推測的な"},
+        {"word": "hypothetical", "trans": "仮説上の"}
+      ],
+      "related": [
+        {"word": "empiricism", "trans": "名詞：経験主義"},
+        {"word": "empirically", "trans": "副詞：実証的に"}
+      ]
+    },
+    {
+      "number": "561-2",
+      "word": "theoretical",
+      "pos": "形容詞",
+      "meaning": "理論上の、理論的な、理屈の",
+      "nuance": "実際の経験や応用ではなく、原理や法則に基づいた「頭の中での組み立て」を指します。「現実にはまだ起こっていないが、理屈では可能」といった文脈でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The research provides a theoretical framework for the study.",
+              "ja": "その研究はこの調査のための理論的枠組みを提供している。",
+              "highlight": "theoretical"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 theoria (観照、沈思黙考) <br>→ じっと見ること",
+      "synonyms": [
+        {"word": "abstract", "trans": "抽象的な"},
+        {"word": "academic", "trans": "学問的な、非実用的な"},
+        {"word": "conceptual", "trans": "概念上の"}
+      ],
+      "antonyms": [
+        {"word": "practical", "trans": "実践的な"},
+        {"word": "applied", "trans": "応用された"},
+        {"word": "empirical", "trans": "実証的な"}
+      ],
+      "related": [
+        {"word": "theory", "trans": "名詞：理論"},
+        {"word": "theorize", "trans": "動詞：理論を立てる"}
+      ]
+    },
+    {
+      "number": 562,
+      "word": "hypothesis",
+      "pos": "名詞",
+      "meaning": "仮説、仮定、前提",
+      "nuance": "まだ証明されていないが、実験や観察の出発点となる「仮の説明」のことです。複数形は hypotheses ($hypotheses$) となります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The scientists are working to test their hypothesis.",
+              "ja": "科学者たちは自分たちの仮説を検証するために取り組んでいる。",
+              "highlight": "hypothesis"
+            }
+          ]
+        }
+      ],
+      "etymology": "hypo (下に) + thesis (置くこと) <br>→ 議論の土台として下に置くもの",
+      "synonyms": [
+        {"word": "theory", "trans": "理論（しばしば仮説の意）"},
+        {"word": "assumption", "trans": "想定"},
+        {"word": "supposition", "trans": "推測、仮定"}
+      ],
+      "antonyms": [
+        {"word": "fact", "trans": "事実"},
+        {"word": "proof", "trans": "証明"},
+        {"word": "certainty", "trans": "確実なこと"}
+      ],
+      "related": [
+        {"word": "hypothetical", "trans": "形容詞：仮説の"},
+        {"word": "thesis", "trans": "名詞：命題、論文"}
+      ]
+    },
+    {
+      "number": 563,
+      "word": "hypothetical",
+      "pos": "形容詞",
+      "meaning": "仮説に基づいた、仮定の、もしもの",
+      "nuance": "現実には起こっていない、あるいは事実かどうかわからないが、検討のために「もし〜だったら」と仮定して考える様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Let's look at a hypothetical situation.",
+              "ja": "仮定の話（もしもの状況）を考えてみましょう。",
+              "highlight": "hypothetical"
+            }
+          ]
+        }
+      ],
+      "etymology": "hypothesis + ical (形容詞語尾)",
+      "synonyms": [
+        {"word": "imaginary", "trans": "架空の"},
+        {"word": "theoretical", "trans": "理論上の"},
+        {"word": "supposed", "trans": "想定された"}
+      ],
+      "antonyms": [
+        {"word": "actual", "trans": "実際の"},
+        {"word": "real", "trans": "現実の"},
+        {"word": "factual", "trans": "事実に基づく"}
+      ],
+      "related": [
+        {"word": "hypothesis", "trans": "名詞：仮説"}
+      ]
+    },
+    {
+      "number": 564,
+      "word": "illumination",
+      "pos": "名詞",
+      "meaning": "照明、照らすこと、解明、啓蒙",
+      "nuance": "物理的に光を当てることだけでなく、難解な問題をわかりやすく説明して「明らかにする（解明する）」という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（物理的）",
+          "examples": [
+            {
+              "en": "The street lights provided little illumination.",
+              "ja": "街灯はほとんど照明の用をなしていなかった（暗かった）。",
+              "highlight": "illumination"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中へ/上に) + lumen (光) <br>→ 光を投げ入れること",
+      "synonyms": [
+        {"word": "lighting", "trans": "照明"},
+        {"word": "enlightenment", "trans": "啓蒙、悟り"},
+        {"word": "clarification", "trans": "解明"}
+      ],
+      "antonyms": [
+        {"word": "darkness", "trans": "暗闇"},
+        {"word": "obscurity", "trans": "不明瞭"},
+        {"word": "shadow", "trans": "影"}
+      ],
+      "related": [
+        {"word": "illuminate", "trans": "動詞：照らす"},
+        {"word": "luminous", "trans": "形容詞：光り輝く"}
+      ]
+    },
+    {
+      "number": "564-2",
+      "word": "illuminate",
+      "pos": "動詞",
+      "meaning": "照らす、解明する、明らかにする",
+      "nuance": "暗い場所を明るくすることから転じて、理解しにくい事実や理論に「光を当てて」分かりやすく説明することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A single candle illuminated the room.",
+              "ja": "一本のろうそくが部屋を照らした。",
+              "highlight": "illuminated"
+            },
+            {
+              "en": "The report helps to illuminate the causes of the crisis.",
+              "ja": "その報告書は危機の原因を解明するのに役立つ。",
+              "highlight": "illuminate"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (上に) + luminare (光を当てる)",
+      "synonyms": [
+        {"word": "light up", "trans": "照らす"},
+        {"word": "clarify", "trans": "明らかにする"},
+        {"word": "explain", "trans": "説明する"}
+      ],
+      "antonyms": [
+        {"word": "darken", "trans": "暗くする"},
+        {"word": "obscure", "trans": "曖昧にする"},
+        {"word": "confuse", "trans": "混乱させる"}
+      ],
+      "related": [
+        {"word": "illumination", "trans": "名詞：照明"}
+      ]
+    },
+    {
+      "number": "564-3",
+      "word": "illuminative",
+      "pos": "形容詞",
+      "meaning": "照らす、解明に役立つ、啓発的な",
+      "nuance": "物事をはっきりさせる性質を持っていることを指します。特に、知的な理解を助けるような説明や例えについて使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The professor gave an illuminative lecture on modern art.",
+              "ja": "教授は現代美術について啓発的な（理解を助ける）講義を行った。",
+              "highlight": "illuminative"
+            }
+          ]
+        }
+      ],
+      "etymology": "illuminate + ive (形容詞語尾)",
+      "synonyms": [
+        {"word": "enlightening", "trans": "啓蒙的な"},
+        {"word": "informative", "trans": "有益な"},
+        {"word": "revealing", "trans": "（事実を）明らかにするような"}
+      ],
+      "antonyms": [
+        {"word": "confusing", "trans": "混乱させる"},
+        {"word": "unclear", "trans": "不明瞭な"}
+      ],
+      "related": [
+        {"word": "illuminate", "trans": "動詞：照らす"}
+      ]
+    },
+    {
+      "number": 565,
+      "word": "inspect",
+      "pos": "動詞",
+      "meaning": "検査する、点検する、詳しく調べる",
+      "nuance": "不備や問題がないかを確認するために、注意深く「中をのぞき込む（見る）」ことを指します。公的な調査や品質管理などでよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The customs officer inspected my luggage.",
+              "ja": "税関職員が私の手荷物を検査した。",
+              "highlight": "inspected"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中を) + specere (見る) <br>→ 中を詳しく見る",
+      "synonyms": [
+        {"word": "examine", "trans": "調査する"},
+        {"word": "scrutinize", "trans": "綿密に調べる"},
+        {"word": "check", "trans": "確認する"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "overlook", "trans": "見逃す"},
+        {"word": "neglect", "trans": "怠る"}
+      ],
+      "related": [
+        {"word": "inspection", "trans": "名詞：点検"},
+        {"word": "inspector", "trans": "名詞：検査官"}
+      ]
+    },
+    {
+      "number": "565-2",
+      "word": "inspection",
+      "pos": "名詞",
+      "meaning": "検査、点検、視察",
+      "nuance": "機械のメンテナンス、工場の安全確認、あるいは軍の閲兵など、組織的・公式に行われる「精査」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The building underwent a safety inspection last month.",
+              "ja": "その建物は先月、安全点検を受けた。",
+              "highlight": "inspection"
+            }
+          ]
+        }
+      ],
+      "etymology": "inspectの名詞形",
+      "synonyms": [
+        {"word": "examination", "trans": "調査"},
+        {"word": "review", "trans": "再点検、審査"},
+        {"word": "audit", "trans": "監査"}
+      ],
+      "antonyms": [
+        {"word": "negligence", "trans": "怠慢、見過ごし"}
+      ],
+      "related": [
+        {"word": "inspect", "trans": "動詞：検査する"}
+      ]
+    },
+    {
+      "number": "565-3",
+      "word": "inspector",
+      "pos": "名詞",
+      "meaning": "検査官、調査官、警部",
+      "nuance": "検査を行う職種の人を指します。警察の階級（警部）や、教育現場の「督学官（視学官）」としても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The health inspector visited the restaurant to check for cleanliness.",
+              "ja": "衛生検査官が清潔さを確認するためにレストランを訪れた。",
+              "highlight": "inspector"
+            }
+          ]
+        }
+      ],
+      "etymology": "inspect + or (〜する人)",
+      "synonyms": [
+        {"word": "examiner", "trans": "試験官、調査員"},
+        {"word": "scrutinizer", "trans": "精査する人"},
+        {"word": "officer", "trans": "（警察などの）役人"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "inspect", "trans": "動詞：検査する"}
+      ]
+    },
+    {
+      "number": "565-4",
+      "word": "perspective",
+      "pos": "名詞",
+      "meaning": "見方、視点、遠近法、展望",
+      "nuance": "物理的な「眺め」だけでなく、経験や価値観に基づいた「物事の捉え方（大局的な視点）」を指します。「keep things in perspective」で「大局的に見る（感情に流されず冷静に判断する）」という重要な表現になります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Traveling gives you a new perspective on life.",
+              "ja": "旅行は人生に対する新しい視点を与えてくれる。",
+              "highlight": "perspective"
+            },
+            {
+              "en": "From a historical perspective, this event is quite significant.",
+              "ja": "歴史的観点から見れば、この出来事は非常に重要だ。",
+              "highlight": "perspective"
+            }
+          ]
+        }
+      ],
+      "etymology": "per (通して) + specere (見る) <br>→ 先まで見通すこと",
+      "synonyms": [
+        {"word": "viewpoint", "trans": "観点"},
+        {"word": "outlook", "trans": "展望、考え方"},
+        {"word": "angle", "trans": "角度、切り口"}
+      ],
+      "antonyms": [
+        {"word": "narrow-mindedness", "trans": "視野の狭さ"},
+        {"word": "bias", "trans": "偏見"}
+      ],
+      "related": [
+        {"word": "spectacle", "trans": "名詞：光景"},
+        {"word": "spectator", "trans": "名詞：観客"}
+      ]
     }
   ]
 }
