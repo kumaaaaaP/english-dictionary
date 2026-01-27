@@ -63,17 +63,10 @@ jobs:
           git add data/*.html index.html
           git commit -m "🤖 Auto-generate vocabulary HTML files and update index [skip ci]"
           git push
-      
-      # 8. 完了サマリー
+            # 8. 完了サマリー
       - name: Job summary
         run: |
           echo "## 📊 Generation Summary" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### JSON Files Detected" >> $GITHUB_STEP_SUMMARY
-          ls -1 vocabulary_data*.json 2>/dev/null | while read file; do
-            count=$(jq '.words | length' "$file" 2>/dev/null || echo "0")
-            echo "- \`$file\`: $count words" >> $GITHUB_STEP_SUMMARY
-          done
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "✅ Vocabulary HTML files generated in \`data/\` directory" >> $GITHUB_STEP_SUMMARY
           echo "✅ \`index.html\` updated with new words" >> $GITHUB_STEP_SUMMARY
