@@ -2976,7 +2976,7 @@
     {"word": "inspect", "trans": "動詞：検査する"}
   ]
 },
-{
+　　　{
   "number": "557-6",
   "word": "conscience",
   "pos": "名詞",
@@ -3019,7 +3019,6 @@
     {"word": "conscious", "trans": "形容詞：意識している"},
     {"word": "consciousness", "trans": "名詞：意識"}
   ]
-}
-    
+　　　}
   ]
 }
