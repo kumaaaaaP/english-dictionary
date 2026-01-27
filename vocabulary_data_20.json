@@ -963,7 +963,568 @@
           "word": "compulsion", "trans": "名詞：強制"},
         {"word": "compel", "trans": "動詞：強いる"}
       ]
+    },
+    {
+  "number": 535,
+  "word": "consent",
+  "pos": "名詞・動詞",
+  "meaning": "同意、承諾、同意する",
+  "nuance": "「共に（con）感じる（sent）」が語源で、相手の提案や要求に対して正式に同意することを表します。特に法律や医療の分野では「informed consent（インフォームド・コンセント）」として重要な概念です。動詞では「consent to 〜」の形で使われます。",
+  "example_sections": [
+    {
+      "title": "例文（名詞：同意）",
+      "examples": [
+        {
+          "en": "You need parental consent to go on the school trip.",
+          "ja": "学校の旅行に行くには保護者の同意が必要です。",
+          "highlight": "consent"
+        },
+        {
+          "en": "The patient gave informed consent before the surgery.",
+          "ja": "患者は手術前にインフォームド・コンセントを行った。",
+          "highlight": "consent"
+        }
+      ]
+    },
+    {
+      "title": "例文（動詞：同意する）",
+      "examples": [
+        {
+          "en": "She consented to the interview after some hesitation.",
+          "ja": "彼女はためらった後、インタビューに同意した。",
+          "highlight": "consented"
+        }
+      ]
     }
+  ],
+  "etymology": "con (共に) + sent (感じる) <br>→ 共に感じること、同意",
+  "synonyms": [
+    {"word": "approval", "trans": "承認"},
+    {"word": "permission", "trans": "許可"},
+    {"word": "agreement", "trans": "合意"}
+  ],
+  "antonyms": [
+    {"word": "refusal", "trans": "拒否"},
+    {"word": "dissent", "trans": "反対"},
+    {"word": "objection", "trans": "異議"}
+  ],
+  "related": [
+    {"word": "consensus", "trans": "名詞：総意・合意"},
+    {"word": "assent", "trans": "名詞・動詞：賛成"}
+  ]
+},
+{
+  "number": 536,
+  "word": "assent",
+  "pos": "名詞・動詞",
+  "meaning": "賛成、同意、賛成する",
+  "nuance": "「〜の方へ（as = ad）感じる（sent）」が語源で、提案や意見に賛同することを表します。consentよりもやや形式的で、特に公式な場面や議会での承認などに使われます。",
+  "example_sections": [
+    {
+      "title": "例文（名詞：賛成）",
+      "examples": [
+        {
+          "en": "The bill received royal assent yesterday.",
+          "ja": "その法案は昨日、国王の裁可を受けた。",
+          "highlight": "assent"
+        },
+        {
+          "en": "He nodded his assent to the proposal.",
+          "ja": "彼は提案に賛成のうなずきをした。",
+          "highlight": "assent"
+        }
+      ]
+    },
+    {
+      "title": "例文（動詞：賛成する）",
+      "examples": [
+        {
+          "en": "The committee assented to the new regulations.",
+          "ja": "委員会は新しい規則に賛成した。",
+          "highlight": "assented"
+        }
+      ]
+    }
+  ],
+  "etymology": "as (= ad, 〜へ) + sent (感じる) <br>→ 〜の方へ感じる、賛同する",
+  "synonyms": [
+    {"word": "consent", "trans": "同意"},
+    {"word": "agreement", "trans": "同意"},
+    {"word": "approval", "trans": "承認"}
+  ],
+  "antonyms": [
+    {"word": "dissent", "trans": "反対"},
+    {"word": "disagreement", "trans": "不同意"},
+    {"word": "opposition", "trans": "反対"}
+  ],
+  "related": [
+    {"word": "consent", "trans": "名詞・動詞：同意", "link": "535-consent.html"},
+    {"word": "dissent", "trans": "名詞・動詞：反対意見"}
+  ]
+},
+{
+  "number": 537,
+  "word": "blessing",
+  "pos": "名詞",
+  "meaning": "祝福、恩恵、承認",
+  "nuance": "神や権威者からの祝福、または幸運なこと・ありがたいことを指します。「give one's blessing」で「承認を与える」という意味でも使われます。宗教的な文脈だけでなく、日常的な「恵み」の意味でも頻出します。",
+  "example_sections": [
+    {
+      "title": "例文（祝福・恩恵）",
+      "examples": [
+        {
+          "en": "Good health is a great blessing.",
+          "ja": "健康であることは大きな恵みです。",
+          "highlight": "blessing"
+        },
+        {
+          "en": "The priest gave the couple his blessing.",
+          "ja": "司祭はそのカップルに祝福を与えた。",
+          "highlight": "blessing"
+        }
+      ]
+    },
+    {
+      "title": "例文（承認）",
+      "examples": [
+        {
+          "en": "They got married with their parents' blessing.",
+          "ja": "彼らは両親の承認を得て結婚した。",
+          "highlight": "blessing"
+        }
+      ]
+    }
+  ],
+  "etymology": "bless (祝福する) + ing (こと・もの) <br>→ 祝福すること、祝福されたもの",
+  "synonyms": [
+    {"word": "benediction", "trans": "祝福"},
+    {"word": "favor", "trans": "恩恵"},
+    {"word": "approval", "trans": "承認"}
+  ],
+  "antonyms": [
+    {"word": "curse", "trans": "呪い"},
+    {"word": "misfortune", "trans": "不運"},
+    {"word": "disapproval", "trans": "不承認"}
+  ],
+  "related": [
+    {"word": "bless", "trans": "動詞：祝福する"},
+    {"word": "blessed", "trans": "形容詞：祝福された"}
+  ]
+},
+{
+  "number": "537-2",
+  "word": "approval",
+  "pos": "名詞",
+  "meaning": "承認、賛成、是認",
+  "nuance": "正式に認めること、または良いと判断することを表します。ビジネスや公的な場面での「承認」から、個人的な「好意的評価」まで幅広く使われます。「meet with approval（承認を得る）」などの表現が一般的です。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "The project needs management approval before we can proceed.",
+          "ja": "プロジェクトを進めるには経営陣の承認が必要です。",
+          "highlight": "approval"
+        },
+        {
+          "en": "She looked at him with approval.",
+          "ja": "彼女は彼を好意的な目で見た。",
+          "highlight": "approval"
+        },
+        {
+          "en": "The drug is still awaiting FDA approval.",
+          "ja": "その薬はまだFDAの承認待ちです。",
+          "highlight": "approval"
+        }
+      ]
+    }
+  ],
+  "etymology": "approve (承認する) + al (こと) <br>→ 承認すること",
+  "synonyms": [
+    {"word": "consent", "trans": "同意"},
+    {"word": "endorsement", "trans": "支持"},
+    {"word": "sanction", "trans": "認可"}
+  ],
+  "antonyms": [
+    {"word": "disapproval", "trans": "不承認"},
+    {"word": "rejection", "trans": "却下"},
+    {"word": "refusal", "trans": "拒否"}
+  ],
+  "related": [
+    {
+      "word": "approve",
+      "trans": "動詞：承認する",
+      "link": "537-3-approve.html"
+    },
+    {
+      "word": "blessing",
+      "trans": "名詞：祝福・承認",
+      "link": "537-blessing.html"
+    }
+  ]
+},
+{
+  "number": "537-3",
+  "word": "approve",
+  "pos": "動詞",
+  "meaning": "承認する、賛成する、良いと思う",
+  "nuance": "正式に認可すること、または好意的に評価することを表します。他動詞では「approve of 〜」の形で「〜を良いと思う、賛成する」、他動詞では「〜を承認する」という意味で使われます。",
+  "example_sections": [
+    {
+      "title": "例文（承認する）",
+      "examples": [
+        {
+          "en": "The committee approved the budget for next year.",
+          "ja": "委員会は来年度の予算を承認した。",
+          "highlight": "approved"
+        },
+        {
+          "en": "The plan was approved by a majority vote.",
+          "ja": "その計画は多数決で承認された。",
+          "highlight": "approved"
+        }
+      ]
+    },
+    {
+      "title": "例文（賛成する・良いと思う）",
+      "examples": [
+        {
+          "en": "I don't approve of his behavior.",
+          "ja": "私は彼の行動を良いとは思わない。",
+          "highlight": "approve"
+        }
+      ]
+    }
+  ],
+  "etymology": "ap (= ad, 〜へ) + prove (証明する) <br>→ 良いと証明する",
+  "synonyms": [
+    {"word": "authorize", "trans": "認可する"},
+    {"word": "endorse", "trans": "支持する"},
+    {"word": "sanction", "trans": "承認する"}
+  ],
+  "antonyms": [
+    {"word": "disapprove", "trans": "不承認とする"},
+    {"word": "reject", "trans": "却下する"},
+    {"word": "oppose", "trans": "反対する"}
+  ],
+  "related": [
+    {
+      "word": "approval",
+      "trans": "名詞：承認",
+      "link": "537-2-approval.html"
+    },
+    {"word": "prove", "trans": "動詞：証明する"}
+  ]
+},
+{
+  "number": "537-4",
+  "word": "endorse",
+  "pos": "動詞",
+  "meaning": "支持する、承認する、推奨する",
+  "nuance": "公式に支持や承認を表明することを指します。政治家や有名人が候補者を支持する場合や、製品を推奨する場合によく使われます。また、小切手の裏に署名する意味もあります。",
+  "example_sections": [
+    {
+      "title": "例文（支持する・推奨する）",
+      "examples": [
+        {
+          "en": "Several celebrities endorsed the charity campaign.",
+          "ja": "数名の有名人がそのチャリティーキャンペーンを支持した。",
+          "highlight": "endorsed"
+        },
+        {
+          "en": "The committee endorsed the proposal unanimously.",
+          "ja": "委員会は満場一致でその提案を承認した。",
+          "highlight": "endorsed"
+        },
+        {
+          "en": "Many doctors endorse this treatment method.",
+          "ja": "多くの医師がこの治療法を推奨している。",
+          "highlight": "endorse"
+        }
+      ]
+    }
+  ],
+  "etymology": "en (中に) + dorsum (背中) <br>→ 裏に書く（裏書きする）",
+  "synonyms": [
+    {"word": "support", "trans": "支持する"},
+    {"word": "approve", "trans": "承認する"},
+    {"word": "back", "trans": "後援する"}
+  ],
+  "antonyms": [
+    {"word": "oppose", "trans": "反対する"},
+    {"word": "reject", "trans": "拒否する"},
+    {"word": "condemn", "trans": "非難する"}
+  ],
+  "related": [
+    {
+      "word": "endorsement",
+      "trans": "名詞：支持・推奨",
+      "link": "537-5-endorsement.html"
+    },
+    {"word": "endorser", "trans": "名詞：支持者"}
+  ]
+},
+{
+  "number": "537-5",
+  "word": "endorsement",
+  "pos": "名詞",
+  "meaning": "支持、承認、推奨、裏書き",
+  "nuance": "公式な支持表明や承認を指します。特に商業的な文脈では有名人による製品推奨を意味し、政治的な文脈では候補者への支持表明を意味します。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "The athlete signed a lucrative endorsement deal with the sportswear company.",
+          "ja": "そのアスリートはスポーツウェア会社と高額の推奨契約を結んだ。",
+          "highlight": "endorsement"
+        },
+        {
+          "en": "The candidate received endorsements from several major newspapers.",
+          "ja": "その候補者は複数の主要新聞から支持を受けた。",
+          "highlight": "endorsements"
+        },
+        {
+          "en": "The policy has the full endorsement of the board.",
+          "ja": "その方針は理事会の全面的な承認を得ている。",
+          "highlight": "endorsement"
+        }
+      ]
+    }
+  ],
+  "etymology": "endorse (支持する) + ment (こと) <br>→ 支持すること",
+  "synonyms": [
+    {"word": "approval", "trans": "承認"},
+    {"word": "support", "trans": "支持"},
+    {"word": "backing", "trans": "後援"}
+  ],
+  "antonyms": [
+    {"word": "opposition", "trans": "反対"},
+    {"word": "rejection", "trans": "拒否"},
+    {"word": "condemnation", "trans": "非難"}
+  ],
+  "related": [
+    {
+      "word": "endorse",
+      "trans": "動詞：支持する",
+      "link": "537-4-endorse.html"
+    }
+  ]
+},
+{
+  "number": 538,
+  "word": "severely",
+  "pos": "副詞",
+  "meaning": "厳しく、ひどく、深刻に",
+  "nuance": "程度が激しいこと、または厳格な様子を表します。批判や罰が厳しい場合、または損害や影響が深刻な場合に使われます。",
+  "example_sections": [
+    {
+      "title": "例文（厳しく）",
+      "examples": [
+        {
+          "en": "The student was severely punished for cheating.",
+          "ja": "その生徒はカンニングで厳しく罰せられた。",
+          "highlight": "severely"
+        },
+        {
+          "en": "The report severely criticized the government's policy.",
+          "ja": "その報告書は政府の政策を厳しく批判した。",
+          "highlight": "severely"
+        }
+      ]
+    },
+    {
+      "title": "例文（ひどく・深刻に）",
+      "examples": [
+        {
+          "en": "Several people were severely injured in the accident.",
+          "ja": "事故で数人がひどく負傷した。",
+          "highlight": "severely"
+        },
+        {
+          "en": "The economy was severely affected by the pandemic.",
+          "ja": "経済はパンデミックによって深刻な影響を受けた。",
+          "highlight": "severely"
+        }
+      ]
+    }
+  ],
+  "etymology": "severe (厳しい) + ly (副詞語尾) <br>→ 厳しく",
+  "synonyms": [
+    {"word": "harshly", "trans": "厳しく"},
+    {"word": "seriously", "trans": "深刻に"},
+    {"word": "critically", "trans": "重大に"}
+  ],
+  "antonyms": [
+    {"word": "mildly", "trans": "穏やかに"},
+    {"word": "lightly", "trans": "軽く"},
+    {"word": "gently", "trans": "優しく"}
+  ],
+  "related": [
+    {
+      "word": "severe",
+      "trans": "形容詞：厳しい",
+      "link": "538-2-severe.html"
+    },
+    {"word": "severity", "trans": "名詞：厳しさ"}
+  ]
+},
+{
+  "number": "538-2",
+  "word": "severe",
+  "pos": "形容詞",
+  "meaning": "厳しい、深刻な、過酷な",
+  "nuance": "程度が激しく容赦がないこと、または状況が深刻であることを表します。天候、批判、罰、病気など、さまざまな文脈で「厳しい」「深刻な」ことを示します。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "The region is expecting severe weather conditions tonight.",
+          "ja": "その地域は今夜、厳しい気象状況が予想されている。",
+          "highlight": "severe"
+        },
+        {
+          "en": "He received a severe reprimand from his boss.",
+          "ja": "彼は上司から厳しい叱責を受けた。",
+          "highlight": "severe"
+        },
+        {
+          "en": "The patient is in severe pain.",
+          "ja": "患者はひどい痛みを抱えている。",
+          "highlight": "severe"
+        },
+        {
+          "en": "The company faces severe financial difficulties.",
+          "ja": "その会社は深刻な財政難に直面している。",
+          "highlight": "severe"
+        }
+      ]
+    }
+  ],
+  "etymology": "ラテン語 severus (厳格な、厳しい) <br>→ 容赦のない",
+  "synonyms": [
+    {"word": "harsh", "trans": "厳しい"},
+    {"word": "strict", "trans": "厳格な"},
+    {"word": "serious", "trans": "深刻な"}
+  ],
+  "antonyms": [
+    {"word": "mild", "trans": "穏やかな"},
+    {"word": "lenient", "trans": "寛大な"},
+    {"word": "gentle", "trans": "優しい"}
+  ],
+  "related": [
+    {
+      "word": "severely",
+      "trans": "副詞：厳しく",
+      "link": "538-severely.html"
+    },
+    {"word": "severity", "trans": "名詞：厳しさ・深刻さ"}
+  ]
+},
+{
+  "number": 539,
+  "word": "stern",
+  "pos": "形容詞",
+  "meaning": "厳格な、断固とした、厳しい",
+  "nuance": "表情や態度が厳しく、妥協を許さない様子を表します。severeよりも人の性格や態度に焦点を当てた語で、権威的で冷徹な印象を与えます。",
+  "example_sections": [
+    {
+      "title": "例文",
+      "examples": [
+        {
+          "en": "The teacher gave the students a stern warning about plagiarism.",
+          "ja": "教師は生徒たちに盗作について厳しい警告を与えた。",
+          "highlight": "stern"
+        },
+        {
+          "en": "He spoke in a stern voice.",
+          "ja": "彼は厳しい口調で話した。",
+          "highlight": "stern"
+        },
+        {
+          "en": "Her stern expression showed she was not pleased.",
+          "ja": "彼女の厳しい表情は不満を示していた。",
+          "highlight": "stern"
+        },
+        {
+          "en": "The judge issued a stern rebuke to the defendant.",
+          "ja": "裁判官は被告に厳しい叱責を与えた。",
+          "highlight": "stern"
+        }
+      ]
+    }
+  ],
+  "etymology": "古英語 styrne (厳しい、厳格な) <br>→ 妥協しない態度",
+  "synonyms": [
+    {"word": "strict", "trans": "厳格な"},
+    {"word": "austere", "trans": "厳しい"},
+    {"word": "severe", "trans": "厳しい"}
+  ],
+  "antonyms": [
+    {"word": "lenient", "trans": "寛大な"},
+    {"word": "gentle", "trans": "優しい"},
+    {"word": "mild", "trans": "穏やかな"}
+  ],
+  "related": [
+    {"word": "sternly", "trans": "副詞：厳格に"},
+    {"word": "sternness", "trans": "名詞：厳格さ"}
+  ]
+},
+{
+  "number": 540,
+  "word": "stubborn",
+  "pos": "形容詞",
+  "meaning": "頑固な、強情な、手ごわい",
+  "nuance": "自分の意見や態度を変えようとしない様子を表します。人の性格だけでなく、問題や汚れなどが「なかなか解決しない」「取れない」という意味でも使われます。",
+  "example_sections": [
+    {
+      "title": "例文（頑固な）",
+      "examples": [
+        {
+          "en": "He is too stubborn to admit he was wrong.",
+          "ja": "彼は頑固すぎて自分が間違っていたと認めない。",
+          "highlight": "stubborn"
+        },
+        {
+          "en": "My grandfather is stubborn about using new technology.",
+          "ja": "祖父は新しい技術を使うことに関して頑固だ。",
+          "highlight": "stubborn"
+        }
+      ]
+    },
+    {
+      "title": "例文（手ごわい・しつこい）",
+      "examples": [
+        {
+          "en": "This is a stubborn stain that won't come out.",
+          "ja": "これはなかなか落ちない頑固な染みです。",
+          "highlight": "stubborn"
+        },
+        {
+          "en": "The fever proved to be stubborn and lasted for days.",
+          "ja": "熱はしつこく、何日も続いた。",
+          "highlight": "stubborn"
+        }
+      ]
+    }
+  ],
+  "etymology": "中英語 stuborn (頑固な、扱いにくい) <br>→ 曲がらない、動かない",
+  "synonyms": [
+    {"word": "obstinate", "trans": "頑固な"},
+    {"word": "persistent", "trans": "しつこい"},
+    {"word": "inflexible", "trans": "融通の利かない"}
+  ],
+  "antonyms": [
+    {"word": "flexible", "trans": "柔軟な"},
+    {"word": "compliant", "trans": "従順な"},
+    {"word": "amenable", "trans": "素直な"}
+  ],
+  "related": [
+    {"word": "stubbornly", "trans": "副詞：頑固に"},
+    {"word": "stubbornness", "trans": "名詞：頑固さ"}
+  ]
+}
 
     
   ]
