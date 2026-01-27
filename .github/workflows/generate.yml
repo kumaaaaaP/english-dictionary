@@ -1,14 +1,11 @@
 name: Generate Vocabulary HTML Files
-# vocabulary_data*.json または data/ が変更されたときに実行
+# vocabulary_data*.json が変更されたときに実行
 on:
   push:
     branches:
       - main
     paths:
       - 'vocabulary_data*.json'
-      - 'data/**'
-      - 'build_index.py'
-      - 'generate_vocab.py'
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
@@ -22,6 +19,8 @@ jobs:
       # 1. リポジトリをチェックアウト
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 全履歴を取得（git diffのため）
       
       # 2. Pythonをセットアップ
       - name: Set up Python
@@ -33,26 +32,17 @@ jobs:
       - name: Create data directory
         run: mkdir -p data
       
-      # 4. 単語HTMLファイルを生成（JSONファイルが変更された場合のみ）
-      - name: Check if JSON files changed
-        id: check_json
-        run: |
-          if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -q "vocabulary_data.*\.json"; then
-            echo "json_changed=true" >> $GITHUB_OUTPUT
-            echo "✅ JSON files changed - will generate HTML"
-          else
-            echo "json_changed=false" >> $GITHUB_OUTPUT
-            echo "ℹ️ No JSON changes - skipping HTML generation"
-          fi
-      
+      # 4. 単語HTMLファイルを生成
       - name: Generate vocabulary HTML files
-        if: steps.check_json.outputs.json_changed == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           echo "🔧 Generating HTML files..."
           python generate_vocab.py
           echo ""
-          echo "📁 Files in data/ directory:"
+          echo "📁 Files in data/ directory (最初の20件):"
           ls -lh data/ | head -20
+          echo ""
+          echo "📊 Total HTML files:"
+          ls -1 data/*.html 2>/dev/null | wc -l
           echo ""
           echo "✅ Vocabulary HTML files generated"
       
@@ -69,19 +59,15 @@ jobs:
           echo "📊 Git status:"
           git status
           echo ""
-          echo "📝 Git diff for data/:"
-          git diff --stat data/
-          echo ""
-          echo "📝 Git diff for index.html:"
-          git diff --stat index.html
-          echo ""
           
-          if git diff --quiet data/ index.html; then
+          # 新規ファイルと変更ファイルをチェック
+          if [ -n "$(git status --porcelain data/ index.html)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✅ Changes detected:"
+            git status --porcelain data/ index.html
+          else
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "ℹ️ No changes detected"
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-            echo "✅ Changes detected"
           fi
       
       # 7. 生成されたファイルをコミット＆プッシュ
@@ -92,7 +78,7 @@ jobs:
           git add data/*.html index.html
           
           echo "📋 Files to be committed:"
-          git diff --cached --name-only
+          git status --short
           
           echo "💾 Committing changes..."
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -109,14 +95,16 @@ jobs:
         run: |
           echo "## 📊 Generation Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### JSON Files Detected" >> $GITHUB_STEP_SUMMARY
-          ls -1 vocabulary_data*.json 2>/dev/null | while read file; do
-            count=$(jq '.words | length' "$file" 2>/dev/null || echo "0")
-            echo "- \`$file\`: $count words" >> $GITHUB_STEP_SUMMARY
+          echo "### JSON Files Processed" >> $GITHUB_STEP_SUMMARY
+          for file in vocabulary_data*.json; do
+            if [ -f "$file" ]; then
+              count=$(python3 -c "import json; print(len(json.load(open('$file'))['words']))" 2>/dev/null || echo "0")
+              echo "- \`$file\`: $count words" >> $GITHUB_STEP_SUMMARY
+            fi
           done
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "✅ Vocabulary HTML files generated in \`data/\` directory" >> $GITHUB_STEP_SUMMARY
-          echo "✅ \`index.html\` updated with new words" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
           echo "### Generated Files" >> $GITHUB_STEP_SUMMARY
-          ls -1 data/*.html 2>/dev/null | wc -l | xargs -I {} echo "{} HTML files in data/" >> $GITHUB_STEP_SUMMARY
+          total=$(ls -1 data/*.html 2>/dev/null | wc -l)
+          echo "- Total: **$total HTML files** in \`data/\` directory" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ \`index.html\` updated with all vocabulary entries" >> $GITHUB_STEP_SUMMARY
