@@ -1414,6 +1414,449 @@
       {"word": "stubbornness", "trans": "名詞：頑固さ"},
       {"word": "stubbornly", "trans": "副詞：頑固に"}
     ]
+  },
+  {
+    "number": 541,
+    "word": "constrain",
+    "pos": "動詞",
+    "meaning": "強いる、抑え込む、制限する",
+    "nuance": "物理的、あるいは状況的な圧力によって、誰かに何かを無理にさせたり、自由な行動を制限したりすることを指します。外的な制約（法律、経済状況など）によって「縛られる」というニュアンスが強いです。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "Financial problems constrained the company's expansion plans.",
+            "ja": "資金難がその企業の拡大計画を制限した（断念させた）。",
+            "highlight": "constrained"
+          },
+          {
+            "en": "I feel constrained to agree with his proposal.",
+            "ja": "彼の提案に同意せざるを得ない（強要されている）と感じる。",
+            "highlight": "constrained"
+          }
+        ]
+      }
+    ],
+    "etymology": "con (共に) + stringere (きつく締める) <br>→ 締め付けて動きを封じる",
+    "synonyms": [
+      {"word": "compel", "trans": "強いる"},
+      {"word": "restrict", "trans": "制限する"},
+      {"word": "coerce", "trans": "強制する"}
+    ],
+    "antonyms": [
+      {"word": "liberate", "trans": "解放する"},
+      {"word": "encourage", "trans": "奨励する"},
+      {"word": "release", "trans": "放す"}
+    ],
+    "related": [
+      {"word": "constraint", "trans": "名詞：制約、束縛"},
+      {"word": "constricted", "trans": "形容詞：収縮した、窮屈な"}
+    ]
+  },
+  {
+    "number": "541-2",
+    "word": "constraint",
+    "pos": "名詞",
+    "meaning": "制約、制限、束縛、強制",
+    "nuance": "自由を妨げる要素や、守らなければならない条件を指します。ビジネスやエンジニアリングでは「予算の制約（budget constraints）」や「時間の制約（time constraints）」といった表現で頻出します。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The project was finished on time despite many technical constraints.",
+            "ja": "多くの技術的制約にもかかわらず、プロジェクトは予定通り完了した。",
+            "highlight": "constraints"
+          },
+          {
+            "en": "Social constraints often influence how people behave in public.",
+            "ja": "社会的制約（しきたり等）は、人々の公共の場での振る舞いにしばしば影響を与える。",
+            "highlight": "constraints"
+          }
+        ]
+      }
+    ],
+    "etymology": "constrainの名詞形",
+    "synonyms": [
+      {"word": "limitation", "trans": "制限"},
+      {"word": "restriction", "trans": "制約"},
+      {"word": "curb", "trans": "抑制"}
+    ],
+    "antonyms": [
+      {"word": "freedom", "trans": "自由"},
+      {"word": "liberty", "trans": "勝手、自由"},
+      {"word": "allowance", "trans": "許容"}
+    ],
+    "related": [
+      {"word": "constrain", "trans": "動詞：強いる"}
+    ]
+  },
+  {
+    "number": 542,
+    "word": "restrain",
+    "pos": "動詞",
+    "meaning": "抑制する、抑える、制止する",
+    "nuance": "感情、怒り、あるいは物理的な勢いを「ぐっとこらえて止める」というニュアンスです。constrainが「外から縛る」のに対し、restrainは「暴走しないよう食い止める」イメージです。",
+    "example_sections": [
+      {
+        "title": "例文（感情の抑制）",
+        "examples": [
+          {
+            "en": "She could barely restrain her laughter during the meeting.",
+            "ja": "彼女は会議中、笑いをこらえるのがやっとだった。",
+            "highlight": "restrain"
+          }
+        ]
+      },
+      {
+        "title": "例文（制止）",
+        "examples": [
+          {
+            "en": "The police had to restrain the angry protesters.",
+            "ja": "警察は怒った抗議者たちを制止しなければならなかった。",
+            "highlight": "restrain"
+          }
+        ]
+      }
+    ],
+    "etymology": "re (後ろへ) + stringere (きつく締める) <br>→ 引き戻して締める = 抑制する",
+    "synonyms": [
+      {"word": "suppress", "trans": "抑圧する"},
+      {"word": "curb", "trans": "抑制する"},
+      {"word": "control", "trans": "制御する"}
+    ],
+    "antonyms": [
+      {"word": "unleash", "trans": "解き放つ"},
+      {"word": "incite", "trans": "煽り立てる"},
+      {"word": "express", "trans": "表現する"}
+    ],
+    "related": [
+      {"word": "restraint", "trans": "名詞：抑制、控えめ"},
+      {"word": "restrained", "trans": "形容詞：控えめな"}
+    ]
+  },
+  {
+    "number": "542-2",
+    "word": "restraint",
+    "pos": "名詞",
+    "meaning": "抑制、遠慮、控えめ、拘束力",
+    "nuance": "自分の感情や行動をコントロールする「自制心」や、控えめな態度を指します。また、物理的な「拘束具」や、経済的な「抑制策」を指すこともあります。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "He showed great restraint by not getting angry.",
+            "ja": "彼は怒らずに、素晴らしい自制心（抑制）を示した。",
+            "highlight": "restraint"
+          },
+          {
+            "en": "The government exercised wage restraint to control inflation.",
+            "ja": "政府はインフレを抑えるために賃金抑制を行った。",
+            "highlight": "restraint"
+          }
+        ]
+      }
+    ],
+    "etymology": "restrainの名詞形",
+    "synonyms": [
+      {"word": "self-control", "trans": "自制心"},
+      {"word": "moderation", "trans": "中庸、控えめ"},
+      {"word": "inhibition", "trans": "抑制、恥じらい"}
+    ],
+    "antonyms": [
+      {"word": "indulgence", "trans": "放縦、ほしいまま"},
+      {"word": "excess", "trans": "超過、無節制"}
+    ],
+    "related": [
+      {"word": "restrain", "trans": "動詞：抑制する"}
+    ]
+  },
+  {
+    "number": 543,
+    "word": "insistent",
+    "pos": "形容詞",
+    "meaning": "しつこい、主張し続ける、強引な",
+    "nuance": "自分の意見や要求を譲らず、何度も繰り返し主張する様子を指します。また、音が鳴り止まない（しつこく鳴る）といった状況にも使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "He was insistent that we should leave immediately.",
+            "ja": "彼は、私たちはすぐに出発すべきだと言い張った（強く主張した）。",
+            "highlight": "insistent"
+          },
+          {
+            "en": "The insistent ringing of the phone woke me up.",
+            "ja": "電話のしつこい鳴り響きが私を目覚めさせた。",
+            "highlight": "insistent"
+          }
+        ]
+      }
+    ],
+    "etymology": "in (上に) + sistere (立つ) <br>→ 相手の上に立ち続ける = 引かない、主張する",
+    "synonyms": [
+      {"word": "persistent", "trans": "しつこい"},
+      {"word": "resolute", "trans": "毅然とした"},
+      {"word": "assertive", "trans": "断定的な"}
+    ],
+    "antonyms": [
+      {"word": "submissive", "trans": "従順な"},
+      {"word": "tentative", "trans": "ためらいがちな"},
+      {"word": "indifferent", "trans": "無関心な"}
+    ],
+    "related": [
+      {"word": "insist", "trans": "動詞：主張する"},
+      {"word": "insistence", "trans": "名詞：主張、強要"}
+    ]
+  },
+  {
+    "number": 544,
+    "word": "doubly",
+    "pos": "副詞",
+    "meaning": "二重に、二倍に、いっそう",
+    "nuance": "量や程度が2倍になることだけでなく、「ある理由があって、さらにもう一つの理由が加わり、格段に〜である」という強調（especially）として使われることが多いです。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "We must be doubly careful when driving in the rain.",
+            "ja": "雨の中を運転する時は、二重に（いっそう）注意しなければならない。",
+            "highlight": "doubly"
+          },
+          {
+            "en": "The loss was doubly painful because it was unexpected.",
+            "ja": "予期せぬことだったので、その損失は二重に（さらに）苦痛だった。",
+            "highlight": "doubly"
+          }
+        ]
+      }
+    ],
+    "etymology": "double + ly (副詞語尾) <br>→ 二重の状態で",
+    "synonyms": [
+      {"word": "twice", "trans": "二度、二倍"},
+      {"word": "dual", "trans": "二重の"},
+      {"word": "especially", "trans": "特に、いっそう"}
+    ],
+    "antonyms": [
+      {"word": "singly", "trans": "一人で、一つずつ"},
+      {"word": "partially", "trans": "部分的に"}
+    ],
+    "related": [
+      {"word": "double", "trans": "形容詞：二倍の"},
+      {"word": "duplicate", "trans": "動詞/名詞：複製する/複製"}
+    ]
+  },
+  {
+    "number": "544-2",
+    "word": "double",
+    "pos": "形容詞、動詞、名詞、副詞",
+    "meaning": "二倍の、二重の、二倍にする、影武者",
+    "nuance": "同じものが2つあることや、標準の2倍の量・サイズであることを指します。動詞では「2つの役割を兼ねる（double as ~）」という便利な表現もあります。",
+    "example_sections": [
+      {
+        "title": "例文（形容詞）",
+        "examples": [
+          {
+            "en": "The hotel room has a double bed.",
+            "ja": "そのホテルの部屋にはダブルベッド（二人用）がある。",
+            "highlight": "double"
+          }
+        ]
+      },
+      {
+        "title": "例文（動詞・役割）",
+        "examples": [
+          {
+            "en": "This sofa doubles as a bed.",
+            "ja": "このソファはベッドとしても使える（一人二役）。",
+            "highlight": "doubles"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 duo (二つの) + plus (満ちた) <br>→ 二つ折りの、二重の",
+    "synonyms": [
+      {"word": "dual", "trans": "二重の"},
+      {"word": "twin", "trans": "対の、双子の"},
+      {"word": "duplicate", "trans": "重複した"}
+    ],
+    "antonyms": [
+      {"word": "single", "trans": "単一の"},
+      {"word": "half", "trans": "半分の"}
+    ],
+    "related": [
+      {"word": "doubly", "trans": "副詞：二倍に"},
+      {"word": "doubt", "trans": "名詞/動詞：疑い（心が二つに割れること）"}
+    ]
+  },
+  {
+    "number": 545,
+    "word": "dual",
+    "pos": "形容詞",
+    "meaning": "二重の、二つの部分からなる、両面を持つ",
+    "nuance": "単に「2倍（double）」というより、2つの異なる性質や役割が共存している（二律背反、あるいは二重構造）というニュアンスで使われます。「dual nationality（二重国籍）」など。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The new hybrid car has a dual power source.",
+            "ja": "その新しいハイブリッド車は二重（電気とガソリン）の動力源を持っている。",
+            "highlight": "dual"
+          },
+          {
+            "en": "He has a dual role as a teacher and a coach.",
+            "ja": "彼は教師とコーチという二つの役割を持っている。",
+            "highlight": "dual"
+          }
+        ]
+      }
+    ],
+    "etymology": "ラテン語 duo (二つの) <br>→ 二つに関わる",
+    "synonyms": [
+      {"word": "double", "trans": "二重の"},
+      {"word": "binary", "trans": "二進法の、二つの"},
+      {"word": "twin", "trans": "二重の"}
+    ],
+    "antonyms": [
+      {"word": "single", "trans": "単一の"},
+      {"word": "unified", "trans": "統合された"},
+      {"word": "solo", "trans": "単独の"}
+    ],
+    "related": [
+      {"word": "duet", "trans": "名詞：二重奏"},
+      {"word": "duality", "trans": "名詞：二重性"}
+    ]
+  },
+  {
+    "number": 546,
+    "word": "benefit",
+    "pos": "名詞、動詞",
+    "meaning": "利益、恩恵、手当、〜のためになる",
+    "nuance": "お金の利益（profit）だけでなく、健康、教育、幸福など「広く良い影響を与えるもの」を指します。また、政府からの「給付金・手当（unemployment benefit）」という意味でも重要です。",
+    "example_sections": [
+      {
+        "title": "例文（名詞・恩恵）",
+        "examples": [
+          {
+            "en": "The new law will be of great benefit to small businesses.",
+            "ja": "新しい法律は小規模企業に大きな利益（恩恵）をもたらすだろう。",
+            "highlight": "benefit"
+          }
+        ]
+      },
+      {
+        "title": "例文（動詞・ためになる）",
+        "examples": [
+          {
+            "en": "The fresh air will benefit your health.",
+            "ja": "新鮮な空気はあなたの健康のためになるだろう。",
+            "highlight": "benefit"
+          }
+        ]
+      }
+    ],
+    "etymology": "bene (良く) + facere (作る、行う) <br>→ 良い行い、良い結果",
+    "synonyms": [
+      {"word": "advantage", "trans": "利点"},
+      {"word": "profit", "trans": "収益"},
+      {"word": "blessing", "trans": "恵み"}
+    ],
+    "antonyms": [
+      {"word": "disadvantage", "trans": "不利"},
+      {"word": "harm", "trans": "害"},
+      {"word": "loss", "trans": "損失"}
+    ],
+    "related": [
+      {"word": "beneficial", "trans": "形容詞：有益な"},
+      {"word": "beneficiary", "trans": "名詞：受益者"}
+    ]
+  },
+  {
+    "number": 547,
+    "word": "avail",
+    "pos": "動詞、名詞",
+    "meaning": "役立つ、効力がある、利用する、効力",
+    "nuance": "主に「to little avail（ほとんど効果なく）」や「to no avail（無駄に）」という否定的な慣用句で使われることが多い単語です。動詞では「avail oneself of ~（〜を利用する）」という硬い表現があります。",
+    "example_sections": [
+      {
+        "title": "例文（慣用句）",
+        "examples": [
+          {
+            "en": "They tried to revive the patient, but to no avail.",
+            "ja": "彼らは患者を蘇生させようと試みたが、無駄だった（効き目がなかった）。",
+            "highlight": "avail"
+          }
+        ]
+      },
+      {
+        "title": "例文（動詞・利用する）",
+        "examples": [
+          {
+            "en": "You should avail yourself of every opportunity to speak English.",
+            "ja": "英語を話すあらゆる機会を利用すべきだ。",
+            "highlight": "avail"
+          }
+        ]
+      }
+    ],
+    "etymology": "ad (〜へ) + valere (力がある、価値がある) <br>→ 価値を加える = 役立つ",
+    "synonyms": [
+      {"word": "profit", "trans": "役立つ"},
+      {"word": "benefit", "trans": "恩恵を与える"},
+      {"word": "use", "trans": "利用、使用"}
+    ],
+    "antonyms": [
+      {"word": "fail", "trans": "失敗する"},
+      {"word": "uselessness", "trans": "無用"}
+    ],
+    "related": [
+      {"word": "available", "trans": "形容詞：利用可能な"},
+      {"word": "availability", "trans": "名詞：有効性、利用可能性"}
+    ]
+  },
+  {
+    "number": 548,
+    "word": "benevolent",
+    "pos": "形容詞",
+    "meaning": "慈悲深い、親切な、慈善の",
+    "nuance": "単なる親切（kind）よりもフォーマルで、特権を持つ人が弱者に対して「善意を持って接する」という高潔なニュアンスが含まれます。「benevolent organization（慈善団体）」などで使われます。",
+    "example_sections": [
+      {
+        "title": "例文",
+        "examples": [
+          {
+            "en": "The company is known for its benevolent attitude toward its employees.",
+            "ja": "その会社は従業員に対する慈悲深い（手厚い）態度で知られている。",
+            "highlight": "benevolent"
+          },
+          {
+            "en": "He was a benevolent old man who helped everyone in the village.",
+            "ja": "彼は村の全員を助ける慈悲深い老人だった。",
+            "highlight": "benevolent"
+          }
+        ]
+      }
+    ],
+    "etymology": "bene (良く) + velle (願う) <br>→ 良く願う = 善意がある",
+    "synonyms": [
+      {"word": "charitable", "trans": "慈善の"},
+      {"word": "kind-hearted", "trans": "親切な"},
+      {"word": "altruistic", "trans": "利他的な"}
+    ],
+    "antonyms": [
+      {"word": "malevolent", "trans": "悪意のある"},
+      {"word": "spiteful", "trans": "意地の悪い"},
+      {"word": "cruel", "trans": "残酷な"}
+    ],
+    "related": [
+      {"word": "benevolence", "trans": "名詞：慈悲、善行"},
+      {"word": "benign", "trans": "形容詞：良性の、親切な"}
+    ]
   }
   ]
 }
