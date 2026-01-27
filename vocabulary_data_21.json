@@ -524,6 +524,507 @@
         {"word": "spectacle", "trans": "名詞：光景"},
         {"word": "spectator", "trans": "名詞：観客"}
       ]
+    },
+    {
+      "number": 566,
+      "word": "probe",
+      "pos": "動詞、名詞",
+      "meaning": "（真相などを）突き止める、厳密に調べる、探査機",
+      "nuance": "表面的な調査ではなく、奥深くまで「探りを入れる」というニュアンスです。警察の捜査や科学的な探査、あるいは傷口を細い棒で探るような物理的な動作から転じています。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The committee began to probe the cause of the accident.",
+              "ja": "委員会はその事故の原因を突き止めるために調査を開始した。",
+              "highlight": "probe"
+            },
+            {
+              "en": "NASA launched a space probe to Mars.",
+              "ja": "NASAは火星に向けて宇宙探査機を打ち上げた。",
+              "highlight": "probe"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 probare (試す、証明する) <br>→ 正しさを確かめるために探る",
+      "synonyms": [
+        {"word": "investigate", "trans": "調査する"},
+        {"word": "explore", "trans": "探検する、探る"},
+        {"word": "examine", "trans": "調べる"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "overlook", "trans": "見落とす"}
+      ],
+      "related": [
+        {"word": "probation", "trans": "名詞：試験期間"},
+        {"word": "probable", "trans": "形容詞：ありそうな"}
+      ]
+    },
+    {
+      "number": "566-2",
+      "word": "scrutinize",
+      "pos": "動詞",
+      "meaning": "細かく調べる、精査する、吟味する",
+      "nuance": "不備や間違いがないか、非常に注意深く「穴が開くほどじっくり見る」というニュアンスです。契約書、証拠、表情などを詳細に観察する際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He scrutinized the contract before signing it.",
+              "ja": "彼は署名する前に契約書を細かく調べた（精査した）。",
+              "highlight": "scrutinized"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 scruta (ぼろきれ、がらくた) <br>→ がらくたの中から価値のあるものを探す",
+      "synonyms": [
+        {"word": "examine", "trans": "調べる"},
+        {"word": "inspect", "trans": "点検する"},
+        {"word": "pore over", "trans": "熟読する"}
+      ],
+      "antonyms": [
+        {"word": "glance", "trans": "ちらりと見る"},
+        {"word": "skim", "trans": "ざっと目を通す"}
+      ],
+      "related": [
+        {"word": "scrutiny", "trans": "名詞：精密な調査"}
+      ]
+    },
+    {
+      "number": "566-3",
+      "word": "scrutiny",
+      "pos": "名詞",
+      "meaning": "精密な調査、じろじろ見ること、監視",
+      "nuance": "厳しい監視下にある状態や、世間の鋭い注目を浴びている状態を指す際によく使われます。「under close scrutiny（厳しい監視・精査を受けて）」という表現が典型的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The politician's private life came under public scrutiny.",
+              "ja": "その政治家の私生活は世間の厳しい監視の目にさらされた。",
+              "highlight": "scrutiny"
+            }
+          ]
+        }
+      ],
+      "etymology": "scrutinizeの名詞形",
+      "synonyms": [
+        {"word": "inspection", "trans": "検査"},
+        {"word": "examination", "trans": "調査"},
+        {"word": "observation", "trans": "観察"}
+      ],
+      "antonyms": [
+        {"word": "neglect", "trans": "無視、怠慢"},
+        {"word": "inattention", "trans": "不注意"}
+      ],
+      "related": [
+        {"word": "scrutinize", "trans": "動詞：精査する"}
+      ]
+    },
+    {
+      "number": "566-4",
+      "word": "audit",
+      "pos": "名詞、動詞",
+      "meaning": "（会計などの）監査、検査、監査する、（授業を）聴講する",
+      "nuance": "主に公式な会計検査を指します。第三者が帳簿を厳しくチェックするイメージです。また、大学などで単位を取らずに「授業を聴く（聴講する）」という意味もあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company underwent an annual financial audit.",
+              "ja": "その会社は年次の財務監査を受けた。",
+              "highlight": "audit"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 audire (聞く) <br>→ 昔、会計報告は口頭で行われ、それを「聞いた」ことに由来",
+      "synonyms": [
+        {"word": "inspection", "trans": "検査"},
+        {"word": "review", "trans": "審査"},
+        {"word": "check", "trans": "点検"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "auditor", "trans": "名詞：会計監査員"},
+        {"word": "audience", "trans": "名詞：聴衆"},
+        {"word": "audio", "trans": "形容詞：音声の"}
+      ]
+    },
+    {
+      "number": 567,
+      "word": "relay",
+      "pos": "動詞、名詞",
+      "meaning": "（情報を）伝える、中継する、リレー競技",
+      "nuance": "受け取ったものを次の人へ「渡す」イメージです。情報やメッセージを次々に伝達することや、電気信号の「継ぎ手（リレー）」、競技のリレーを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please relay this message to the manager.",
+              "ja": "このメッセージをマネージャーに伝えて（つないで）ください。",
+              "highlight": "relay"
+            }
+          ]
+        }
+      ],
+      "etymology": "フランス語 relayer (交代で休む) <br>→ 狩猟で新しい犬を解き放ち、疲れた犬と交代させること",
+      "synonyms": [
+        {"word": "pass on", "trans": "伝える"},
+        {"word": "transmit", "trans": "送る、放送する"},
+        {"word": "communicate", "trans": "伝達する"}
+      ],
+      "antonyms": [
+        {"word": "keep", "trans": "留めておく"},
+        {"word": "withhold", "trans": "（情報を）出さない"}
+      ],
+      "related": [
+        {"word": "layer", "trans": "名詞：層"}
+      ]
+    },
+    {
+      "number": 568,
+      "word": "coil",
+      "pos": "名詞、動詞",
+      "meaning": "（ひも状のものの）輪、巻き、ぐるぐる巻く",
+      "nuance": "ロープ、ワイヤー、ヘビなどが円状に重なっている状態を指します。動詞では、自分自身を丸める際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The snake coiled itself around the branch.",
+              "ja": "ヘビが枝に体を巻き付けた。",
+              "highlight": "coiled"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 colligere (集める) <br>→ 散らばったものを一箇所にまとめる（巻く）",
+      "synonyms": [
+        {"word": "curl", "trans": "巻く"},
+        {"word": "twist", "trans": "ねじる"},
+        {"word": "roll", "trans": "転がす、巻く"}
+      ],
+      "antonyms": [
+        {"word": "unwind", "trans": "（巻きを）解く"},
+        {"word": "straighten", "trans": "真っ直ぐにする"}
+      ],
+      "related": [
+        {"word": "collect", "trans": "動詞：集める"}
+      ]
+    },
+    {
+      "number": "568-2",
+      "word": "loop",
+      "pos": "名詞、動詞",
+      "meaning": "輪、ループ、繰り返しの回路、輪にする",
+      "nuance": "紐を結んで作った「輪」や、同じことを繰り返すサイクルを指します。「keep someone in the loop」で「（プロジェクトなどの）最新情報を常に伝えておく」という慣用句が有名です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please keep me in the loop regarding the progress.",
+              "ja": "進捗状況について、常に私にも情報を共有してください。",
+              "highlight": "loop"
+            }
+          ]
+        }
+      ],
+      "etymology": "中世英語 (詳しい語源は不明だが、結び目に関連)",
+      "synonyms": [
+        {"word": "circle", "trans": "円、周期"},
+        {"word": "ring", "trans": "指輪、輪"},
+        {"word": "cycle", "trans": "周期"}
+      ],
+      "antonyms": [
+        {"word": "line", "trans": "線"},
+        {"word": "end", "trans": "終わり、末端"}
+      ],
+      "related": [
+        {"word": "loophole", "trans": "名詞：（法の）抜け穴"}
+      ]
+    },
+    {
+      "number": 569,
+      "word": "decrease",
+      "pos": "動詞、名詞",
+      "meaning": "減少する、〜を減らす、減少",
+      "nuance": "数量、程度、価値などが「減る」ことを表す最も一般的な言葉です。徐々に、あるいは計画的に減る場合にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The population is projected to decrease over the next decade.",
+              "ja": "人口は今後10年間で減少すると予測されている。",
+              "highlight": "decrease"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (離れて/下へ) + crescere (成長する) <br>→ 成長しなくなる = 減少する",
+      "synonyms": [
+        {"word": "reduce", "trans": "減らす"},
+        {"word": "decline", "trans": "衰退する、減少する"},
+        {"word": "lessen", "trans": "少なくする"}
+      ],
+      "antonyms": [
+        {"word": "increase", "trans": "増加する"},
+        {"word": "expand", "trans": "拡大する"},
+        {"word": "grow", "trans": "成長する"}
+      ],
+      "related": [
+        {"word": "crescent", "trans": "名詞：三日月（成長する月）"}
+      ]
+    },
+    {
+      "number": 570,
+      "word": "dwindle",
+      "pos": "動詞",
+      "meaning": "だんだん減少する、縮小する、衰える",
+      "nuance": "何かが「じわじわと」「次第に」小さくなったり消えていったりするイメージです。資源、貯金、希望、人数などが「先細りになる」ときによく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The town's resources began to dwindle after the mine closed.",
+              "ja": "鉱山が閉鎖された後、その町の資源は次第に底をつき始めた（減少した）。",
+              "highlight": "dwindle"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 dwine (衰える、消える)",
+      "synonyms": [
+        {"word": "diminish", "trans": "減少する"},
+        {"word": "shrink", "trans": "縮む"},
+        {"word": "fade", "trans": "消えていく、衰える"}
+      ],
+      "antonyms": [
+        {"word": "flourish", "trans": "繁栄する"},
+        {"word": "proliferate", "trans": "急増する"},
+        {"word": "swell", "trans": "膨らむ"}
+      ],
+      "related": []
+    },
+    {
+      "number": 571,
+      "word": "erosion",
+      "pos": "名詞",
+      "meaning": "浸食、腐食、侵食、（信頼などの）低下",
+      "nuance": "雨風によって土壌が削られる物理的な「侵食」のほか、価値、権利、信頼などが「少しずつ削り取られていく」比喩的な意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Coastal erosion is a serious problem in this area.",
+              "ja": "海岸の侵食はこの地域において深刻な問題である。",
+              "highlight": "erosion"
+            }
+          ]
+        }
+      ],
+      "etymology": "e (外へ) + rodere (かじる) <br>→ 外側からかじり取る = 侵食する",
+      "synonyms": [
+        {"word": "corrosion", "trans": "腐食"},
+        {"word": "deterioration", "trans": "悪化"},
+        {"word": "wear", "trans": "摩耗"}
+      ],
+      "antonyms": [
+        {"word": "accretion", "trans": "付着、増大"},
+        {"word": "accumulation", "trans": "蓄積"}
+      ],
+      "related": [
+        {"word": "erode", "trans": "動詞：侵食する"},
+        {"word": "rodent", "trans": "名詞：齧歯類（ネズミなど：かじる動物）"}
+      ]
+    },
+    {
+      "number": "571-2",
+      "word": "erosive",
+      "pos": "形容詞",
+      "meaning": "侵食する、腐食性の",
+      "nuance": "表面を徐々に削り取ったり、悪化させたりする性質を持っていることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The erosive action of the wind shaped these rocks over millions of years.",
+              "ja": "風の侵食作用が、何百万年もかけてこれらの岩を形成した。",
+              "highlight": "erosive"
+            }
+          ]
+        }
+      ],
+      "etymology": "erosion + ive (形容詞語尾)",
+      "synonyms": [
+        {"word": "corrosive", "trans": "腐食性の"},
+        {"word": "caustic", "trans": "腐食性の、辛辣な"}
+      ],
+      "antonyms": [
+        {"word": "constructive", "trans": "建設的な"},
+        {"word": "preservative", "trans": "保存する"}
+      ],
+      "related": [
+        {"word": "erosion", "trans": "名詞：侵食"}
+      ]
+    },
+    {
+      "number": "571-3",
+      "word": "diminish",
+      "pos": "動詞",
+      "meaning": "減少する、〜を減らす、過小評価する",
+      "nuance": "サイズ、重要性、力などが「目に見えて小さくなる」ことを表します。価値を低く見積もる（けなす）という文脈でも使われます。dwindleよりも「結果として小さくなる」点に重みがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His influence in the company began to diminish.",
+              "ja": "社内における彼の影響力は衰え（減り）始めた。",
+              "highlight": "diminish"
+            }
+          ]
+        }
+      ],
+      "etymology": "di (完全に/離れて) + minus (より小さい) <br>→ どんどん小さくする",
+      "synonyms": [
+        {"word": "decrease", "trans": "減少する"},
+        {"word": "dwindle", "trans": "だんだん減る"},
+        {"word": "belittle", "trans": "軽視する、けなす"}
+      ],
+      "antonyms": [
+        {"word": "enhance", "trans": "高める、高揚させる"},
+        {"word": "augment", "trans": "増大させる"},
+        {"word": "magnify", "trans": "拡大する"}
+      ],
+      "related": [
+        {"word": "minus", "trans": "形容詞：マイナスの"},
+        {"word": "minimum", "trans": "名詞/形容詞：最小限"}
+      ]
+    },
+    {
+      "number": 572,
+      "word": "gradual",
+      "pos": "形容詞",
+      "meaning": "徐々の、段階的な、緩やかな",
+      "nuance": "急激な変化ではなく、時間をかけて少しずつ進んでいく様子を指します。坂道がなだらかな場合にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We noticed a gradual improvement in his health.",
+              "ja": "私たちは彼の健康状態が徐々に改善していることに気づいた。",
+              "highlight": "gradual"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 gradus (ステップ、階段) <br>→ 一歩ずつの",
+      "synonyms": [
+        {"word": "slow", "trans": "遅い"},
+        {"word": "steady", "trans": "着実な"},
+        {"word": "step-by-step", "trans": "一歩ずつの"}
+      ],
+      "antonyms": [
+        {"word": "sudden", "trans": "突然の"},
+        {"word": "abrupt", "trans": "急激な"},
+        {"word": "steep", "trans": "険しい、急な"}
+      ],
+      "related": [
+        {"word": "grade", "trans": "名詞：学年、等級"},
+        {"word": "graduation", "trans": "名詞：卒業、段階的変化"}
+      ]
+    },
+    {
+      "number": "572-2",
+      "word": "gradually",
+      "pos": "副詞",
+      "meaning": "徐々に、次第に、だんだんと",
+      "nuance": "何かが一気ではなく、プロセスを経て進行する様子を強調します。文章で変化を描写する際に非常に便利な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The sun gradually disappeared behind the mountains.",
+              "ja": "太陽は次第に山の向こうへ隠れていった。",
+              "highlight": "gradually"
+            }
+          ]
+        }
+      ],
+      "etymology": "gradual + ly (副詞語尾)",
+      "synonyms": [
+        {"word": "slowly", "trans": "ゆっくりと"},
+        {"word": "bit by bit", "trans": "少しずつ"},
+        {"word": "progressively", "trans": "進歩的に、次第に"}
+      ],
+      "antonyms": [
+        {"word": "immediately", "trans": "直ちに"},
+        {"word": "sharply", "trans": "急激に"},
+        {"word": "overnight", "trans": "一晩で、急に"}
+      ],
+      "related": [
+        {"word": "gradual", "trans": "形容詞：徐々の"}
+      ]
+    },
+    {
+      "number": 573,
+      "word": "steep",
+      "pos": "形容詞",
+      "meaning": "（坂などが）急な、険しい、（値段が）法外な",
+      "nuance": "傾斜が垂直に近いことだけでなく、物事の変化（急上昇・急落）が激しい場合や、価格・要求が「高すぎて受け入れがたい」場合にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（傾斜）",
+          "examples": [
+            {
+              "en": "The path up the mountain is very steep.",
+              "ja": "その山に登る道は非常に険しい。",
+              "highlight": "steep"
+            }
+          ]
+        },
+        {
+          "title": "例文（価格）",
+          "examples": [
+            {
+              "en": "The price of the tickets was a bit steep.",
+              "ja": "チケットの価格は少し法外（高すぎ）だった。",
+              "highlight": "steep"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 steap (高い、そびえ立つ)",
+      "synonyms": [
+        {"word": "abrupt", "trans": "急激な"},
+        {"word": "sharp", "trans": "鋭い、急な"},
+        {"word": "excessive", "trans": "過度の（価格など）"}
+      ],
+      "antonyms": [
+        {"word": "gradual", "trans": "緩やかな"},
+        {"word": "flat", "trans": "平らな"},
+        {"word": "reasonable", "trans": "妥当な（価格など）"}
+      ],
+      "related": [
+        {"word": "steepen", "trans": "動詞：急になる"}
+      ]
     }
   ]
 }
