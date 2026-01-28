@@ -1025,6 +1025,251 @@
       "related": [
         {"word": "steepen", "trans": "動詞：急になる"}
       ]
+    },
+    {
+      "number": 574,
+      "word": "apparently",
+      "pos": "副詞",
+      "meaning": "見たところでは、どうやら〜らしい",
+      "nuance": "外見や聞いた情報から判断するとそのように見える、という状況を指します。真実かどうかは100%確実ではないが、状況証拠からはそう思える、というニュアンスが含まれます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Apparently, the meeting has been canceled.",
+              "ja": "どうやら会議は中止になったらしい。",
+              "highlight": "Apparently"
+            },
+            {
+              "en": "He was apparently happy with the results.",
+              "ja": "彼は見たところ、その結果に満足しているようだった。",
+              "highlight": "apparently"
+            }
+          ]
+        }
+      ],
+      "etymology": "apparent + ly (副詞語尾) <br>→ はっきりと見える状態で",
+      "synonyms": [
+        {"word": "seemingly", "trans": "見たところ"},
+        {"word": "evidently", "trans": "明らかに、見たところ"},
+        {"word": "supposedly", "trans": "たぶん、建前では"}
+      ],
+      "antonyms": [
+        {"word": "actually", "trans": "実際は"},
+        {"word": "really", "trans": "本当に"},
+        {"word": "certainly", "trans": "確実に"}
+      ],
+      "related": [
+        {"word": "apparent", "trans": "形容詞：明白な、見たところの"}
+      ]
+    },
+    {
+      "number": "574-2",
+      "word": "apparent",
+      "pos": "形容詞",
+      "meaning": "明白な、はっきり見える、見た目上の",
+      "nuance": "「誰の目にも明らかな（obvious）」という意味と、「（実際はともかく）表面上はそのように見える」という2つのニュアンスがあります。文脈によって「確信」か「推測」かが分かれます。",
+      "example_sections": [
+        {
+          "title": "例文（明白な）",
+          "examples": [
+            {
+              "en": "It became apparent that they had made a mistake.",
+              "ja": "彼らが間違いを犯したことは明白になった。",
+              "highlight": "apparent"
+            }
+          ]
+        },
+        {
+          "title": "例文（見た目上の）",
+          "examples": [
+            {
+              "en": "Their apparent confidence hid their nervousness.",
+              "ja": "彼らの見た目上の自信は、その緊張を隠していた。",
+              "highlight": "apparent"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (〜へ) + parere (現れる) <br>→ 目に見えるところに現れている",
+      "synonyms": [
+        {"word": "obvious", "trans": "明白な"},
+        {"word": "clear", "trans": "明らかな"},
+        {"word": "outward", "trans": "外見上の"}
+      ],
+      "antonyms": [
+        {"word": "hidden", "trans": "隠れた"},
+        {"word": "obscure", "trans": "不明瞭な"},
+        {"word": "internal", "trans": "内面的な"}
+      ],
+      "related": [
+        {"word": "appear", "trans": "動詞：現れる"},
+        {"word": "appearance", "trans": "名詞：外見、出現"}
+      ]
+    },
+    {
+      "number": 575,
+      "word": "superficial",
+      "pos": "形容詞",
+      "meaning": "表面的な、浅薄な、（傷などが）浅い",
+      "nuance": "物事の表面（surface）だけに関わっており、本質や深みに欠けることを指します。人の知識が浅い場合や、怪我が皮膚の表面だけである場合などに使われます（多くは否定的な評価）。",
+      "example_sections": [
+        {
+          "title": "例文（知識・態度）",
+          "examples": [
+            {
+              "en": "He has only a superficial knowledge of the subject.",
+              "ja": "彼はその主題について表面的な知識しか持っていない。",
+              "highlight": "superficial"
+            }
+          ]
+        },
+        {
+          "title": "例文（傷）",
+          "examples": [
+            {
+              "en": "The injury was only superficial.",
+              "ja": "その怪我は単なるかすり傷（表面的なもの）だった。",
+              "highlight": "superficial"
+            }
+          ]
+        }
+      ],
+      "etymology": "super (上に) + facies (顔、表面) <br>→ 表面上の",
+      "synonyms": [
+        {"word": "shallow", "trans": "浅い"},
+        {"word": "surface", "trans": "表面の"},
+        {"word": "cursory", "trans": "大急ぎの、雑な"}
+      ],
+      "antonyms": [
+        {"word": "profound", "trans": "深い、深遠な"},
+        {"word": "deep", "trans": "深い"},
+        {"word": "thorough", "trans": "徹底的な"}
+      ],
+      "related": [
+        {"word": "surface", "trans": "名詞：表面"}
+      ]
+    },
+    {
+      "number": 576,
+      "word": "leading",
+      "pos": "形容詞",
+      "meaning": "主要な、第一流の、首位の、誘導する",
+      "nuance": "特定の分野でトップに立っていること、あるいは最も重要な役割を果たしていることを指します。「leading role（主役）」や「leading company（大手企業）」のように使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is a leading expert in the field of genetics.",
+              "ja": "彼女は遺伝学の分野における第一流の（主要な）専門家だ。",
+              "highlight": "leading"
+            },
+            {
+              "en": "Avoid asking leading questions during the interview.",
+              "ja": "インタビュー中は誘導尋問（答えを誘導する質問）を避けてください。",
+              "highlight": "leading"
+            }
+          ]
+        }
+      ],
+      "etymology": "lead (導く) + ing (現在分詞) <br>→ 前に立って導いている",
+      "synonyms": [
+        {"word": "main", "trans": "主な"},
+        {"word": "primary", "trans": "主要な"},
+        {"word": "foremost", "trans": "真っ先の、主要な"}
+      ],
+      "antonyms": [
+        {"word": "minor", "trans": "重要でない"},
+        {"word": "secondary", "trans": "二次的な"},
+        {"word": "subordinate", "trans": "下位の"}
+      ],
+      "related": [
+        {"word": "lead", "trans": "動詞：導く"},
+        {"word": "leader", "trans": "名詞：指導者"}
+      ]
+    },
+    {
+      "number": 577,
+      "word": "staple",
+      "pos": "名詞、形容詞",
+      "meaning": "主食、主要産物、主要な要素、主要な",
+      "nuance": "生活や産業において欠かせない「基本となるもの」を指します。米やパンなどの「主食（staple food）」が代表例ですが、ホッチキスの針（針で留める）という意味もあります。",
+      "example_sections": [
+        {
+          "title": "例文（主食）",
+          "examples": [
+            {
+              "en": "Rice is the staple food in many Asian countries.",
+              "ja": "米は多くの地アジア諸国の主食である。",
+              "highlight": "staple"
+            }
+          ]
+        },
+        {
+          "title": "例文（主要な）",
+          "examples": [
+            {
+              "en": "Action movies are a staple of the summer box office.",
+              "ja": "アクション映画は夏の興行収入の定番（主要なもの）だ。",
+              "highlight": "staple"
+            }
+          ]
+        }
+      ],
+      "etymology": "中世オランダ語 stapel (柱、市場) <br>→ 商品が集まる中心地",
+      "synonyms": [
+        {"word": "principal", "trans": "主要な"},
+        {"word": "basic", "trans": "基本的な"},
+        {"word": "standard", "trans": "標準の、定番の"}
+      ],
+      "antonyms": [
+        {"word": "luxury", "trans": "贅沢品、必須でないもの"},
+        {"word": "extra", "trans": "余分なもの"}
+      ],
+      "related": [
+        {"word": "stapler", "trans": "名詞：ホッチキス"}
+      ]
+    },
+    {
+      "number": 578,
+      "word": "potent",
+      "pos": "形容詞",
+      "meaning": "（薬などが）強力な、効力のある、影響力のある",
+      "nuance": "力（power）が内包されており、強い効果や影響を及ぼすことができる状態を指します。特に薬の効き目や、象徴的なシンボルの持つ力、あるいは説得力のある議論などについて使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "This is a very potent drug with many side effects.",
+              "ja": "これは非常に強力な（効き目の強い）薬で、多くの副作用がある。",
+              "highlight": "potent"
+            },
+            {
+              "en": "He presented a potent argument for change.",
+              "ja": "彼は変革に向けた説得力のある（強力な）議論を提示した。",
+              "highlight": "potent"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 potens (力のある) <br>→ 可能性がある、力を持っている",
+      "synonyms": [
+        {"word": "powerful", "trans": "強力な"},
+        {"word": "effective", "trans": "効果的な"},
+        {"word": "influential", "trans": "影響力のある"}
+      ],
+      "antonyms": [
+        {"word": "impotent", "trans": "無力な"},
+        {"word": "weak", "trans": "弱い"},
+        {"word": "ineffective", "trans": "効果のない"}
+      ],
+      "related": [
+        {"word": "potential", "trans": "名詞/形容詞：可能性/潜在的な"},
+        {"word": "potency", "trans": "名詞：効力、権力"}
+      ]
     }
   ]
 }
