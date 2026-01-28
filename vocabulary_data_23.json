@@ -1,0 +1,423 @@
+{
+  "words": [
+    {
+      "number": 594,
+      "word": "affluent",
+      "pos": "形容詞",
+      "meaning": "裕福な、豊かな、豊富に流れる",
+      "nuance": "単に「お金を持っている」だけでなく、生活水準が高く、富が溢れ出しているような「豊かさ」を指します。個人だけでなく「affluent society（豊かな社会）」のように地域や社会に対しても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He grew up in an affluent neighborhood.",
+              "ja": "彼は裕福な近隣地域で育った。",
+              "highlight": "affluent"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (〜へ) + fluere (流れる) <br>→ 豊かに流れ込む",
+      "synonyms": [
+        {"word": "wealthy", "trans": "裕福な"},
+        {"word": "prosperous", "trans": "繁栄している"},
+        {"word": "rich", "trans": "金持ちの"}
+      ],
+      "antonyms": [
+        {"word": "poor", "trans": "貧しい"},
+        {"word": "impoverished", "trans": "貧困化した"},
+        {"word": "destitute", "trans": "極貧の"}
+      ],
+      "related": [
+        {"word": "affluence", "trans": "名詞：富、豊かさ"},
+        {"word": "fluent", "trans": "形容詞：流暢な"}
+      ]
+    },
+    {
+      "number": "594-2",
+      "word": "affluence",
+      "pos": "名詞",
+      "meaning": "富、豊かさ、流入",
+      "nuance": "経済的な豊かさが溢れている状態を指します。「an age of affluence（飽食の時代、豊かな時代）」といった表現で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The country's affluence is based on its oil reserves.",
+              "ja": "その国の豊かさは、石油資源に基づいている。",
+              "highlight": "affluence"
+            }
+          ]
+        }
+      ],
+      "etymology": "affluentの名詞形",
+      "synonyms": [
+        {"word": "wealth", "trans": "富"},
+        {"word": "prosperity", "trans": "繁栄"},
+        {"word": "abundance", "trans": "豊富"}
+      ],
+      "antonyms": [
+        {"word": "poverty", "trans": "貧困"},
+        {"word": "scarcity", "trans": "不足"}
+      ],
+      "related": [
+        {"word": "affluent", "trans": "形容詞：裕福な"}
+      ]
+    },
+    {
+      "number": 595,
+      "word": "surplus",
+      "pos": "名詞、形容詞",
+      "meaning": "余剰、過剰、黒字、余りの",
+      "nuance": "必要な量を超えて「余っている分」を指します。予算の「黒字（budget surplus）」や、食料の「余剰（food surplus）」などの文脈で頻出します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The country produced a grain surplus this year.",
+              "ja": "その国は今年、穀物の余剰分を生み出した。",
+              "highlight": "surplus"
+            }
+          ]
+        }
+      ],
+      "etymology": "sur (上に/超えて) + plus (より多く) <br>→ 定員を超えて多い",
+      "synonyms": [
+        {"word": "excess", "trans": "過剰"},
+        {"word": "extra", "trans": "余分なもの"},
+        {"word": "remainder", "trans": "残り"}
+      ],
+      "antonyms": [
+        {"word": "deficit", "trans": "不足、赤字"},
+        {"word": "shortage", "trans": "不足"},
+        {"word": "lack", "trans": "欠如"}
+      ],
+      "related": []
+    },
+    {
+      "number": "595-2",
+      "word": "superfluous",
+      "pos": "形容詞",
+      "meaning": "余分な、不必要な、過多の",
+      "nuance": "単に余っているだけでなく、多すぎて「もはや不要である」「無駄である」というネガティブなニュアンスを含むことが多い言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She removed all the superfluous words from her essay.",
+              "ja": "彼女はエッセイから不必要な（余計な）言葉をすべて削除した。",
+              "highlight": "superfluous"
+            }
+          ]
+        }
+      ],
+      "etymology": "super (超えて) + fluere (流れる) <br>→ 器から溢れ出すほど流れている",
+      "synonyms": [
+        {"word": "unnecessary", "trans": "不必要な"},
+        {"word": "redundant", "trans": "余分な、重複した"},
+        {"word": "excessive", "trans": "過度の"}
+      ],
+      "antonyms": [
+        {"word": "essential", "trans": "不可欠な"},
+        {"word": "necessary", "trans": "必要な"},
+        {"word": "scanty", "trans": "不十分な"}
+      ],
+      "related": [
+        {"word": "fluid", "trans": "名詞/形容詞：流体/流動的な"}
+      ]
+    },
+    {
+      "number": 596,
+      "word": "fluid",
+      "pos": "名詞、形容詞",
+      "meaning": "流体（液体・気体）、流動的な、なめらかな",
+      "nuance": "形が一定ではなく流れる性質を持つものを指します。比喩的に「計画が流動的である（計画が決まっていない）」際にも非常によく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Drink plenty of fluids when you have a fever.",
+              "ja": "熱がある時は水分をたくさん摂りなさい。",
+              "highlight": "fluids"
+            },
+            {
+              "en": "The situation remains fluid and could change any time.",
+              "ja": "状況は依然として流動的（不安定）であり、いつでも変わり得る。",
+              "highlight": "fluid"
+            }
+          ]
+        }
+      ],
+      "etymology": "fluere (流れる) + id (状態)",
+      "synonyms": [
+        {"word": "liquid", "trans": "液体"},
+        {"word": "changeable", "trans": "変わりやすい"},
+        {"word": "smooth", "trans": "なめらかな"}
+      ],
+      "antonyms": [
+        {"word": "solid", "trans": "固体の、強固な"},
+        {"word": "fixed", "trans": "固定された"},
+        {"word": "stable", "trans": "安定した"}
+      ],
+      "related": [
+        {"word": "fluent", "trans": "形容詞：流暢な"},
+        {"word": "fluctuate", "trans": "動詞：変動する"}
+      ]
+    },
+    {
+      "number": 597,
+      "word": "nutritious",
+      "pos": "形容詞",
+      "meaning": "栄養のある、栄養分に富んだ",
+      "nuance": "その食べ物が健康に良い成分（栄養素）をたくさん含んでいることを指します。実用的な「健康的である」というプラスの評価です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Eggs are a highly nutritious food.",
+              "ja": "卵は非常に栄養価の高い食品だ。",
+              "highlight": "nutritious"
+            }
+          ]
+        }
+      ],
+      "etymology": "nutri (養う) + ous (〜に満ちた)",
+      "synonyms": [
+        {"word": "nourishing", "trans": "栄養になる"},
+        {"word": "healthful", "trans": "健康に良い"},
+        {"word": "wholesome", "trans": "健全な、健康に良い"}
+      ],
+      "antonyms": [
+        {"word": "unhealthy", "trans": "不健康な"},
+        {"word": "junk", "trans": "（食べ物が）ガラクタの、栄養のない"}
+      ],
+      "related": [
+        {"word": "nutrition", "trans": "名詞：栄養"},
+        {"word": "nutrient", "trans": "名詞：栄養素"}
+      ]
+    },
+    {
+      "number": 598,
+      "word": "bombard",
+      "pos": "動詞",
+      "meaning": "〜を爆撃する、（質問などで）攻め立てる",
+      "nuance": "物理的な大砲での攻撃だけでなく、質問、メール、広告などが「浴びせかけるように」大量に押し寄せる様子を表すのによく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The reporter bombarded the minister with questions.",
+              "ja": "記者は大臣に質問を浴びせかけた。",
+              "highlight": "bombarded"
+            }
+          ]
+        }
+      ],
+      "etymology": "bomb (爆弾) + ard (強く〜する人/物)",
+      "synonyms": [
+        {"word": "attack", "trans": "攻撃する"},
+        {"word": "assault", "trans": "急襲する"},
+        {"word": "shower", "trans": "浴びせる"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "bombardment", "trans": "名詞：砲撃、質問攻め"}
+      ]
+    },
+    {
+      "number": 599,
+      "word": "dip",
+      "pos": "動詞、名詞",
+      "meaning": "〜を（軽く）浸す、少し下がる、ディップ（ソース）",
+      "nuance": "液体の中にさっと入れてすぐ出す動作や、数値などが一時的に「少し下がる」ことを指します。アイスなどの「ディップ」もここから来ています。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He dipped his bread into the soup.",
+              "ja": "彼はパンをスープに浸した。",
+              "highlight": "dipped"
+            },
+            {
+              "en": "Sales dipped slightly last month.",
+              "ja": "先月、売上はわずかに落ち込んだ。",
+              "highlight": "dipped"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 dyppan (浸す) <br>→ deep（深い）と同源",
+      "synonyms": [
+        {"word": "submerge", "trans": "沈める"},
+        {"word": "soak", "trans": "浸す"},
+        {"word": "drop", "trans": "下がる"}
+      ],
+      "antonyms": [
+        {"word": "rise", "trans": "上がる"},
+        {"word": "ascend", "trans": "登る"}
+      ],
+      "related": [
+        {"word": "deep", "trans": "形容詞：深い"}
+      ]
+    },
+    {
+      "number": "599-2",
+      "word": "splash",
+      "pos": "動詞、名詞",
+      "meaning": "（水などを）はねかける、パシャッと音を立てる、水しぶき",
+      "nuance": "液体が飛び散る様子やその音を指します。比喩的に、大々的に報道したり、目立つように掲載したりする（make a splash：注目を浴びる）際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The kids were splashing water at each other.",
+              "ja": "子供たちは互いに水を掛け合っていた。",
+              "highlight": "splashing"
+            }
+          ]
+        }
+      ],
+      "etymology": "擬音語的（plash の変形）",
+      "synonyms": [
+        {"word": "sprinkle", "trans": "振りかける"},
+        {"word": "scatter", "trans": "まき散らす"},
+        {"word": "splatter", "trans": "はね散らす"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 600,
+      "word": "junk",
+      "pos": "名詞",
+      "meaning": "がらくた、くず、ジャンクフード、麻薬（俗）",
+      "nuance": "価値のないもの、使い古されたものを指します。栄養のない食べ物を「junk food」、不要なメールを「junk mail」と呼ぶのはお馴染みです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I need to clear out all the junk in the garage.",
+              "ja": "ガレージにあるがらくたを全部片付けなきゃいけない。",
+              "highlight": "junk"
+            }
+          ]
+        }
+      ],
+      "etymology": "古いロープの端切れ（航海用語）に由来",
+      "synonyms": [
+        {"word": "rubbish", "trans": "ゴミ、くだらないもの"},
+        {"word": "trash", "trans": "ゴミ"},
+        {"word": "clutter", "trans": "散らかったもの"}
+      ],
+      "antonyms": [
+        {"word": "treasure", "trans": "宝物"},
+        {"word": "valuable", "trans": "貴重品"}
+      ],
+      "related": []
+    },
+    {
+      "number": 601,
+      "word": "debris",
+      "pos": "名詞",
+      "meaning": "（破壊された後の）破片、残骸、瓦礫",
+      "nuance": "事故、災害、爆発などで壊れたものの「散らばった欠片」を指します。発音は「デブリ」で、最後のsは読みません。宇宙ゴミ（space debris）も有名です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Emergency workers cleared the debris from the road.",
+              "ja": "救急隊員が道路から瓦礫（残骸）を取り除いた。",
+              "highlight": "debris"
+            }
+          ]
+        }
+      ],
+      "etymology": "フランス語 de (離して) + briser (砕く) <br>→ 砕け散ったもの",
+      "synonyms": [
+        {"word": "rubble", "trans": "瓦礫"},
+        {"word": "remains", "trans": "残骸"},
+        {"word": "wreckage", "trans": "難破貨物、残骸"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 602,
+      "word": "echo",
+      "pos": "名詞、動詞",
+      "meaning": "反響、こだま、〜を繰り返す、反映する",
+      "nuance": "音が跳ね返ってくることだけでなく、他人の意見に「同意して繰り返す」ことや、過去の出来事が現代に「影響を及ぼす（こだまする）」といった意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Her voice echoed in the empty hallway.",
+              "ja": "彼女の声が誰もいない廊下に響き渡った（反響した）。",
+              "highlight": "echoed"
+            },
+            {
+              "en": "The Prime Minister's words echoed the feelings of the nation.",
+              "ja": "首相の言葉は国民の感情を反映していた（繰り返していた）。",
+              "highlight": "echoed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 Echo (神話のニンフの名前)",
+      "synonyms": [
+        {"word": "resonance", "trans": "響き"},
+        {"word": "reverberation", "trans": "残響"},
+        {"word": "repeat", "trans": "繰り返す"}
+      ],
+      "antonyms": [
+        {"word": "silence", "trans": "静寂"}
+      ],
+      "related": []
+    },
+    {
+      "number": "602-2",
+      "word": "mimic",
+      "pos": "動詞、名詞",
+      "meaning": "（笑わせるために）真似る、模倣する、模倣者",
+      "nuance": "声や仕草をそっくりに真似ることを指します。しばしば人をからかったり、面白がらせたりする意図が含まれます。生物学では「擬態（他者に似せること）」を指す際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He can mimic the teacher's voice perfectly.",
+              "ja": "彼は先生の声を完璧に真似ることができる。",
+              "highlight": "mimic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 mimos (役者、パントマイム)",
+      "synonyms": [
+        {"word": "imitate", "trans": "模倣する"},
+        {"word": "copy", "trans": "写す、真似る"},
+        {"word": "mock", "trans": "あざける、真似して馬鹿にする"}
+      ],
+      "antonyms": [
+        {"word": "originate", "trans": "創案する"},
+        {"word": "lead", "trans": "導く、先頭に立つ"}
+      ],
+      "related": [
+        {"word": "mime", "trans": "名詞：パントマイム"},
+        {"word": "pantomime", "trans": "名詞：無言劇"}
+      ]
+    }
+  ]
+}
