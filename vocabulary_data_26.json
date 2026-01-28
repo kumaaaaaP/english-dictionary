@@ -1,0 +1,550 @@
+{
+  "words": [
+    {
+      "number": 646,
+      "word": "intake",
+      "pos": "名詞",
+      "meaning": "摂取（量）、受け入れ数、取り入れ口",
+      "nuance": "体に取り入れるエネルギー（カロリー）や栄養、あるいは組織に新しく入る人員の数などを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You should reduce your daily intake of salt.",
+              "ja": "一日の塩分摂取量を減らすべきだ。",
+              "highlight": "intake"
+            },
+            {
+              "en": "The university has increased its annual intake of students.",
+              "ja": "その大学は年間の学生受け入れ数を増やした。",
+              "highlight": "intake"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + take (取る)",
+      "synonyms": [
+        {"word": "consumption", "trans": "消費、摂取"},
+        {"word": "absorption", "trans": "吸収"},
+        {"word": "input", "trans": "入力、投入"}
+      ],
+      "antonyms": [
+        {"word": "output", "trans": "出力"},
+        {"word": "discharge", "trans": "排出"},
+        {"word": "expulsion", "trans": "追放、排出"}
+      ],
+      "related": [
+        {"word": "take in", "trans": "句動詞：〜を摂取する、理解する"}
+      ]
+    },
+    {
+      "number": 647,
+      "word": "sanction",
+      "pos": "名詞、動詞",
+      "meaning": "（公式な）認可、制裁、〜を認可する、〜に制裁を加える",
+      "nuance": "「認可」と「制裁」という真逆の意味を持ちますが、どちらも「公的な権限による決定」という点で共通しています。複数形の sanctions は経済制裁を指すことが一般的です。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The UN imposed economic sanctions on the country.",
+              "ja": "国連はその国に対して経済制裁を科した。",
+              "highlight": "sanctions"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The government refused to sanction the project.",
+              "ja": "政府はそのプロジェクトの認可を拒んだ。",
+              "highlight": "sanction"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 sanctus (神聖な、決定された) → 法律で定められたこと",
+      "synonyms": [
+        {"word": "approval", "trans": "承認"},
+        {"word": "penalty", "trans": "罰則、制裁"},
+        {"word": "authorization", "trans": "公認"}
+      ],
+      "antonyms": [
+        {"word": "prohibition", "trans": "禁止"},
+        {"word": "ban", "trans": "禁止令"},
+        {"word": "veto", "trans": "拒否権"}
+      ],
+      "related": [
+        {"word": "sanctuary", "trans": "名詞：聖域、避難所"}
+      ]
+    },
+    {
+      "number": "647-2",
+      "word": "confirmation",
+      "pos": "名詞",
+      "meaning": "確認、裏付け、確証",
+      "nuance": "何かが真実である、あるいは確定していることを証明する行為や書類を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We are waiting for confirmation of the test results.",
+              "ja": "私たちは検査結果の確認（裏付け）を待っている。",
+              "highlight": "confirmation"
+            }
+          ]
+        }
+      ],
+      "etymology": "confirm の名詞形",
+      "synonyms": [
+        {"word": "verification", "trans": "照合、立証"},
+        {"word": "proof", "trans": "証拠"},
+        {"word": "validation", "trans": "有効化、確認"}
+      ],
+      "antonyms": [
+        {"word": "denial", "trans": "否定"},
+        {"word": "contradiction", "trans": "矛盾、否定"},
+        {"word": "cancellation", "trans": "取り消し"}
+      ],
+      "related": [
+        {"word": "confirm", "trans": "動詞：確認する"}
+      ]
+    },
+    {
+      "number": "647-3",
+      "word": "confirm",
+      "pos": "動詞",
+      "meaning": "〜を確認する、（決意などを）固める、〜を裏付ける",
+      "nuance": "疑いや不確実なことをはっきりさせる、あるいは予約などを確定させる際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please call to confirm your reservation.",
+              "ja": "予約を確定するために電話をしてください。",
+              "highlight": "confirm"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (完全に) + firmare (強くする) → 確実なものにする",
+      "synonyms": [
+        {"word": "verify", "trans": "確かめる"},
+        {"word": "corroborate", "trans": "（証拠で）裏付ける"},
+        {"word": "affirm", "trans": "断言する、肯定する"}
+      ],
+      "antonyms": [
+        {"word": "deny", "trans": "否定する"},
+        {"word": "refute", "trans": "反論する"},
+        {"word": "nullify", "trans": "無効にする"}
+      ],
+      "related": [
+        {"word": "firm", "trans": "形容詞：固い、確固たる"},
+        {"word": "confirmed", "trans": "形容詞：常習的な、確認済みの"}
+      ]
+    },
+    {
+      "number": 648,
+      "word": "reprint",
+      "pos": "動詞、名詞",
+      "meaning": "〜を増刷する、〜を再版する、増刷、再版",
+      "nuance": "一度出版されたものを、修正せずに（あるいは最小限の修正で）再び印刷することを指します。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The book was so popular that they decided to reprint it.",
+              "ja": "その本は非常に人気があったので、彼らは増刷することに決めた。",
+              "highlight": "reprint"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The article is a reprint from an earlier edition.",
+              "ja": "この記事は以前の版からの再版（転載）である。",
+              "highlight": "reprint"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + print (印刷する)",
+      "synonyms": [
+        {"word": "reissue", "trans": "再発行する"},
+        {"word": "republish", "trans": "再出版する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "printer", "trans": "名詞：印刷機"},
+        {"word": "footprint", "trans": "名詞：足跡"}
+      ]
+    },
+    {
+      "number": 649,
+      "word": "packet",
+      "pos": "名詞",
+      "meaning": "小包、袋、パケット（情報通信の単位）",
+      "nuance": "イギリス英語ではタバコや菓子の「箱・袋」を指すことが多いです。IT用語としてはデータを細切れにした単位を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He bought a packet of cigarettes.",
+              "ja": "彼はタバコを1箱買った。",
+              "highlight": "packet"
+            }
+          ]
+        }
+      ],
+      "etymology": "pack (包み) + et (小さいもの)",
+      "synonyms": [
+        {"word": "package", "trans": "小包、パッケージ"},
+        {"word": "bundle", "trans": "束"},
+        {"word": "parcel", "trans": "小包"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "package", "trans": "名詞/動詞：包み/梱包する"},
+        {"word": "backpack", "trans": "名詞：リュックサック"}
+      ]
+    },
+    {
+      "number": 650,
+      "word": "proudly",
+      "pos": "副詞",
+      "meaning": "誇らしげに、堂々と、高慢に",
+      "nuance": "自分の成果や所属するものに対して、自尊心を持って行動する様子を表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She proudly displayed her trophy on the mantelpiece.",
+              "ja": "彼女はトロフィーを暖炉の上に誇らしげに飾った。",
+              "highlight": "proudly"
+            }
+          ]
+        }
+      ],
+      "etymology": "proud + ly (副詞語尾)",
+      "synonyms": [
+        {"word": "triumphantly", "trans": "勝ち誇って"},
+        {"word": "boastfully", "trans": "自慢げに"},
+        {"word": "arrogantly", "trans": "傲慢に"}
+      ],
+      "antonyms": [
+        {"word": "humbly", "trans": "謙虚に"},
+        {"word": "modestly", "trans": "控えめに"},
+        {"word": "shamefully", "trans": "恥ずかしそうに"}
+      ],
+      "related": [
+        {"word": "pride", "trans": "名詞：誇り"}
+      ]
+    },
+    {
+      "number": "650-2",
+      "word": "proud",
+      "pos": "形容詞",
+      "meaning": "誇りに思う、光栄な、自尊心のある、傲慢な",
+      "nuance": "良い意味での「誇り」だけでなく、悪い意味での「高慢・プライドが高すぎる」という意味も持ち合わせます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I am proud of your achievements.",
+              "ja": "私はあなたの成果を誇りに思います。",
+              "highlight": "proud"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期フランス語 prod (勇敢な、優れた)",
+      "synonyms": [
+        {"word": "honored", "trans": "光栄に思う"},
+        {"word": "arrogant", "trans": "傲慢な"},
+        {"word": "conceited", "trans": "うぬぼれた"}
+      ],
+      "antonyms": [
+        {"word": "humble", "trans": "謙虚な"},
+        {"word": "ashamed", "trans": "恥じている"},
+        {"word": "modest", "trans": "控えめな"}
+      ],
+      "related": [
+        {"word": "pride", "trans": "名詞：誇り、自尊心"}
+      ]
+    },
+    {
+      "number": 651,
+      "word": "incautiously",
+      "pos": "副詞",
+      "meaning": "不注意に、うっかりと、軽率に",
+      "nuance": "危険やリスクを考慮せずに、注意を怠って行動する様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He incautiously revealed his secret to a stranger.",
+              "ja": "彼は不注意にも自分の秘密を見知らぬ人に漏らしてしまった。",
+              "highlight": "incautiously"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + cautious + ly",
+      "synonyms": [
+        {"word": "carelessly", "trans": "不注意に"},
+        {"word": "recklessly", "trans": "無謀に"},
+        {"word": "rashly", "trans": "軽率に"}
+      ],
+      "antonyms": [
+        {"word": "cautiously", "trans": "慎重に"},
+        {"word": "carefully", "trans": "注意深く"},
+        {"word": "prudently", "trans": "慎み深く"}
+      ],
+      "related": [
+        {"word": "incautious", "trans": "形容詞：不注意な"}
+      ]
+    },
+    {
+      "number": "651-2",
+      "word": "incautious",
+      "pos": "形容詞",
+      "meaning": "不注意な、軽率な、用心が足りない",
+      "nuance": "先の結果を考えずに、リスクを軽視している状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It was incautious of him to leave his car unlocked.",
+              "ja": "車の鍵をかけずにおくなんて、彼は不注意だった。",
+              "highlight": "incautious"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + cautious",
+      "synonyms": [
+        {"word": "careless", "trans": "不注意な"},
+        {"word": "imprudent", "trans": "軽率な"},
+        {"word": "heedless", "trans": "不注意な"}
+      ],
+      "antonyms": [
+        {"word": "cautious", "trans": "慎重な"},
+        {"word": "wary", "trans": "用心深い"},
+        {"word": "guarded", "trans": "慎重な"}
+      ],
+      "related": [
+        {"word": "caution", "trans": "名詞：警告、注意"}
+      ]
+    },
+    {
+      "number": 652,
+      "word": "cautious",
+      "pos": "形容詞",
+      "meaning": "慎重な、用心深い",
+      "nuance": "危険を避けるために注意を払っている様子を指します。waryよりも一般的な慎重さを表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government is cautious about making any promises.",
+              "ja": "政府はいかなる約束をすることについても慎重だ。",
+              "highlight": "cautious"
+            }
+          ]
+        }
+      ],
+      "etymology": "caution (注意) + ous (〜に満ちた)",
+      "synonyms": [
+        {"word": "careful", "trans": "注意深い"},
+        {"word": "prudent", "trans": "慎重な"},
+        {"word": "wary", "trans": "用心深い"}
+      ],
+      "antonyms": [
+        {"word": "incautious", "trans": "不注意な"},
+        {"word": "reckless", "trans": "無謀な"},
+        {"word": "bold", "trans": "大胆な"}
+      ],
+      "related": [
+        {"word": "caution", "trans": "名詞：用心、警告"}
+      ]
+    },
+    {
+      "number": "652-2",
+      "word": "cautiously",
+      "pos": "副詞",
+      "meaning": "慎重に、用心深く",
+      "nuance": "ミスや危険を避けるために、ゆっくりと、あるいは細心の注意を払って行動する様子です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He moved cautiously through the dark room.",
+              "ja": "彼は暗い部屋の中を慎重に進んだ。",
+              "highlight": "cautiously"
+            }
+          ]
+        }
+      ],
+      "etymology": "cautious + ly",
+      "synonyms": [
+        {"word": "carefully", "trans": "注意深く"},
+        {"word": "warily", "trans": "用心深く"},
+        {"word": "gingerly", "trans": "おずおずと、慎重に"}
+      ],
+      "antonyms": [
+        {"word": "incautiously", "trans": "不注意に"},
+        {"word": "recklessly", "trans": "無謀に"}
+      ],
+      "related": [
+        {"word": "cautious", "trans": "形容詞：慎重な"}
+      ]
+    },
+    {
+      "number": "652-3",
+      "word": "caution",
+      "pos": "名詞、動詞",
+      "meaning": "用心、警告、〜に警告する、〜に注意を与える",
+      "nuance": "将来の危険に対する「用心」という姿勢と、具体的な「警告」という行為の両方を指します。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Exercise caution when driving in the rain.",
+              "ja": "雨の中を運転する時は注意を払いなさい。",
+              "highlight": "caution"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The doctor cautioned him against smoking.",
+              "ja": "医者は彼に喫煙しないよう警告した（注意を促した）。",
+              "highlight": "cautioned"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 cautio (注意、用心)",
+      "synonyms": [
+        {"word": "care", "trans": "注意"},
+        {"word": "warning", "trans": "警告"},
+        {"word": "alert", "trans": "警告する"}
+      ],
+      "antonyms": [
+        {"word": "negligence", "trans": "怠慢、不注意"},
+        {"word": "disregard", "trans": "無視"}
+      ],
+      "related": [
+        {"word": "precaution", "trans": "名詞：予防策"}
+      ]
+    },
+    {
+      "number": 653,
+      "word": "tout",
+      "pos": "動詞、名詞",
+      "meaning": "〜を押し売りする、〜を熱烈に宣伝する、押し売り、ダフ屋（英）",
+      "nuance": "良い面を強調してしつこく売り込んだり、称賛したりすることを指します。イギリスではチケットの転売屋を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The product was touted as a miracle cure.",
+              "ja": "その製品は奇跡の治療薬として大々的に宣伝された。",
+              "highlight": "touted"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "He bought the tickets from a ticket tout.",
+              "ja": "彼はチケットをダフ屋から買った。",
+              "highlight": "tout"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 totian (覗き見る、突き出る) → 客を探して覗き込む",
+      "synonyms": [
+        {"word": "praise", "trans": "称賛する"},
+        {"word": "promote", "trans": "宣伝する"},
+        {"word": "peddle", "trans": "売り歩く"}
+      ],
+      "antonyms": [
+        {"word": "criticize", "trans": "批判する"},
+        {"word": "belittle", "trans": "軽視する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 654,
+      "word": "capital",
+      "pos": "名詞、形容詞",
+      "meaning": "首都、資本（金）、大文字、主要な、死刑に値する",
+      "nuance": "非常に多義的な言葉ですが、根底には「頭（一番重要なもの）」という意味があります。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Tokyo is the capital of Japan.",
+              "ja": "東京は日本の首都だ。",
+              "highlight": "capital"
+            },
+            {
+              "en": "We need more capital to start the business.",
+              "ja": "事業を始めるためにもっと資本が必要だ。",
+              "highlight": "capital"
+            }
+          ]
+        },
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "Write your name in capital letters.",
+              "ja": "名前を大文字で書きなさい。",
+              "highlight": "capital"
+            },
+            {
+              "en": "Murder is a capital offense in some states.",
+              "ja": "いくつかの州では、殺人は死刑に値する罪（死罪）である。",
+              "highlight": "capital"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 caput (頭)",
+      "synonyms": [
+        {"word": "assets", "trans": "資産"},
+        {"word": "chief", "trans": "主要な"},
+        {"word": "principal", "trans": "主要な、元金"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "capitalism", "trans": "名詞：資本主義"},
+        {"word": "captain", "trans": "名詞：船長、主将（グループの頭）"}
+      ]
+    }
+  ]
+}
