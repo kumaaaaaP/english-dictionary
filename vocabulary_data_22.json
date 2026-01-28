@@ -1,0 +1,380 @@
+{
+  "words": [
+    {
+      "number": 579,
+      "word": "verdict",
+      "pos": "名詞",
+      "meaning": "（陪審員の）評決、判定、決定",
+      "nuance": "法廷で陪審員が下す「有罪・無罪」の判断を指すのが本来の意味ですが、日常会話でも「（試してみた結果としての）最終的な判断や感想」という意味でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The jury reached a unanimous verdict of not guilty.",
+              "ja": "陪審団は全員一致で無罪の評決を下した。",
+              "highlight": "verdict"
+            },
+            {
+              "en": "What's your verdict on the new restaurant?",
+              "ja": "新しいレストランについての君の判定（感想）はどうだい？",
+              "highlight": "verdict"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 vere (真実を) + dictum (言われたこと) <br>→ 真実を述べること",
+      "synonyms": [
+        {"word": "judgment", "trans": "判断"},
+        {"word": "decision", "trans": "決定"},
+        {"word": "ruling", "trans": "裁定"}
+      ],
+      "antonyms": [
+        {"word": "accusation", "trans": "告発"},
+        {"word": "indictment", "trans": "起訴"}
+      ],
+      "related": [
+        {"word": "verify", "trans": "動詞：確かめる"},
+        {"word": "dictionary", "trans": "名詞：辞書"}
+      ]
+    },
+    {
+      "number": 580,
+      "word": "nutritional",
+      "pos": "形容詞",
+      "meaning": "栄養上の、栄養に関する",
+      "nuance": "食品の成分や、体が健康を維持するためのプロセスとしての「栄養」に関わる形容詞です。「nutritional value（栄養価）」や「nutritional balance（栄養バランス）」という形で多用されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Fast food often lacks nutritional value.",
+              "ja": "ファストフードはしばしば栄養価に欠けている。",
+              "highlight": "nutritional"
+            }
+          ]
+        }
+      ],
+      "etymology": "nutrition + al (形容詞語尾)",
+      "synonyms": [
+        {"word": "dietary", "trans": "食事の、規定食の"},
+        {"word": "nutritive", "trans": "栄養になる"}
+      ],
+      "antonyms": [
+        {"word": "unhealthy", "trans": "不健康な"}
+      ],
+      "related": [
+        {"word": "nutrition", "trans": "名詞：栄養摂取"},
+        {"word": "nutrient", "trans": "名詞：栄養素"}
+      ]
+    },
+    {
+      "number": "580-2",
+      "word": "nutrition",
+      "pos": "名詞",
+      "meaning": "栄養摂取、栄養（学）",
+      "nuance": "食べ物を摂取し、体がそれをエネルギーや細胞にする「プロセス全体」を指します。また、バランスの良い食事そのものを指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Poor nutrition can lead to a variety of health problems.",
+              "ja": "栄養不足（悪い栄養状態）は、さまざまな健康問題を引き起こす可能性がある。",
+              "highlight": "nutrition"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 nutrire (養う、授乳する)",
+      "synonyms": [
+        {"word": "nourishment", "trans": "滋養"},
+        {"word": "sustenance", "trans": "持続させるもの、食物"}
+      ],
+      "antonyms": [
+        {"word": "malnutrition", "trans": "栄養失調"}
+      ],
+      "related": [
+        {"word": "nurse", "trans": "名詞：看護師（もとは乳母）"},
+        {"word": "nurture", "trans": "動詞：育てる"}
+      ]
+    },
+    {
+      "number": 581,
+      "word": "nutrient",
+      "pos": "名詞",
+      "meaning": "栄養素、栄養分",
+      "nuance": "タンパク質、ビタミン、ミネラルなど、食物に含まれる個々の「成分」を指します。科学的な文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Plants absorb nutrients from the soil.",
+              "ja": "植物は土壌から栄養分を吸収する。",
+              "highlight": "nutrients"
+            }
+          ]
+        }
+      ],
+      "etymology": "nutri (養う) + ent (〜するもの)",
+      "synonyms": [
+        {"word": "ingredient", "trans": "成分"},
+        {"word": "nourishment", "trans": "滋養分"}
+      ],
+      "antonyms": [
+        {"word": "toxin", "trans": "毒素"},
+        {"word": "pollutant", "trans": "汚染物質"}
+      ],
+      "related": [
+        {"word": "nutritional", "trans": "形容詞：栄養上の"}
+      ]
+    },
+    {
+      "number": 582,
+      "word": "disparity",
+      "pos": "名詞",
+      "meaning": "（不均衡な）格差、相違、不一致",
+      "nuance": "単なる違い（difference）ではなく、収入、教育、権利などが「不公平に、あるいは極端に離れている」というネガティブなニュアンスを含みます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is a huge economic disparity between the rich and the poor.",
+              "ja": "富裕層と貧困層の間には巨大な経済的格差がある。",
+              "highlight": "disparity"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + par (等しい) + ity (名詞語尾) <br>→ 等しくないこと",
+      "synonyms": [
+        {"word": "inequality", "trans": "不平等"},
+        {"word": "gap", "trans": "溝、格差"},
+        {"word": "imbalance", "trans": "不均衡"}
+      ],
+      "antonyms": [
+        {"word": "parity", "trans": "同等、均等"},
+        {"word": "equality", "trans": "平等"},
+        {"word": "similarity", "trans": "類似"}
+      ],
+      "related": [
+        {"word": "disparate", "trans": "形容詞：共通点のない"}
+      ]
+    },
+    {
+      "number": "582-2",
+      "word": "parity",
+      "pos": "名詞",
+      "meaning": "同等、均等、一致",
+      "nuance": "価値、地位、力などが、他のものと同じレベル（対等）であることを指します。経済や通貨の価値、あるいはスポーツのチーム間の実力差がない状態などで使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The goal is to achieve gender parity in the workplace.",
+              "ja": "目標は、職場における男女の均等（同等性）を達成することだ。",
+              "highlight": "parity"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 par (等しい) <br>→ 同じレベルであること",
+      "synonyms": [
+        {"word": "equality", "trans": "平等"},
+        {"word": "equivalence", "trans": "同等"},
+        {"word": "uniformity", "trans": "均一性"}
+      ],
+      "antonyms": [
+        {"word": "disparity", "trans": "格差"},
+        {"word": "inequality", "trans": "不平等"}
+      ],
+      "related": [
+        {"word": "compare", "trans": "動詞：比較する（並べて等しいか見る）"}
+      ]
+    },
+    {
+      "number": 583,
+      "word": "healthful",
+      "pos": "形容詞",
+      "meaning": "健康に良い、健康を増進させる",
+      "nuance": "healthyが「（人などが）健康な状態である」ことを指すのに対し、healthfulは「（食べ物や環境などが）人を健康にする性質を持っている」という外的な要因を指すことが多いです（現在はhealthyで代用されることも多い）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Regular exercise and a healthful diet are essential.",
+              "ja": "定期的な運動と健康に良い食生活は不可欠だ。",
+              "highlight": "healthful"
+            }
+          ]
+        }
+      ],
+      "etymology": "health + ful (〜に満ちた) <br>→ 健康を与える",
+      "synonyms": [
+        {"word": "wholesome", "trans": "健康に良い、健全な"},
+        {"word": "salubrious", "trans": "（気候などが）健康に良い"},
+        {"word": "beneficial", "trans": "有益な"}
+      ],
+      "antonyms": [
+        {"word": "unhealthy", "trans": "不健康な"},
+        {"word": "harmful", "trans": "有害な"},
+        {"word": "detrimental", "trans": "損害を与える"}
+      ],
+      "related": [
+        {"word": "health", "trans": "名詞：健康"}
+      ]
+    },
+    {
+      "number": 584,
+      "word": "dietary",
+      "pos": "形容詞",
+      "meaning": "食事の、規定食の",
+      "nuance": "日常の食事内容や、アレルギー、宗教、健康上の理由による「食事制限・規定」に関連することを指します。「dietary fiber（食物繊維）」や「dietary restrictions（食事制限）」といった表現で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Do you have any dietary requirements?",
+              "ja": "（アレルギーなどの）食事制限やご要望はありますか？",
+              "highlight": "dietary"
+            }
+          ]
+        }
+      ],
+      "etymology": "diet + ary (形容詞語尾)",
+      "synonyms": [
+        {"word": "nutritional", "trans": "栄養上の"},
+        {"word": "alimentary", "trans": "食物の、消化の"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "diet", "trans": "名詞：食事、規定食"}
+      ]
+    },
+    {
+      "number": "584-2",
+      "word": "diet",
+      "pos": "名詞、動詞",
+      "meaning": "（日常の）食事、規定食、ダイエット、国会（日本など）",
+      "nuance": "日本語の「ダイエット（痩身）」の意味もありますが、英語では本来「日々の食事のあり方」そのものを指します。また「the Diet」で日本や北欧の「国会」を指す固有の名詞になります。",
+      "example_sections": [
+        {
+          "title": "例文（食事）",
+          "examples": [
+            {
+              "en": "A balanced diet is key to a long life.",
+              "ja": "バランスの取れた食事が長寿の鍵だ。",
+              "highlight": "diet"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 diaita (生活様式、生き方)",
+      "synonyms": [
+        {"word": "food", "trans": "食べ物"},
+        {"word": "fare", "trans": "料理、食事内容"},
+        {"word": "parliament", "trans": "議会（英国など）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "dietician", "trans": "名詞：栄養士"}
+      ]
+    },
+    {
+      "number": 585,
+      "word": "tag",
+      "pos": "名詞、動詞",
+      "meaning": "荷札、付け札、鬼ごっこ、〜に札をつける、タグ付けする",
+      "nuance": "物を確認・識別するために付ける小さな札です。現代ではSNSの「タグ付け」や、ITの「メタデータ」を指すことが多いです。また、子供の遊びの「鬼ごっこ」も英語ではtagと言います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The price tag was missing from the shirt.",
+              "ja": "そのシャツには値札がついていなかった。",
+              "highlight": "tag"
+            },
+            {
+              "en": "Please tag me in the photo.",
+              "ja": "その写真に私をタグ付けしてください。",
+              "highlight": "tag"
+            }
+          ]
+        }
+      ],
+      "etymology": "不詳（紐の端、付け札を意味する語から）",
+      "synonyms": [
+        {"word": "label", "trans": "ラベル"},
+        {"word": "ticket", "trans": "切符、札"},
+        {"word": "mark", "trans": "印"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 586,
+      "word": "label",
+      "pos": "名詞、動詞",
+      "meaning": "ラベル、はり紙、分類、〜にラベルをはる、〜を（…だと）決めつける",
+      "nuance": "容器に中身を記した紙を貼ることだけでなく、人に対して「彼は怠け者だ」のように一方的な評価を下して「レッテルを貼る」という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Always read the label before taking medicine.",
+              "ja": "薬を飲む前には必ずラベルを読みなさい。",
+              "highlight": "label"
+            },
+            {
+              "en": "He was labeled as a troublemaker.",
+              "ja": "彼はトラブルメーカーだというレッテルを貼られた。",
+              "highlight": "labeled"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期フランス語 (帯、細長い布片)",
+      "synonyms": [
+        {"word": "tag", "trans": "タグ"},
+        {"word": "categorize", "trans": "分類する"},
+        {"word": "brand", "trans": "銘柄、烙印を押す"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 587,
+      "word": "socioeconomic",
+      "pos": "形容詞",
+      "meaning": "社会経済的な",
+      "nuance": "「社会（social）」と「経済（economic）」の2つの要素を組み合わせた概念です。家庭の収入、教育水準、職業などが合わさった「社会的な立ち位置」を分析する際によく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The study looks at the socioeconomic factors affecting health.",
+              "ja": "その研究は、健康に影響を与える社会経済的要因を調査している。",
+              "highlight": "socioeconomic"
+            }
+          ]
+        }
+      ],
+      "etymology": "socio (社会の) + economic (経済の)",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        {"word": "sociology", "trans": "名詞：社会学"},
+        {"word": "economy", "trans": "名詞：経済"}
+      ]
+    }
+  ]
+}
