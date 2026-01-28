@@ -375,6 +375,410 @@
         {"word": "sociology", "trans": "名詞：社会学"},
         {"word": "economy", "trans": "名詞：経済"}
       ]
+    },
+    {
+      "number": 588,
+      "word": "disapprove",
+      "pos": "動詞",
+      "meaning": "賛成しない、不承認とする、非とする",
+      "nuance": "単に賛成しないだけでなく、「それは良くないことだ」という道徳的・公的な批判や、承認を与えないというニュアンスを含みます。しばしば「disapprove of (someone/something)」の形で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Her parents strongly disapprove of her smoking.",
+              "ja": "彼女の両親は、彼女の喫煙を強く快く思っていない（反対している）。",
+              "highlight": "disapprove"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (反対) + approve (賛成する) <br>→ 賛成の反対、認めない",
+      "synonyms": [
+        {"word": "object to", "trans": "反対する"},
+        {"word": "condemn", "trans": "非難する"},
+        {"word": "reject", "trans": "拒絶する"}
+      ],
+      "antonyms": [
+        {"word": "approve", "trans": "賛成する"},
+        {"word": "support", "trans": "支持する"},
+        {"word": "endorse", "trans": "是認する"}
+      ],
+      "related": [
+        {"word": "disapproval", "trans": "名詞：不賛成"}
+      ]
+    },
+    {
+      "number": "588-2",
+      "word": "disapproval",
+      "pos": "名詞",
+      "meaning": "不賛成、不承認、非難",
+      "nuance": "何かが正しくない、あるいは気に入らないという感情や、公式な拒否の態度を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He shook his head in disapproval.",
+              "ja": "彼は不賛成の意を示して首を横に振った。",
+              "highlight": "disapproval"
+            }
+          ]
+        }
+      ],
+      "etymology": "disapproveの名詞形",
+      "synonyms": [
+        {"word": "objection", "trans": "反対"},
+        {"word": "criticism", "trans": "批判"},
+        {"word": "disfavour", "trans": "不興、不賛成"}
+      ],
+      "antonyms": [
+        {"word": "approval", "trans": "賛成"},
+        {"word": "agreement", "trans": "同意"},
+        {"word": "sanction", "trans": "認可"}
+      ],
+      "related": [
+        {"word": "disapprove", "trans": "動詞：賛成しない"}
+      ]
+    },
+    {
+      "number": 589,
+      "word": "dishonesty",
+      "pos": "名詞",
+      "meaning": "不誠実、不正、不正直",
+      "nuance": "嘘をついたり、人を騙したり、不正な手段を使ったりする性質や行為そのものを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was fired for his dishonesty regarding the company funds.",
+              "ja": "彼は会社の資金に関する不正（不誠実な行為）により解雇された。",
+              "highlight": "dishonesty"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + honesty (正直)",
+      "synonyms": [
+        {"word": "deceit", "trans": "詐欺、虚偽"},
+        {"word": "fraud", "trans": "不正、詐欺"},
+        {"word": "corruption", "trans": "汚職、不徳"}
+      ],
+      "antonyms": [
+        {"word": "honesty", "trans": "正直"},
+        {"word": "integrity", "trans": "誠実、高潔"},
+        {"word": "truthfulness", "trans": "真実であること"}
+      ],
+      "related": [
+        {"word": "dishonest", "trans": "形容詞：不誠実な"}
+      ]
+    },
+    {
+      "number": 590,
+      "word": "disobedient",
+      "pos": "形容詞",
+      "meaning": "従順でない、従わない、反抗的な",
+      "nuance": "ルールや親、上司などの命令に従おうとしない様子を指します。特に子供の行儀の悪さや、規律を守らない態度について使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The disobedient child refused to go to bed.",
+              "ja": "その言うことを聞かない（反抗的な）子供は、寝るのを拒んだ。",
+              "highlight": "disobedient"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + obedient (従順な)",
+      "synonyms": [
+        {"word": "rebellious", "trans": "反抗的な"},
+        {"word": "defiant", "trans": "挑戦的な、従わない"},
+        {"word": "unruly", "trans": "手に負えない"}
+      ],
+      "antonyms": [
+        {"word": "obedient", "trans": "従順な"},
+        {"word": "compliant", "trans": "順応する"},
+        {"word": "submissive", "trans": "服従する"}
+      ],
+      "related": [
+        {"word": "disobey", "trans": "動詞：従わない"},
+        {"word": "obedience", "trans": "名詞：服従"}
+      ]
+    },
+    {
+      "number": 591,
+      "word": "displeasure",
+      "pos": "名詞",
+      "meaning": "不快、不満、不機嫌",
+      "nuance": "何かに満足していなかったり、腹を立てていたりする状態を指す、やや硬い表現です。「不快感を示す」という文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The manager expressed her displeasure at the slow progress.",
+              "ja": "部長は、進捗の遅さに対して不快感（不満）を表明した。",
+              "highlight": "displeasure"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + pleasure (喜び)",
+      "synonyms": [
+        {"word": "annoyance", "trans": "苛立ち"},
+        {"word": "dissatisfaction", "trans": "不満"},
+        {"word": "irritation", "trans": "焦燥、苛立ち"}
+      ],
+      "antonyms": [
+        {"word": "pleasure", "trans": "喜び"},
+        {"word": "satisfaction", "trans": "満足"},
+        {"word": "delight", "trans": "歓喜"}
+      ],
+      "related": [
+        {"word": "displease", "trans": "動詞：不快にさせる"}
+      ]
+    },
+    {
+      "number": 592,
+      "word": "disregard",
+      "pos": "動詞、名詞",
+      "meaning": "無視する、軽視する、無視、軽視",
+      "nuance": "注意を払うべきこと（ルール、警告、他人の感情など）を、意図的に「無視して扱う」ことを指します。不注意によるものより、軽んじているというニュアンスが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He disregarded the safety warnings and entered the building.",
+              "ja": "彼は安全警告を無視して建物に入った。",
+              "highlight": "disregarded"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + regard (注視する、考慮する)",
+      "synonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "neglect", "trans": "怠る、疎かにする"},
+        {"word": "overlook", "trans": "見逃す"}
+      ],
+      "antonyms": [
+        {"word": "heed", "trans": "注意を払う"},
+        {"word": "respect", "trans": "尊重する"},
+        {"word": "consider", "trans": "考慮する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 593,
+      "word": "dissatisfied",
+      "pos": "形容詞",
+      "meaning": "不満な、満足していない",
+      "nuance": "期待していたレベルに達していないことに対して、不満を感じている状態を指します。「be dissatisfied with (something)」という形で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Many customers were dissatisfied with the service.",
+              "ja": "多くの顧客がそのサービスに不満を抱いていた。",
+              "highlight": "dissatisfied"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + satisfied (満足した)",
+      "synonyms": [
+        {"word": "unhappy", "trans": "満足していない"},
+        {"word": "discontented", "trans": "不平のある"},
+        {"word": "frustrated", "trans": "欲求不満の"}
+      ],
+      "antonyms": [
+        {"word": "satisfied", "trans": "満足した"},
+        {"word": "content", "trans": "甘んじている、満足している"}
+      ],
+      "related": [
+        {"word": "satisfy", "trans": "動詞：満足させる"},
+        {"word": "dissatisfaction", "trans": "名詞：不満"}
+      ]
+    },
+    {
+      "number": "593-2",
+      "word": "discharge",
+      "pos": "動詞、名詞",
+      "meaning": "（職務を）果たす、解雇する、放出する、退院させる、放出",
+      "nuance": "何かを「外に出す」ことが基本イメージです。兵役や仕事からの解放（退役、解雇）、病院からの退院、ガスや汚水の放出、そして任務の遂行（重荷を下ろす）など、多岐にわたる意味があります。",
+      "example_sections": [
+        {
+          "title": "例文（任務）",
+          "examples": [
+            {
+              "en": "He discharged his duties with great care.",
+              "ja": "彼は細心の注意を払って任務を遂行した。",
+              "highlight": "discharged"
+            }
+          ]
+        },
+        {
+          "title": "例文（放出・解雇）",
+          "examples": [
+            {
+              "en": "The factory was found to be discharging toxic waste.",
+              "ja": "その工場は有害廃棄物を放出していることが判明した。",
+              "highlight": "discharging"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (取り除く) + charge (荷、負担) <br>→ 負担を取り除く = 放出・解放する",
+      "synonyms": [
+        {"word": "release", "trans": "放免する、放つ"},
+        {"word": "dismiss", "trans": "解雇する"},
+        {"word": "emit", "trans": "（光や音などを）放つ"}
+      ],
+      "antonyms": [
+        {"word": "hire", "trans": "雇う"},
+        {"word": "admit", "trans": "（病院などに）入れる、認める"},
+        {"word": "absorb", "trans": "吸収する"}
+      ],
+      "related": [
+        {"word": "charge", "trans": "名詞/動詞：負担、充電、請求"}
+      ]
+    },
+    {
+      "number": "593-3",
+      "word": "disclose",
+      "pos": "動詞",
+      "meaning": "暴露する、公表する、明らかにする",
+      "nuance": "隠されていたこと、秘密にされていたことを、包み（close）を解くように（dis）人々に「見える状態」にすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company failed to disclose its financial problems.",
+              "ja": "その会社は自社の財政問題を公表しなかった（隠していた）。",
+              "highlight": "disclose"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (反対) + close (閉じる) <br>→ 閉じているものを開ける",
+      "synonyms": [
+        {"word": "reveal", "trans": "明らかにする"},
+        {"word": "unveil", "trans": "（ベールを脱ぐように）公開する"},
+        {"word": "divulge", "trans": "（秘密を）漏らす"}
+      ],
+      "antonyms": [
+        {"word": "conceal", "trans": "隠す"},
+        {"word": "hide", "trans": "隠す"},
+        {"word": "suppress", "trans": "隠蔽する、抑える"}
+      ],
+      "related": [
+        {"word": "disclosure", "trans": "名詞：開示"},
+        {"word": "enclosure", "trans": "名詞：囲い込み、同封物"}
+      ]
+    },
+    {
+      "number": "593-4",
+      "word": "disclosure",
+      "pos": "名詞",
+      "meaning": "開示、暴露、発表された事実",
+      "nuance": "情報を公開する「行為」そのものや、公開された「内容」を指します。「Full disclosure（全情報の開示、ありのままを話すこと）」というフレーズがよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Recent disclosures have damaged the politician's reputation.",
+              "ja": "最近の（情報の）暴露は、その政治家の評判を傷つけた。",
+              "highlight": "disclosures"
+            }
+          ]
+        }
+      ],
+      "etymology": "discloseの名詞形",
+      "synonyms": [
+        {"word": "revelation", "trans": "新事実、暴露"},
+        {"word": "announcement", "trans": "発表"},
+        {"word": "exposure", "trans": "さらすこと、暴露"}
+      ],
+      "antonyms": [
+        {"word": "secrecy", "trans": "秘密厳守"},
+        {"word": "concealment", "trans": "隠蔽"}
+      ],
+      "related": [
+        {"word": "disclose", "trans": "動詞：暴露する"}
+      ]
+    },
+    {
+      "number": "593-5",
+      "word": "discord",
+      "pos": "名詞",
+      "meaning": "不一致、不和、不協和音",
+      "nuance": "人々の間の意見の食い違いや、仲の悪さを指します。また、音楽において調和していない音（不協和音）のことも指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The new policy caused discord within the committee.",
+              "ja": "新しい方針は委員会内に不和（意見の対立）を引き起こした。",
+              "highlight": "discord"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + cord (心) <br>→ 心が離れていること",
+      "synonyms": [
+        {"word": "conflict", "trans": "衝突、争い"},
+        {"word": "disagreement", "trans": "不一致"},
+        {"word": "strife", "trans": "争い、闘争"}
+      ],
+      "antonyms": [
+        {"word": "harmony", "trans": "調和"},
+        {"word": "concord", "trans": "一致"},
+        {"word": "unity", "trans": "結束"}
+      ],
+      "related": [
+        {"word": "cordial", "trans": "形容詞：心からの、温かい"}
+      ]
+    },
+    {
+      "number": "593-6",
+      "word": "displace",
+      "pos": "動詞",
+      "meaning": "〜に取って代わる、置き換える、（故郷から）追い出す",
+      "nuance": "本来あった場所から何かを「押し出す」イメージです。新しい技術が古いものに取って代わる場合や、戦争などで人々が住む場所を追われる（displaced people：避難民）場合に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "AI may displace workers in certain industries.",
+              "ja": "AIが特定の産業において労働者に取って代わるかもしれない。",
+              "highlight": "displace"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + place (場所) <br>→ 場所を移す",
+      "synonyms": [
+        {"word": "replace", "trans": "取って代わる"},
+        {"word": "supersede", "trans": "（より優れたものが）取って代わる"},
+        {"word": "uproot", "trans": "根こそぎにする、追い出す"}
+      ],
+      "antonyms": [
+        {"word": "reinstate", "trans": "復職させる、元の状態に戻す"},
+        {"word": "settle", "trans": "定住させる"}
+      ],
+      "related": [
+        {"word": "displacement", "trans": "名詞：置換、強制移住"}
+      ]
     }
   ]
 }
