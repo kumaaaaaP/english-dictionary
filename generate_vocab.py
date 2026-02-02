@@ -33,7 +33,15 @@ HTML_TEMPLATE_MAIN = """<!DOCTYPE html>
         .section-title {{ font-size: 1.1rem; font-weight: bold; color: var(--primary-color); margin-top: 25px; margin-bottom: 10px; display: flex; align-items: center; }}
         .section-title::before {{ content: ""; display: inline-block; width: 4px; height: 18px; background: var(--primary-color); margin-right: 10px; border-radius: 2px; }}
         
-        .meaning-jp {{ font-size: 1.5rem; font-weight: bold; display: inline-block; margin-bottom: 10px; padding: 5px 0; border-bottom: 3px solid #ffecb3; }}
+        .meaning-jp {{ 
+            font-size: 1.5rem; 
+            font-weight: bold; 
+            display: block;
+            margin-bottom: 15px; 
+            padding: 10px 0;
+            color: var(--text-main);
+            background: transparent;
+        }}
         .nuance-box {{ background: var(--accent-color); padding: 15px; border-radius: 8px; font-size: 0.95rem; border: 1px dashed var(--primary-color); }}
 
         /* 例文 */
@@ -71,7 +79,7 @@ HTML_TEMPLATE_MAIN = """<!DOCTYPE html>
         <div class="section-title">主な意味</div>
         <div class="meaning-jp">{meaning}</div>
         <div class="nuance-box">
-            <strong>ニュアンス：</strong> {nuance}
+            <strong>ニュアンス:</strong> {nuance}
         </div>
 
 {examples_sections}
@@ -128,7 +136,15 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
         .section-title {{ font-size: 1.1rem; font-weight: bold; color: var(--primary-color); margin-top: 25px; margin-bottom: 10px; display: flex; align-items: center; }}
         .section-title::before {{ content: ""; display: inline-block; width: 4px; height: 18px; background: var(--primary-color); margin-right: 10px; border-radius: 2px; }}
         
-        .meaning-jp {{ font-size: 1.5rem; font-weight: bold; display: inline-block; margin-bottom: 10px; padding: 5px 0; border-bottom: 3px solid #d4edda; }}
+        .meaning-jp {{ 
+            font-size: 1.5rem; 
+            font-weight: bold; 
+            display: block;
+            margin-bottom: 15px; 
+            padding: 10px 0;
+            color: var(--text-main);
+            background: transparent;
+        }}
         .nuance-box {{ background: var(--accent-color); padding: 15px; border-radius: 8px; font-size: 0.95rem; border: 1px dashed var(--primary-color); }}
 
         /* 例文 */
@@ -166,7 +182,7 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
         <div class="section-title">意味</div>
         <div class="meaning-jp">{meaning}</div>
         <div class="nuance-box">
-            <strong>ニュアンス：</strong> {nuance}
+            <strong>ニュアンス:</strong> {nuance}
         </div>
 
 {examples_sections}
