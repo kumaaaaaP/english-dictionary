@@ -497,6 +497,7 @@
 <script>
     // Lazy Loading機能
     const ITEMS_PER_PAGE = 50; // 一度に表示する単語数
+    const CHAPTER_LOAD_RANGE = 50; // 章ジャンプ時に前後何件読み込むか
     let currentlyVisible = ITEMS_PER_PAGE;
     const wordList = document.getElementById('wordList');
     const allItems = Array.from(wordList.children).filter(item => 
@@ -531,6 +532,64 @@
         currentlyVisible += ITEMS_PER_PAGE;
         loadingIndicator.style.display = 'none';
     }
+    
+    // 章リンククリック時の処理
+    function loadChapterAndScroll(event, chapterId) {
+        event.preventDefault();
+        
+        // 章ヘッダーを取得
+        const chapterHeader = document.getElementById(chapterId);
+        if (!chapterHeader) return;
+        
+        // 章ヘッダーの位置（全体リストでのインデックス）を探す
+        const allListItems = Array.from(wordList.children);
+        const chapterIndex = allListItems.indexOf(chapterHeader);
+        
+        if (chapterIndex === -1) return;
+        
+        // 章の後ろにある単語アイテムのインデックスを計算
+        let firstWordIndex = -1;
+        for (let i = 0; i < allItems.length; i++) {
+            const itemInList = allListItems.indexOf(allItems[i]);
+            if (itemInList > chapterIndex) {
+                firstWordIndex = i;
+                break;
+            }
+        }
+        
+        if (firstWordIndex === -1) return;
+        
+        // 前後50件の範囲を計算
+        const startIndex = Math.max(0, firstWordIndex - CHAPTER_LOAD_RANGE);
+        const endIndex = Math.min(allItems.length, firstWordIndex + CHAPTER_LOAD_RANGE);
+        
+        // 該当範囲を表示
+        allItems.forEach((item, index) => {
+            if (index >= startIndex && index < endIndex) {
+                item.classList.remove('hidden');
+            }
+        });
+        
+        // currentlyVisibleを更新（最大値に設定）
+        currentlyVisible = Math.max(currentlyVisible, endIndex);
+        
+        // スクロール
+        setTimeout(() => {
+            chapterHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 50);
+    }
+    
+    // 目次リンクにイベントリスナーを追加
+    document.addEventListener('DOMContentLoaded', () => {
+        const tocLinks = document.querySelectorAll('.toc-links a');
+        tocLinks.forEach(link => {
+            link.addEventListener('click', (event) => {
+                const href = link.getAttribute('href');
+                const chapterId = href.substring(1); // #を除去
+                loadChapterAndScroll(event, chapterId);
+            });
+        });
+    });
     
     // スクロールイベント
     let isLoading = false;
