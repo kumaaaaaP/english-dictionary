@@ -7,70 +7,100 @@
     <!-- MathJax for rendering LaTeX equations -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #000;
+            max-width: 750px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .container {
+            background-color: #fff;
+            padding: 10px;
+        }
+        h1 {
+            font-size: 1.2rem;
+            margin-top: 30px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .figure {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .math-block {
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
 </head>
 <body>
 
-<div>
-    <h2>[5] (2)</h2>
-    <p>
-        \(\angle \mathrm{PQR} = \theta\) とおくと、\(\theta\) の範囲は \(0 < \theta < \frac{\pi}{2}\) で、
-    </p>
-    
-    \[
-    \begin{aligned}
-    \frac{\mathrm{PQ} + a \mathrm{PR}}{\mathrm{QR}} &= \cos \theta + a \sin \theta \\
-    &= \sqrt{1+a^2} \sin (\theta + \alpha)
-    \end{aligned}
-    \]
+<div class="container">
+    <div class="section">
+        <h1>[5] (2)</h1>
+        <p>
+            \(\angle \mathrm{PQR} = \theta\) とおくと、\(\theta\) の範囲は \(0 < \theta < \frac{\pi}{2}\) で、
+        </p>
+        <div class="math-block">
+            \[
+            \begin{aligned}
+            \frac{\mathrm{PQ} + a \mathrm{PR}}{\mathrm{QR}} &= \cos \theta + a \sin \theta \\
+            &= \sqrt{1+a^2} \sin (\theta + \alpha)
+            \end{aligned}
+            \]
+        </div>
+        <p>ただし \(\alpha\) は下図のように定義する。</p>
+        
+        <div class="figure">
+            <svg width="200" height="120" viewBox="0 0 200 120">
+                <path d="M 40 100 L 160 100 L 160 40 Z" fill="none" stroke="#000" stroke-width="1.5"/>
+                <path d="M 150 100 L 150 90 L 160 90" fill="none" stroke="#000" stroke-width="1"/>
+                <text x="65" y="95" font-size="14" font-family="serif" font-style="italic">α</text>
+                <text x="100" y="115" font-size="14" font-family="serif" font-style="italic" text-anchor="middle">a</text>
+                <text x="170" y="75" font-size="14" font-family="serif" font-style="italic">1</text>
+                <text x="80" y="60" font-size="14" font-family="serif" font-style="italic" transform="rotate(-26, 80, 60)">\(\sqrt{1+a^2}\)</text>
+            </svg>
+        </div>
 
-    <p>ただし \(\alpha\) は下図のように定義する。</p>
-    
-    <!-- SVG representation of the triangle diagram -->
-    <div style="margin: 20px 0;">
-        <svg width="200" height="120" viewBox="0 0 200 120">
-            <path d="M 40 100 L 160 100 L 160 40 Z" fill="none" stroke="black" stroke-width="1"/>
-            <!-- Right angle marker -->
-            <path d="M 150 100 L 150 90 L 160 90" fill="none" stroke="black" stroke-width="1"/>
-            <!-- Labels -->
-            <text x="65" y="95" font-family="serif" font-style="italic">α</text>
-            <text x="100" y="115" font-family="serif" font-style="italic" text-anchor="middle">a</text>
-            <text x="170" y="75" font-family="serif" font-style="italic">1</text>
-            <text x="80" y="60" font-family="serif" font-style="italic" transform="rotate(-26, 80, 60)">\(\sqrt{1+a^2}\)</text>
-        </svg>
+        <p>
+            \(\theta\) は \(0 < \theta < \frac{\pi}{2}\) の範囲で動くから、最大値は \(\sqrt{1+a^2}\)
+        </p>
     </div>
 
-    <p>
-        \(\theta\) は \(0 < \theta < \frac{\pi}{2}\) の範囲で動くから、最大値は \(\sqrt{1+a^2}\)
-    </p>
+    <div class="section">
+        <h1>(3)</h1>
+        <p>
+            \(h(\theta) = \sqrt{1+a^2} \sin (\theta + \alpha)\) とおくと、
+            \[ h'(\theta) = \sqrt{1+a^2} \cos (\theta + \alpha) \]
+        </p>
 
-    <hr>
+            <strong>(i) \(0 < \alpha \leqq \frac{\pi}{4}\) のとき</strong>
+            <p>
+                \[ h(0) < g(t) \leqq \sqrt{a^2+1} \]
+                \(h(0) = 1, g(t) = 2-a\) より、
+                \[ 1 < 2-a \leqq \sqrt{a^2+1} \]
+                これを解いて、 \(a < 1\) かつ \(a \geqq \frac{3}{4}\)
+            </p>
 
-    <h2>(3)</h2>
-    <p>
-        \(h(\theta) = \sqrt{1+a^2} \sin (\theta + \alpha)\) とおくと、
-        \[ h'(\theta) = \sqrt{1+a^2} \cos (\theta + \alpha) \]
-    </p>
+            <strong>(ii) \(\frac{\pi}{4} < \alpha < \frac{\pi}{2}\) のとき</strong>
+            <p>
+                \[ h(\alpha) < g(t) \leqq \sqrt{a^2+1} \]
+                \(h(\alpha) = a, g(t) = 2-a\) より、
+                \[ a < 2-a \leqq \sqrt{a^2+1} \]
+                これを解いて、 \(a < 1\) かつ \(a \geqq \frac{3}{4}\)
+            </p>
 
-    <p><strong>(i) \(0 < \alpha \leqq \frac{\pi}{4}\) のとき</strong></p>
-    <p>
-        \[ h(0) < g(t) \leqq \sqrt{a^2+1} \]
-        \(h(0) = 1, g(t) = 2-a\) より、
-        \[ 1 < 2-a \leqq \sqrt{a^2+1} \]
-        これを解いて、 \(a < 1\) かつ \(a \geqq \frac{3}{4}\)
-    </p>
-
-    <p><strong>(ii) \(\frac{\pi}{4} < \alpha < \frac{\pi}{2}\) のとき</strong></p>
-    <p>
-        \[ h(\alpha) < g(t) \leqq \sqrt{a^2+1} \]
-        \(h(\alpha) = a, g(t) = 2-a\) より、
-        \[ a < 2-a \leqq \sqrt{a^2+1} \]
-        これを解いて、 \(a < 1\) かつ \(a \geqq \frac{3}{4}\)
-    </p>
-
-    <p style="margin-top: 30px;">
-        (i), (ii) より、求める \(a\) の範囲は<br>
-        \[ \frac{3}{4} \leqq a < 1 \]
-    </p>
+            (i), (ii) より、求める \(a\) の範囲は<br>
+            \[ \frac{3}{4} \leqq a < 1 \]
+    </div>
 </div>
 
 </body>
