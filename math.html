@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数学解答記述</title>
+    <!-- MathJax for rendering LaTeX equations -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+
+<div>
+    <h2>[5] (2)</h2>
+    <p>
+        \(\angle \mathrm{PQR} = \theta\) とおくと、\(\theta\) の範囲は \(0 < \theta < \frac{\pi}{2}\) で、
+    </p>
+    
+    \[
+    \begin{aligned}
+    \frac{\mathrm{PQ} + a \mathrm{PR}}{\mathrm{QR}} &= \cos \theta + a \sin \theta \\
+    &= \sqrt{1+a^2} \sin (\theta + \alpha)
+    \end{aligned}
+    \]
+
+    <p>ただし \(\alpha\) は下図のように定義する。</p>
+    
+    <!-- SVG representation of the triangle diagram -->
+    <div style="margin: 20px 0;">
+        <svg width="200" height="120" viewBox="0 0 200 120">
+            <path d="M 40 100 L 160 100 L 160 40 Z" fill="none" stroke="black" stroke-width="1"/>
+            <!-- Right angle marker -->
+            <path d="M 150 100 L 150 90 L 160 90" fill="none" stroke="black" stroke-width="1"/>
+            <!-- Labels -->
+            <text x="65" y="95" font-family="serif" font-style="italic">α</text>
+            <text x="100" y="115" font-family="serif" font-style="italic" text-anchor="middle">a</text>
+            <text x="170" y="75" font-family="serif" font-style="italic">1</text>
+            <text x="80" y="60" font-family="serif" font-style="italic" transform="rotate(-26, 80, 60)">\(\sqrt{1+a^2}\)</text>
+        </svg>
+    </div>
+
+    <p>
+        \(\theta\) は \(0 < \theta < \frac{\pi}{2}\) の範囲で動くから、最大値は \(\sqrt{1+a^2}\)
+    </p>
+
+    <hr>
+
+    <h2>(3)</h2>
+    <p>
+        \(h(\theta) = \sqrt{1+a^2} \sin (\theta + \alpha)\) とおくと、
+        \[ h'(\theta) = \sqrt{1+a^2} \cos (\theta + \alpha) \]
+    </p>
+
+    <p><strong>(i) \(0 < \alpha \leqq \frac{\pi}{4}\) のとき</strong></p>
+    <p>
+        \[ h(0) < g(t) \leqq \sqrt{a^2+1} \]
+        \(h(0) = 1, g(t) = 2-a\) より、
+        \[ 1 < 2-a \leqq \sqrt{a^2+1} \]
+        これを解いて、 \(a < 1\) かつ \(a \geqq \frac{3}{4}\)
+    </p>
+
+    <p><strong>(ii) \(\frac{\pi}{4} < \alpha < \frac{\pi}{2}\) のとき</strong></p>
+    <p>
+        \[ h(\alpha) < g(t) \leqq \sqrt{a^2+1} \]
+        \(h(\alpha) = a, g(t) = 2-a\) より、
+        \[ a < 2-a \leqq \sqrt{a^2+1} \]
+        これを解いて、 \(a < 1\) かつ \(a \geqq \frac{3}{4}\)
+    </p>
+
+    <p style="margin-top: 30px;">
+        (i), (ii) より、求める \(a\) の範囲は<br>
+        \[ \frac{3}{4} \leqq a < 1 \]
+    </p>
+</div>
+
+</body>
+</html>
