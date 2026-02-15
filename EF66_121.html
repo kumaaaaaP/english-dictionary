@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EF66 121 - 車両情報</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-section {
+            margin-bottom: 30px;
+        }
+
+        .highlight-label {
+            display: inline-block;
+            background-color: #ffff99;
+            padding: 8px 15px;
+            font-size: 1.25em;
+            font-weight: bold;
+            margin-bottom: 10px;
+            border-radius: 4px;
+        }
+
+        .date-info {
+            margin-left: 15px;
+            margin-bottom: 20px;
+            color: #555;
+        }
+
+        .photo-section {
+            margin: 30px 0;
+        }
+
+        .photo-table {
+            width: 100%;
+            border-collapse: collapse;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+        }
+
+        .photo-table td,
+        .photo-table th {
+            border: 1px solid #ddd;
+            padding: 12px;
+        }
+
+        .photo-table th {
+            background-color: #f8f8f8;
+            font-weight: bold;
+            width: 120px;
+            text-align: left;
+        }
+
+        .photo-table img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 4px;
+            transition: transform 0.3s ease;
+        }
+
+        .photo-table img:hover {
+            transform: scale(1.02);
+        }
+
+        .photo-table a {
+            display: block;
+            text-decoration: none;
+        }
+
+        .roster-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+            border: 1px solid #ddd;
+        }
+
+        .roster-table caption {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: #4a90e2;
+            color: white;
+            border-radius: 4px 4px 0 0;
+        }
+
+        .roster-table th {
+            background-color: #f2f2f2;
+            padding: 12px;
+            font-weight: bold;
+            border: 1px solid #ddd;
+        }
+
+        .roster-table td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+            transition: background-color 0.2s ease;
+        }
+
+        .roster-table td:hover {
+            background-color: #f9f9f9;
+        }
+
+        .roster-table td a {
+            color: #4a90e2;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .roster-table td a:hover {
+            text-decoration: underline;
+        }
+
+        .retired {
+            background-color: #e0e0e0;
+            color: #666;
+        }
+
+        .current {
+            background-color: #fff3a0;
+            font-weight: bold;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 15px;
+            }
+
+            .highlight-label {
+                font-size: 1.1em;
+            }
+
+            .photo-table th {
+                width: 100px;
+                font-size: 0.9em;
+            }
+
+            .roster-table {
+                font-size: 0.85em;
+            }
+
+            .roster-table td {
+                padding: 6px 4px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header-section">
+            <span class="highlight-label">広島新製配置</span>
+            <div class="date-info">1990年10月18日(川重・富士)</div>
+
+            <span class="highlight-label">吹田転属</span>
+            <div class="date-info">1996年3月16日</div>
+        </div>
+
+        <div class="photo-section">
+            <table class="photo-table">
+                <tbody>
+                    <tr>
+                        <td colspan="2">
+                            <a href="https://livedoor.blogimg.jp/kumapphoto/imgs/f/6/f61c0045.jpg" 
+                               title="IMG_20250329_6812" 
+                               target="_blank">
+                                <img src="https://livedoor.blogimg.jp/kumapphoto/imgs/f/6/f61c0045-s.jpg" 
+                                     alt="IMG_20250329_6812">
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>撮影日</th>
+                        <td>2025年3月29日</td>
+                    </tr>
+                    <tr>
+                        <th>列車番号</th>
+                        <td>8865レ</td>
+                    </tr>
+                    <tr>
+                        <th>撮影地</th>
+                        <td>南草津〜瀬田</td>
+                    </tr>
+                    <tr>
+                        <th>備考</th>
+                        <td>EF64 1033ムド</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <table class="roster-table">
+            <caption>吹田EF66</caption>
+            <tbody>
+                <tr>
+                    <th colspan="8">EF66 100番台</th>
+                </tr>
+                <tr>
+                    <td class="retired">101</td>
+                    <td class="retired">102</td>
+                    <td class="retired">103</td>
+                    <td class="retired">104</td>
+                    <td class="retired">105</td>
+                    <td class="retired">106</td>
+                    <td class="retired">107</td>
+                    <td class="retired">108</td>
+                </tr>
+                <tr>
+                    <td class="retired">109</td>
+                    <td>110</td>
+                    <td class="retired">111</td>
+                    <td class="retired">112</td>
+                    <td class="retired">113</td>
+                    <td class="retired">114</td>
+                    <td class="retired">115</td>
+                    <td class="retired">116</td>
+                </tr>
+                <tr>
+                    <td>117</td>
+                    <td>118</td>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_119.html" target="_blank">119</a></td>
+                    <td class="retired">120</td>
+                    <td class="current">121</td>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_122.html">122</a></td>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_123.html">123</a></td>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_124.html">124</a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_125.html">125</a></td>
+                    <td>126</td>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_127.html">127</a></td>
+                    <td>128</td>
+                    <td>129</td>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_130.html">130</a></td>
+                    <td><a href="https://kumaphoto.doorblog.jp/archives/EF66_131.html" target="_blank">131</a></td>
+                    <td class="retired">132</td>
+                </tr>
+                <tr>
+                    <td class="retired">133</td>
+                    <td colspan="7"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
