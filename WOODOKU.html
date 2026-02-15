@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WOODOKU - ブロック回転機能付き</title>
+    <style>
+        /* CSSスタイル */
+        body {
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #e8e0d4; /* 落ち着いた背景 */
+            padding: 20px;
+            margin: 0;
+            color: #3e2723; /* 濃い茶色のテキスト */
+            user-select: none; /* タッチデバイスでの選択防止 */
+        }
+        
+        h1 {
+            color: #6b4c3e;
+            margin-bottom: 20px;
+            font-size: 2.5rem;
+            font-weight: 800;
+        }
+
+        #game-info {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 400px;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        #game-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        #board {
+            display: grid;
+            /* モバイル対応のため、vwと固定値で最大幅を制御 */
+            grid-template-columns: repeat(9, min(4.5vw, 40px));
+            grid-template-rows: repeat(9, min(4.5vw, 40px));
+            gap: 1px;
+            border: 4px solid #6b4c3e;
+            background-color: #6b4c3e;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+            border-radius: 8px;
+        }
+
+        .cell {
+            background-color: #f5e4c6; /* ボードの空きマス */
+            box-sizing: border-box;
+            transition: background-color 0.1s;
+        }
+
+        .cell.filled {
+            background-color: #a07a5c; /* 配置されたブロックのマス */
+            border: 1px solid #795548;
+            border-radius: 2px;
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+        }
+
+        /* 3x3ブロックの境界 (見た目として残す) */
+        .cell:nth-child(9n+4), .cell:nth-child(9n+7) {
+            border-left: 2px solid #6b4c3e;
+        }
+        .cell:nth-child(n+19):nth-child(-n+27),
+        .cell:nth-child(n+46):nth-child(-n+54) {
+            border-bottom: 2px solid #6b4c3e;
+        }
+        
+        /* ターゲットセルに配置可能かどうかの視覚的フィードバック（ブロック全体） */
+        .cell.potential-placement {
+            /* ブロックの形全体がハイライトされる */
+            background-color: #c9b499; /* 配置可能なマスのオーバーレイ */
+            box-shadow: 0 0 5px #3e2723;
+        }
+
+        /* 現在のブロック表示エリア */
+        #current-blocks {
+            display: flex;
+            gap: 20px;
+            padding: 15px;
+            background-color: #fff8e1;
+            border: 2px solid #6b4c3e;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+        }
+
+        .block-preview {
+            background-color: #d7c3a0;
+            padding: 8px;
+            cursor: grab;
+            user-select: none;
+            display: inline-block;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: transform 0.1s, opacity 0.1s;
+            touch-action: none; 
+        }
+
+        .block-preview:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .block-preview.dragging {
+            opacity: 0.4; 
+            pointer-events: none; 
+        }
+
+        .block-row {
+            display: flex;
+        }
+
+        .block-cell {
+            width: 25px;
+            height: 25px;
+            background-color: transparent;
+            margin: 1px;
+            box-sizing: border-box;
+        }
+
+        .block-cell.active {
+            background-color: #a07a5c;
+            border: 1px solid #795548;
+            border-radius: 2px;
+        }
+
+        /* ドラッグ中のゴースト要素 */
+        .ghost-block {
+            position: fixed;
+            pointer-events: none; 
+            z-index: 1000;
+            opacity: 0.9;
+            background-color: transparent !important;
+            box-shadow: none !important;
+        }
+        .ghost-block .block-cell.active {
+            background-color: #795548; 
+            border-color: #5d4037;
+        }
+
+
+        #controls {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #6b4c3e;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 700;
+            box-shadow: 0 4px #4e342e;
+            transition: background-color 0.1s, transform 0.1s, box-shadow 0.1s;
+        }
+
+        button:active {
+            box-shadow: 0 2px #4e342e;
+            transform: translateY(2px);
+        }
+
+        #message {
+            margin-top: 15px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #3e2723;
+        }
+
+        /* レスポンシブ対応 */
+        @media (max-width: 600px) {
+            #board {
+                grid-template-columns: repeat(9, 8vw);
+                grid-template-rows: repeat(9, 8vw);
+                gap: 0.5px;
+                max-width: 90vw;
+            }
+
+            .block-cell {
+                width: 18px;
+                height: 18px;
+            }
+
+            #current-blocks {
+                gap: 10px;
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>WOODOKU パズル</h1>
+    
+    <div id="game-info">
+        <span>スコア: <span id="score">0</span></span>
+        <button onclick="initGame()">リセット/開始</button>
+    </div>
+
+    <div id="game-container">
+        <div id="board">
+            <!-- ボードのマスはJSで生成されます -->
+        </div>
+    </div>
+    
+    <h2>次に配置するブロック</h2>
+    <div id="current-blocks">
+        <!-- 3つのブロックはJSで生成されます -->
+    </div>
+    
+    <p id="message"></p>
+
+    <script>
+        // --- 1. ゲームの状態と定数 ---
+        const BOARD_SIZE = 9;
+        let board = [];
+        let currentBlocks = [];
+        let score = 0;
+        let isGameOver = false;
+
+        // ドラッグ/タッチ用の状態
+        let selectedBlockIndex = -1;
+        let draggedBlockGhost = null; 
+        let currentTargetCell = null;
+
+        // ブロックの基本形状（回転前の定義）
+        const BASE_BLOCK_SHAPES = [
+            [[1]], // 1x1
+            [[1, 1]], // 1x2 (横)
+            [[1, 1, 1]], // 1x3 (横)
+            [[1, 1, 1, 1]], // 1x4 (横)
+            [[1, 1, 1, 1, 1]], // 1x5 (横)
+            [[1, 1], [1, 1]], // 2x2 (正方形)
+            [[1, 0], [1, 1]], // L字 (基本)
+            [[1, 1, 1], [0, 1, 0]], // T字
+            [[1, 1, 0], [0, 1, 1]], // Z字
+            [[1, 1, 1], [1, 0, 0], [1, 0, 0]], // 3x3 L字
+            [[1, 0], [1, 0], [1, 1]], // ミニL字
+            [[1, 1, 1], [1, 1, 1], [1, 1, 1]] // 3x3 (正方形)
+        ];
+const WEIGHTED_BLOCK_INDICES = [];
+BASE_BLOCK_SHAPES.forEach((shape, index) => {
+    // ブロックのマス目の数（面積）を計算
+    const area = shape.flat().reduce((sum, val) => sum + val, 0);
+
+    // 面積が4以上なら重み2、そうでなければ重み1
+    const weight = area >= 4 ? 2 : 1;
+
+    // 重みの数だけインデックスを配列に追加 (確率を重み付け)
+    for (let i = 0; i < weight; i++) {
+        WEIGHTED_BLOCK_INDICES.push(index);
+    }
+});
+
+        // --- 2. ブロック回転関数 ---
+
+        /**
+         * ブロックの形状 (2D配列) を時計回りに90度回転させる
+         * @param {number[][]} shape 
+         * @returns {number[][]}
+         */
+        function rotateShape(shape) {
+            const rows = shape.length;
+            const cols = shape[0].length;
+            
+            // 新しい形状のサイズは元の行と列が入れ替わる
+            const newRows = cols;
+            const newCols = rows;
+            
+            // 新しい配列を初期化
+            const newShape = Array.from({ length: newRows }, () => Array(newCols).fill(0));
+
+            // 回転処理 ( (r, c) -> (c, rows - 1 - r) )
+            for (let r = 0; r < rows; r++) {
+                for (let c = 0; c < cols; c++) {
+                    newShape[c][rows - 1 - r] = shape[r][c];
+                }
+            }
+            return newShape;
+        }
+
+        // --- 3. 初期化関数 ---
+
+        function initGame() {
+            board = Array.from({ length: BOARD_SIZE }, () => Array(BOARD_SIZE).fill(0));
+            score = 0;
+            isGameOver = false;
+            document.getElementById('score').textContent = score;
+            document.getElementById('message').textContent = '縦・横の一列クリアを目指しましょう！';
+            drawBoard();
+            generateNewBlocks(); 
+            document.getElementById('message').style.color = '#3e2723';
+        }
+
+        // --- 4. ボードの描画とイベント設定 ---
+
+        function drawBoard() {
+            const boardEl = document.getElementById('board');
+            const cells = boardEl.querySelectorAll('.cell');
+            
+            if (cells.length === 0) {
+                // 初回描画時
+                for (let r = 0; r < BOARD_SIZE; r++) {
+                    for (let c = 0; c < BOARD_SIZE; c++) {
+                        const cell = document.createElement('div');
+                        cell.classList.add('cell');
+                        cell.dataset.row = r;
+                        cell.dataset.col = c;
+
+                        // マウスドロップイベントリスナー
+                        cell.addEventListener('dragover', allowDrop);
+                        cell.addEventListener('drop', handleDrop);
+
+                        boardEl.appendChild(cell);
+                    }
+                }
+            }
+            
+            // 状態の更新
+            let cellIndex = 0;
+            for (let r = 0; r < BOARD_SIZE; r++) {
+                for (let c = 0; c < BOARD_SIZE; c++) {
+                    const cell = cells[cellIndex] || boardEl.children[cellIndex];
+                    if (board[r][c] === 1) {
+                        cell.classList.add('filled');
+                    } else {
+                        cell.classList.remove('filled');
+                    }
+                    cellIndex++;
+                }
+            }
+        }
+
+        // --- 5. ブロック生成と描画 ---
+
+function getRandomBlockShape() {
+    
+    // ✅ 変更後: 重み付けされた配列からランダムにインデックスを選択
+    const randomIndex = Math.floor(Math.random() * WEIGHTED_BLOCK_INDICES.length);
+    const baseShapeIndex = WEIGHTED_BLOCK_INDICES[randomIndex];
+
+    let shape = BASE_BLOCK_SHAPES[baseShapeIndex];
+    
+    // 0度、90度、180度、270度のいずれかをランダムに選択 (0〜3回の回転)
+    const rotations = Math.floor(Math.random() * 4); 
+
+    for (let i = 0; i < rotations; i++) {
+        shape = rotateShape(shape);
+    }
+    
+    return shape;
+}
+
+        function generateNewBlocks() {
+            currentBlocks = [];
+            for (let i = 0; i < 3; i++) {
+                currentBlocks.push(getRandomBlockShape());
+            }
+            drawCurrentBlocks();
+        }
+
+        function replaceBlock(index) {
+            currentBlocks[index] = getRandomBlockShape();
+        }
+
+        function drawCurrentBlocks() {
+            const blocksEl = document.getElementById('current-blocks');
+            blocksEl.innerHTML = '';
+
+            currentBlocks.forEach((shape, index) => {
+                const previewEl = document.createElement('div');
+                previewEl.classList.add('block-preview');
+                previewEl.draggable = true;
+                previewEl.dataset.index = index;
+
+                // マウスイベント
+                previewEl.addEventListener('dragstart', handleDragStart);
+                previewEl.addEventListener('dragend', cleanupDragState); 
+
+                // タッチイベント
+                previewEl.addEventListener('touchstart', handleTouchStart);
+
+                shape.forEach(row => {
+                    const rowEl = document.createElement('div');
+                    rowEl.classList.add('block-row');
+                    row.forEach(cellValue => {
+                        const cellEl = document.createElement('div');
+                        cellEl.classList.add('block-cell');
+                        if (cellValue === 1) {
+                            cellEl.classList.add('active');
+                        }
+                        rowEl.appendChild(cellEl);
+                    });
+                    previewEl.appendChild(rowEl);
+                });
+
+                blocksEl.appendChild(previewEl);
+            });
+        }
+
+        // --- 6. 共通の配置ロジックとハイライト処理 ---
+        
+        /**
+         * ポインター位置のセルから、配置の基準となる左上アンカー座標を計算する
+         * @param {HTMLElement} centerCell ポインター下のセル
+         * @param {number[][]} blockShape ブロック形状
+         * @returns {{targetR: number, targetC: number} | null}
+         */
+        function calculateAnchor(centerCell, blockShape) {
+            if (!centerCell) return null;
+
+            // ポインターが現在指しているセルをブロックの「中心」と見なす
+            const centerR = parseInt(centerCell.dataset.row);
+            const centerC = parseInt(centerCell.dataset.col);
+
+            const blockRows = blockShape.length;
+            const blockCols = blockShape[0].length;
+            
+            // 中心セルから左上アンカーセルへのオフセットを計算
+            const offsetR = Math.floor(blockRows / 2);
+            const offsetC = Math.floor(blockCols / 2);
+
+            let anchorR = centerR - offsetR;
+            let anchorC = centerC - offsetC;
+
+            // 境界のクリッピング：ブロック全体がボード内に収まるように調整
+            // 1. 上境界 (行 >= 0)
+            anchorR = Math.max(0, anchorR);
+            // 2. 下境界 (行 + 高さ <= BOARD_SIZE)
+            anchorR = Math.min(anchorR, BOARD_SIZE - blockRows);
+            
+            // 3. 左境界 (列 >= 0)
+            anchorC = Math.max(0, anchorC);
+            // 4. 右境界 (列 + 幅 <= BOARD_SIZE)
+            anchorC = Math.min(anchorC, BOARD_SIZE - blockCols);
+
+            return { targetR: anchorR, targetC: anchorC };
+        }
+
+        // 全てのハイライトを解除する
+        function removeAllHighlights() {
+            document.querySelectorAll('.potential-placement').forEach(el => el.classList.remove('potential-placement'));
+        }
+
+        // ブロックの形に合わせてセルをハイライト/解除する
+        function highlightCells(startR, startC, shape, isAdding) {
+            const boardEl = document.getElementById('board');
+            const rows = shape.length;
+            const cols = shape[0].length;
+            
+            for (let r = 0; r < rows; r++) {
+                for (let c = 0; c < cols; c++) {
+                    if (shape[r][c] === 1) {
+                        const boardR = startR + r;
+                        const boardC = startC + c;
+
+                        const cell = boardEl.querySelector(`.cell[data-row="${boardR}"][data-col="${boardC}"]`);
+                        if (cell) {
+                            if (isAdding) {
+                                cell.classList.add('potential-placement');
+                            } else {
+                                cell.classList.remove('potential-placement');
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+
+        function tryPlaceBlock(targetR, targetC, blockShape, blockIndex) {
+            if (isGameOver) return false;
+
+            if (canPlaceBlock(targetR, targetC, blockShape)) {
+                placeBlock(targetR, targetC, blockShape); 
+                
+                drawBoard(); 
+
+                replaceBlock(blockIndex); 
+                
+                checkAndClearLines(); 
+                
+                drawCurrentBlocks(); 
+                checkGameOver(); 
+                return true;
+            }
+            return false;
+        }
+        
+        function cleanupDragState() {
+            document.querySelectorAll('.dragging').forEach(el => el.classList.remove('dragging'));
+            removeAllHighlights(); 
+            selectedBlockIndex = -1;
+            
+            if (draggedBlockGhost) {
+                draggedBlockGhost.remove();
+                draggedBlockGhost = null;
+            }
+            currentTargetCell = null;
+            
+            // マウスドラッグ用のアンカーデータもクリア
+            const boardEl = document.getElementById('board');
+            delete boardEl.dataset.anchorR;
+            delete boardEl.dataset.anchorC;
+        }
+        
+        // --- 7. マウスドラッグ処理 ---
+
+        function handleDragStart(e) {
+            if (isGameOver) {
+                e.preventDefault();
+                return;
+            }
+            const previewEl = e.target.closest('.block-preview');
+            const index = parseInt(previewEl.dataset.index);
+            if (isNaN(index)) return;
+
+            selectedBlockIndex = index;
+            e.dataTransfer.setData('text/plain', selectedBlockIndex);
+            previewEl.classList.add('dragging');
+
+            document.getElementById('board').addEventListener('dragover', handleBoardDragOver);
+        }
+
+        function handleBoardDragOver(e) {
+            e.preventDefault();
+            
+            if (selectedBlockIndex === -1 || isGameOver) return; 
+
+            // マウス座標から要素を取得
+            const elementUnderMouse = document.elementFromPoint(e.clientX, e.clientY);
+            const centerCell = elementUnderMouse ? elementUnderMouse.closest('.cell') : null;
+            const blockShape = currentBlocks[selectedBlockIndex];
+            
+            removeAllHighlights(); // 古いハイライトをクリア
+
+            if (centerCell) {
+                // 新しいアンカーを計算
+                const anchor = calculateAnchor(centerCell, blockShape);
+                
+                if (anchor && canPlaceBlock(anchor.targetR, anchor.targetC, blockShape)) {
+                    highlightCells(anchor.targetR, anchor.targetC, blockShape, true); // 新しいハイライトを適用
+                    
+                    // ドロップイベント用にアンカー座標をボード要素に一時保存
+                    document.getElementById('board').dataset.anchorR = anchor.targetR;
+                    document.getElementById('board').dataset.anchorC = anchor.targetC;
+
+                } else {
+                    delete document.getElementById('board').dataset.anchorR;
+                    delete document.getElementById('board').dataset.anchorC;
+                }
+            } else {
+                 delete document.getElementById('board').dataset.anchorR;
+                 delete document.getElementById('board').dataset.anchorC;
+            }
+        }
+
+        function allowDrop(e) {
+            e.preventDefault();
+        }
+
+        function handleDrop(e) {
+            e.preventDefault();
+            document.getElementById('board').removeEventListener('dragover', handleBoardDragOver); // リスナーを解除
+            
+            const boardEl = document.getElementById('board');
+            const targetRow = parseInt(boardEl.dataset.anchorR);
+            const targetCol = parseInt(boardEl.dataset.anchorC);
+
+            // dragoverで計算された有効なアンカーがあるかチェック
+            if (isNaN(targetRow) || isNaN(targetCol)) {
+                document.getElementById('message').textContent = 'ボード上の有効な位置にドロップしてください。';
+                cleanupDragState();
+                return;
+            }
+
+            const blockShape = currentBlocks[selectedBlockIndex];
+
+            if (blockShape && tryPlaceBlock(targetRow, targetCol, blockShape, selectedBlockIndex)) {
+                // 成功
+            } else {
+                document.getElementById('message').textContent = 'その位置には置けません！';
+            }
+
+            cleanupDragState();
+        }
+
+        // --- 8. タッチ＆スワイプ処理 ---
+
+        function handleTouchStart(e) {
+            if (isGameOver) return;
+            e.preventDefault(); 
+
+            const previewEl = e.target.closest('.block-preview');
+            const index = parseInt(previewEl.dataset.index);
+            if (isNaN(index)) return;
+
+            selectedBlockIndex = index;
+            previewEl.classList.add('dragging');
+            
+            // ゴースト要素を作成
+            draggedBlockGhost = previewEl.cloneNode(true);
+            draggedBlockGhost.classList.remove('block-preview', 'dragging');
+            draggedBlockGhost.classList.add('ghost-block');
+            document.body.appendChild(draggedBlockGhost);
+
+            // タッチ位置にゴーストを配置
+            const touch = e.touches[0];
+            
+            draggedBlockGhost.style.left = `${touch.clientX - (draggedBlockGhost.offsetWidth / 2)}px`;
+            draggedBlockGhost.style.top = `${touch.clientY - (draggedBlockGhost.offsetHeight / 2)}px`;
+
+            // グローバルな移動/終了リスナーを設定
+            document.addEventListener('touchmove', handleTouchMove);
+            document.addEventListener('touchend', handleTouchEnd);
+        }
+
+        function handleTouchMove(e) {
+            e.preventDefault(); 
+
+            const touch = e.touches[0];
+            if (!draggedBlockGhost) return;
+
+            // ゴーストを指の位置に追従させる
+            draggedBlockGhost.style.left = `${touch.clientX - (draggedBlockGhost.offsetWidth / 2)}px`;
+            draggedBlockGhost.style.top = `${touch.clientY - (draggedBlockGhost.offsetHeight / 2)}px`;
+
+            // 現在指の下にある要素を取得
+            const elementUnderTouch = document.elementFromPoint(touch.clientX, touch.clientY);
+            const centerCell = elementUnderTouch ? elementUnderTouch.closest('.cell') : null;
+            const blockShape = currentBlocks[selectedBlockIndex];
+
+            // ハイライト更新ロジック
+            removeAllHighlights(); 
+            
+            if (centerCell) {
+                // 新しいアンカーを計算
+                const anchor = calculateAnchor(centerCell, blockShape);
+                
+                if (anchor && canPlaceBlock(anchor.targetR, anchor.targetC, blockShape)) {
+                    // 配置可能な場合は、ブロックの形全体をハイライト
+                    highlightCells(anchor.targetR, anchor.targetC, blockShape, true);
+                    currentTargetCell = anchor; // ドロップが有効なアンカー座標を記録
+                } else {
+                    currentTargetCell = null; // 配置不可
+                }
+            } else {
+                currentTargetCell = null; // ボード外
+            }
+        }
+
+        function handleTouchEnd(e) {
+            document.removeEventListener('touchmove', handleTouchMove);
+            document.removeEventListener('touchend', handleTouchEnd);
+            
+            // ドロップ処理
+            if (currentTargetCell) { // currentTargetCellはアンカー座標 {targetR, targetC} を保持
+                const { targetR, targetC } = currentTargetCell;
+                const blockShape = currentBlocks[selectedBlockIndex];
+
+                if (blockShape && tryPlaceBlock(targetR, targetC, blockShape, selectedBlockIndex)) {
+                    // 成功
+                } else {
+                    document.getElementById('message').textContent = 'ドロップに失敗しました。';
+                }
+            } else {
+                 document.getElementById('message').textContent = 'ボード上の有効なマスに配置できませんでした。';
+            }
+
+            // クリーンアップ
+            cleanupDragState();
+        }
+
+        // --- 9. 配置と消去のロジック ---
+
+        function canPlaceBlock(startR, startC, shape) {
+            const rows = shape.length;
+            const cols = shape[0].length;
+
+            if (startR + rows > BOARD_SIZE || startC + cols > BOARD_SIZE) {
+                return false;
+            }
+
+            for (let r = 0; r < rows; r++) {
+                for (let c = 0; c < cols; c++) {
+                    if (shape[r][c] === 1) {
+                        const boardR = startR + r;
+                        const boardC = startC + c;
+                        
+                        // 既にブロックがあるかチェック
+                        if (board[boardR][boardC] === 1) {
+                            return false; 
+                        }
+                    }
+                }
+            }
+            return true;
+        }
+
+        function placeBlock(startR, startC, shape) {
+            let placedCount = 0;
+            for (let r = 0; r < shape.length; r++) {
+                for (let c = 0; c < shape[0].length; c++) {
+                    if (shape[r][c] === 1) {
+                        board[startR + r][startC + c] = 1;
+                        placedCount++;
+                    }
+                }
+            }
+            score += placedCount * 1; 
+            document.getElementById('score').textContent = score;
+        }
+
+        function checkAndClearLines() {
+            let linesToClear = [];
+
+            // 1. 行と列のチェックのみを行う
+            for (let i = 0; i < BOARD_SIZE; i++) {
+                // 行チェック
+                if (board[i].every(cell => cell === 1)) {
+                    linesToClear.push({ type: 'row', index: i });
+                }
+                // 列チェック
+                if (board.every(row => row[i] === 1)) {
+                    linesToClear.push({ type: 'col', index: i });
+                }
+            }
+
+            // 3. 消去処理とスコア計算
+            if (linesToClear.length > 0) {
+                let uniqueClearedCells = new Set();
+                const clearedLines = linesToClear.length;
+
+                linesToClear.forEach(line => {
+                    if (line.type === 'row') {
+                        for (let c = 0; c < BOARD_SIZE; c++) {
+                            uniqueClearedCells.add(`${line.index},${c}`);
+                            board[line.index][c] = 0;
+                        }
+                    } else if (line.type === 'col') {
+                        for (let r = 0; r < BOARD_SIZE; r++) {
+                            uniqueClearedCells.add(`${r},${line.index}`);
+                            board[r][line.index] = 0;
+                        }
+                    }
+                });
+
+                // スコア計算とコンボボーナス
+                score += uniqueClearedCells.size * 10;
+                if (clearedLines > 1) {
+                    score += clearedLines * 50; 
+                    document.getElementById('message').textContent = `💥 ${clearedLines} コンボ！ (+${clearedLines * 50}) 💥`;
+                } else {
+                    document.getElementById('message').textContent = `✅ ラインクリア！`;
+                }
+
+                document.getElementById('score').textContent = score;
+                // クリアを反映させる
+                drawBoard(); 
+            } else {
+                document.getElementById('message').textContent = '次の配置を考えましょう。';
+            }
+        }
+
+// --- 10. ゲームオーバーチェック ---
+
+function checkGameOver() {
+    // ... (配置可能チェックのロジックは変更なし)
+    for (const shape of currentBlocks) {
+        // ブロックがまだ存在するか（クリアされていないか）確認
+        if (shape === null) continue; 
+        
+        for (let r = 0; r < BOARD_SIZE; r++) {
+            for (let c = 0; c < BOARD_SIZE; c++) {
+                if (canPlaceBlock(r, c, shape)) {
+                    return; // 配置可能な場所が見つかったため、ゲームオーバーではない
+                }
+            }
+        }
+    }
+    
+    // 全てのブロックが配置不能の場合、ゲームオーバー処理を遅延実行する
+    
+    // 1. フラグはすぐに立てる (これ以上操作させないため)
+    isGameOver = true;
+    
+    // 2. 0.5秒のディレイを設定
+    setTimeout(() => {
+        // 3. 0.5秒後にゲームオーバーの表示とクリーンアップを実行
+        document.getElementById('message').style.color = '#d32f2f';
+        document.getElementById('message').textContent = `ゲームオーバー！最終スコア: ${score}`;
+        document.getElementById('current-blocks').innerHTML = '<p style="color: #6b4c3e; font-weight: bold;">ゲームオーバーです。リセットボタンで再開してください。</p>';
+    }, 500); // 500ミリ秒 = 0.5秒
+}
+
+        // ゲーム開始
+        document.addEventListener('DOMContentLoaded', initGame);
+    </script>
+</body>
+</html>
