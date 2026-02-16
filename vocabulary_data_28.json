@@ -540,6 +540,685 @@
       ],
       "antonyms": [],
       "related": []
+    },
+    {
+      "number": 712,
+      "word": "step",
+      "pos": "名詞、動詞",
+      "meaning": "歩み、階段、手段、一歩進む、踏む",
+      "nuance": "物理的な「一歩」から、目的達成のための「段階・処置」まで幅広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The first step is always the hardest.",
+              "ja": "最初の一歩（段階）が常に最も難しい。",
+              "highlight": "step"
+            },
+            {
+              "en": "We must take steps to prevent further accidents.",
+              "ja": "さらなる事故を防ぐために、対策（手段）を講じなければならない。",
+              "highlight": "steps"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "Please step aside to let the lady pass.",
+              "ja": "その女性が通れるように脇へ寄ってください。",
+              "highlight": "step"
+            },
+            {
+              "en": "I accidentally stepped on his foot.",
+              "ja": "誤って彼の足を踏んでしまった。",
+              "highlight": "stepped"
+            }
+          ]
+        }
+      ],
+      "etymology": "西ゲルマン語由来（踏む、歩く）",
+      "synonyms": [
+        {"word": "pace", "trans": "歩調、一歩"},
+        {"word": "measure", "trans": "対策、手段"},
+        {"word": "stage", "trans": "段階"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "stepping stone", "trans": "踏み石、出世の足がかり"}
+      ]
+    },
+    {
+      "number": "712-2",
+      "word": "footstep",
+      "pos": "名詞",
+      "meaning": "足音、足跡、前例",
+      "nuance": "歩く音そのものを指すことが多いですが、「follow in someone's footsteps」で「人の足跡をたどる（後を継ぐ）」という慣用句が非常に重要です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I heard heavy footsteps coming up the stairs.",
+              "ja": "階段を上がってくる重い足音が聞こえた。",
+              "highlight": "footsteps"
+            },
+            {
+              "en": "He decided to follow in his father's footsteps and become a doctor.",
+              "ja": "彼は父の足跡をたどって（後を継いで）医者になる決心をした。",
+              "highlight": "footsteps"
+            }
+          ]
+        }
+      ],
+      "etymology": "foot（足）+ step（歩み）",
+      "synonyms": [
+        {"word": "footfall", "trans": "足音"},
+        {"word": "track", "trans": "足跡"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 713,
+      "word": "hazy",
+      "pos": "形容詞",
+      "meaning": "かすんだ、もやのかかった、漠然とした",
+      "nuance": "天候がぼんやりしている状態だけでなく、記憶や考えがはっきりしない状態にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The mountains were hazy in the distance.",
+              "ja": "遠くの山々はかすんでいた。",
+              "highlight": "hazy"
+            },
+            {
+              "en": "I have only a hazy recollection of what happened that night.",
+              "ja": "あの夜に何が起きたかについては、漠然とした（曖昧な）記憶しかない。",
+              "highlight": "hazy"
+            }
+          ]
+        }
+      ],
+      "etymology": "haze（もや）+ y",
+      "synonyms": [
+        {"word": "misty", "trans": "霧のかかった"},
+        {"word": "vague", "trans": "曖昧な"},
+        {"word": "blurred", "trans": "ぼやけた"}
+      ],
+      "antonyms": [
+        {"word": "clear", "trans": "晴れた、明快な"},
+        {"word": "distinct", "trans": "はっきりした"}
+      ],
+      "related": [
+        {"word": "haze", "trans": "名詞：かすみ、もや"}
+      ]
+    },
+    {
+      "number": "713-2",
+      "word": "haze",
+      "pos": "名詞、動詞",
+      "meaning": "かすみ、もや、朦朧とした状態、〜を曇らせる、（米）嫌がらせをする",
+      "nuance": "細かいちりや熱気で見えにくい状態。アメリカの大学などでの「新入生へのしごき・嫌がらせ」を指す動詞としても知られます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The city was covered in a thick haze of smog.",
+              "ja": "街は厚いスモッグの霧（もや）に覆われていた。",
+              "highlight": "haze"
+            },
+            {
+              "en": "I was in a haze of confusion after the accident.",
+              "ja": "事故の後、私は混乱で頭が朦朧としていた。",
+              "highlight": "haze"
+            }
+          ]
+        }
+      ],
+      "etymology": "不明（おそらく古い海事用語）",
+      "synonyms": [
+        {"word": "mist", "trans": "霧、もや"},
+        {"word": "fog", "trans": "霧"},
+        {"word": "confusion", "trans": "混乱、朦朧"}
+      ],
+      "antonyms": [
+        {"word": "clarity", "trans": "明晰さ"}
+      ],
+      "related": []
+    },
+    {
+      "number": 714,
+      "word": "blur",
+      "pos": "名詞、動詞",
+      "meaning": "ぼやけたもの、汚れ、〜をぼやけさせる、〜を不鮮明にする",
+      "nuance": "輪郭がはっきりしなくなること。スピードが速すぎて見えない場合や、境界線が曖昧になる場合に使います。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Everything was just a blur without my glasses.",
+              "ja": "メガネがないと、すべてがただぼやけて見えた。",
+              "highlight": "blur"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The tears blurred her vision.",
+              "ja": "涙で彼女の視界がぼやけた。",
+              "highlight": "blurred"
+            },
+            {
+              "en": "The line between work and home life is beginning to blur.",
+              "ja": "仕事と家庭生活の境界が曖昧になり始めている。",
+              "highlight": "blur"
+            }
+          ]
+        }
+      ],
+      "etymology": "不明（おそらく「泥」や「汚れ」に関連）",
+      "synonyms": [
+        {"word": "obscure", "trans": "不明瞭にする"},
+        {"word": "cloud", "trans": "曇らせる"},
+        {"word": "smudge", "trans": "汚してぼかす"}
+      ],
+      "antonyms": [
+        {"word": "sharpen", "trans": "鋭くする、鮮明にする"}
+      ],
+      "related": [
+        {"word": "blurred", "trans": "形容詞：ぼやけた"}
+      ]
+    },
+    {
+      "number": "714-2",
+      "word": "blurred",
+      "pos": "形容詞",
+      "meaning": "ぼやけた、不鮮明な、曖昧な",
+      "nuance": "写真が手ブレしていたり、視力が弱かったりして、ピントが合っていない状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The artist used blurred lines to create a sense of movement.",
+              "ja": "その芸術家は動きを表現するために、ぼやけた線を用いた。",
+              "highlight": "blurred"
+            },
+            {
+              "en": "I can't read the text because the photo is blurred.",
+              "ja": "写真がぼやけているので、文字が読めない。",
+              "highlight": "blurred"
+            }
+          ]
+        }
+      ],
+      "etymology": "blur + ed",
+      "synonyms": [
+        {"word": "fuzzy", "trans": "けばだった、ぼやけた"},
+        {"word": "indistinct", "trans": "不鮮明な"}
+      ],
+      "antonyms": [
+        {"word": "sharp", "trans": "鮮明な"},
+        {"word": "clear", "trans": "はっきりした"}
+      ],
+      "related": []
+    },
+    {
+      "number": 715,
+      "word": "dizzy",
+      "pos": "形容詞",
+      "meaning": "めまいがする、目が回る、目がくらむような",
+      "nuance": "自分の体が回転しているような感覚、あるいは非常に高くて目がくらむような感覚を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I felt dizzy after spinning around too many times.",
+              "ja": "何度もぐるぐる回った後で、めまいがした。",
+              "highlight": "dizzy"
+            },
+            {
+              "en": "The company has reached dizzy heights of success.",
+              "ja": "その会社は、目がくらむような（驚くべき）成功を収めた。",
+              "highlight": "dizzy"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 dysig（愚かな、理性を失った）",
+      "synonyms": [
+        {"word": "giddy", "trans": "目が回る、浮ついた"},
+        {"word": "light-headed", "trans": "頭がふらふらする"}
+      ],
+      "antonyms": [
+        {"word": "steady", "trans": "しっかりした"},
+        {"word": "clear-headed", "trans": "頭が冴えた"}
+      ],
+      "related": [
+        {"word": "dizziness", "trans": "名詞：めまい"}
+      ]
+    },
+    {
+      "number": "715-2",
+      "word": "foggy",
+      "pos": "形容詞",
+      "meaning": "霧の深い、霧のかかった、ぼんやりした",
+      "nuance": "濃い霧で視界が悪い状態。また、考えがまとまらずぼんやりしている様子（特に寝起きなど）にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It was a cold, foggy morning.",
+              "ja": "寒くて霧の深い朝だった。",
+              "highlight": "foggy"
+            },
+            {
+              "en": "I'm still a bit foggy this morning; I need coffee.",
+              "ja": "今朝はまだ少し頭がぼんやりしている。コーヒーが必要だ。",
+              "highlight": "foggy"
+            }
+          ]
+        }
+      ],
+      "etymology": "fog（霧）+ y",
+      "synonyms": [
+        {"word": "misty", "trans": "霧のかかった"},
+        {"word": "cloudy", "trans": "曇った"}
+      ],
+      "antonyms": [
+        {"word": "clear", "trans": "澄み渡った"}
+      ],
+      "related": [
+        {"word": "fog", "trans": "名詞：霧"}
+      ]
+    },
+    {
+      "number": "715-3",
+      "word": "fog",
+      "pos": "名詞、動詞",
+      "meaning": "霧、濃霧、混乱、〜を霧で覆う、〜を曇らせる",
+      "nuance": "mist（もや）よりも視界が1km未満になるような深いものを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The thick fog made driving dangerous.",
+              "ja": "濃い霧のせいで運転が危険になった。",
+              "highlight": "fog"
+            },
+            {
+              "en": "The windows fogged up in the cold weather.",
+              "ja": "寒い天気で窓が曇った。",
+              "highlight": "fogged up"
+            }
+          ]
+        }
+      ],
+      "etymology": "デンマーク語等、北欧語由来（湿地、草）",
+      "synonyms": [
+        {"word": "mist", "trans": "もや、霞"},
+        {"word": "haze", "trans": "かすみ"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "foghorn", "trans": "霧笛"}
+      ]
+    },
+    {
+      "number": "715-4",
+      "word": "misty",
+      "pos": "形容詞",
+      "meaning": "霧のかかった、かすんだ、涙で潤んだ",
+      "nuance": "foggyよりも視界がややマシな「もや」の状態。また「misty eyes」で涙でうるうるした目を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The morning air was fresh and misty.",
+              "ja": "朝の空気は新鮮で霧がかかっていた。",
+              "highlight": "misty"
+            },
+            {
+              "en": "Her eyes grew misty as she remembered the past.",
+              "ja": "過去を思い出して、彼女の目は涙で潤んだ。",
+              "highlight": "misty"
+            }
+          ]
+        }
+      ],
+      "etymology": "mist + y",
+      "synonyms": [
+        {"word": "hazy", "trans": "かすんだ"},
+        {"word": "moist", "trans": "湿った"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "mist", "trans": "名詞：霧、もや"}
+      ]
+    },
+    {
+      "number": "715-5",
+      "word": "mist",
+      "pos": "名詞、動詞",
+      "meaning": "霞（かすみ）、もや、霧、〜を霧で包む",
+      "nuance": "水滴が非常に細かく、fogよりも視界が開けている状態（視界1km以上）。スプレーで水をかけることも「mist」と言います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The mountain tops were hidden in mist.",
+              "ja": "山頂は霧の中に隠れていた。",
+              "highlight": "mist"
+            },
+            {
+              "en": "Gently mist the plants with water every morning.",
+              "ja": "毎朝、植物にそっと霧吹きで水をかけなさい。",
+              "highlight": "mist"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 mist（暗闇、霧）",
+      "synonyms": [
+        {"word": "drizzle", "trans": "霧雨"},
+        {"word": "spray", "trans": "スプレー"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 716,
+      "word": "default",
+      "pos": "名詞、動詞",
+      "meaning": "債務不履行、怠慢、初期設定（デフォル）、〜を怠る",
+      "nuance": "本来すべきことを「しない」ことが原義。経済では借金を返さないこと、ITではあらかじめ設定された状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The company is in default on its loan payments.",
+              "ja": "その会社はローンの支払いが滞っている（債務不履行の状態だ）。",
+              "highlight": "default"
+            },
+            {
+              "en": "The default font for this program is Arial.",
+              "ja": "このプログラムの初期設定のフォントはArialです。",
+              "highlight": "default"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "If you default on your mortgage, the bank may seize your house.",
+              "ja": "住宅ローンを滞納すると、銀行に家を差し押さえられるかもしれない。",
+              "highlight": "default"
+            }
+          ]
+        }
+      ],
+      "etymology": "de（離れて）+ fault（欠点、落ち度）",
+      "synonyms": [
+        {"word": "failure", "trans": "不履行、失敗"},
+        {"word": "standard", "trans": "標準（初期設定）"},
+        {"word": "nonpayment", "trans": "不払い"}
+      ],
+      "antonyms": [
+        {"word": "payment", "trans": "支払い"},
+        {"word": "custom", "trans": "カスタム設定"}
+      ],
+      "related": [
+        {"word": "fault", "trans": "名詞：過失、欠点"}
+      ]
+    },
+    {
+      "number": "716-2",
+      "word": "blunder",
+      "pos": "名詞、動詞",
+      "meaning": "（不注意による）大失敗、へま、うろうろ歩く",
+      "nuance": "不注意や無知によって犯す「恥ずかしいミス」を指します。チェスなどのゲームでの致命的なミスにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The politician's speech was a major tactical blunder.",
+              "ja": "その政治家の演説は重大な戦術的ミス（へま）だった。",
+              "highlight": "blunder"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "He blundered into the wrong room.",
+              "ja": "彼はうっかり間違った部屋に入り込んでしまった。",
+              "highlight": "blundered"
+            }
+          ]
+        }
+      ],
+      "etymology": "北欧語由来（目を閉じる、混乱する）",
+      "synonyms": [
+        {"word": "mistake", "trans": "間違い"},
+        {"word": "error", "trans": "誤り"},
+        {"word": "gaffe", "trans": "（社交上の）失態"}
+      ],
+      "antonyms": [
+        {"word": "success", "trans": "成功"},
+        {"word": "achievement", "trans": "達成"}
+      ],
+      "related": []
+    },
+    {
+      "number": 717,
+      "word": "roam",
+      "pos": "動詞",
+      "meaning": "（あてもなく）歩き回る、放浪する、徘徊する",
+      "nuance": "特定の目的地を決めずに、広い範囲を自由に移動する様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The cattle were allowed to roam freely over the hills.",
+              "ja": "牛たちは丘の上を自由に歩き回ることを許されていた。",
+              "highlight": "roam"
+            },
+            {
+              "en": "His eyes roamed around the room.",
+              "ja": "彼の目は部屋の中をあちこち動いた（見回した）。",
+              "highlight": "roamed"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語 romen（歩き回る）",
+      "synonyms": [
+        {"word": "wander", "trans": "歩き回る"},
+        {"word": "stroll", "trans": "ぶらつく"},
+        {"word": "drift", "trans": "漂う"}
+      ],
+      "antonyms": [
+        {"word": "settle", "trans": "定住する"},
+        {"word": "stay", "trans": "とどまる"}
+      ],
+      "related": [
+        {"word": "roaming", "trans": "名詞：ローミング（通信範囲を越えた利用）"}
+      ]
+    },
+    {
+      "number": 718,
+      "word": "skip",
+      "pos": "動詞、名詞",
+      "meaning": "軽く跳ぶ、スキップする、〜を飛ばす（抜かす）、（授業などを）サボる",
+      "nuance": "弾むように動くこと。転じて、順序を飛ばしたり、予定されていたことを行わなかったりする際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "I'm so hungry that I can't skip breakfast.",
+              "ja": "お腹が空きすぎて朝食を抜く（飛ばす）ことはできない。",
+              "highlight": "skip"
+            },
+            {
+              "en": "She skipped happily down the street.",
+              "ja": "彼女は通りを嬉しそうにスキップして行った。",
+              "highlight": "skipped"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "He gave a little skip of joy.",
+              "ja": "彼は喜びで軽くひと跳ねした。",
+              "highlight": "skip"
+            }
+          ]
+        }
+      ],
+      "etymology": "北欧語由来（跳ねる、逃げる）",
+      "synonyms": [
+        {"word": "omit", "trans": "省く"},
+        {"word": "bypass", "trans": "迂回する、無視する"},
+        {"word": "hop", "trans": "跳ぶ"}
+      ],
+      "antonyms": [
+        {"word": "attend", "trans": "出席する"},
+        {"word": "include", "trans": "含める"}
+      ],
+      "related": []
+    },
+    {
+      "number": 719,
+      "word": "stride",
+      "pos": "動詞、名詞",
+      "meaning": "大股で歩く、〜をまたぐ、大股、進歩（発展）",
+      "nuance": "自信を持って力強く歩く様子。名詞では「make great strides（飛躍的な進歩を遂げる）」の形でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "He strode confidently into the meeting room.",
+              "ja": "彼は自信満々に大股で会議室に入っていった。",
+              "highlight": "strode"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Medical science has made huge strides in recent years.",
+              "ja": "医学は近年、長足の進歩（大きな進展）を遂げた。",
+              "highlight": "strides"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 stridan（またぐ、大股で歩く）",
+      "synonyms": [
+        {"word": "march", "trans": "行進する"},
+        {"word": "progress", "trans": "進歩"},
+        {"word": "advance", "trans": "前進"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 720,
+      "word": "stroll",
+      "pos": "名詞、動詞",
+      "meaning": "ぶらぶら歩く、散策する、散歩",
+      "nuance": "急がずに、リラックスして楽しむために歩く様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "We strolled along the beach at sunset.",
+              "ja": "私たちは夕暮れの浜辺をぶらぶら散歩した。",
+              "highlight": "strolled"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Let's go for a stroll in the park.",
+              "ja": "公園に散歩に行こう。",
+              "highlight": "stroll"
+            }
+          ]
+        }
+      ],
+      "etymology": "ドイツ語 strolchen（放浪する）",
+      "synonyms": [
+        {"word": "wander", "trans": "歩き回る"},
+        {"word": "walk", "trans": "歩く"},
+        {"word": "saunter", "trans": "ぶらつく"}
+      ],
+      "antonyms": [
+        {"word": "run", "trans": "走る"},
+        {"word": "rush", "trans": "急ぐ"}
+      ],
+      "related": [
+        {"word": "stroller", "trans": "名詞：ベビーカー（米）、散歩する人"}
+      ]
+    },
+    {
+      "number": 721,
+      "word": "stumble",
+      "pos": "動詞、名詞",
+      "meaning": "つまずく、よろめく、（言葉を）噛む、つまずき、間違い",
+      "nuance": "足が何かに引っかかってバランスを崩すこと。転じて「stumble upon/across（〜を偶然見つける）」という重要な用法があります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I stumbled on a rock and nearly fell.",
+              "ja": "石につまずいて、危うく転びそうになった。",
+              "highlight": "stumbled"
+            },
+            {
+              "en": "The researcher stumbled across a major discovery by accident.",
+              "ja": "その研究者は、偶然にも重大な発見に行き当たった（見つけた）。",
+              "highlight": "stumbled across"
+            }
+          ]
+        }
+      ],
+      "etymology": "北欧語由来（よろめく）",
+      "synonyms": [
+        {"word": "trip", "trans": "つまずく"},
+        {"word": "stagger", "trans": "よろめく"},
+        {"word": "blunder", "trans": "大失敗する"}
+      ],
+      "antonyms": [],
+      "related": []
     }
   ]
 }
