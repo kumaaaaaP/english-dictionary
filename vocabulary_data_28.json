@@ -1225,25 +1225,25 @@
       "word": "adaptable",
       "pos": "形容詞",
       "meaning": "適応できる、順応性のある、改作できる",
-      "nuance": "新しい状況や環境に合わせて自分を変えることができる能力、あるいは用途を変更できる柔軟性を指します。",
+      "nuance": "新しい環境や状況に自分を合わせることができる能力、あるいは用途に合わせて変更可能な性質を指します。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "Successful leaders must be highly adaptable to change.",
-              "ja": "成功するリーダーは、変化に対して高い適応力を持たなければならない。",
+              "en": "Successful businesses must be adaptable to changing market conditions.",
+              "ja": "成功するビジネスは、変化する市場環境に適応できなければならない。",
               "highlight": "adaptable"
             },
             {
               "en": "The tool is adaptable for many different uses.",
-              "ja": "その道具は多くの異なる用途に作り変える（適応させる）ことが可能だ。",
+              "ja": "その道具は多くの異なる用途に作り替える（合わせる）ことができる。",
               "highlight": "adaptable"
             }
           ]
         }
       ],
-      "etymology": "adapt（適合させる）+ able",
+      "etymology": "ad（〜に）+ apt（適した）+ able",
       "synonyms": [
         {"word": "flexible", "trans": "柔軟な"},
         {"word": "versatile", "trans": "多才な、多目的な"},
@@ -1251,31 +1251,31 @@
       ],
       "antonyms": [
         {"word": "rigid", "trans": "硬直した"},
-        {"word": "inflexible", "trans": "融通の利かない"}
+        {"word": "inflexible", "trans": "適応性のない"}
       ],
       "related": [
-        {"word": "adaptation", "trans": "名詞：適応、改作"},
-        {"word": "adapt", "trans": "動詞：適応させる"}
+        {"word": "adapt", "trans": "動詞：適応させる"},
+        {"word": "adaptation", "trans": "名詞：適応、改作"}
       ]
     },
     {
       "number": 723,
       "word": "agreeable",
       "pos": "形容詞",
-      "meaning": "感じの良い、同意できる、好みに合った",
-      "nuance": "性格や雰囲気が「心地よい」という意味と、提案などに対して「受け入れ可能である」という2つの側面があります。",
+      "meaning": "感じの良い、快い、同意できる",
+      "nuance": "人や場所が「好ましい」という意味と、提案などに対して「受け入れられる（賛成できる）」という二つの側面があります。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "We spent an agreeable evening chatting with friends.",
-              "ja": "私たちは友人とのおしゃべりで楽しい（感じの良い）晩を過ごした。",
+              "en": "We spent a very agreeable evening at the restaurant.",
+              "ja": "私たちはそのレストランで非常に感じの良い（楽しい）晩を過ごした。",
               "highlight": "agreeable"
             },
             {
-              "en": "Is the proposed schedule agreeable to you?",
-              "ja": "提案されたスケジュールは、あなたにとって受け入れ可能（同意できるもの）ですか？",
+              "en": "Are you agreeable to the proposed terms of the contract?",
+              "ja": "あなたは提案された契約条件に同意できますか？",
               "highlight": "agreeable"
             }
           ]
@@ -1284,12 +1284,12 @@
       "etymology": "agree（同意する）+ able",
       "synonyms": [
         {"word": "pleasant", "trans": "楽しい、心地よい"},
-        {"word": "acceptable", "trans": "容認できる"},
+        {"word": "acceptable", "trans": "許容できる"},
         {"word": "amiable", "trans": "愛想の良い"}
       ],
       "antonyms": [
         {"word": "disagreeable", "trans": "不愉快な"},
-        {"word": "unpleasant", "trans": "不快な"}
+        {"word": "unpleasant", "trans": "嫌な"}
       ],
       "related": [
         {"word": "agreement", "trans": "名詞：合意"}
@@ -1299,20 +1299,20 @@
       "number": 724,
       "word": "conceivable",
       "pos": "形容詞",
-      "meaning": "考えられる限りの、想像可能な、信じられる",
-      "nuance": "論理的に「あり得る」と想像できるすべての範囲を指します。「every conceivable...（考えうるあらゆる〜）」という表現でよく使われます。",
+      "meaning": "考えられる、想像できる、信じられる",
+      "nuance": "論理的に「あり得る」範囲のことを指します。「every conceivable...（考えうる限りのあらゆる…）」という強調表現でよく使われます。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "They have tried every conceivable method to solve the problem.",
-              "ja": "彼らは問題を解決するために、考えうるあらゆる方法を試した。",
+              "en": "They have considered every conceivable risk.",
+              "ja": "彼らは考えうる限りのあらゆるリスクを検討した。",
               "highlight": "conceivable"
             },
             {
-              "en": "It is conceivable that the interest rates will rise next year.",
-              "ja": "来年、金利が上昇することは十分に考えられる。",
+              "en": "It is conceivable that the error was caused by a software bug.",
+              "ja": "そのエラーがソフトウェアのバグによって引き起こされたということは考えられる。",
               "highlight": "conceivable"
             }
           ]
@@ -1322,15 +1322,14 @@
       "synonyms": [
         {"word": "imaginable", "trans": "想像できる"},
         {"word": "possible", "trans": "可能な"},
-        {"word": "plausible", "trans": "もっともらしい"}
+        {"word": "plausible", "trans": "妥当な、ありそうな"}
       ],
       "antonyms": [
         {"word": "inconceivable", "trans": "想像もつかない"},
-        {"word": "impossible", "trans": "不可能な"}
+        {"word": "unthinkable", "trans": "考えられない"}
       ],
       "related": [
-        {"word": "concept", "trans": "名詞：概念"},
-        {"word": "conception", "trans": "名詞：概念、受胎"}
+        {"word": "concept", "trans": "名詞：概念"}
       ]
     },
     {
@@ -1338,29 +1337,29 @@
       "word": "durable",
       "pos": "形容詞",
       "meaning": "耐久性のある、長持ちする、丈夫な",
-      "nuance": "摩耗や圧力に強く、長期間の使用に耐えられる性質を指します。",
+      "nuance": "物理的なモノの丈夫さだけでなく、経済などが「持続的な」強さを持っている場合にも使われます。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "The machine is made of durable steel.",
-              "ja": "その機械は耐久性のある鋼鉄で作られている。",
+              "en": "Outdoor furniture needs to be made of durable materials.",
+              "ja": "屋外用家具は耐久性のある素材で作られる必要がある。",
               "highlight": "durable"
             },
             {
-              "en": "These hiking boots are very durable.",
-              "ja": "これらのハイキングブーツは非常に丈夫（長持ち）だ。",
+              "en": "The two countries have built a durable peace.",
+              "ja": "両国は永続的な平和を築き上げた。",
               "highlight": "durable"
             }
           ]
         }
       ],
-      "etymology": "ラテン語 durare（長く続く、固くなる）",
+      "etymology": "ラテン語 durare（長く続く）",
       "synonyms": [
         {"word": "long-lasting", "trans": "長持ちする"},
         {"word": "sturdy", "trans": "頑丈な"},
-        {"word": "robust", "trans": "強健な"}
+        {"word": "resilient", "trans": "回復力のある、弾力のある"}
       ],
       "antonyms": [
         {"word": "fragile", "trans": "壊れやすい"},
@@ -1375,20 +1374,20 @@
       "number": 726,
       "word": "honorable",
       "pos": "形容詞",
-      "meaning": "名誉な、尊敬すべき、道徳的に正しい",
-      "nuance": "誠実で、高い道徳基準を持っていること、あるいは名誉を授けるに値することを指します。",
+      "meaning": "名誉ある、尊敬すべき、道徳的な、正直な",
+      "nuance": "高い道徳心に基づいた行動や、社会的に高い評価を受けるべき性質を指します。裁判官などへの敬称（Your Honor）の形容詞形でもあります。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "It was an honorable decision to admit his mistake.",
-              "ja": "自分の間違いを認めたのは、潔い（立派な）決断だった。",
+              "en": "He made an honorable decision to resign and take responsibility.",
+              "ja": "彼は責任を取って辞任するという、立派な（道徳的な）決断をした。",
               "highlight": "honorable"
             },
             {
-              "en": "He has served the country in an honorable way.",
-              "ja": "彼は名誉ある方法で国に尽くしてきた。",
+              "en": "She received an honorable discharge from the army.",
+              "ja": "彼女は軍から名誉除隊（成績良好による除隊）を認められた。",
               "highlight": "honorable"
             }
           ]
@@ -1396,13 +1395,13 @@
       ],
       "etymology": "honor（名誉）+ able",
       "synonyms": [
-        {"word": "noble", "trans": "高潔な"},
-        {"word": "respectable", "trans": "尊敬すべき"},
-        {"word": "ethical", "trans": "倫理的な"}
+        {"word": "noble", "trans": "気高い"},
+        {"word": "respectable", "trans": "立派な"},
+        {"word": "upright", "trans": "真っ当な"}
       ],
       "antonyms": [
-        {"word": "dishonorable", "trans": "恥ずべき"},
-        {"word": "shameful", "trans": "不名誉な"}
+        {"word": "dishonorable", "trans": "不名誉な"},
+        {"word": "shameful", "trans": "恥ずべき"}
       ],
       "related": [
         {"word": "honor", "trans": "名詞/動詞：名誉/称える"}
@@ -1412,73 +1411,75 @@
       "number": 727,
       "word": "inconsiderable",
       "pos": "形容詞",
-      "meaning": "（数量などが）わずかな、取るに足らない",
-      "nuance": "considerable（かなりの）の否定形。無視してもいいほど小さい、または重要でないことを表します。",
+      "meaning": "価値のない、わずかな、取るに足らない",
+      "nuance": "「かなりの、相当な」を意味する considerable の否定形です。特に量や重要性が「無視できるほど小さい」ことを指します。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "The difference in cost is inconsiderable.",
-              "ja": "費用の差はわずかなもの（無視できる程度）だ。",
+              "en": "The cost of the repairs was not inconsiderable.",
+              "ja": "修理費用は決して少なくはなかった（＝かなり高かった：二重否定の強調）。",
               "highlight": "inconsiderable"
             },
             {
-              "en": "He inherited a not inconsiderable sum of money.",
-              "ja": "彼は（「わずかではない」＝）かなりの額の遺産を相続した。",
+              "en": "The differences between the two models are inconsiderable.",
+              "ja": "その2つのモデルの差は、取るに足らない（わずかな）ものだ。",
               "highlight": "inconsiderable"
             }
           ]
         }
       ],
-      "etymology": "in（否定）+ considerable（考慮に値する）",
+      "etymology": "in（否定）+ consider（考慮する）+ able → 考慮に値しない",
       "synonyms": [
         {"word": "insignificant", "trans": "重要でない"},
-        {"word": "slight", "trans": "わずかな"},
-        {"word": "minor", "trans": "小さい方の、重要でない"}
+        {"word": "trivial", "trans": "些細な"},
+        {"word": "slight", "trans": "わずかな"}
       ],
       "antonyms": [
         {"word": "considerable", "trans": "かなりの"},
-        {"word": "significant", "trans": "重大な、かなりの"}
+        {"word": "substantial", "trans": "相当な"}
       ],
-      "related": []
+      "related": [
+        {"word": "considerate", "trans": "形容詞：思いやりのある"}
+      ]
     },
     {
       "number": 728,
       "word": "objectionable",
       "pos": "形容詞",
       "meaning": "不快な、異議のある、受け入れがたい",
-      "nuance": "道徳的に、あるいは感情的に「反対したくなるような」嫌な性質を指します。",
+      "nuance": "不快感を与えたり、反対意見が出るような、不適切な言動や物事に対して使われます。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "I found his rude behavior highly objectionable.",
-              "ja": "彼の失礼な振る舞いは、非常に不快（受け入れがたい）と感じた。",
+              "en": "The program was taken off the air due to objectionable content.",
+              "ja": "その番組は不適切な（不快な）内容のために放送中止となった。",
               "highlight": "objectionable"
             },
             {
-              "en": "The movie was banned due to its objectionable content.",
-              "ja": "その映画は不快な（問題のある）内容のため上映禁止になった。",
+              "en": "I found his rude behavior highly objectionable.",
+              "ja": "彼の失礼な振る舞いは、非常に受け入れがたい（不快だ）と感じた。",
               "highlight": "objectionable"
             }
           ]
         }
       ],
-      "etymology": "objection（異議）+ able",
+      "etymology": "objection（反対、異議）+ able",
       "synonyms": [
-        {"word": "offensive", "trans": "不快な、攻撃的な"},
-        {"word": "unacceptable", "trans": "容認できない"},
-        {"word": "unpleasant", "trans": "不快な"}
+        {"word": "offensive", "trans": "不快な"},
+        {"word": "unpleasant", "trans": "嫌な"},
+        {"word": "disagreeable", "trans": "感じの悪い"}
       ],
       "antonyms": [
         {"word": "acceptable", "trans": "容認できる"},
-        {"word": "pleasant", "trans": "心地よい"}
+        {"word": "agreeable", "trans": "快い"}
       ],
       "related": [
         {"word": "object", "trans": "動詞：反対する"},
-        {"word": "objection", "trans": "名詞：反対、異議"}
+        {"word": "objection", "trans": "名詞：異議"}
       ]
     },
     {
@@ -1486,14 +1487,14 @@
       "word": "portable",
       "pos": "形容詞、名詞",
       "meaning": "持ち運びできる、携帯用の、ポータブル機器",
-      "nuance": "軽量であったり、取っ手がついていたりして、簡単に移動させることができることを指します。",
+      "nuance": "容易に持ち運べる大きさや重さであることを指します。",
       "example_sections": [
         {
           "title": "例文（形容詞）",
           "examples": [
             {
-              "en": "I need a portable charger for my phone.",
-              "ja": "スマホ用の携帯用充電器が必要だ。",
+              "en": "He bought a portable speaker for the picnic.",
+              "ja": "彼はピクニックのために携帯用スピーカーを買った。",
               "highlight": "portable"
             }
           ]
@@ -1502,61 +1503,63 @@
           "title": "例文（名詞）",
           "examples": [
             {
-              "en": "The students were taught in a portable during the renovation.",
-              "ja": "改築の間、学生たちは仮設（移動式）教室で授業を受けた。",
-              "highlight": "portable"
+              "en": "In the past, portables were much heavier than today's laptops.",
+              "ja": "かつて、ポータブル機器は今日のノートパソコンよりもずっと重かった。",
+              "highlight": "portables"
             }
           ]
         }
       ],
       "etymology": "ラテン語 portare（運ぶ）+ able",
       "synonyms": [
-        {"word": "movable", "trans": "移動可能な"},
+        {"word": "movable", "trans": "動かせる"},
         {"word": "transportable", "trans": "輸送可能な"},
         {"word": "handy", "trans": "便利な、手近な"}
       ],
       "antonyms": [
         {"word": "fixed", "trans": "固定された"},
-        {"word": "stationary", "trans": "動かない"}
+        {"word": "stationary", "trans": "静止した、動かせない"}
       ],
       "related": [
-        {"word": "export", "trans": "動詞：輸出する（外へ運ぶ）"},
-        {"word": "import", "trans": "動詞：輸入する（中へ運ぶ）"}
+        {"word": "transport", "trans": "動詞：輸送する"},
+        {"word": "import", "trans": "動詞：輸入する（運び入れる）"}
       ]
     },
     {
       "number": 730,
       "word": "sustainable",
       "pos": "形容詞",
-      "meaning": "持続可能な、維持できる、立証できる",
-      "nuance": "環境破壊をせずに活動を続けられるという意味（SDGsなど）で最も有名ですが、経済や議論の「維持」にも使われます。",
+      "meaning": "持続可能な、維持できる、耐えうる",
+      "nuance": "環境を破壊せずに活動を続けられる（サステナブル）という意味で現代では最も多用されますが、元々は「支え続けられる」という意味です。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "The company is committed to sustainable development.",
-              "ja": "その企業は持続可能な開発に取り組んでいる。",
+              "en": "The goal is to promote sustainable economic growth.",
+              "ja": "目標は持続可能な経済成長を促進することだ。",
               "highlight": "sustainable"
             },
             {
-              "en": "This level of spending is not sustainable in the long term.",
-              "ja": "この支出レベルは長期的には維持不可能だ。",
+              "en": "This level of stress is not sustainable in the long run.",
+              "ja": "このレベルのストレスは、長期的には耐えられるものではない（維持できない）。",
               "highlight": "sustainable"
             }
           ]
         }
       ],
-      "etymology": "sustain（支える）+ able",
+      "etymology": "sub（下から）+ tenere（保持する）+ able → 下から支え持てる",
       "synonyms": [
         {"word": "maintainable", "trans": "維持できる"},
-        {"word": "viable", "trans": "実行可能な"},
+        {"word": "viable", "trans": "実行可能な、生存できる"},
         {"word": "renewable", "trans": "再生可能な"}
       ],
       "antonyms": [
-        {"word": "unsustainable", "trans": "持続不可能な"}
+        {"word": "unsustainable", "trans": "持続不可能な"},
+        {"word": "unbearable", "trans": "耐え難い"}
       ],
       "related": [
+        {"word": "sustain", "trans": "動詞：維持する"},
         {"word": "sustainability", "trans": "名詞：持続可能性"}
       ]
     },
@@ -1565,19 +1568,19 @@
       "word": "sustenance",
       "pos": "名詞",
       "meaning": "食物、栄養、生計、維持",
-      "nuance": "生命を維持するために必要な食べ物や飲み物、あるいは精神的な支えを指します。",
+      "nuance": "生命を維持するための食べ物や飲み物を指す、少し硬い言葉です。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "Potatoes were their main source of sustenance.",
-              "ja": "ジャガイモが彼らの主な食物（栄養源）だった。",
+              "en": "The hikers were without sustenance for three days.",
+              "ja": "ハイカーたちは3日間、食べ物（栄養源）がない状態だった。",
               "highlight": "sustenance"
             },
             {
-              "en": "They found spiritual sustenance in their religion.",
-              "ja": "彼らは宗教の中に精神的な支えを見出した。",
+              "en": "Agriculture provided the main sustenance for the community.",
+              "ja": "農業がそのコミュニティの主な生計手段（維持手段）となっていた。",
               "highlight": "sustenance"
             }
           ]
@@ -1585,49 +1588,51 @@
       ],
       "etymology": "sustain の名詞形",
       "synonyms": [
-        {"word": "nourishment", "trans": "栄養"},
-        {"word": "food", "trans": "食物"},
-        {"word": "livelihood", "trans": "生計"}
+        {"word": "nourishment", "trans": "栄養物"},
+        {"word": "livelihood", "trans": "生計"},
+        {"word": "food", "trans": "食べ物"}
       ],
-      "antonyms": [],
-      "related": [
-        {"word": "sustain", "trans": "動詞：支える、持続させる"}
-      ]
+      "antonyms": [
+        {"word": "starvation", "trans": "飢餓"}
+      ],
+      "related": []
     },
     {
       "number": 731,
       "word": "understandable",
       "pos": "形容詞",
-      "meaning": "理解できる、当然の、無理もない",
-      "nuance": "意味が明快で分かることだけでなく、感情や行動が「（その状況なら）理解してあげられる、仕方ない」という共感的な意味でもよく使われます。",
+      "meaning": "理解できる、無理もない、当然の",
+      "nuance": "内容が分かりやすいという意味の他に、状況から考えて「（感情や行動が）もっともだ、納得がいく」という意味でよく使われます。",
       "example_sections": [
         {
           "title": "例文",
           "examples": [
             {
-              "en": "Her anger is perfectly understandable given the situation.",
-              "ja": "状況を考えれば、彼女の怒りは十分に理解できる（無理もない）。",
+              "en": "His anger is perfectly understandable under the circumstances.",
+              "ja": "あの状況下では、彼の怒りは全くもっともだ（理解できる）。",
               "highlight": "understandable"
             },
             {
-              "en": "The instructions were clear and understandable.",
-              "ja": "その指示は明確で分かりやすかった。",
+              "en": "The instructions were written in clear and understandable language.",
+              "ja": "指示書は明確で分かりやすい（理解可能な）言葉で書かれていた。",
               "highlight": "understandable"
             }
           ]
         }
       ],
-      "etymology": "understand + able",
+      "etymology": "understand（理解する）+ able",
       "synonyms": [
-        {"word": "comprehensible", "trans": "理解可能な"},
-        {"word": "reasonable", "trans": "もっともな"},
-        {"word": "excusable", "trans": "言い訳の立つ"}
+        {"word": "comprehensible", "trans": "理解できる"},
+        {"word": "intelligible", "trans": "明快な"},
+        {"word": "reasonable", "trans": "妥当な、道理にかなった"}
       ],
       "antonyms": [
         {"word": "incomprehensible", "trans": "理解不能な"},
         {"word": "unfathomable", "trans": "計り知れない"}
       ],
-      "related": []
+      "related": [
+        {"word": "understanding", "trans": "名詞/形容詞：理解/物分かりの良い"}
+      ]
     }
   ]
 }
