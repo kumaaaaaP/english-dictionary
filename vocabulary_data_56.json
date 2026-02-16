@@ -88,6 +88,55 @@
       ]
     },
     {
+      "number": 4477,
+      "word": "province",
+      "pos": "名詞",
+      "meaning": "州、省、地方、分野、領域",
+      "nuance": "国家を分割した行政区画（カナダの「州」や中国の「省」など）を指すほか、比喩的に個人の「専門領域」や「管轄」を指す際にも使われます。",
+      "example_sections": [
+        {
+          "title": "意味1：行政区画としての州・省",
+          "examples": [
+            {
+              "en": "Quebec is the largest province in Canada by land area.",
+              "ja": "ケベック州は、土地面積においてカナダ最大の州である。",
+              "highlight": "province"
+            },
+            {
+              "en": "The empire was divided into several provinces.",
+              "ja": "その帝国はいくつかの属州に分割されていた。",
+              "highlight": "provinces"
+            }
+          ]
+        },
+        {
+          "title": "意味2：専門分野・管轄",
+          "examples": [
+            {
+              "en": "Marketing is not really within my province.",
+              "ja": "マーケティングは、実は私の専門外（管轄外）です。",
+              "highlight": "province"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前に) + vincere (征服する) → 征服された地",
+      "synonyms": [
+        {"word": "state", "trans": "州"},
+        {"word": "region", "trans": "地域"},
+        {"word": "domain", "trans": "領域、分野"}
+      ],
+      "antonyms": [
+        {"word": "capital", "trans": "首都"},
+        {"word": "center", "trans": "中心地"},
+        {"word": "metropolis", "trans": "大都市"}
+      ],
+      "related": [
+        {"word": "provincial", "trans": "形容詞：地方の、田舎臭い"},
+        {"word": "provincialism", "trans": "名詞：地方気質、偏狭さ"}
+      ]
+    },
+    {
       "number": 4479,
       "word": "pose",
       "pos": "名詞、動詞",
@@ -102,55 +151,6 @@
               "ja": "気候変動は地球に深刻な脅威を投げかけている（もたらしている）。",
               "highlight": "poses"
             }
-          ]
-        },
-        {
-          "number": 4477,
-          "word": "province",
-          "pos": "名詞",
-          "meaning": "州、省、地方、分野、領域",
-          "nuance": "国家を分割した行政区画（カナダの「州」や中国の「省」など）を指すほか、比喩的に個人の「専門領域」や「管轄」を指す際にも使われます。",
-          "example_sections": [
-            {
-              "title": "意味1：行政区画としての州・省",
-              "examples": [
-                {
-                  "en": "Quebec is the largest province in Canada by land area.",
-                  "ja": "ケベック州は、土地面積においてカナダ最大の州である。",
-                  "highlight": "province"
-                },
-                {
-                  "en": "The empire was divided into several provinces.",
-                  "ja": "その帝国はいくつかの属州に分割されていた。",
-                  "highlight": "provinces"
-                }
-              ]
-            },
-            {
-              "title": "意味2：専門分野・管轄",
-              "examples": [
-                {
-                  "en": "Marketing is not really within my province.",
-                  "ja": "マーケティングは、実は私の専門外（管轄外）です。",
-                  "highlight": "province"
-                }
-              ]
-            }
-          ],
-          "etymology": "pro (前に) + vincere (征服する) → 征服された地",
-          "synonyms": [
-            {"word": "state", "trans": "州"},
-            {"word": "region", "trans": "地域"},
-            {"word": "domain", "trans": "領域、分野"}
-          ],
-          "antonyms": [
-            {"word": "capital", "trans": "首都"},
-            {"word": "center", "trans": "中心地"},
-            {"word": "metropolis", "trans": "大都市"}
-          ],
-          "related": [
-            {"word": "provincial", "trans": "形容詞：地方の、田舎臭い"},
-            {"word": "provincialism", "trans": "名詞：地方気質、偏狭さ"}
           ]
         },
         {
