@@ -39,20 +39,16 @@ CHAPTER_MAP = {
 # 2. 補助関数
 # ==========================================
 def natural_sort_key(filename):
-    """自然順ソート用キー"""
     parts = re.split(r'(\d+)', filename)
     converted_parts = [int(p) if p.isdigit() else p.lower() for p in parts if p]
-    
     if len(converted_parts) > 1:
         if converted_parts[1] == '.html':
             return [converted_parts[0], 0] + converted_parts[2:]
         else:
             return [converted_parts[0], 1] + converted_parts[2:]
-            
     return converted_parts
 
 def get_base_number(filename):
-    """ファイル名の先頭数字を取得"""
     match = re.match(r'^(\d+)', filename)
     return int(match.group(1)) if match else 0
 
@@ -64,11 +60,9 @@ def generate_index():
     if not os.path.exists(word_dir):
         os.makedirs(word_dir)
 
-    # 単語ファイルの取得とソート
     files = [f for f in os.listdir(word_dir) if f.endswith(".html")]
     files.sort(key=natural_sort_key)
 
-    # --- HTMLヘッダー ---
     html_content = """<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -101,7 +95,6 @@ def generate_index():
         .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
         .sub-word .word-id { color: #6a994e; }
         
-        /* Lazy Loading用 */
         .word-item.hidden { display: none; }
         .loading-indicator { text-align: center; padding: 20px; color: var(--chapter-color); }
     </style>
@@ -109,25 +102,25 @@ def generate_index():
 <body>
 <div class="container">
     <h1>英単語辞書 データベース</h1>
+    <nav class="toc">
+        <div class="toc-title">Chapter Index</div>
+        <ul class="toc-links">
 """
 
-    # --- 目次セクション ---
-    html_content += '    <nav class="toc">\n        <div class="toc-title">Chapter Index</div>\n        <ul class="toc-links">\n'
     for s_num in sorted(CHAPTER_MAP.keys()):
         html_content += f'            <li><a href="#chapter-{s_num}">{CHAPTER_MAP[s_num]}</a></li>\n'
-    html_content += '        </ul>\n    </nav>\n'
-
-    html_content += """    <input type="text" id="searchInput" class="search-box" placeholder="単語・番号で検索..." onkeyup="filterList()">
+    
+    html_content += """        </ul>
+    </nav>
+    <input type="text" id="searchInput" class="search-box" placeholder="単語・番号で検索..." onkeyup="filterList()">
     <ul class="word-list" id="wordList">
 """
 
-    # --- 単語リスト部分の生成 ---
     current_chapter_start = -1
     sorted_thresholds = sorted(CHAPTER_MAP.keys(), reverse=True)
 
     for filename in files:
         base_num = get_base_number(filename)
-        
         for t in sorted_thresholds:
             if base_num >= t:
                 if t != current_chapter_start:
@@ -137,10 +130,8 @@ def generate_index():
 
         word_id_full = filename.replace(".html", "")
         display_name = re.sub(r'^[0-9-]+', '', word_id_full).replace("-", " ").strip()
-        
         parts = word_id_full.split("-")
         is_sub = len(parts) > 1 and parts[1].isdigit()
-        
         item_class = "word-item sub-word" if is_sub else "word-item"
         display_id = parts[0] + ("-" + parts[1] if is_sub else "")
 
@@ -149,161 +140,105 @@ def generate_index():
         html_content += f'<span class="word-name">{display_name}</span></a></li>\n'
 
     html_content += """    </ul>
-    <div class="loading-indicator" id="loadingIndicator" style="display: none;">読み込み中...</div>
+    <div class="loading-indicator" id="loadingIndicator">スクロールして読み込み...</div>
 </div>
 <script>
-    // Lazy Loading機能
-    const ITEMS_PER_PAGE = 50; // 一度に表示する単語数
-    const CHAPTER_LOAD_RANGE = 50; // 章ジャンプ時に前後何件読み込むか
-    let currentlyVisible = ITEMS_PER_PAGE;
+    // --- 座標ベースのLazy Loading改良版 ---
     const wordList = document.getElementById('wordList');
-    const allItems = Array.from(wordList.children).filter(item => 
-        item.classList.contains('word-item')
-    );
-    const loadingIndicator = document.getElementById('loadingIndicator');
-    
-    // 初期表示：最初の50件のみ表示
-    function initializeLazyLoad() {
-        allItems.forEach((item, index) => {
-            if (index >= ITEMS_PER_PAGE) {
-                item.classList.add('hidden');
-            }
-        });
-    }
-    
-    // スクロールで追加読み込み
-    function loadMoreItems() {
-        const visibleItems = allItems.filter(item => !item.classList.contains('hidden'));
+    const allItems = Array.from(wordList.children).filter(item => item.classList.contains('word-item'));
+    const margin = 1200; // 画面外1200px先まで事前に表示させる
+
+    // 現在の表示位置をチェックしてhiddenを外す
+    function checkVisibleItems() {
+        const triggerLimit = window.innerHeight + window.scrollY + margin;
         
-        if (visibleItems.length >= allItems.length) {
-            loadingIndicator.style.display = 'none';
-            return;
-        }
-        
-        loadingIndicator.style.display = 'block';
-        
-        // 次の50件を表示
-        const itemsToShow = allItems.slice(currentlyVisible, currentlyVisible + ITEMS_PER_PAGE);
-        itemsToShow.forEach(item => item.classList.remove('hidden'));
-        
-        currentlyVisible += ITEMS_PER_PAGE;
-        loadingIndicator.style.display = 'none';
-    }
-    
-    // 章リンククリック時の処理
-    function loadChapterAndScroll(event, chapterId) {
-        event.preventDefault();
-        
-        // 章ヘッダーを取得
-        const chapterHeader = document.getElementById(chapterId);
-        if (!chapterHeader) return;
-        
-        // 章ヘッダーの位置（全体リストでのインデックス）を探す
-        const allListItems = Array.from(wordList.children);
-        const chapterIndex = allListItems.indexOf(chapterHeader);
-        
-        if (chapterIndex === -1) return;
-        
-        // 章の後ろにある単語アイテムのインデックスを計算
-        let firstWordIndex = -1;
-        for (let i = 0; i < allItems.length; i++) {
-            const itemInList = allListItems.indexOf(allItems[i]);
-            if (itemInList > chapterIndex) {
-                firstWordIndex = i;
-                break;
-            }
-        }
-        
-        if (firstWordIndex === -1) return;
-        
-        // 前後50件の範囲を計算
-        const startIndex = Math.max(0, firstWordIndex - CHAPTER_LOAD_RANGE);
-        const endIndex = Math.min(allItems.length, firstWordIndex + CHAPTER_LOAD_RANGE);
-        
-        // 該当範囲を表示
-        allItems.forEach((item, index) => {
-            if (index >= startIndex && index < endIndex) {
-                item.classList.remove('hidden');
-            }
-        });
-        
-        // currentlyVisibleを更新（最大値に設定）
-        currentlyVisible = Math.max(currentlyVisible, endIndex);
-        
-        // スクロール
-        setTimeout(() => {
-            chapterHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }, 50);
-    }
-    
-    // 目次リンクにイベントリスナーを追加
-    document.addEventListener('DOMContentLoaded', () => {
-        const tocLinks = document.querySelectorAll('.toc-links a');
-        tocLinks.forEach(link => {
-            link.addEventListener('click', (event) => {
-                const href = link.getAttribute('href');
-                const chapterId = href.substring(1); // #を除去
-                loadChapterAndScroll(event, chapterId);
-            });
-        });
-    });
-    
-    // スクロールイベント
-    let isLoading = false;
-    window.addEventListener('scroll', () => {
-        if (isLoading) return;
-        
-        const scrollTop = window.scrollY;
-        const windowHeight = window.innerHeight;
-        const documentHeight = document.documentElement.scrollHeight;
-        
-        // 画面の80%までスクロールしたら次を読み込む
-        if (scrollTop + windowHeight >= documentHeight * 0.8) {
-            isLoading = true;
-            loadMoreItems();
-            setTimeout(() => isLoading = false, 100);
-        }
-    });
-    
-    // 検索機能（既存）
-    function filterList() {
-        const input = document.getElementById('searchInput');
-        const filter = input.value.toLowerCase();
-        const items = wordList.getElementsByTagName('li');
-        
-        if (filter === "") {
-            // 検索なしの場合：Lazy Loading復活
-            allItems.forEach((item, index) => {
-                if (index < currentlyVisible) {
+        let hasHidden = false;
+        for (let item of allItems) {
+            if (item.classList.contains('hidden')) {
+                // hidden状態だとgetBoundingClientRect().topが正確に取れない場合があるため、
+                // 親要素内でのオフセット等を利用するか、単純に順番にチェックします。
+                if (item.offsetTop < triggerLimit) {
                     item.classList.remove('hidden');
                 } else {
-                    item.classList.add('hidden');
+                    hasHidden = true;
+                    break; // これ以降はまだ画面より遠いので中断
                 }
-            });
-        } else {
-            // 検索時：すべて表示してフィルタ
-            for (let i = 0; i < items.length; i++) {
-                if (items[i].classList.contains('chapter-header')) {
-                    items[i].style.display = 'none';
-                    continue;
-                }
-                
-                items[i].classList.remove('hidden');
-                const text = items[i].textContent || items[i].innerText;
-                items[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
             }
         }
+        
+        document.getElementById('loadingIndicator').style.display = hasHidden ? 'block' : 'none';
     }
-    
-    // ページ読み込み時に初期化
-    initializeLazyLoad();
+
+    // 初期化
+    function initializeLazyLoad() {
+        allItems.forEach(item => item.classList.add('hidden'));
+        checkVisibleItems();
+    }
+
+    // 章ジャンプ
+    function loadChapterAndScroll(event, chapterId) {
+        event.preventDefault();
+        const chapterHeader = document.getElementById(chapterId);
+        if (!chapterHeader) return;
+
+        // ジャンプ先の直後の要素をいくつか強制表示（スクロール時の空白防止）
+        let nextEl = chapterHeader.nextElementSibling;
+        for (let i = 0; i < 40 && nextEl; i++) {
+            if (nextEl.classList.contains('word-item')) nextEl.classList.remove('hidden');
+            nextEl = nextEl.nextElementSibling;
+        }
+
+        chapterHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        
+        // スクロール中・完了後に位置判定を再実行
+        setTimeout(checkVisibleItems, 100);
+        setTimeout(checkVisibleItems, 600);
+    }
+
+    // イベント登録
+    window.addEventListener('scroll', () => {
+        window.requestAnimationFrame(checkVisibleItems);
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('.toc-links a').forEach(link => {
+            link.addEventListener('click', (e) => {
+                const chapterId = link.getAttribute('href').substring(1);
+                loadChapterAndScroll(e, chapterId);
+            });
+        });
+        initializeLazyLoad();
+    });
+
+    // 検索機能
+    function filterList() {
+        const filter = document.getElementById('searchInput').value.toLowerCase();
+        const listItems = wordList.getElementsByTagName('li');
+
+        for (let item of listItems) {
+            if (item.classList.contains('chapter-header')) {
+                item.style.display = filter === "" ? "" : "none";
+                continue;
+            }
+            
+            if (filter === "") {
+                item.classList.add('hidden');
+                item.style.display = "";
+            } else {
+                const text = item.textContent || item.innerText;
+                item.classList.remove('hidden');
+                item.style.display = text.toLowerCase().includes(filter) ? "" : "none";
+            }
+        }
+        if (filter === "") checkVisibleItems();
+    }
 </script>
 </body>
 </html>"""
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"Update Complete: index.html has been rebuilt with {len(files)} words (Lazy Loading enabled).")
+    print(f"Update Complete: index.html has been rebuilt with {len(files)} words (Smart Coordinate Loading enabled).")
 
 if __name__ == "__main__":
     generate_index()
