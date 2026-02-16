@@ -1,0 +1,1308 @@
+{
+  "words": [
+    {
+      "number": 4674,
+      "word": "incentive",
+      "pos": "名詞",
+      "meaning": "動機、やる気を起こさせるもの、報酬、奨励金",
+      "nuance": "人を特定の行動に駆り立てる「アメ」の役割を果たす刺激を指します。ビジネスでは目標達成のためのボーナスなどを意味することが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government offers tax incentives for buying electric cars.",
+              "ja": "政府は電気自動車の購入に対して税制上の優遇措置（奨励策）を提供している。",
+              "highlight": "incentives"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 incanere (歌いかける、鼓舞する) から",
+      "synonyms": [
+        {"word": "motivation", "trans": "動機付け"},
+        {"word": "stimulus", "trans": "刺激"},
+        {"word": "bonus", "trans": "ボーナス、特別手当"}
+      ],
+      "antonyms": [
+        {"word": "deterrent", "trans": "抑止力、妨げ"},
+        {"word": "discouragement", "trans": "落胆させるもの"}
+      ]
+    },
+    {
+      "number": 4675,
+      "word": "trousers",
+      "pos": "名詞",
+      "meaning": "ズボン、パンツ",
+      "nuance": "主にイギリス英語で使われる表現です（アメリカでは pants が一般的）。常に複数形で扱われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was wearing a pair of grey trousers.",
+              "ja": "彼はグレーのズボンをはいていた。",
+              "highlight": "trousers"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "pants", "trans": "（主に米）ズボン"},
+        {"word": "slacks", "trans": "スラックス"}
+      ]
+    },
+    {
+      "number": 4677,
+      "word": "rage",
+      "pos": "名詞、動詞",
+      "meaning": "激怒、猛威、激しく怒る",
+      "nuance": "コントロールできないほどの激しい怒りを指します。また、嵐や病気が「猛威を振るう」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His face was red with rage.",
+              "ja": "彼の顔は激怒で真っ赤だった。",
+              "highlight": "rage"
+            },
+            {
+              "en": "The storm raged for three days.",
+              "ja": "嵐は3日間猛威を振るった。",
+              "highlight": "raged"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "fury", "trans": "激しい怒り"},
+        {"word": "wrath", "trans": "（神などの）憤怒"},
+        {"word": "outbreak", "trans": "勃発"}
+      ],
+      "antonyms": [
+        {"word": "calm", "trans": "冷静"},
+        {"word": "patience", "trans": "忍耐"}
+      ]
+    },
+    {
+      "number": 4679,
+      "word": "successive",
+      "pos": "形容詞",
+      "meaning": "引き続く、連続する",
+      "nuance": "中断することなく、次々と順番に起こることを指します（例：3日連続）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The team won three successive championships.",
+              "ja": "そのチームは3年連続（3回連続の）優勝を果たした。",
+              "highlight": "successive"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "succeed", "trans": "動詞：継承する、成功する"},
+        {"word": "succession", "trans": "名詞：連続、継承"}
+      ],
+      "synonyms": [
+        {"word": "consecutive", "trans": "連続した"},
+        {"word": "sequential", "trans": "連続的な"}
+      ]
+    },
+    {
+      "number": 4683,
+      "word": "discharge",
+      "pos": "動詞、名詞",
+      "meaning": "（液体・ガスなどを）排出する、（任務を）遂行する、解雇する、退院（退役）させる",
+      "nuance": "溜まっていたものを「外に出す」「解放する」というコアイメージがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The factory was found to be discharging chemicals into the river.",
+              "ja": "その工場は川に化学物質を排出していることが判明した。",
+              "highlight": "discharging"
+            },
+            {
+              "en": "He was discharged from the hospital yesterday.",
+              "ja": "彼は昨日、退院した。",
+              "highlight": "discharged"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "emit", "trans": "放出する"},
+        {"word": "release", "trans": "解放する"},
+        {"word": "dismiss", "trans": "解雇する"}
+      ]
+    },
+    {
+      "number": 4684,
+      "word": "steer",
+      "pos": "動詞",
+      "meaning": "（船や車を）操縦する、舵を取る、（特定の方向に）導く",
+      "nuance": "ハンドル操作など物理的な操縦だけでなく、状況をコントロールして望む方向へ導く際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She steered the car through the narrow gate.",
+              "ja": "彼女は狭い門を通り抜けるよう車を操縦した。",
+              "highlight": "steered"
+            },
+            {
+              "en": "The teacher tried to steer the discussion back to the original topic.",
+              "ja": "先生は議論を元のトピックに戻るよう導こうとした。",
+              "highlight": "steer"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "steering wheel", "trans": "名詞：ハンドル"}
+      ]
+    },
+    {
+      "number": 4688,
+      "word": "provoke",
+      "pos": "動詞",
+      "meaning": "（感情・反応を）引き起こす、〜を怒らせる、刺激する",
+      "nuance": "他人の感情（特に怒りや好奇心）や、特定の事件・反応をわざと（または結果的に）誘発させることです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The new law provoked a massive protest.",
+              "ja": "新しい法律が大規模な抗議活動を引き起こした。",
+              "highlight": "provoked"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "evoke", "trans": "（感情などを）呼び起こす"},
+        {"word": "trigger", "trans": "引き金となる"},
+        {"word": "annoy", "trans": "いらだたせる"}
+      ]
+    },
+    {
+      "number": 4689,
+      "word": "drift",
+      "pos": "動詞、名詞",
+      "meaning": "漂う、流される、漂流、大意",
+      "nuance": "風や潮の流れに任せて、目的なくゆらゆらと動くイメージです。話の要旨を catch the drift とも言います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The boat slowly drifted out to sea.",
+              "ja": "ボートはゆっくりと海へと漂い出した。",
+              "highlight": "drifted"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "float", "trans": "浮く、漂う"},
+        {"word": "wander", "trans": "さまよう"}
+      ]
+    },
+    {
+      "number": 4694,
+      "word": "abrupt",
+      "pos": "形容詞",
+      "meaning": "突然の、急な、ぶっきらぼうな",
+      "nuance": "前触れなく起こる変化や、相手を驚かせるほどぶっきらぼうな態度を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The meeting came to an abrupt end.",
+              "ja": "会議は突然の終わりを迎えた。",
+              "highlight": "abrupt"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "sudden", "trans": "突然の"},
+        {"word": "blunt", "trans": "ぶっきらぼうな"}
+      ],
+      "antonyms": [
+        {"word": "gradual", "trans": "緩やかな、段階的な"}
+      ]
+    },
+    {
+      "number": 4695,
+      "word": "drain",
+      "pos": "動詞、名詞",
+      "meaning": "〜を消耗させる、（液体を）排出させる、排水管",
+      "nuance": "エネルギーやお金、液体などを「じわじわと使い果たす（抜く）」イメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The long journey drained all his energy.",
+              "ja": "長い旅が彼の体力をすべて消耗させた。",
+              "highlight": "drained"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "exhaust", "trans": "使い果たす"},
+        {"word": "empty", "trans": "空にする"}
+      ],
+      "antonyms": [
+        {"word": "replenish", "trans": "補充する"},
+        {"word": "fill", "trans": "満たす"}
+      ]
+    },
+    {
+      "number": 4698,
+      "word": "segment",
+      "pos": "名詞、動詞",
+      "meaning": "部分、断片、区分、〜を分割する",
+      "nuance": "全体をいくつかに分けたうちの一つの「節」や「セクション」を指します（例：みかんの一房、市場のセグメント）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Each segment of the orange was juicy.",
+              "ja": "オレンジのどの一房（部分）もジューシーだった。",
+              "highlight": "segment"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "part", "trans": "部分"},
+        {"word": "section", "trans": "区画"},
+        {"word": "portion", "trans": "一部"}
+      ]
+    },
+    {
+      "number": 4701,
+      "word": "bearing",
+      "pos": "名詞",
+      "meaning": "関係、関連、振る舞い、方向感",
+      "nuance": "have a bearing on で「〜に関係がある」という形でよく使われます。また、人の立ち居振る舞いや、自分がどこにいるかの感覚（方位）も指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His evidence has no direct bearing on the case.",
+              "ja": "彼の証拠はその事件とは直接の関係がない。",
+              "highlight": "bearing"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "relation", "trans": "関係"},
+        {"word": "manner", "trans": "態度"},
+        {"word": "relevance", "trans": "関連性"}
+      ]
+    },
+    {
+      "number": 4702,
+      "word": "humane",
+      "pos": "形容詞",
+      "meaning": "思いやりのある、人道的な、慈悲深い",
+      "nuance": "人間としての優しさを感じさせる態度や、動物・囚人など弱者に対する扱いが「残酷でない」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The organization works for the humane treatment of animals.",
+              "ja": "その組織は動物の人道的な扱いを求めて活動している。",
+              "highlight": "humane"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "compassionate", "trans": "情け深い"},
+        {"word": "kind", "trans": "親切な"}
+      ],
+      "antonyms": [
+        {"word": "cruel", "trans": "残酷な"},
+        {"word": "inhumane", "trans": "非人道的な"}
+      ]
+    },
+    {
+      "number": 4703,
+      "word": "throat",
+      "pos": "名詞",
+      "meaning": "のど",
+      "nuance": "のどの内側、食道や気道がある部分を指します（首の外側は neck）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I have a sore throat.",
+              "ja": "のどが痛い。",
+              "highlight": "throat"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "clear one's throat", "trans": "咳払いをする"}
+      ]
+    },
+    {
+      "number": 4704,
+      "word": "disregard",
+      "pos": "動詞、名詞",
+      "meaning": "〜を無視する、軽視する、無視、軽視",
+      "nuance": "意図的に、あるいは重要でないと考えて「注意を払わない」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please disregard my previous email.",
+              "ja": "私の前のメールは無視（破棄）してください。",
+              "highlight": "disregard"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "neglect", "trans": "怠る"},
+        {"word": "overlook", "trans": "見逃す"}
+      ],
+      "antonyms": [
+        {"word": "heed", "trans": "心に留める"},
+        {"word": "respect", "trans": "尊重する"}
+      ]
+    },
+    {
+      "number": 4706,
+      "word": "courtesy",
+      "pos": "名詞",
+      "meaning": "礼儀作法、丁重、優遇、厚意",
+      "nuance": "単なるマナー（manners）よりも、他人に対する「思いやりを伴った丁寧な振る舞い」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He didn't even have the courtesy to say thank you.",
+              "ja": "彼はありがとうと言う礼儀さえ持ち合わせていなかった。",
+              "highlight": "courtesy"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "politeness", "trans": "丁寧さ"},
+        {"word": "civility", "trans": "礼儀"}
+      ],
+      "antonyms": [
+        {"word": "rudeness", "trans": "失礼"},
+        {"word": "discourtesy", "trans": "無作法"}
+      ]
+    },
+    {
+      "number": 4709,
+      "word": "creep",
+      "pos": "動詞、名詞",
+      "meaning": "（音を立てずに）這う、忍び寄る、嫌なやつ（口語）",
+      "nuance": "見つからないように、あるいはゆっくりと低い姿勢で進む動きです。時間が「いつの間にか過ぎる」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The cat crept toward the bird.",
+              "ja": "猫は鳥に向かって忍び寄った。",
+              "highlight": "crept"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "crawl", "trans": "這う"},
+        {"word": "sneak", "trans": "こっそり動く"}
+      ],
+      "related": [
+        {"word": "creepy", "trans": "形容詞：気味の悪い"}
+      ]
+    },
+    {
+      "number": 4713,
+      "word": "hostility",
+      "pos": "名詞",
+      "meaning": "敵意、反目、敵対行為",
+      "nuance": "相手に対して強い嫌悪感を持ち、攻撃的な態度を取ることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There was a lot of hostility between the two neighbors.",
+              "ja": "その2人の隣人の間には多くの敵意があった。",
+              "highlight": "hostility"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "enmity", "trans": "憎しみ"},
+        {"word": "antagonism", "trans": "敵対心"}
+      ],
+      "antonyms": [
+        {"word": "friendliness", "trans": "友情、親しみ"},
+        {"word": "hospitality", "trans": "もてなし"}
+      ],
+      "related": [
+        {"word": "hostile", "trans": "形容詞：敵意のある"}
+      ]
+    },
+    {
+      "number": 4714,
+      "word": "tease",
+      "pos": "動詞",
+      "meaning": "〜をいじめる、からかう、しつこく悩ます",
+      "nuance": "深刻な「bullying」よりも、冗談交じりの「からかい」に近いニュアンスですが、相手が嫌がっている場合も含みます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The boys used to tease him about his glasses.",
+              "ja": "男の子たちは彼のメガネのことをからかったものだ。",
+              "highlight": "tease"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "mock", "trans": "あざける"},
+        {"word": "taunt", "trans": "なじる"}
+      ]
+    },
+    {
+      "number": 4715,
+      "word": "dispose",
+      "pos": "動詞",
+      "meaning": "処分する (dispose of)、配置する、〜したい気にさせる",
+      "nuance": "dispose of 〜 で「〜を捨てる、片付ける」という意味が最も一般的です。本来は「（適切に）配置する」という意味です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please dispose of your trash properly.",
+              "ja": "ゴミは適切に処分してください。",
+              "highlight": "dispose"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "disposable", "trans": "形容詞：使い捨ての"},
+        {"word": "disposal", "trans": "名詞：処分"}
+      ]
+    },
+    {
+      "number": 4716,
+      "word": "pillar",
+      "pos": "名詞",
+      "meaning": "柱、中心人物、支柱",
+      "nuance": "建物を支える物理的な「柱」だけでなく、コミュニティや組織を支える重要な役割を持つ「人・理念」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was a pillar of the local community.",
+              "ja": "彼は地域社会の柱（中心人物）だった。",
+              "highlight": "pillar"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "column", "trans": "円柱"},
+        {"word": "support", "trans": "支え"}
+      ]
+    },
+    {
+      "number": 4718,
+      "word": "magnify",
+      "pos": "動詞",
+      "meaning": "〜を拡大する、大きく見せる、誇張する",
+      "nuance": "レンズを使って物理的に大きくすることや、問題などを実際より大げさに（誇張して）表現することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A microscope magnifies small objects many times.",
+              "ja": "顕微鏡は小さな物体を何倍にも拡大する。",
+              "highlight": "magnifies"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "magnifying glass", "trans": "名詞：虫眼鏡"},
+        {"word": "magnification", "trans": "名詞：倍率、拡大"}
+      ]
+    },
+    {
+      "number": 4719,
+      "word": "underneath",
+      "pos": "前置詞、副詞、名詞",
+      "meaning": "〜の下に、〜の裏側に",
+      "nuance": "underよりも「表面に隠れて」「すぐ下に」という密着した・隠れたニュアンスが強いです。本心などを表す際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She was wearing a shirt underneath her sweater.",
+              "ja": "彼女はセーターの下にシャツを着ていた。",
+              "highlight": "underneath"
+            },
+            {
+              "en": "Underneath his rough exterior, he is very kind.",
+              "ja": "ぶっきらぼうな外見の下（内面）では、彼はとても親切だ。",
+              "highlight": "Underneath"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4721,
+      "word": "roar",
+      "pos": "動詞、名詞",
+      "meaning": "（ライオンなどが）吠える、大声で叫ぶ、怒鳴る、咆哮、轟音",
+      "nuance": "深く低い、長く続く大きな音や声を指します。風の音や波の音、群衆の声にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The crowd roared with excitement.",
+              "ja": "群衆は興奮して大声を上げた（どよめいた）。",
+              "highlight": "roared"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "shout", "trans": "叫ぶ"},
+        {"word": "bellow", "trans": "怒鳴る"},
+        {"word": "thunder", "trans": "とどろく"}
+      ]
+    },
+    {
+      "number": 4722,
+      "word": "arithmetic",
+      "pos": "名詞",
+      "meaning": "算数、計算",
+      "nuance": "数学（mathematics）の中でも、足し算、引き算、掛け算、割り算などの基本的な数計算を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The children are learning basic arithmetic.",
+              "ja": "子供たちは基本的な算数を学んでいる。",
+              "highlight": "arithmetic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4723,
+      "word": "hierarchy",
+      "pos": "名詞",
+      "meaning": "階級制度、ヒエラルキー、序列",
+      "nuance": "権力や地位によってランク付けされた組織構造を指します。元々は教会の階級組織を指す言葉でした。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He rose quickly through the corporate hierarchy.",
+              "ja": "彼は会社の階級組織を素早く駆け上がった。",
+              "highlight": "hierarchy"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "ranking", "trans": "格付け"},
+        {"word": "pecking order", "trans": "（口語）序列、順位"}
+      ]
+    },
+    {
+      "number": 4724,
+      "word": "swift",
+      "pos": "形容詞",
+      "meaning": "素早い、迅速な、即座の",
+      "nuance": "動きが速いこと（fast）に加え、対応が遅滞なく行われるというポジティブなニュアンスが含まれます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government took swift action to help the victims.",
+              "ja": "政府は被災者を助けるために迅速な行動を取った。",
+              "highlight": "swift"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "rapid", "trans": "速い"},
+        {"word": "prompt", "trans": "即座の"}
+      ]
+    },
+    {
+      "number": 4725,
+      "word": "erect",
+      "pos": "形容詞、動詞",
+      "meaning": "直立した、垂直の、〜を建てる、直立させる",
+      "nuance": "背筋がピンと伸びた姿勢や、記念碑・建物を垂直に「建立する」際に使われる少し硬い言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They erected a statue in honor of the founder.",
+              "ja": "彼らは創設者を記念して像を建てた。",
+              "highlight": "erected"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "upright", "trans": "直立した"},
+        {"word": "build", "trans": "建てる"}
+      ]
+    },
+    {
+      "number": 4726,
+      "word": "prolong",
+      "pos": "動詞",
+      "meaning": "〜を延長する、長引かせる",
+      "nuance": "時間的な長さを付け足すイメージです。特に「命を長らえる」「滞在を延ばす」といった文脈で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The new drug may prolong the patients' lives.",
+              "ja": "その新薬は患者の命を延ばすかもしれない。",
+              "highlight": "prolong"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "extend", "trans": "延長する"},
+        {"word": "lengthen", "trans": "長くする"}
+      ],
+      "antonyms": [
+        {"word": "shorten", "trans": "短縮する"}
+      ]
+    },
+    {
+      "number": 4727,
+      "word": "dictate",
+      "pos": "動詞",
+      "meaning": "〜を口述する、書き取らせる、〜を命じる、決定づける",
+      "nuance": "一語一語書き取らせる（dictation）ことや、権力者が「こうしろ」と命令すること、あるいは状況が結果を「左右する」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She dictated the letter to her assistant.",
+              "ja": "彼女は助手に手紙を書き取らせた（口述した）。",
+              "highlight": "dictated"
+            },
+            {
+              "en": "Common sense dictates that we should leave now.",
+              "ja": "常識的に考えれば（常識が命じている）、私たちは今すぐ出発すべきだ。",
+              "highlight": "dictates"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "dictator", "trans": "名詞：独裁者"}
+      ]
+    },
+    {
+      "number": 4729,
+      "word": "comet",
+      "pos": "名詞",
+      "meaning": "彗星、ほうき星",
+      "nuance": "太陽の周りを楕円軌道で回る、尾を持つ天体です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Halley's Comet appears every 76 years.",
+              "ja": "ハレー彗星は76年ごとに現れる。",
+              "highlight": "Comet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4730,
+      "word": "lightning",
+      "pos": "名詞",
+      "meaning": "稲妻、雷光",
+      "nuance": "光そのものを指します（音は thunder）。形容詞的に「電光石火の（lightning fast）」という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The tree was struck by lightning.",
+              "ja": "その木に雷（稲妻）が落ちた。",
+              "highlight": "lightning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4731,
+      "word": "troop",
+      "pos": "名詞",
+      "meaning": "軍隊、部隊、群れ",
+      "nuance": "通常は複数形（troops）で「兵士、軍勢」を指します。また動物の群れや、スカウトの隊などにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government sent more troops to the border.",
+              "ja": "政府は国境へさらなる部隊を派遣した。",
+              "highlight": "troops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4733,
+      "word": "retreat",
+      "pos": "動詞、名詞",
+      "meaning": "退却する、引きこもる、退却、隠れ家、静養所",
+      "nuance": "敵から逃れる「軍事的な退却」だけでなく、騒がしい場所から「静かな場所へ逃れる（リトリート）」というポジティブな意味もあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The army was forced to retreat.",
+              "ja": "軍は退却を余儀なくされた。",
+              "highlight": "retreat"
+            },
+            {
+              "en": "The mountain cabin was his favorite summer retreat.",
+              "ja": "その山小屋は彼のお気に入りの夏の避暑地（隠れ家）だった。",
+              "highlight": "retreat"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "withdraw", "trans": "撤退する"},
+        {"word": "recede", "trans": "遠ざかる"}
+      ],
+      "antonyms": [
+        {"word": "advance", "trans": "前進する"}
+      ]
+    },
+    {
+      "number": 4734,
+      "word": "applause",
+      "pos": "名詞",
+      "meaning": "拍手喝采、賞賛",
+      "nuance": "「拍手」という行為そのものに加え、聴衆からの好意的な反応を表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The performance was met with loud applause.",
+              "ja": "その演奏は大きな拍手喝采で迎えられた。",
+              "highlight": "applause"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "applaud", "trans": "動詞：拍手する、褒める"}
+      ]
+    },
+    {
+      "number": 4735,
+      "word": "harsh",
+      "pos": "形容詞",
+      "meaning": "（音・光などが）耳障りな、まぶしい、（気候が）厳しい、（罰などが）過酷な",
+      "nuance": "感覚的に不快な鋭さや、容赦のない厳しさを表します。特に言葉が「きつい」際によく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He survived the harsh winter in the mountains.",
+              "ja": "彼は山の厳しい冬を生き延びた。",
+              "highlight": "harsh"
+            },
+            {
+              "en": "The criticism was a bit too harsh.",
+              "ja": "その批判は少し厳しすぎた。",
+              "highlight": "harsh"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "severe", "trans": "過酷な"},
+        {"word": "cruel", "trans": "残酷な"},
+        {"word": "rough", "trans": "荒い"}
+      ],
+      "antonyms": [
+        {"word": "gentle", "trans": "穏やかな"},
+        {"word": "mild", "trans": "まろやかな、緩い"}
+      ]
+    },
+    {
+      "number": 4739,
+      "word": "fragile",
+      "pos": "形容詞",
+      "meaning": "もろい、壊れやすい、虚弱な",
+      "nuance": "物理的な「ワレモノ」だけでなく、人の精神状態や平和などの「壊れやすい（危うい）」状態も指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Handle with care: fragile.",
+              "ja": "取扱注意：こわれもの。",
+              "highlight": "fragile"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "delicate", "trans": "繊細な"},
+        {"word": "frail", "trans": "弱々しい"}
+      ],
+      "antonyms": [
+        {"word": "sturdy", "trans": "丈夫な"},
+        {"word": "strong", "trans": "強い"}
+      ]
+    },
+    {
+      "number": 4746,
+      "word": "accelerate",
+      "pos": "動詞",
+      "meaning": "〜を加速する、早める",
+      "nuance": "速度を上げるだけでなく、計画やプロセスの「進行を早める」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The car accelerated as it hit the highway.",
+              "ja": "車は高速道路に入ると加速した。",
+              "highlight": "accelerated"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "acceleration", "trans": "名詞：加速"},
+        {"word": "accelerator", "trans": "名詞：アクセル"}
+      ],
+      "antonyms": [
+        {"word": "decelerate", "trans": "減速する"}
+      ]
+    },
+    {
+      "number": 4747,
+      "word": "grin",
+      "pos": "動詞、名詞",
+      "meaning": "にやりと笑う、歯を見せて笑う、にやにや笑い",
+      "nuance": "声を出して笑う（laugh）や微笑む（smile）とは違い、嬉しさやいたずら心で口を横に広げて笑う様子です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He grinned at me from across the room.",
+              "ja": "彼は部屋の向こうから私ににやりと笑いかけた。",
+              "highlight": "grinned"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "beam", "trans": "晴れやかに笑う"},
+        {"word": "smirk", "trans": "にやにや笑う（少し不快な）"}
+      ]
+    },
+    {
+      "number": 4748,
+      "word": "stalk",
+      "pos": "名詞、動詞",
+      "meaning": "（植物の）茎、幹、〜を忍び寄る、ストーキングする",
+      "nuance": "名詞は植物のメインの軸を指します。動詞は狩猟で獲物に近づくことや、現代では「つきまとう」という意味でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The lion stalked its prey.",
+              "ja": "ライオンは獲物に忍び寄った。",
+              "highlight": "stalked"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "stem", "trans": "（草の）茎"},
+        {"word": "pursue", "trans": "追跡する"}
+      ]
+    },
+    {
+      "number": 4750,
+      "word": "posture",
+      "pos": "名詞、動詞",
+      "meaning": "姿勢、ポーズ、態度、〜にポーズをとらせる",
+      "nuance": "体の構え（立ち姿など）だけでなく、ある問題に対する「政治的な姿勢・態度」も指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Good posture is important for your back.",
+              "ja": "良い姿勢は背中のために重要だ。",
+              "highlight": "posture"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "pose", "trans": "ポーズ"},
+        {"word": "stance", "trans": "スタンス、構え"}
+      ]
+    },
+    {
+      "number": 4751,
+      "word": "fountain",
+      "pos": "名詞",
+      "meaning": "噴水、泉、源泉",
+      "nuance": "人工的な噴水だけでなく、知識や若さなどの「湧き出る源」を比喩的に指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is a beautiful fountain in the park.",
+              "ja": "公園に美しい噴水がある。",
+              "highlight": "fountain"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "fountain pen", "trans": "名詞：万年筆"}
+      ]
+    },
+    {
+      "number": 4752,
+      "word": "shatter",
+      "pos": "動詞",
+      "meaning": "〜を粉砕する、粉々にする、打ち砕く",
+      "nuance": "ガラスなどが一瞬でバラバラに壊れる様子です。夢や希望が「打ち砕かれる」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The glass shattered on the floor.",
+              "ja": "ガラスが床で粉々に砕けた。",
+              "highlight": "shattered"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "smash", "trans": "粉砕する"},
+        {"word": "break", "trans": "壊す"}
+      ]
+    },
+    {
+      "number": 4754,
+      "word": "indifference",
+      "pos": "名詞",
+      "meaning": "無関心、冷淡",
+      "nuance": "関心がない、どうでもよいと思っている状態です。愛の反対は憎しみではなく無関心だ、といった文脈でよく登場します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His indifference to politics surprised me.",
+              "ja": "彼の政治への無関心には驚いた。",
+              "highlight": "indifference"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "apathy", "trans": "冷淡、無感動"},
+        {"word": "unconcern", "trans": "無頓着"}
+      ],
+      "antonyms": [
+        {"word": "interest", "trans": "興味"},
+        {"word": "concern", "trans": "懸念、関心"}
+      ],
+      "related": [
+        {"word": "indifferent", "trans": "形容詞：無関心な"}
+      ]
+    },
+    {
+      "number": 4756,
+      "word": "evoke",
+      "pos": "動詞",
+      "meaning": "（感情・記憶を）呼び起こす、喚起する",
+      "nuance": "匂いや音楽などが、昔の記憶や特定の感情を「ふっと思い出させる」イメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The smell of baking bread evoked memories of my childhood.",
+              "ja": "パンの焼ける匂いが、子供の頃の記憶を呼び起こした。",
+              "highlight": "evoked"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "arouse", "trans": "刺激する"},
+        {"word": "elicit", "trans": "引き出す"}
+      ]
+    },
+    {
+      "number": 4759,
+      "word": "splendid",
+      "pos": "形容詞",
+      "meaning": "輝かしい、素晴らしい、豪華な",
+      "nuance": "非常に見事で、光り輝くような素晴らしさを表します。少し古風で上品な褒め言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We had a splendid view from our hotel balcony.",
+              "ja": "ホテルのバルコニーからは素晴らしい景色が見えた。",
+              "highlight": "splendid"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "magnificent", "trans": "壮大な"},
+        {"word": "excellent", "trans": "優秀な"},
+        {"word": "grand", "trans": "豪華な"}
+      ],
+      "antonyms": [
+        {"word": "terrible", "trans": "ひどい"},
+        {"word": "ordinary", "trans": "普通の"}
+      ]
+    },
+    {
+      "number": 4761,
+      "word": "prestige",
+      "pos": "名詞",
+      "meaning": "威信、名声、威光",
+      "nuance": "成功や地位に基づいて他人が抱く「高い評価・尊敬」を指します（例：一流ブランド、名門校の威信）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The university has gained a lot of prestige over the years.",
+              "ja": "その大学は何年にもわたって大きな名声を得てきた。",
+              "highlight": "prestige"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "status", "trans": "地位"},
+        {"word": "reputation", "trans": "評判"},
+        {"word": "honor", "trans": "名誉"}
+      ],
+      "related": [
+        {"word": "prestigious", "trans": "形容詞：名声のある"}
+      ]
+    },
+    {
+      "number": 4764,
+      "word": "disprove",
+      "pos": "動詞",
+      "meaning": "〜の誤りを証明する、〜を論破する、反証する",
+      "nuance": "証拠や論理を使って、ある理論や主張が「間違っている」ことを明らかにすることです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The theory was later disproved by new scientific evidence.",
+              "ja": "その理論は後に、新しい科学的証拠によって誤りが証明された。",
+              "highlight": "disproved"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "refute", "trans": "反論する"},
+        {"word": "invalidate", "trans": "無効にする"}
+      ],
+      "antonyms": [
+        {"word": "prove", "trans": "証明する"},
+        {"word": "confirm", "trans": "確認する"}
+      ]
+    },
+    {
+      "number": 4765,
+      "word": "patron",
+      "pos": "名詞",
+      "meaning": "後援者、パトロン、ひいき客、常連",
+      "nuance": "芸術家などを金銭的に支援する人のほか、お店やホテルの「お客様」という丁寧な呼び方としても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The museum depends on the support of its patrons.",
+              "ja": "その美術館は後援者たちの支援に依存している。",
+              "highlight": "patrons"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "patronize", "trans": "動詞：ひいきにする、恩着せがましい態度を取る"}
+      ]
+    },
+    {
+      "number": 4766,
+      "word": "biography",
+      "pos": "名詞",
+      "meaning": "伝記",
+      "nuance": "他人が書いた個人の生涯の記録です（自分で書くのは autobiography）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is writing a biography of Steve Jobs.",
+              "ja": "彼はスティーブ・ジョブズの伝記を書いている。",
+              "highlight": "biography"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "autobiography", "trans": "名詞：自伝"}
+      ]
+    },
+    {
+      "number": 4768,
+      "word": "upright",
+      "pos": "形容詞、副詞",
+      "meaning": "垂直の、直立した、正直な",
+      "nuance": "物理的に「真っ直ぐ立っている」ことと、道徳的に「真っ直ぐな（正直な）」ことの両方を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please keep the box in an upright position.",
+              "ja": "箱を垂直の状態（立てた状態）にしておいてください。",
+              "highlight": "upright"
+            },
+            {
+              "en": "He was an upright citizen who never broke the law.",
+              "ja": "彼は一度も法を犯したことのない、正直な市民だった。",
+              "highlight": "upright"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "vertical", "trans": "垂直の"},
+        {"word": "erect", "trans": "直立した"},
+        {"word": "honest", "trans": "正直な"}
+      ]
+    },
+    {
+      "number": 4771,
+      "word": "decay",
+      "pos": "動詞、名詞",
+      "meaning": "腐食する、朽ちる、衰退する、腐敗、衰退",
+      "nuance": "有機物が腐ることや、虫歯（tooth decay）、あるいは文明や都市の活気が失われていく「自然な劣化・衰退」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Sugar can cause teeth to decay.",
+              "ja": "砂糖は歯を腐食させる（虫歯にする）原因になる。",
+              "highlight": "decay"
+            },
+            {
+              "en": "The old mansion was in a state of decay.",
+              "ja": "その古い屋敷は朽ち果てた状態にあった。",
+              "highlight": "decay"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "rot", "trans": "腐る"},
+        {"word": "decline", "trans": "衰退する"},
+        {"word": "decompose", "trans": "分解する"}
+      ]
+    }
+  ]
+}
