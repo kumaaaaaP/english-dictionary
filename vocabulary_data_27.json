@@ -1,0 +1,480 @@
+{
+  "words": [
+    {
+      "number": 671,
+      "word": "indulge",
+      "pos": "動詞",
+      "meaning": "〜にふける、〜を楽しむ、自分を甘やかす、わがままを許す",
+      "nuance": "快楽や趣味などにどっぷりと浸かる、あるいは子供や自分を甘やかして好きなようにさせるというニュアンスです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I decided to indulge in a little chocolate after dinner.",
+              "ja": "夕食後に少しだけチョコを食べて自分を甘やかす（楽しむ）ことにした。",
+              "highlight": "indulge"
+            },
+            {
+              "en": "She tends to indulge her children too much.",
+              "ja": "彼女は子供たちを甘やかしすぎる傾向がある。",
+              "highlight": "indulge"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 indulgere（寛大である、許す）",
+      "synonyms": [
+        {"word": "gratify", "trans": "（欲求を）満たす"},
+        {"word": "spoil", "trans": "甘やかす"},
+        {"word": "pamper", "trans": "（過剰に）甘やかす"}
+      ],
+      "antonyms": [
+        {"word": "abstain", "trans": "控える"},
+        {"word": "deny", "trans": "（欲求を）抑える、否定する"},
+        {"word": "restrain", "trans": "抑制する"}
+      ],
+      "related": [
+        {"word": "indulgence", "trans": "名詞：耽溺、甘やかし、免罪符"},
+        {"word": "indulgent", "trans": "形容詞：寛大な、甘い"}
+      ]
+    },
+    {
+      "number": "671-2",
+      "word": "indulgence",
+      "pos": "名詞",
+      "meaning": "耽溺、ふけること、甘やかし、寛大、道楽",
+      "nuance": "欲望に身を任せる行為や、他人の欠点に対する寛大な態度を指します。歴史用語では「免罪符（贖宥状）」の意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Coffee is my only indulgence.",
+              "ja": "コーヒーを飲むことだけが私の唯一の道楽（贅沢）だ。",
+              "highlight": "indulgence"
+            },
+            {
+              "en": "The parents showed great indulgence toward their son's mistakes.",
+              "ja": "両親は息子の間違いに対して非常に寛大な態度を見せた。",
+              "highlight": "indulgence"
+            }
+          ]
+        }
+      ],
+      "etymology": "indulge の名詞形",
+      "synonyms": [
+        {"word": "luxury", "trans": "贅沢、楽しみ"},
+        {"word": "tolerance", "trans": "寛大、許容"},
+        {"word": "gratification", "trans": "満足"}
+      ],
+      "antonyms": [
+        {"word": "self-denial", "trans": "自己否定、克己"},
+        {"word": "austerity", "trans": "厳格、耐乏"}
+      ],
+      "related": [
+        {"word": "self-indulgent", "trans": "形容詞：自分に甘い"}
+      ]
+    },
+    {
+      "number": 672,
+      "word": "publicize",
+      "pos": "動詞",
+      "meaning": "〜を公表する、宣伝する、広告する",
+      "nuance": "情報を広く大衆に知れ渡るようにすることを指します。PR（Public Relations）活動に近いイメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They used social media to publicize the event.",
+              "ja": "彼らはイベントを宣伝するためにソーシャルメディアを利用した。",
+              "highlight": "publicize"
+            },
+            {
+              "en": "The government is trying to publicize the new law.",
+              "ja": "政府は新しい法律を周知（公表）させようとしている。",
+              "highlight": "publicize"
+            }
+          ]
+        }
+      ],
+      "etymology": "public（公の）+ ize（〜化する）",
+      "synonyms": [
+        {"word": "advertise", "trans": "宣伝する"},
+        {"word": "promote", "trans": "促進する、宣伝する"},
+        {"word": "announce", "trans": "発表する"}
+      ],
+      "antonyms": [
+        {"word": "conceal", "trans": "隠す"},
+        {"word": "hide", "trans": "隠す"},
+        {"word": "suppress", "trans": "抑圧する、伏せる"}
+      ],
+      "related": [
+        {"word": "publicity", "trans": "名詞：宣伝、広告、注目"},
+        {"word": "public", "trans": "名詞/形容詞：一般大衆/公の"}
+      ]
+    },
+    {
+      "number": 673,
+      "word": "calculate",
+      "pos": "動詞",
+      "meaning": "〜を計算する、推定する、予測する",
+      "nuance": "数学的な計算だけでなく、リスクや結果を論理的に「見積もる・予測する」ことも含みます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need to calculate the cost of the repairs.",
+              "ja": "私たちは修理費用を計算する必要がある。",
+              "highlight": "calculate"
+            },
+            {
+              "en": "The move was a calculated risk.",
+              "ja": "その行動は計算された（意図的な）リスクだった。",
+              "highlight": "calculated"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 calculus（計算用の小石）",
+      "synonyms": [
+        {"word": "compute", "trans": "（計算機で）計算する"},
+        {"word": "estimate", "trans": "見積もる"},
+        {"word": "reckon", "trans": "数える、〜と思う"}
+      ],
+      "antonyms": [
+        {"word": "guess", "trans": "推測する（勘に近い）"},
+        {"word": "miscalculate", "trans": "計算し間違える"}
+      ],
+      "related": [
+        {"word": "calculator", "trans": "名詞：電卓"},
+        {"word": "calculus", "trans": "名詞：微積分学"}
+      ]
+    },
+    {
+      "number": "673-2",
+      "word": "calculation",
+      "pos": "名詞",
+      "meaning": "計算、見積もり、予測、打算",
+      "nuance": "数値を出す行為だけでなく、状況を有利に運ぶための「打算」という意味で使われることもあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "By my calculation, we should arrive at noon.",
+              "ja": "私の計算では、正午に到着するはずだ。",
+              "highlight": "calculation"
+            },
+            {
+              "en": "His actions are always based on cold calculation.",
+              "ja": "彼の行動は常に冷徹な打算に基づいている。",
+              "highlight": "calculation"
+            }
+          ]
+        }
+      ],
+      "etymology": "calculate の名詞形",
+      "synonyms": [
+        {"word": "computation", "trans": "計算"},
+        {"word": "estimation", "trans": "見積もり"},
+        {"word": "forecast", "trans": "予測"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "calculable", "trans": "形容詞：計算できる"}
+      ]
+    },
+    {
+      "number": 674,
+      "word": "package",
+      "pos": "名詞、動詞",
+      "meaning": "小包、包装、一括案、〜を梱包する、ひとまとめにする",
+      "nuance": "物理的な包みだけでなく、サービスやソフトウェアの「詰め合わせ（パッケージ）」を指します。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The courier delivered the package this morning.",
+              "ja": "宅配業者が今朝、小包を届けた。",
+              "highlight": "package"
+            },
+            {
+              "en": "They offered an attractive benefits package.",
+              "ja": "彼らは魅力的な福利厚生案（一括案）を提示した。",
+              "highlight": "package"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The goods are packaged in recycled paper.",
+              "ja": "商品は再生紙で梱包されている。",
+              "highlight": "packaged"
+            }
+          ]
+        }
+      ],
+      "etymology": "pack（包む）+ age（名詞化語尾）",
+      "synonyms": [
+        {"word": "parcel", "trans": "小包"},
+        {"word": "bundle", "trans": "束、一式"},
+        {"word": "wrap", "trans": "包む"}
+      ],
+      "antonyms": [
+        {"word": "unwrap", "trans": "包みを解く"}
+      ],
+      "related": [
+        {"word": "packaging", "trans": "名詞：包装（材）"},
+        {"word": "packet", "trans": "名詞：小袋"}
+      ]
+    },
+    {
+      "number": 675,
+      "word": "squeeze",
+      "pos": "動詞、名詞",
+      "meaning": "〜を絞る、ギュッと押す、押し込む、絞ること、窮乏",
+      "nuance": "強い圧力をかけて中のものを出したり、狭い場所に無理やり入れたりすることを指します。経済的な「圧迫」にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "Squeeze the lemon juice over the fish.",
+              "ja": "魚の上にレモン汁を絞りなさい。",
+              "highlight": "Squeeze"
+            },
+            {
+              "en": "I managed to squeeze the car into the narrow space.",
+              "ja": "なんとか狭いスペースに車を押し込んだ。",
+              "highlight": "squeeze"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "High interest rates are putting a squeeze on small businesses.",
+              "ja": "高金利が中小企業を圧迫（窮乏）させている。",
+              "highlight": "squeeze"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 cwiesan（つぶす、絞り出す）",
+      "synonyms": [
+        {"word": "compress", "trans": "圧縮する"},
+        {"word": "press", "trans": "押す"},
+        {"word": "extort", "trans": "（金などを）ゆする、絞り取る"}
+      ],
+      "antonyms": [
+        {"word": "expand", "trans": "広げる"},
+        {"word": "release", "trans": "放す"}
+      ],
+      "related": []
+    },
+    {
+      "number": 676,
+      "word": "guideline",
+      "pos": "名詞",
+      "meaning": "指針、ガイドライン、指導基準",
+      "nuance": "厳格なルールというよりは、行動や判断の基準となる「目安」というニュアンスです。通常、複数形で使われることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government issued new guidelines for healthy eating.",
+              "ja": "政府は健康的な食事のための新しい指針を発行した。",
+              "highlight": "guidelines"
+            },
+            {
+              "en": "You must follow the safety guidelines strictly.",
+              "ja": "安全基準（ガイドライン）には厳格に従わなければならない。",
+              "highlight": "guidelines"
+            }
+          ]
+        }
+      ],
+      "etymology": "guide（導く）+ line（線）",
+      "synonyms": [
+        {"word": "principle", "trans": "原則"},
+        {"word": "standard", "trans": "基準"},
+        {"word": "policy", "trans": "方針"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "guide", "trans": "名詞/動詞：案内人/導く"}
+      ]
+    },
+    {
+      "number": 677,
+      "word": "view",
+      "pos": "名詞、動詞",
+      "meaning": "眺め、見方、意見、〜を見る、〜を（…と）見なす",
+      "nuance": "単に「見る」だけでなく、ある特定の観点から物事を「評価する、判断する」という意味が重要です。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The hotel room has a magnificent view of the sea.",
+              "ja": "そのホテルの部屋からは海の素晴らしい眺めが見える。",
+              "highlight": "view"
+            },
+            {
+              "en": "In my view, his decision was correct.",
+              "ja": "私の意見では、彼の決断は正しかった。",
+              "highlight": "view"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "How do you view the current political situation?",
+              "ja": "現在の政治状況をどのように見なしていますか？",
+              "highlight": "view"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 videre（見る）",
+      "synonyms": [
+        {"word": "opinion", "trans": "意見"},
+        {"word": "outlook", "trans": "見通し"},
+        {"word": "consider", "trans": "見なす"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "viewer", "trans": "名詞：視聴者"},
+        {"word": "interview", "trans": "名詞：インタビュー（互いに見る）"}
+      ]
+    },
+    {
+      "number": 678,
+      "word": "glimpse",
+      "pos": "名詞、動詞",
+      "meaning": "ちらりと見えること、一瞥、〜をちらりと見る",
+      "nuance": "動いているものや、一瞬だけ視界に入ったものを「ふと目にする」というイメージです。意図せず見えてしまう時に使われます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "I caught a glimpse of the celebrity as she left the hotel.",
+              "ja": "その有名人がホテルを出る時、彼女をちらりと見かけた。",
+              "highlight": "glimpse"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "He glimpsed something moving in the bushes.",
+              "ja": "彼は茂みの中で何かが動くのをちらりと見た。",
+              "highlight": "glimpsed"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語 glimsen（かすかに光る、ちらりと見る）",
+      "synonyms": [
+        {"word": "peep", "trans": "のぞき見る"},
+        {"word": "spot", "trans": "見つける"},
+        {"word": "glance", "trans": "ちらりと見る"}
+      ],
+      "antonyms": [
+        {"word": "stare", "trans": "じっと見る"},
+        {"word": "gaze", "trans": "凝視する"}
+      ],
+      "related": [
+        {"word": "glimmer", "trans": "名詞：微かな光"}
+      ]
+    },
+    {
+      "number": "678-2",
+      "word": "glance",
+      "pos": "動詞、名詞",
+      "meaning": "ちらりと見る、ざっと目を通す、一瞥",
+      "nuance": "glimpseが「（一瞬）見える」という受動的な面を持つのに対し、glanceは「意識的にさっと見る」という能動的な動作を指します。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "She glanced at her watch to check the time.",
+              "ja": "彼女は時間を確認するために時計をちらりと見た。",
+              "highlight": "glanced"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "He took a quick glance at the newspaper headlines.",
+              "ja": "彼は新聞の見出しにさっと目を通した。",
+              "highlight": "glance"
+            }
+          ]
+        }
+      ],
+      "etymology": "おそらく古期フランス語 glacier（滑る）から。目が滑るように動くイメージ。",
+      "synonyms": [
+        {"word": "scan", "trans": "ざっと見る、精査する"},
+        {"word": "peek", "trans": "のぞき見る"}
+      ],
+      "antonyms": [
+        {"word": "scrutinize", "trans": "細かく調べる"},
+        {"word": "glare", "trans": "にらみつける"}
+      ],
+      "related": []
+    },
+    {
+      "number": 679,
+      "word": "preemptive",
+      "pos": "形容詞",
+      "meaning": "先制の、先手を取る、独占的な",
+      "nuance": "相手が何か行動を起こす前に、それを阻止したり有利に立つために「先んじて行う」ことを指します。「preemptive strike（先制攻撃）」などが代表的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The military launched a preemptive strike to prevent an invasion.",
+              "ja": "軍は侵略を阻止するために先制攻撃を開始した。",
+              "highlight": "preemptive"
+            },
+            {
+              "en": "The company made a preemptive offer to buy the smaller firm.",
+              "ja": "その会社は他社に先んじて、小規模企業の買収提案を行った。",
+              "highlight": "preemptive"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre（前に）+ empt（買う、取る）+ ive（形容詞語尾）→ 先に取る",
+      "synonyms": [
+        {"word": "preventative", "trans": "予防的な"},
+        {"word": "anticipatory", "trans": "期待した、先取りした"}
+      ],
+      "antonyms": [
+        {"word": "reactive", "trans": "反応的な、後手の"},
+        {"word": "delayed", "trans": "遅れた"}
+      ],
+      "related": [
+        {"word": "exempt", "trans": "形容詞：免除された"},
+        {"word": "redeem", "trans": "動詞：買い戻す、埋め合わせる"}
+      ]
+    }
+  ]
+}
