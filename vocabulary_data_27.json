@@ -475,6 +475,652 @@
         {"word": "exempt", "trans": "形容詞：免除された"},
         {"word": "redeem", "trans": "動詞：買い戻す、埋め合わせる"}
       ]
+    },
+    {
+      "number": 680,
+      "word": "scheme",
+      "pos": "名詞、動詞",
+      "meaning": "計画、体系、陰謀、〜を企む",
+      "nuance": "単なる plan よりも組織的・大規模な「枠組み」を指すほか、文脈によっては「悪だくみ」というネガティブなニュアンスを含みます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The government has introduced a new pension scheme.",
+              "ja": "政府は新しい年金制度（計画）を導入した。",
+              "highlight": "scheme"
+            },
+            {
+              "en": "They uncovered a scheme to defraud the bank.",
+              "ja": "彼らは銀行から金をだまし取る陰謀を暴いた。",
+              "highlight": "scheme"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "He was scheming to take over the company.",
+              "ja": "彼は会社を乗っ取ろうと企んでいた。",
+              "highlight": "scheming"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 skhema（形、姿）",
+      "synonyms": [
+        {"word": "plan", "trans": "計画"},
+        {"word": "system", "trans": "体系"},
+        {"word": "plot", "trans": "陰謀、企み"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "schematic", "trans": "形容詞：図式的な"}
+      ]
+    },
+    {
+      "number": 681,
+      "word": "intrigue",
+      "pos": "動詞、名詞",
+      "meaning": "〜の興味をそそる、陰謀を企てる、陰謀、不義",
+      "nuance": "知的好奇心を強く刺激する場合と、政治的な裏工作（陰謀）の両方を指します。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The mystery surrounding the pyramid intrigues archaeologists.",
+              "ja": "ピラミッドを取り巻く謎は、考古学者たちの興味をそそる。",
+              "highlight": "intrigues"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The novel is full of political intrigue and betrayal.",
+              "ja": "その小説は政治的陰謀と裏切りに満ちている。",
+              "highlight": "intrigue"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 intricare（もつれさせる）",
+      "synonyms": [
+        {"word": "fascinate", "trans": "魅了する"},
+        {"word": "conspiracy", "trans": "共謀、陰謀"}
+      ],
+      "antonyms": [
+        {"word": "bore", "trans": "退屈させる"}
+      ],
+      "related": [
+        {"word": "intriguing", "trans": "形容詞：興味をそそる"}
+      ]
+    },
+    {
+      "number": "681-2",
+      "word": "agenda",
+      "pos": "名詞",
+      "meaning": "協議事項、議題、予定表、秘めた意図",
+      "nuance": "会議の議題リストを指すのが一般的ですが、「hidden agenda（隠された意図）」のように使われることもあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "What is the next item on the agenda?",
+              "ja": "議題の次の項目は何ですか？",
+              "highlight": "agenda"
+            },
+            {
+              "en": "Environmental issues are high on the political agenda.",
+              "ja": "環境問題は政治的課題として優先順位が高い。",
+              "highlight": "agenda"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 agere（行う）の複数形 → 行われるべきこと",
+      "synonyms": [
+        {"word": "schedule", "trans": "予定表"},
+        {"word": "program", "trans": "計画"},
+        {"word": "timetable", "trans": "時刻表、予定"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "agent", "trans": "名詞：代理人（行う人）"}
+      ]
+    },
+    {
+      "number": "681-3",
+      "word": "layout",
+      "pos": "名詞",
+      "meaning": "配置、設計、レイアウト、紙面構成",
+      "nuance": "建物、部屋、ページ、ウェブサイトなどの要素がどのように配置されているかという構造を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The shop has a very logical layout.",
+              "ja": "その店は非常に合理的な配置（レイアウト）になっている。",
+              "highlight": "layout"
+            },
+            {
+              "en": "I like the page layout of this magazine.",
+              "ja": "この雑誌のページ構成（レイアウト）が好きだ。",
+              "highlight": "layout"
+            }
+          ]
+        }
+      ],
+      "etymology": "lay（置く）+ out（外に）",
+      "synonyms": [
+        {"word": "arrangement", "trans": "配置"},
+        {"word": "design", "trans": "設計"},
+        {"word": "format", "trans": "形式"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "lay out", "trans": "句動詞：〜を広げる、設計する"}
+      ]
+    },
+    {
+      "number": 682,
+      "word": "transparent",
+      "pos": "形容詞",
+      "meaning": "透明な、見え透いた、明快な",
+      "nuance": "物理的に光を通す「透明」の意味と、意図や情報が包み隠さず「公開されている・明白である」という比喩的な意味があります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The water in the lake was crystal transparent.",
+              "ja": "湖の水は水晶のように透明だった。",
+              "highlight": "transparent"
+            },
+            {
+              "en": "His lies were so transparent that no one believed him.",
+              "ja": "彼の嘘はあまりに見え透いていたので、誰も信じなかった。",
+              "highlight": "transparent"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans（突き抜けて）+ parere（現れる）",
+      "synonyms": [
+        {"word": "clear", "trans": "澄んだ"},
+        {"word": "obvious", "trans": "明らかな"},
+        {"word": "lucid", "trans": "明快な"}
+      ],
+      "antonyms": [
+        {"word": "opaque", "trans": "不透明な"},
+        {"word": "vague", "trans": "あいまいな"},
+        {"word": "hidden", "trans": "隠された"}
+      ],
+      "related": [
+        {"word": "transparency", "trans": "名詞：透明性"}
+      ]
+    },
+    {
+      "number": "682-2",
+      "word": "transparently",
+      "pos": "副詞",
+      "meaning": "透明に、見え透いた形で、明白に",
+      "nuance": "誰の目にも明らかなように、あるいはごまかしがなく行われる様子を表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The selection process was conducted transparently.",
+              "ja": "選考過程は透明性を持って（明白に）行われた。",
+              "highlight": "transparently"
+            }
+          ]
+        }
+      ],
+      "etymology": "transparent + ly",
+      "synonyms": [
+        {"word": "clearly", "trans": "はっきりと"},
+        {"word": "openly", "trans": "公然と"}
+      ],
+      "antonyms": [
+        {"word": "secretly", "trans": "秘密裏に"}
+      ],
+      "related": []
+    },
+    {
+      "number": "682-3",
+      "word": "transparency",
+      "pos": "名詞",
+      "meaning": "透明度、透明性",
+      "nuance": "現代ビジネスや政治では、不正を防ぐための「情報の公開度（透明性）」という意味で極めて重要視されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is a need for greater transparency in the banking system.",
+              "ja": "銀行システムにはさらなる透明性が必要だ。",
+              "highlight": "transparency"
+            }
+          ]
+        }
+      ],
+      "etymology": "transparent の名詞形",
+      "synonyms": [
+        {"word": "clarity", "trans": "明快さ"},
+        {"word": "openness", "trans": "開放性"}
+      ],
+      "antonyms": [
+        {"word": "opacity", "trans": "不透明さ"},
+        {"word": "secrecy", "trans": "秘密主義"}
+      ],
+      "related": []
+    },
+    {
+      "number": 683,
+      "word": "responsibly",
+      "pos": "副詞",
+      "meaning": "責任を持って、良識的に",
+      "nuance": "自分の行動の結果に責任を負い、思慮深く行動する様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please enjoy alcohol responsibly.",
+              "ja": "お酒は責任を持って（適度な量を良識的に）楽しんでください。",
+              "highlight": "responsibly"
+            }
+          ]
+        }
+      ],
+      "etymology": "responsible + ly",
+      "synonyms": [
+        {"word": "reliably", "trans": "信頼できるように"},
+        {"word": "sensibly", "trans": "賢明に"}
+      ],
+      "antonyms": [
+        {"word": "irresponsibly", "trans": "無責任に"}
+      ],
+      "related": []
+    },
+    {
+      "number": "683-2",
+      "word": "responsible",
+      "pos": "形容詞",
+      "meaning": "責任がある、〜の原因である、信頼できる",
+      "nuance": "特定の義務を負っている状態や、何かが起きた直接の理由であることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Who is responsible for this mess?",
+              "ja": "この散らかりようは誰の責任ですか（誰がやったのですか）？",
+              "highlight": "responsible"
+            },
+            {
+              "en": "Heavy rain was responsible for the flood.",
+              "ja": "大雨が洪水を引き起こした（原因だった）。",
+              "highlight": "responsible"
+            }
+          ]
+        }
+      ],
+      "etymology": "re（再び）+ spondere（約束する）→ 応答する義務がある",
+      "synonyms": [
+        {"word": "accountable", "trans": "説明責任がある"},
+        {"word": "liable", "trans": "法的責任がある"}
+      ],
+      "antonyms": [
+        {"word": "irresponsible", "trans": "無責任な"}
+      ],
+      "related": [
+        {"word": "responsibility", "trans": "名詞：責任"},
+        {"word": "respond", "trans": "動詞：返答する"}
+      ]
+    },
+    {
+      "number": 684,
+      "word": "accountable",
+      "pos": "形容詞",
+      "meaning": "説明責任がある、責任がある",
+      "nuance": "単に責任があるだけでなく、なぜそうなったかを「説明し、報告する義務がある」という公的なニュアンスが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Politicians should be accountable to the public.",
+              "ja": "政治家は国民に対して説明責任を負うべきだ。",
+              "highlight": "accountable"
+            },
+            {
+              "en": "Managers are held accountable for their team's performance.",
+              "ja": "マネージャーはチームの実績に対して責任を問われる。",
+              "highlight": "accountable"
+            }
+          ]
+        }
+      ],
+      "etymology": "account（説明）+ able（可能な）",
+      "synonyms": [
+        {"word": "responsible", "trans": "責任がある"},
+        {"word": "answerable", "trans": "説明の義務がある"}
+      ],
+      "antonyms": [
+        {"word": "unaccountable", "trans": "責任を問われない、不可解な"}
+      ],
+      "related": [
+        {"word": "accountability", "trans": "名詞：説明責任"}
+      ]
+    },
+    {
+      "number": "684-2",
+      "word": "accountability",
+      "pos": "名詞",
+      "meaning": "説明責任、義務",
+      "nuance": "個人や組織がその行動の結果に対して負うべき報告・説明の義務を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The system lacks accountability.",
+              "ja": "そのシステムには説明責任（誰が責任を取るかという仕組み）が欠けている。",
+              "highlight": "accountability"
+            }
+          ]
+        }
+      ],
+      "etymology": "accountable の名詞形",
+      "synonyms": [
+        {"word": "responsibility", "trans": "責任"},
+        {"word": "liability", "trans": "責任、負債"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": "684-3",
+      "word": "account",
+      "pos": "名詞、動詞",
+      "meaning": "口座、説明、考慮、記述、〜を説明する、〜の割合を占める",
+      "nuance": "非常に多義的ですが、根本には「数える、計算する、語る」という意味があります。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "I need to open a bank account.",
+              "ja": "銀行口座を開設する必要があります。",
+              "highlight": "account"
+            },
+            {
+              "en": "He gave a detailed account of the accident.",
+              "ja": "彼は事故の詳細な報告（説明）をした。",
+              "highlight": "account"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "Exports account for 30% of the GDP.",
+              "ja": "輸出がGDPの30%を占めている。",
+              "highlight": "account for"
+            },
+            {
+              "en": "How do you account for this discrepancy?",
+              "ja": "この矛盾をどう説明しますか？",
+              "highlight": "account for"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad（〜へ）+ compter（数える）",
+      "synonyms": [
+        {"word": "explanation", "trans": "説明"},
+        {"word": "report", "trans": "報告"},
+        {"word": "constitute", "trans": "構成する（占める）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "accountant", "trans": "名詞：会計士"}
+      ]
+    },
+    {
+      "number": 685,
+      "word": "cereal",
+      "pos": "名詞",
+      "meaning": "シリアル、穀物、穀物加工食品",
+      "nuance": "トウモロコシや麦などの穀類そのものと、それを用いた朝食用の加工食品の両方を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I usually have a bowl of cereal for breakfast.",
+              "ja": "私は普段、朝食にシリアルを一杯食べます。",
+              "highlight": "cereal"
+            },
+            {
+              "en": "Wheat and rice are important cereals.",
+              "ja": "小麦と米は重要な穀物である。",
+              "highlight": "cereals"
+            }
+          ]
+        }
+      ],
+      "etymology": "ローマの農業の女神 Ceres（ケレス）由来",
+      "synonyms": [
+        {"word": "grain", "trans": "穀物"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 686,
+      "word": "assiduous",
+      "pos": "形容詞",
+      "meaning": "勤勉な、根気強い、精を出す",
+      "nuance": "ただ忙しくしているのではなく、座り込んで（または張り付いて）丹念に、継続的に努力する様子を指す硬い言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The researcher was assiduous in his collection of data.",
+              "ja": "その研究者はデータの収集に非常に勤勉だった（精を出していた）。",
+              "highlight": "assiduous"
+            },
+            {
+              "en": "She was assiduous in her duties.",
+              "ja": "彼女は義務を果たすのに根気強かった。",
+              "highlight": "assiduous"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad（〜に）+ sedere（座る）→ そばに座り続ける",
+      "synonyms": [
+        {"word": "diligent", "trans": "勤勉な"},
+        {"word": "industrious", "trans": "勤勉な"},
+        {"word": "meticulous", "trans": "細心の注意を払う"}
+      ],
+      "antonyms": [
+        {"word": "lazy", "trans": "怠惰な"},
+        {"word": "negligent", "trans": "不注意な、怠慢な"}
+      ],
+      "related": []
+    },
+    {
+      "number": 687,
+      "word": "diligent",
+      "pos": "形容詞",
+      "meaning": "勤勉な、念入りな",
+      "nuance": "仕事や勉強に対して誠実に、一生懸命取り組む様子を表す一般的な言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is a diligent student who never misses a class.",
+              "ja": "彼は授業を一度も休まない勤勉な学生だ。",
+              "highlight": "diligent"
+            },
+            {
+              "en": "The lawyer made a diligent search for the evidence.",
+              "ja": "弁護士は証拠を念入りに探した。",
+              "highlight": "diligent"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis（離れて）+ legere（選ぶ）→ 注意深く選ぶ",
+      "synonyms": [
+        {"word": "hard-working", "trans": "よく働く"},
+        {"word": "assiduous", "trans": "精を出す"},
+        {"word": "conscientious", "trans": "誠実な、実直な"}
+      ],
+      "antonyms": [
+        {"word": "idle", "trans": "何もしない、怠惰な"},
+        {"word": "careless", "trans": "不注意な"}
+      ],
+      "related": [
+        {"word": "diligence", "trans": "名詞：勤勉"}
+      ]
+    },
+    {
+      "number": "687-2",
+      "word": "diligence",
+      "pos": "名詞",
+      "meaning": "勤勉、たゆまぬ努力",
+      "nuance": "コツコツと真面目に努力を続ける性質や行為を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Success is the result of hard work and diligence.",
+              "ja": "成功は懸命な働きと勤勉の結果である。",
+              "highlight": "diligence"
+            },
+            {
+              "en": "due diligence",
+              "ja": "（ビジネス用語）正当な注意義務、適格性調査",
+              "highlight": "diligence"
+            }
+          ]
+        }
+      ],
+      "etymology": "diligent の名詞形",
+      "synonyms": [
+        {"word": "industry", "trans": "勤勉"},
+        {"word": "perseverance", "trans": "忍耐、根気"}
+      ],
+      "antonyms": [
+        {"word": "laziness", "trans": "怠惰"}
+      ],
+      "related": []
+    },
+    {
+      "number": "687-3",
+      "word": "laborious",
+      "pos": "形容詞",
+      "meaning": "骨の折れる、大変な、困難な",
+      "nuance": "多くの時間と多大な労力を必要とし、非常に疲れるような作業に対して使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Checking all the figures by hand was a laborious task.",
+              "ja": "すべての数字を手作業で確認するのは、骨の折れる仕事だった。",
+              "highlight": "laborious"
+            },
+            {
+              "en": "The process of writing the book was long and laborious.",
+              "ja": "その本を書くプロセスは長く、困難なものだった。",
+              "highlight": "laborious"
+            }
+          ]
+        }
+      ],
+      "etymology": "labor + ious（〜に満ちた）",
+      "synonyms": [
+        {"word": "arduous", "trans": "困難な"},
+        {"word": "strenuous", "trans": "激しい、大変な"},
+        {"word": "tiring", "trans": "疲れさせる"}
+      ],
+      "antonyms": [
+        {"word": "easy", "trans": "簡単な"},
+        {"word": "effortless", "trans": "努力を要しない"}
+      ],
+      "related": [
+        {"word": "labor", "trans": "名詞：労働"}
+      ]
+    },
+    {
+      "number": "687-4",
+      "word": "labor",
+      "pos": "名詞、動詞",
+      "meaning": "労働、努力、苦労、陣痛、働く、骨折って進む",
+      "nuance": "肉体的な「労働」を指すほか、出産時の「陣痛・分娩」という意味でも重要です。動詞では「苦労して取り組む」イメージがあります。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The price of the product includes the cost of labor.",
+              "ja": "商品の価格には人件費（労働のコスト）が含まれている。",
+              "highlight": "labor"
+            },
+            {
+              "en": "She was in labor for twelve hours.",
+              "ja": "彼女は12時間陣痛が続いていた（分娩中だった）。",
+              "highlight": "labor"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "He labored all day in the field.",
+              "ja": "彼は一日中野良仕事をした。",
+              "highlight": "labored"
+            },
+            {
+              "en": "She labored over the report for weeks.",
+              "ja": "彼女は何週間もそのレポートに苦心して取り組んだ。",
+              "highlight": "labored"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 labor（苦労、重労働）",
+      "synonyms": [
+        {"word": "work", "trans": "仕事"},
+        {"word": "toil", "trans": "骨折り仕事"},
+        {"word": "exertion", "trans": "努力、尽力"}
+      ],
+      "antonyms": [
+        {"word": "rest", "trans": "休息"},
+        {"word": "leisure", "trans": "余暇"}
+      ],
+      "related": [
+        {"word": "laboratory", "trans": "名詞：研究所（働く場所）"},
+        {"word": "elaborate", "trans": "形容詞/動詞：精巧な/詳しく述べる（労力をかけた）"}
+      ]
     }
   ]
 }
