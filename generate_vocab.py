@@ -10,7 +10,7 @@ HTML_TEMPLATE_MAIN = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{number} {word} - English Vocabulary Note</title>
+    <title>{number} {word}</title>
     <style>
         :root {{ --primary-color: #2c3e50; --accent-color: #f4f7f6; --text-main: #333; --text-sub: #666; }}
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; color: var(--text-main); max-width: 700px; margin: 0 auto; padding: 30px 20px; background-color: #f0f2f5; }}
@@ -113,7 +113,7 @@ HTML_TEMPLATE_SUB = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{number} {word} - English Vocabulary Note</title>
+    <title>{number} {word}</title>
     <style>
         :root {{ --primary-color: #28a745; --accent-color: #f4faf6; --text-main: #333; --text-sub: #666; }}
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; color: var(--text-main); max-width: 700px; margin: 0 auto; padding: 30px 20px; background-color: #f0f2f5; }}
