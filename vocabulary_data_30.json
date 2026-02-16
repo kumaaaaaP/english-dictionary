@@ -1,0 +1,596 @@
+{
+  "words": [
+    {
+      "number": 743,
+      "word": "ingenuity",
+      "pos": "名詞",
+      "meaning": "独創性、巧妙さ、器用さ",
+      "nuance": "新しい方法を考え出す知的な才能や、発明の才を指します。綴りが似ていますが「誠実(ingenuousness)」とは別の言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The problem was solved through a combination of hard work and ingenuity.",
+              "ja": "その問題は、努力と独創性の組み合わせによって解決された。",
+              "highlight": "ingenuity"
+            },
+            {
+              "en": "The children showed great ingenuity in building the treehouse.",
+              "ja": "子供たちはツリーハウスを作る際に素晴らしい器用さ（工夫）を見せた。",
+              "highlight": "ingenuity"
+            }
+          ]
+        }
+      ],
+      "etymology": "ingenious の名詞形",
+      "synonyms": [
+        {"word": "creativity", "trans": "創造性"},
+        {"word": "inventiveness", "trans": "発明の才"},
+        {"word": "cleverness", "trans": "賢さ"}
+      ],
+      "antonyms": [
+        {"word": "unimaginativeness", "trans": "想像力の欠如"},
+        {"word": "clumsiness", "trans": "不器用"}
+      ],
+      "related": [
+        {"word": "ingenious", "trans": "形容詞：独創的な"}
+      ]
+    },
+    {
+      "number": 744,
+      "word": "gifted",
+      "pos": "形容詞",
+      "meaning": "（天賦の）才能がある、非常に有能な",
+      "nuance": "努力で得たスキルというより、生まれ持った特別な才能（gift）があることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is a gifted musician who started playing the piano at age three.",
+              "ja": "彼女は3歳でピアノを始めた、才能に恵まれたミュージシャンだ。",
+              "highlight": "gifted"
+            },
+            {
+              "en": "Special programs are available for gifted children.",
+              "ja": "英才（才能ある子供たち）のための特別プログラムが用意されている。",
+              "highlight": "gifted"
+            }
+          ]
+        }
+      ],
+      "etymology": "gift（贈り物、神から授かった才能）+ ed",
+      "synonyms": [
+        {"word": "talented", "trans": "才能がある"},
+        {"word": "exceptional", "trans": "並外れた"},
+        {"word": "brilliant", "trans": "優秀な"}
+      ],
+      "antonyms": [
+        {"word": "untalented", "trans": "才能のない"},
+        {"word": "ordinary", "trans": "平凡な"}
+      ],
+      "related": [
+        {"word": "gift", "trans": "名詞：贈り物、天賦の才"}
+      ]
+    },
+    {
+      "number": "744-2",
+      "word": "ingenious",
+      "pos": "形容詞",
+      "meaning": "独創的な、巧妙な、利口な",
+      "nuance": "解決策や機械の仕組みなどが非常に巧妙で、感心させられるような様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He came up with an ingenious solution to the problem.",
+              "ja": "彼はその問題に対して独創的な解決策を思いついた。",
+              "highlight": "ingenious"
+            },
+            {
+              "en": "This is an ingenious device for peeling potatoes.",
+              "ja": "これはジャガイモの皮をむくための巧妙な仕掛けの道具だ。",
+              "highlight": "ingenious"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 ingenium（天性、才能）",
+      "synonyms": [
+        {"word": "creative", "trans": "創造的な"},
+        {"word": "clever", "trans": "賢い、巧みな"},
+        {"word": "brilliant", "trans": "素晴らしい"}
+      ],
+      "antonyms": [
+        {"word": "unoriginal", "trans": "独創性のない"},
+        {"word": "simple", "trans": "単純な、芸のない"}
+      ],
+      "related": [
+        {"word": "ingenuity", "trans": "名詞：独創性"}
+      ]
+    },
+    {
+      "number": "744-3",
+      "word": "inventive",
+      "pos": "形容詞",
+      "meaning": "発明の才がある、創意に富む",
+      "nuance": "新しいものを創り出す力や、機転を利かせて新しい方法を見つける能力を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She has a very inventive mind.",
+              "ja": "彼女は非常に創意に富んだ頭脳を持っている。",
+              "highlight": "inventive"
+            },
+            {
+              "en": "The chef is known for his inventive use of local ingredients.",
+              "ja": "そのシェフは地元食材の独創的な使い方で知られている。",
+              "highlight": "inventive"
+            }
+          ]
+        }
+      ],
+      "etymology": "invent（発明する）+ ive",
+      "synonyms": [
+        {"word": "imaginative", "trans": "想像力豊かな"},
+        {"word": "innovative", "trans": "革新的な"},
+        {"word": "resourceful", "trans": "機知に富む"}
+      ],
+      "antonyms": [
+        {"word": "unimaginative", "trans": "想像力に欠ける"},
+        {"word": "conventional", "trans": "型にはまった"}
+      ],
+      "related": [
+        {"word": "invention", "trans": "名詞：発明"}
+      ]
+    },
+    {
+      "number": "744-4",
+      "word": "wit",
+      "pos": "名詞",
+      "meaning": "機知、とんち、知力、機転の利く人",
+      "nuance": "単なる面白さだけでなく、頭の回転の速さや鋭さを伴う「ユーモア」を指します。複数形の wits は「正気、知力」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The speaker entertained the audience with his quick wit.",
+              "ja": "話し手はその素早い機知（とんち）で聴衆を楽しませた。",
+              "highlight": "wit"
+            },
+            {
+              "en": "I had to use all my wits to get out of that difficult situation.",
+              "ja": "その苦境を脱するために、持てる知力をすべて絞り出さなければならなかった。",
+              "highlight": "wits"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 witan（知る）",
+      "synonyms": [
+        {"word": "humor", "trans": "ユーモア"},
+        {"word": "intelligence", "trans": "知性"},
+        {"word": "shrewdness", "trans": "鋭さ、抜け目のなさ"}
+      ],
+      "antonyms": [
+        {"word": "dullness", "trans": "鈍さ"},
+        {"word": "stupidity", "trans": "愚かさ"}
+      ],
+      "related": [
+        {"word": "witty", "trans": "形容詞：機知に富んだ"},
+        {"word": "half-witted", "trans": "形容詞：愚かな"}
+      ]
+    },
+    {
+      "number": "744-5",
+      "word": "aesthetic",
+      "pos": "形容詞、名詞",
+      "meaning": "美的な、審美的な、美学",
+      "nuance": "美の性質や、芸術的な価値に関わることを指します。近年では「独特の雰囲気（エモい感じ）」といった意味でネットでも使われます。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "The new building has great aesthetic appeal.",
+              "ja": "その新しい建物は、美的な魅力が素晴らしい。",
+              "highlight": "aesthetic"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The whole store follows a minimalist aesthetic.",
+              "ja": "店全体がミニマリストの美学（スタイル）に従っている。",
+              "highlight": "aesthetic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 aisthetikos（感覚的な）",
+      "synonyms": [
+        {"word": "artistic", "trans": "芸術的な"},
+        {"word": "beautiful", "trans": "美しい"},
+        {"word": "elegant", "trans": "優雅な"}
+      ],
+      "antonyms": [
+        {"word": "unattractive", "trans": "魅力のない"},
+        {"word": "ugly", "trans": "醜い"}
+      ],
+      "related": [
+        {"word": "aesthetics", "trans": "名詞：美学"}
+      ]
+    },
+    {
+      "number": 745,
+      "word": "transmogrify",
+      "pos": "動詞",
+      "meaning": "（奇妙に・驚くほど）変身させる、変貌させる",
+      "nuance": "形を完全に変える（transform）のより劇的、あるいはユーモラス・奇怪な表現です。魔法のように一瞬で変わるイメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "In the fairy tale, the frog transmogrified into a handsome prince.",
+              "ja": "おとぎ話の中で、カエルはハンサムな王子へと姿を変えた（変貌した）。",
+              "highlight": "transmogrified"
+            },
+            {
+              "en": "The old factory was transmogrified into a trendy art gallery.",
+              "ja": "古い工場が流行のアートギャラリーへと様変わりした。",
+              "highlight": "transmogrified"
+            }
+          ]
+        }
+      ],
+      "etymology": "不明（trans- + 異様な形に変えるというニュアンス）",
+      "synonyms": [
+        {"word": "transform", "trans": "変形させる"},
+        {"word": "metamorphose", "trans": "変態させる、変容させる"},
+        {"word": "alter", "trans": "変える"}
+      ],
+      "antonyms": [
+        {"word": "preserve", "trans": "保存する"},
+        {"word": "maintain", "trans": "維持する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 746,
+      "word": "pearl",
+      "pos": "名詞、形容詞",
+      "meaning": "真珠、貴重なもの、真珠のような",
+      "nuance": "宝石としての真珠のほか、非常に価値のある助言や知恵（pearls of wisdom）などを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She was wearing a string of pearls around her neck.",
+              "ja": "彼女は首に真珠のネックレスを巻いていた。",
+              "highlight": "pearls"
+            },
+            {
+              "en": "He shared some pearls of wisdom during his graduation speech.",
+              "ja": "彼は卒業式のスピーチで、いくつかの素晴らしい知恵（珠玉の言葉）を授けた。",
+              "highlight": "pearls"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 perla（真珠）",
+      "synonyms": [
+        {"word": "gem", "trans": "宝石"},
+        {"word": "treasure", "trans": "宝"},
+        {"word": "jewel", "trans": "宝石"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "pearly", "trans": "形容詞：真珠のような"}
+      ]
+    },
+    {
+      "number": 747,
+      "word": "globe",
+      "pos": "名詞、動詞",
+      "meaning": "地球、球体、地球儀、〜を球状にする",
+      "nuance": "地球全体（the globe）を指すほか、物理的な「球」全般を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "People from all over the globe attended the event.",
+              "ja": "世界（地球）中から人々がそのイベントに参加した。",
+              "highlight": "globe"
+            },
+            {
+              "en": "He looked up his home country on the globe.",
+              "ja": "彼は地球儀で自分の母国を探した。",
+              "highlight": "globe"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 globus（球、塊）",
+      "synonyms": [
+        {"word": "earth", "trans": "地球"},
+        {"word": "sphere", "trans": "球体"},
+        {"word": "world", "trans": "世界"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "global", "trans": "形容詞：世界的な"},
+        {"word": "globalize", "trans": "動詞：国際化する"}
+      ]
+    },
+    {
+      "number": 748,
+      "word": "wrist",
+      "pos": "名詞",
+      "meaning": "手首",
+      "nuance": "手と腕をつなぐ関節部分を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He checked his watch on his left wrist.",
+              "ja": "彼は左手首の時計を確認した。",
+              "highlight": "wrist"
+            },
+            {
+              "en": "She sprained her wrist while playing tennis.",
+              "ja": "彼女はテニスをしている時に手首を捻挫した。",
+              "highlight": "wrist"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 wrist（回る関節）",
+      "synonyms": [
+        {"word": "carpus", "trans": "手根（解剖学用語）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "wristwatch", "trans": "名詞：腕時計"},
+        {"word": "wristband", "trans": "名詞：リストバンド"}
+      ]
+    },
+    {
+      "number": "748-2",
+      "word": "fist",
+      "pos": "名詞",
+      "meaning": "拳（こぶし）、握りこぶし",
+      "nuance": "手を握りしめた状態。怒りや決意を象徴することが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He banged his fist on the table in anger.",
+              "ja": "彼は怒ってテーブルを拳で叩いた。",
+              "highlight": "fist"
+            },
+            {
+              "en": "She held the money tightly in her fist.",
+              "ja": "彼女は拳の中にお金をしっかりと握りしめていた。",
+              "highlight": "fist"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 fyst（拳）",
+      "synonyms": [
+        {"word": "clenched hand", "trans": "握りしめた手"}
+      ],
+      "antonyms": [
+        {"word": "open hand", "trans": "開いた手"},
+        {"word": "palm", "trans": "手のひら"}
+      ],
+      "related": [
+        {"word": "fistfight", "trans": "名詞：殴り合い"}
+      ]
+    },
+    {
+      "number": "748-3",
+      "word": "ankle",
+      "pos": "名詞",
+      "meaning": "足首",
+      "nuance": "足と脚をつなぐ関節部分。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The water was up to my ankles.",
+              "ja": "水は私の足首の高さまであった。",
+              "highlight": "ankles"
+            },
+            {
+              "en": "I twisted my ankle running down the stairs.",
+              "ja": "階段を駆け下りている時に足首をひねった。",
+              "highlight": "ankle"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 ancleo（足首）",
+      "synonyms": [
+        {"word": "talus", "trans": "距骨（解剖学用語）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "anklet", "trans": "名詞：アンクレット"}
+      ]
+    },
+    {
+      "number": 749,
+      "word": "mortality",
+      "pos": "名詞",
+      "meaning": "死すべき運命、死亡率、死ぬこと",
+      "nuance": "人間がいつか必ず死ぬという性質、あるいは統計上の死亡率（mortality rate）を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Coming face to face with death made him realize his own mortality.",
+              "ja": "死に直面したことで、彼は自分がいずれ死ぬ運命にあることを悟った。",
+              "highlight": "mortality"
+            },
+            {
+              "en": "Infant mortality has decreased significantly in this region.",
+              "ja": "この地域では乳児死亡率が大幅に低下した。",
+              "highlight": "mortality"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 mors（死）+ ity",
+      "synonyms": [
+        {"word": "death rate", "trans": "死亡率"},
+        {"word": "fatality", "trans": "不運、死亡"},
+        {"word": "impermanence", "trans": "無常"}
+      ],
+      "antonyms": [
+        {"word": "immortality", "trans": "不死、不滅"},
+        {"word": "birth rate", "trans": "出生率"}
+      ],
+      "related": [
+        {"word": "mortal", "trans": "形容詞/名詞：死すべき/人間"},
+        {"word": "mortician", "trans": "名詞：葬儀業者"}
+      ]
+    },
+    {
+      "number": 750,
+      "word": "corpse",
+      "pos": "名詞",
+      "meaning": "（人間の）死体、遺体",
+      "nuance": "通常、人間の遺体を指す言葉で、医学や犯罪捜査、物語などの文脈で使われます。動物の場合は carcass と言います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The police discovered a corpse in the abandoned house.",
+              "ja": "警察は空き家で遺体を発見した。",
+              "highlight": "corpse"
+            },
+            {
+              "en": "They prepared the corpse for the funeral.",
+              "ja": "彼らは葬儀のために遺体を整えた。",
+              "highlight": "corpse"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 corpus（体）",
+      "synonyms": [
+        {"word": "dead body", "trans": "死体"},
+        {"word": "cadaver", "trans": "（解剖用の）死体"},
+        {"word": "remains", "trans": "遺骸、遺構"}
+      ],
+      "antonyms": [
+        {"word": "living body", "trans": "生体"}
+      ],
+      "related": [
+        {"word": "corps", "trans": "名詞：軍団（※発音が異なる「コー」）"},
+        {"word": "corpus", "trans": "名詞：全集、コーパス"}
+      ]
+    },
+    {
+      "number": "750-2",
+      "word": "flesh",
+      "pos": "名詞、動詞",
+      "meaning": "（人間・動物の）肉、肉体、生身、〜を具体化する（flesh out）",
+      "nuance": "食用肉(meat)ではなく、生きている（または死んだ直後の）生物の身体を構成する「肉」や、精神に対する「肉体」を強調します。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The tiger's claws tore into the deer's flesh.",
+              "ja": "虎の爪が鹿の肉に食い込んだ。",
+              "highlight": "flesh"
+            },
+            {
+              "en": "He is my own flesh and blood.",
+              "ja": "彼は私の血を分けた親類（肉親）だ。",
+              "highlight": "flesh and blood"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "You need to flesh out your ideas more before the presentation.",
+              "ja": "プレゼンの前に、アイデアをもっと具体化（肉付け）する必要がある。",
+              "highlight": "flesh out"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 flæsc（肉）",
+      "synonyms": [
+        {"word": "meat", "trans": "肉（主に食用）"},
+        {"word": "body", "trans": "体"},
+        {"word": "substance", "trans": "実体、中身"}
+      ],
+      "antonyms": [
+        {"word": "spirit", "trans": "精神、霊"},
+        {"word": "soul", "trans": "魂"},
+        {"word": "skeleton", "trans": "骨格"}
+      ],
+      "related": [
+        {"word": "fleshy", "trans": "形容詞：肉付きのよい"}
+      ]
+    },
+    {
+      "number": 751,
+      "word": "nuance",
+      "pos": "名詞、動詞",
+      "meaning": "（音・色・意味などの）微妙な違い、ニュアンス、〜に微妙な陰影を与える",
+      "nuance": "一見同じように見えるものの中にある、わずかな差異や繊細な陰影を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He understood the subtle nuances of the poem.",
+              "ja": "彼はその詩の微妙なニュアンスを理解していた。",
+              "highlight": "nuances"
+            },
+            {
+              "en": "The actor's performance was full of nuance.",
+              "ja": "その俳優の演技は、非常に繊細な表現（ニュアンス）に満ちていた。",
+              "highlight": "nuance"
+            }
+          ]
+        }
+      ],
+      "etymology": "フランス語 nuer（雲のような影をつける）",
+      "synonyms": [
+        {"word": "subtlety", "trans": "微妙な点"},
+        {"word": "shade", "trans": "（意味などの）わずかな違い、陰影"},
+        {"word": "gradation", "trans": "段階的な変化"}
+      ],
+      "antonyms": [
+        {"word": "similarity", "trans": "類似"},
+        {"word": "coarseness", "trans": "粗さ（繊細さの欠如）"}
+      ],
+      "related": [
+        {"word": "nuanced", "trans": "形容詞：微妙な違いがある"}
+      ]
+    }
+  ]
+}
