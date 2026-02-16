@@ -1,0 +1,545 @@
+{
+  "words": [
+    {
+      "number": 700,
+      "word": "healthily",
+      "pos": "副詞",
+      "meaning": "健康的に、健全に",
+      "nuance": "体調を良く保つような方法で、あるいは物事が健全な状態で行われる様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It is important to eat healthily and exercise regularly.",
+              "ja": "健康的に食べ、定期的に運動することが重要だ。",
+              "highlight": "healthily"
+            },
+            {
+              "en": "The two companies are competing healthily in the market.",
+              "ja": "その2社は市場で健全に競い合っている。",
+              "highlight": "healthily"
+            }
+          ]
+        }
+      ],
+      "etymology": "health + i + ly",
+      "synonyms": [
+        {"word": "soundly", "trans": "健全に、ぐっすりと"},
+        {"word": "wholesomely", "trans": "健康に良く"}
+      ],
+      "antonyms": [
+        {"word": "unhealthily", "trans": "不健康に"}
+      ],
+      "related": [
+        {"word": "health", "trans": "名詞：健康"},
+        {"word": "heal", "trans": "動詞：治す"}
+      ]
+    },
+    {
+      "number": "700-2",
+      "word": "healthy",
+      "pos": "形容詞",
+      "meaning": "健康な、健康に良い、健全な、かなりの（数量）",
+      "nuance": "体だけでなく、経済状態や精神状態が「健全である」ことも指します。また「a healthy profit（かなりの利益）」のように、数量が多いことを表す口語的な使い方もあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She looks healthy and full of energy.",
+              "ja": "彼女は健康そうで、活力に満ちている。",
+              "highlight": "healthy"
+            },
+            {
+              "en": "The bank reported a healthy increase in profits.",
+              "ja": "その銀行はかなりの（大幅な）利益増加を報告した。",
+              "highlight": "healthy"
+            }
+          ]
+        }
+      ],
+      "etymology": "health + y",
+      "synonyms": [
+        {"word": "well", "trans": "健康な"},
+        {"word": "fit", "trans": "元気な、適した"},
+        {"word": "robust", "trans": "強健な"}
+      ],
+      "antonyms": [
+        {"word": "ill", "trans": "病気の"},
+        {"word": "sick", "trans": "病気の"},
+        {"word": "unwell", "trans": "気分が悪い"}
+      ],
+      "related": []
+    },
+    {
+      "number": 701,
+      "word": "axiom",
+      "pos": "名詞",
+      "meaning": "自明の理、公理、格言",
+      "nuance": "証明するまでもなく誰もが正しいと認める真理や、数学における前提条件（公理）を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It is a widely accepted axiom that experience is the best teacher.",
+              "ja": "経験は最良の教師であるということは、広く認められた自明の理である。",
+              "highlight": "axiom"
+            },
+            {
+              "en": "The whole system is built on this fundamental axiom.",
+              "ja": "システム全体が、この根本的な公理に基づいている。",
+              "highlight": "axiom"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 axios（価値がある）",
+      "synonyms": [
+        {"word": "maxim", "trans": "格言"},
+        {"word": "principle", "trans": "原理、原則"},
+        {"word": "truism", "trans": "自明の理"}
+      ],
+      "antonyms": [
+        {"word": "absurdity", "trans": "不条理"},
+        {"word": "paradox", "trans": "逆説"}
+      ],
+      "related": [
+        {"word": "axiomatic", "trans": "形容詞：自明の"}
+      ]
+    },
+    {
+      "number": 702,
+      "word": "shorthand",
+      "pos": "名詞、形容詞",
+      "meaning": "速記、略記、簡略な表現",
+      "nuance": "特殊な記号で素早く書き留める「速記」のほか、複雑な概念を象徴する「手っ取り早い代名詞」的な意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The secretary took notes in shorthand.",
+              "ja": "秘書は速記でメモを取った。",
+              "highlight": "shorthand"
+            },
+            {
+              "en": "The word 'Wall Street' is often used as shorthand for the US financial industry.",
+              "ja": "「ウォール街」という言葉は、しばしば米国の金融業界を指す略称（簡略な表現）として使われる。",
+              "highlight": "shorthand"
+            }
+          ]
+        }
+      ],
+      "etymology": "short（短い）+ hand（手、筆跡）",
+      "synonyms": [
+        {"word": "stenography", "trans": "速記術"},
+        {"word": "abbreviation", "trans": "略語"}
+      ],
+      "antonyms": [
+        {"word": "longhand", "trans": "普通の書き方"}
+      ],
+      "related": []
+    },
+    {
+      "number": 703,
+      "word": "tick",
+      "pos": "名詞、動詞",
+      "meaning": "（時計の）カチカチいう音、チェックマーク、瞬間、カチカチ鳴る、チェックを入れる",
+      "nuance": "時計の音のほか、イギリス英語では「チェックマーク（✓）」を指します。また「what makes someone tick」で「人の行動の動機（何がその人を動かしているか）」という重要な慣用句があります。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "I'll be with you in a tick.",
+              "ja": "すぐ（一瞬で）そちらへ行きます。",
+              "highlight": "tick"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "Please tick the box if you agree to the terms.",
+              "ja": "規約に同意する場合は、ボックスにチェックを入れてください。",
+              "highlight": "tick"
+            },
+            {
+              "en": "The clock ticked away in the silent room.",
+              "ja": "静かな部屋で時計がカチカチと音を立てていた。",
+              "highlight": "ticked"
+            }
+          ]
+        }
+      ],
+      "etymology": "擬音語由来",
+      "synonyms": [
+        {"word": "check", "trans": "（米）チェックする"},
+        {"word": "moment", "trans": "瞬間"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "ticker", "trans": "名詞：時計、心臓（口語）"}
+      ]
+    },
+    {
+      "number": 704,
+      "word": "pedometer",
+      "pos": "名詞",
+      "meaning": "歩数計、万歩計",
+      "nuance": "歩いた距離や歩数を測定する機器です。最近はスマホのアプリに内蔵されていることが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He uses a pedometer to track his daily steps.",
+              "ja": "彼は毎日の歩数を記録するために歩数計を使っている。",
+              "highlight": "pedometer"
+            },
+            {
+              "en": "My pedometer says I've walked 10,000 steps today.",
+              "ja": "歩数計によれば、今日は1万歩歩いたことになっている。",
+              "highlight": "pedometer"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 pes（足）+ meter（測定器）",
+      "synonyms": [
+        {"word": "step counter", "trans": "歩数計"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "pedestrian", "trans": "名詞：歩行者"},
+        {"word": "pedal", "trans": "名詞：ペダル"}
+      ]
+    },
+    {
+      "number": 705,
+      "word": "pedestrian",
+      "pos": "名詞、形容詞",
+      "meaning": "歩行者、歩行者用の、平凡な、退屈な",
+      "nuance": "名詞では「歩行者」ですが、形容詞として使うと「足で歩くほどゆっくり＝平凡で活気がない」という比喩的な意味になります。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The driver stopped to let the pedestrian cross the road.",
+              "ja": "運転手は歩行者が道路を渡れるように停止した。",
+              "highlight": "pedestrian"
+            }
+          ]
+        },
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "His style of writing is rather pedestrian.",
+              "ja": "彼の執筆スタイルは、どちらかと言えば平凡（退屈）だ。",
+              "highlight": "pedestrian"
+            }
+          ]
+        }
+      ],
+      "etymology": "pedometer と同語源（pes = 足）",
+      "synonyms": [
+        {"word": "walker", "trans": "歩く人"},
+        {"word": "ordinary", "trans": "普通の"},
+        {"word": "dull", "trans": "退屈な"}
+      ],
+      "antonyms": [
+        {"word": "driver", "trans": "運転手"},
+        {"word": "imaginative", "trans": "想像力豊かな"},
+        {"word": "exciting", "trans": "ワクワクさせる"}
+      ],
+      "related": [
+        {"word": "pedestrianize", "trans": "動詞：歩行者天国にする"}
+      ]
+    },
+    {
+      "number": 706,
+      "word": "proliferate",
+      "pos": "動詞",
+      "meaning": "（急速に）増殖する、急増する、激増する",
+      "nuance": "細胞、核兵器、あるいはネット上の情報などが、次々と増えて広がる様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Rumors about the incident began to proliferate on social media.",
+              "ja": "その事件に関する噂がSNS上で急増し始めた。",
+              "highlight": "proliferate"
+            },
+            {
+              "en": "Small businesses have proliferated in the last few years.",
+              "ja": "ここ数年で小規模なビジネスが激増した。",
+              "highlight": "proliferated"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 proles（子孫）+ fer（運ぶ）",
+      "synonyms": [
+        {"word": "multiply", "trans": "増える"},
+        {"word": "mushroom", "trans": "急成長する"},
+        {"word": "burgeon", "trans": "急成長する"}
+      ],
+      "antonyms": [
+        {"word": "decrease", "trans": "減少する"},
+        {"word": "dwindle", "trans": "だんだん減る"}
+      ],
+      "related": [
+        {"word": "proliferation", "trans": "名詞：激増、核拡散"}
+      ]
+    },
+    {
+      "number": 707,
+      "word": "wearable",
+      "pos": "形容詞、名詞",
+      "meaning": "着用できる、身につけられる、ウェアラブル端末（身につけるIT機器）",
+      "nuance": "衣類として「着心地が良い」という意味と、スマートウォッチなどの「身に付けるテクノロジー」を指す名詞としての意味があります。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "These clothes are stylish yet very wearable.",
+              "ja": "これらの服はスタイリッシュだが、とても着やすい（実用的だ）。",
+              "highlight": "wearable"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Wearables like fitness trackers are becoming increasingly popular.",
+              "ja": "フィットネストラッカーのようなウェアラブル端末は、ますます人気が高まっている。",
+              "highlight": "Wearables"
+            }
+          ]
+        }
+      ],
+      "etymology": "wear（着る）+ able（できる）",
+      "synonyms": [],
+      "antonyms": [
+        {"word": "unwearable", "trans": "着られない"}
+      ],
+      "related": [
+        {"word": "footwear", "trans": "名詞：履物"}
+      ]
+    },
+    {
+      "number": 708,
+      "word": "tracker",
+      "pos": "名詞",
+      "meaning": "追跡者、追跡システム、記録装置",
+      "nuance": "動物の足跡を追う人から、荷物の配送状況を確認するシステム、運動記録をつけるデバイスまで幅広く指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You can check the location of your parcel using the online tracker.",
+              "ja": "オンラインの追跡システムを使って小包の場所を確認できる。",
+              "highlight": "tracker"
+            },
+            {
+              "en": "She wears a fitness tracker to monitor her heart rate.",
+              "ja": "彼女は心拍数を監視するためにフィットネストラッカーを身につけている。",
+              "highlight": "tracker"
+            }
+          ]
+        }
+      ],
+      "etymology": "track（跡）+ er（もの）",
+      "synonyms": [
+        {"word": "monitor", "trans": "監視装置"},
+        {"word": "hunter", "trans": "追跡者、ハンター"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "track", "trans": "名詞/動詞：足跡/追跡する"}
+      ]
+    },
+    {
+      "number": "708-2",
+      "word": "track",
+      "pos": "名詞、動詞",
+      "meaning": "足跡、小道、線路、〜を追跡する、〜を記録する",
+      "nuance": "名詞では「通り道」や「競技場のトラック」を指し、動詞では経過を「継続的に追う・記録する（keep track of）」という意味で多用されます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "We followed the bear's tracks in the snow.",
+              "ja": "私たちは雪の中のクマの足跡を追った。",
+              "highlight": "tracks"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The software is designed to track expenses.",
+              "ja": "そのソフトウェアは経費を記録（追跡）するように設計されている。",
+              "highlight": "track"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期フランス語 trac（足跡、通り道）",
+      "synonyms": [
+        {"word": "trail", "trans": "跡"},
+        {"word": "trace", "trans": "跡、突き止める"},
+        {"word": "follow", "trans": "ついていく"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "soundtrack", "trans": "名詞：サウンドトラック"}
+      ]
+    },
+    {
+      "number": 709,
+      "word": "benchmark",
+      "pos": "名詞、動詞",
+      "meaning": "基準、指標、ベンチマーク（比較評価の基準）、〜を評価する",
+      "nuance": "他のものを測るための「標準・物差し」を指します。特にビジネスやITの性能比較でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "This product has become the benchmark for quality in the industry.",
+              "ja": "この製品は業界における品質の基準（ベンチマーク）となった。",
+              "highlight": "benchmark"
+            },
+            {
+              "en": "We need to benchmark our performance against our competitors.",
+              "ja": "競合他社と比較して自社のパフォーマンスを評価する必要がある。",
+              "highlight": "benchmark"
+            }
+          ]
+        }
+      ],
+      "etymology": "測量士が基準点として刻んだ印（bench mark）",
+      "synonyms": [
+        {"word": "standard", "trans": "標準"},
+        {"word": "criterion", "trans": "基準"},
+        {"word": "yardstick", "trans": "物差し、基準"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 710,
+      "word": "criterion",
+      "pos": "名詞",
+      "meaning": "（判断の）基準、尺度",
+      "nuance": "何かを評価したり決定したりする際の「根拠となる基準」です。複数形は **criteria** となり、こちらの方がよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "What is the main criterion for selecting the winner?",
+              "ja": "勝者を選ぶための主な基準は何ですか？",
+              "highlight": "criterion"
+            },
+            {
+              "en": "The university has strict admission criteria.",
+              "ja": "その大学には厳しい入学基準（複数）がある。",
+              "highlight": "criteria"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 krites（審判、裁判官）",
+      "synonyms": [
+        {"word": "standard", "trans": "標準"},
+        {"word": "measure", "trans": "尺度"},
+        {"word": "basis", "trans": "基礎、根拠"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "critic", "trans": "名詞：批評家"}
+      ]
+    },
+    {
+      "number": 711,
+      "word": "gauge",
+      "pos": "名詞、動詞",
+      "meaning": "計器、測定器、規格、〜を測定する、〜を判断する",
+      "nuance": "厚さや量、圧力を測る器具を指すほか、人の反応や感情を「推し量る」際にも使われます。発音は「ゲイジ」に近いので注意。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Check the fuel gauge before we leave.",
+              "ja": "出発前に燃料計を確認しなさい。",
+              "highlight": "gauge"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "It’s difficult to gauge his reaction to the news.",
+              "ja": "そのニュースに対する彼の反応を推し量る（判断する）のは難しい。",
+              "highlight": "gauge"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期フランス語 jauger（測定する）",
+      "synonyms": [
+        {"word": "measure", "trans": "測る"},
+        {"word": "calculate", "trans": "計算する"},
+        {"word": "evaluate", "trans": "評価する"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": "711-2",
+      "word": "barometer",
+      "pos": "名詞",
+      "meaning": "気圧計、指標、バロメーター",
+      "nuance": "気圧を測る装置ですが、比喩的に「社会や状況の変化を示す指標」としてよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The stock market is often seen as a barometer of the economy.",
+              "ja": "株式市場は、しばしば経済のバロメーター（指標）と見なされる。",
+              "highlight": "barometer"
+            },
+            {
+              "en": "The barometer is falling, so it might rain soon.",
+              "ja": "気圧計が下がっているので、もうすぐ雨が降るかもしれない。",
+              "highlight": "barometer"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 baros（重さ）+ meter（測定器）",
+      "synonyms": [
+        {"word": "indicator", "trans": "指標"},
+        {"word": "index", "trans": "指数、指標"}
+      ],
+      "antonyms": [],
+      "related": []
+    }
+  ]
+}
