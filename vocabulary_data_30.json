@@ -1447,6 +1447,534 @@
         {"word": "original", "trans": "独創的な"}
       ],
       "related": []
+    },
+    {
+      "number": 763,
+      "word": "hierarchy",
+      "pos": "名詞",
+      "meaning": "階層、ヒエラルキー、階級制度",
+      "nuance": "組織や社会における上下関係や順位を指します。もともとは宗教的な階級を指す言葉でした。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is a rigid hierarchy within the company.",
+              "ja": "その会社内には厳格な階級制度（ヒエラルキー）が存在する。",
+              "highlight": "hierarchy"
+            },
+            {
+              "en": "The social hierarchy of the 18th century was very complex.",
+              "ja": "18世紀の社会階層は非常に複雑だった。",
+              "highlight": "hierarchy"
+            }
+          ]
+        }
+      ],
+      "etymology": "hieros（神聖な）+ arkhein（支配する）",
+      "synonyms": [
+        {"word": "pecking order", "trans": "序列"},
+        {"word": "ranking", "trans": "順位、格付け"},
+        {"word": "ladder", "trans": "（出世の）階段"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "hierarchical", "trans": "形容詞：階層的な"}
+      ]
+    },
+    {
+      "number": "763-2",
+      "word": "hierarchical",
+      "pos": "形容詞",
+      "meaning": "階層的な、階級制の",
+      "nuance": "ピラミッド型の構造を持っている様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The military has a very hierarchical structure.",
+              "ja": "軍隊は非常に階層的な構造を持っている。",
+              "highlight": "hierarchical"
+            }
+          ]
+        }
+      ],
+      "etymology": "hierarchy の形容詞形",
+      "synonyms": [
+        {"word": "stratified", "trans": "層を成した"},
+        {"word": "graded", "trans": "段階的な"}
+      ],
+      "antonyms": [
+        {"word": "egalitarian", "trans": "平等主義の"},
+        {"word": "horizontal", "trans": "水平な（階層のない）"}
+      ],
+      "related": []
+    },
+    {
+      "number": 764,
+      "word": "clink",
+      "pos": "動詞、名詞",
+      "meaning": "（グラスなどが）チリンと鳴る、〜をチリンと鳴らす、チリンという音、刑務所（俗語）",
+      "nuance": "ガラスや金属が軽く触れ合って出る高い音を指します。俗語の「刑務所」は、鉄格子の音に由来します。",
+      "example_sections": [
+        {
+          "title": "例文（動詞・名詞）",
+          "examples": [
+            {
+              "en": "They clinked their glasses and drank a toast.",
+              "ja": "彼らはグラスをチリンと鳴らして乾杯した。",
+              "highlight": "clinked"
+            },
+            {
+              "en": "I heard the clink of ice in a glass.",
+              "ja": "グラスの中で氷がチリンと鳴る音が聞こえた。",
+              "highlight": "clink"
+            }
+          ]
+        }
+      ],
+      "etymology": "擬音語",
+      "synonyms": [
+        {"word": "jingle", "trans": "チリンチリン鳴る"},
+        {"word": "chime", "trans": "（鐘が）鳴る"},
+        {"word": "prison", "trans": "刑務所（俗語の意味において）"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 765,
+      "word": "complicated",
+      "pos": "形容詞",
+      "meaning": "複雑な、込み入った、解きにくい",
+      "nuance": "多くの要素が絡み合っていて、理解や解決が難しい状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The instructions are too complicated to follow.",
+              "ja": "説明書が複雑すぎて理解できない。",
+              "highlight": "complicated"
+            },
+            {
+              "en": "It's a complicated issue with no easy solution.",
+              "ja": "それは簡単な解決策のない複雑な問題だ。",
+              "highlight": "complicated"
+            }
+          ]
+        }
+      ],
+      "etymology": "com（共に）+ plicare（畳む）→ 折り重なっている",
+      "synonyms": [
+        {"word": "complex", "trans": "複合的な、複雑な"},
+        {"word": "intricate", "trans": "入り組んだ"},
+        {"word": "elaborate", "trans": "手の込んだ"}
+      ],
+      "antonyms": [
+        {"word": "simple", "trans": "単純な"},
+        {"word": "straightforward", "trans": "わかりやすい"}
+      ],
+      "related": [
+        {"word": "complicate", "trans": "動詞：複雑にする"},
+        {"word": "complication", "trans": "名詞：複雑化、合併症"}
+      ]
+    },
+    {
+      "number": 766,
+      "word": "straightforward",
+      "pos": "形容詞",
+      "meaning": "わかりやすい、単純な、正直な、率直な",
+      "nuance": "物事が複雑でなく真っ直ぐであること、あるいは人が隠し事をせず正直であることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The repair job was quite straightforward.",
+              "ja": "修理作業はかなり単純（わかりやすかった）だった。",
+              "highlight": "straightforward"
+            },
+            {
+              "en": "She is a very straightforward person.",
+              "ja": "彼女はとても率直な（裏表のない）人だ。",
+              "highlight": "straightforward"
+            }
+          ]
+        }
+      ],
+      "etymology": "straight（真っ直ぐ）+ forward（前方へ）",
+      "synonyms": [
+        {"word": "simple", "trans": "簡単な"},
+        {"word": "honest", "trans": "正直な"},
+        {"word": "direct", "trans": "直接的な、率直な"}
+      ],
+      "antonyms": [
+        {"word": "complicated", "trans": "複雑な"},
+        {"word": "devious", "trans": "不正直な、遠回しの"},
+        {"word": "ambiguous", "trans": "曖昧な"}
+      ],
+      "related": []
+    },
+    {
+      "number": 767,
+      "word": "politics",
+      "pos": "名詞",
+      "meaning": "政治、政治学、駆け引き",
+      "nuance": "国や組織を動かす仕組みや活動のほか、社内政治（office politics）のような権力争いも指します。※通常、単数扱い。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He entered politics at the age of 30.",
+              "ja": "彼は30歳で政界に入った（政治を始めた）。",
+              "highlight": "politics"
+            },
+            {
+              "en": "Office politics can be very stressful.",
+              "ja": "社内の派閥争い（政治的な駆け引き）は非常にストレスが溜まる。",
+              "highlight": "politics"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 polis（都市国家）",
+      "synonyms": [
+        {"word": "government", "trans": "政府、政治"},
+        {"word": "policy", "trans": "政策"},
+        {"word": "statesmanship", "trans": "政治的手腕"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "political", "trans": "形容詞：政治の"},
+        {"word": "politician", "trans": "名詞：政治家"}
+      ]
+    },
+    {
+      "number": "767-2",
+      "word": "political",
+      "pos": "形容詞",
+      "meaning": "政治的な、政治の、政党に関する",
+      "nuance": "政治そのものや、権力構造に関わる性質を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The prisoner was released for political reasons.",
+              "ja": "その囚人は政治的理由で釈放された。",
+              "highlight": "political"
+            },
+            {
+              "en": "I have no political ambitions.",
+              "ja": "私に政治的な野心はない。",
+              "highlight": "political"
+            }
+          ]
+        }
+      ],
+      "etymology": "politics の形容詞形",
+      "synonyms": [
+        {"word": "governmental", "trans": "政府の"},
+        {"word": "civic", "trans": "市民の、都市の"}
+      ],
+      "antonyms": [
+        {"word": "apolitical", "trans": "政治に関心のない、非政治的な"}
+      ],
+      "related": []
+    },
+    {
+      "number": "767-3",
+      "word": "politician",
+      "pos": "名詞",
+      "meaning": "政治家、政客",
+      "nuance": "職業としての政治家を指します。しばしば「選挙のことばかり考えている」「私利私欲に走る」といった批判的なニュアンスを伴うことがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Most politicians promise lower taxes during campaigns.",
+              "ja": "ほとんどの政治家は、選挙運動中に減税を約束する。",
+              "highlight": "politicians"
+            }
+          ]
+        }
+      ],
+      "etymology": "political + ian",
+      "synonyms": [
+        {"word": "lawmaker", "trans": "立法者"},
+        {"word": "statesman", "trans": "政治家（尊敬を込めた表現）"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": "767-4",
+      "word": "statesman",
+      "pos": "名詞",
+      "meaning": "（尊敬すべき）政治家、国務に長けた人",
+      "nuance": "politician が単なる職業を指すのに対し、statesman は高い識見を持ち、国家の利益のために尽力する「立派な政治家」という尊敬の意が込められます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was remembered as a great statesman who led the country to peace.",
+              "ja": "彼は国を平和へと導いた偉大な政治家として記憶されている。",
+              "highlight": "statesman"
+            }
+          ]
+        }
+      ],
+      "etymology": "state（国家）+ s + man",
+      "synonyms": [
+        {"word": "political leader", "trans": "政治的指導者"},
+        {"word": "diplomat", "trans": "外交官（文脈により）"}
+      ],
+      "antonyms": [
+        {"word": "politician", "trans": "政治家（軽蔑・中立的）"}
+      ],
+      "related": []
+    },
+    {
+      "number": 768,
+      "word": "competing",
+      "pos": "形容詞",
+      "meaning": "競合する、争っている、矛盾する",
+      "nuance": "同じ目標をめぐって争っている状態や、複数の意見などが両立せずに衝突している状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We must consider all the competing claims for the land.",
+              "ja": "私たちはその土地に対するすべての競合する主張（権利の主張）を検討しなければならない。",
+              "highlight": "competing"
+            },
+            {
+              "en": "The two companies are competing for the same market share.",
+              "ja": "その2社は同じ市場シェアをめぐって競い合っている。",
+              "highlight": "competing"
+            }
+          ]
+        }
+      ],
+      "etymology": "compete の現在分詞形",
+      "synonyms": [
+        {"word": "rival", "trans": "ライバルの"},
+        {"word": "opposing", "trans": "反対の"},
+        {"word": "conflicting", "trans": "矛盾する"}
+      ],
+      "antonyms": [
+        {"word": "cooperative", "trans": "協力的な"},
+        {"word": "collaborative", "trans": "共同の"}
+      ],
+      "related": [
+        {"word": "competition", "trans": "名詞：競争"}
+      ]
+    },
+    {
+      "number": "768-2",
+      "word": "compete",
+      "pos": "動詞",
+      "meaning": "競う、競争する、匹敵する",
+      "nuance": "スポーツ、ビジネス、あるいは生存のために他者と「勝敗を争う」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The two athletes will compete for the gold medal.",
+              "ja": "その二人のアスリートは金メダルを争う（競う）。",
+              "highlight": "compete"
+            },
+            {
+              "en": "Small shops cannot compete with large supermarkets on price.",
+              "ja": "個人商店は価格面で大型スーパーには太刀打ち（競争）できない。",
+              "highlight": "compete"
+            }
+          ]
+        }
+      ],
+      "etymology": "com（共に）+ petere（求める）→ 共に同じものを求める",
+      "synonyms": [
+        {"word": "contend", "trans": "争う"},
+        {"word": "rival", "trans": "対抗する"},
+        {"word": "struggle", "trans": "奮闘する、争う"}
+      ],
+      "antonyms": [
+        {"word": "cooperate", "trans": "協力する"},
+        {"word": "yield", "trans": "譲る"}
+      ],
+      "related": [
+        {"word": "competitor", "trans": "名詞：競争相手"}
+      ]
+    },
+    {
+      "number": 769,
+      "word": "relevant",
+      "pos": "形容詞",
+      "meaning": "関連がある、適切な、妥当な",
+      "nuance": "議論されている内容や現在の状況に対して「意味のある結びつき」があることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please provide all the relevant information.",
+              "ja": "関連する情報をすべて提供してください。",
+              "highlight": "relevant"
+            },
+            {
+              "en": "His experience is highly relevant to this job.",
+              "ja": "彼の経験はこの仕事に非常に適している（関連が深い）。",
+              "highlight": "relevant"
+            }
+          ]
+        }
+      ],
+      "etymology": "re（再び）+ levare（持ち上げる）→ 助けになる、密接に関わる",
+      "synonyms": [
+        {"word": "related", "trans": "関連した"},
+        {"word": "applicable", "trans": "適用できる"},
+        {"word": "pertinent", "trans": "適切な、的を射た"}
+      ],
+      "antonyms": [
+        {"word": "irrelevant", "trans": "無関係な"},
+        {"word": "unrelated", "trans": "関連のない"}
+      ],
+      "related": [
+        {"word": "relevance", "trans": "名詞：関連性"}
+      ]
+    },
+    {
+      "number": "769-2",
+      "word": "relevance",
+      "pos": "名詞",
+      "meaning": "関連性、妥当性、今日的な意義",
+      "nuance": "物事がどれだけ重要か、あるいはどれだけ直接的に関係しているかという「度合い」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The data has lost its relevance to the current situation.",
+              "ja": "そのデータは現在の状況との関連性を失った。",
+              "highlight": "relevance"
+            }
+          ]
+        }
+      ],
+      "etymology": "relevant の名詞形",
+      "synonyms": [
+        {"word": "connection", "trans": "結びつき"},
+        {"word": "applicability", "trans": "適合性"},
+        {"word": "significance", "trans": "意義"}
+      ],
+      "antonyms": [
+        {"word": "irrelevance", "trans": "無関係"}
+      ],
+      "related": []
+    },
+    {
+      "number": "769-3",
+      "word": "irrelevant",
+      "pos": "形容詞",
+      "meaning": "無関係な、見当違いの",
+      "nuance": "現在扱っている問題やトピックに対して、全く影響を与えない、あるいは考慮する必要がないことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Your personal opinion is irrelevant to this decision.",
+              "ja": "あなたの個人的な意見はこの決定には無関係だ。",
+              "highlight": "irrelevant"
+            }
+          ]
+        }
+      ],
+      "etymology": "ir（否定）+ relevant",
+      "synonyms": [
+        {"word": "unrelated", "trans": "関連のない"},
+        {"word": "extraneous", "trans": "外部からの、無関係な"},
+        {"word": "pointless", "trans": "意味のない"}
+      ],
+      "antonyms": [
+        {"word": "relevant", "trans": "関連のある"}
+      ],
+      "related": []
+    },
+    {
+      "number": 770,
+      "word": "leader",
+      "pos": "名詞",
+      "meaning": "指導者、リーダー、先導するもの、（新聞の）社説",
+      "nuance": "人々を率いる人物のほか、レースの先頭走者や、新聞の主要な論説（leading article）を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is a natural leader.",
+              "ja": "彼女は生まれながらのリーダーだ。",
+              "highlight": "leader"
+            },
+            {
+              "en": "The country is looking for a strong leader.",
+              "ja": "その国は強力な指導者を求めている。",
+              "highlight": "leader"
+            }
+          ]
+        }
+      ],
+      "etymology": "lead（導く）+ er",
+      "synonyms": [
+        {"word": "head", "trans": "頭、長"},
+        {"word": "chief", "trans": "長、主任"},
+        {"word": "guide", "trans": "案内者"}
+      ],
+      "antonyms": [
+        {"word": "follower", "trans": "追随者、フォロワー"}
+      ],
+      "related": [
+        {"word": "leadership", "trans": "名詞：指導力"}
+      ]
+    },
+    {
+      "number": 771,
+      "word": "leadership",
+      "pos": "名詞",
+      "meaning": "指導力、リーダーシップ、指導部",
+      "nuance": "集団を率いる「能力」そのもの、あるいは組織の「幹部（指導層）」全体を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company failed due to a lack of strong leadership.",
+              "ja": "その会社は強力な指導力の欠如により失敗した。",
+              "highlight": "leadership"
+            },
+            {
+              "en": "The party leadership is meeting today.",
+              "ja": "党の指導部が今日会合を開く。",
+              "highlight": "leadership"
+            }
+          ]
+        }
+      ],
+      "etymology": "leader + ship（状態、性質）",
+      "synonyms": [
+        {"word": "guidance", "trans": "指導"},
+        {"word": "management", "trans": "経営、管理"},
+        {"word": "direction", "trans": "指揮"}
+      ],
+      "antonyms": [],
+      "related": []
     }
   ]
 }
