@@ -1,0 +1,500 @@
+{
+  "words": [
+    {
+      "number": 4876,
+      "word": "pregnant",
+      "pos": "形容詞",
+      "meaning": "妊娠している、含みのある",
+      "nuance": "物理的に子供を宿している状態のほか、沈黙などが「意味深な（含みのある）」という比喩でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is six months pregnant.",
+              "ja": "彼女は妊娠6ヶ月です。",
+              "highlight": "pregnant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4877,
+      "word": "apparatus",
+      "pos": "名詞",
+      "meaning": "装置、器具、組織、機構",
+      "nuance": "特定の目的（科学実験や救助など）のために一式揃った複雑な装置を指します。また政治的な「国家機構」を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The divers were checking their breathing apparatus.",
+              "ja": "ダイバーたちは自分たちの呼吸装置を点検していた。",
+              "highlight": "apparatus"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "device", "trans": "装置"},
+        {"word": "equipment", "trans": "装備"}
+      ]
+    },
+    {
+      "number": 4878,
+      "word": "pension",
+      "pos": "名詞",
+      "meaning": "年金、手当",
+      "nuance": "引退後や遺族に支払われる定期的な給付金です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Many people are worried about their old-age pensions.",
+              "ja": "多くの人が老齢年金について不安を感じている。",
+              "highlight": "pensions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4879,
+      "word": "surrender",
+      "pos": "動詞、名詞",
+      "meaning": "降伏する、明け渡す、降伏",
+      "nuance": "敵に屈して自分を差し出すことや、権利・希望などを「断念する」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The rebel forces finally surrendered.",
+              "ja": "反乱軍はついに降伏した。",
+              "highlight": "surrendered"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "yield", "trans": "屈する"},
+        {"word": "give up", "trans": "諦める"}
+      ]
+    },
+    {
+      "number": 4880,
+      "word": "lace",
+      "pos": "名詞、動詞",
+      "meaning": "ひも（靴ひもなど）、レース編み、〜をひもで締める",
+      "nuance": "靴ひも（shoelaces）や、装飾用の透かし細工の生地を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Your shoelaces are undone.",
+              "ja": "靴ひもがほどけていますよ。",
+              "highlight": "shoelaces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4888,
+      "word": "surplus",
+      "pos": "名詞、形容詞",
+      "meaning": "黒字、余剰、余りの",
+      "nuance": "必要量を超えて余っている分、または収支におけるプラス分（貿易黒字など）を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The country has a massive trade surplus.",
+              "ja": "その国は巨額の貿易黒字を抱えている。",
+              "highlight": "surplus"
+            }
+          ]
+        }
+      ],
+      "antonyms": [
+        {"word": "deficit", "trans": "赤字、不足"}
+      ]
+    },
+    {
+      "number": 4890,
+      "word": "regime",
+      "pos": "名詞",
+      "meaning": "政権、体制、制度",
+      "nuance": "特定の政治体制や統治を指しますが、しばしば「独裁的な政権」という批判的なニュアンスで使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The old military regime was overthrown.",
+              "ja": "旧軍事政権は打倒された。",
+              "highlight": "regime"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4891,
+      "word": "legislation",
+      "pos": "名詞",
+      "meaning": "法律、立法",
+      "nuance": "制定された個々の法律や、法律を作るプロセス全体を指す少し硬い言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "New legislation on climate change is expected next year.",
+              "ja": "気候変動に関する新しい法律が来年期待されている。",
+              "highlight": "legislation"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "legislature", "trans": "名詞：立法府、議会"}
+      ]
+    },
+    {
+      "number": 4902,
+      "word": "contempt",
+      "pos": "名詞",
+      "meaning": "軽蔑、無視",
+      "nuance": "相手を価値がないものとして低く見る強い感情です。「法廷侮辱罪」は contempt of court と言います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She looked at him with utter contempt.",
+              "ja": "彼女は全くの軽蔑の眼差しで彼を見た。",
+              "highlight": "contempt"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "scorn", "trans": "軽蔑"},
+        {"word": "disdain", "trans": "見下すこと"}
+      ]
+    },
+    {
+      "number": 4908,
+      "word": "steep",
+      "pos": "形容詞",
+      "meaning": "（坂などが）険しい、急な、（価格が）不当に高い",
+      "nuance": "傾斜が急なことのほか、増減の勢いが激しい場合や、値段が高すぎること（ぼったくりに近い）にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The path to the summit is very steep.",
+              "ja": "山頂への道はとても険しい。",
+              "highlight": "steep"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4909,
+      "word": "undermine",
+      "pos": "動詞",
+      "meaning": "〜の土台を壊す、弱体化させる、密かに傷つける",
+      "nuance": "建物の下を掘って不安定にさせるのが本来の意味で、転じて信頼や権威を「徐々に蝕む」という文脈で多用されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The scandal undermined the public's confidence in the government.",
+              "ja": "そのスキャンダルは政府に対する国民の信頼を揺るがした。",
+              "highlight": "undermined"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4914,
+      "word": "convict",
+      "pos": "動詞、名詞",
+      "meaning": "〜に有罪判決を下す、受刑者",
+      "nuance": "裁判で正式に有罪と認めることです。名詞は刑務所にいる人を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was convicted of murder.",
+              "ja": "彼は殺人罪で有罪判決を受けた。",
+              "highlight": "convicted"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "conviction", "trans": "名詞：有罪判決、強い信念"}
+      ]
+    },
+    {
+      "number": 4915,
+      "word": "worsen",
+      "pos": "動詞",
+      "meaning": "悪化する、〜を悪化させる",
+      "nuance": "状態がより悪くなる（get worse）ことを表す動詞です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The weather conditions worsened during the night.",
+              "ja": "夜の間に天候が悪化した。",
+              "highlight": "worsened"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "deteriorate", "trans": "（徐々に）悪化する"},
+        {"word": "exacerbate", "trans": "（問題を）さらに悪化させる"}
+      ]
+    },
+    {
+      "number": 4923,
+      "word": "chop",
+      "pos": "動詞、名詞",
+      "meaning": "（斧などで）切り刻む、叩き切る、厚切り肉",
+      "nuance": "斧や大きな包丁で「叩き切る」ような力強い動作です。料理の「みじん切り」も chop です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Could you help me chop some wood?",
+              "ja": "薪を割るのを手伝ってくれませんか？",
+              "highlight": "chop"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4932,
+      "word": "dissolve",
+      "pos": "動詞",
+      "meaning": "溶ける、解消する、解散する",
+      "nuance": "砂糖が水に溶けるような物理的な現象から、議会の解散、組織の解消、さらには「涙にくれる（dissolve into tears）」といった表現にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The sugar dissolved in the tea.",
+              "ja": "砂糖が紅茶に溶けた。",
+              "highlight": "dissolved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4935,
+      "word": "infection",
+      "pos": "名詞",
+      "meaning": "感染、伝染、伝染病",
+      "nuance": "細菌やウイルスが体内に侵入して増殖する状態です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is recovering from a throat infection.",
+              "ja": "彼女は喉の感染症から回復しつつある。",
+              "highlight": "infection"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "infect", "trans": "動詞：感染させる"},
+        {"word": "infectious", "trans": "形容詞：伝染性の"}
+      ]
+    },
+    {
+      "number": 4944,
+      "word": "swell",
+      "pos": "動詞、名詞",
+      "meaning": "ふくらむ、腫れる、増大する、うねり",
+      "nuance": "怪我で腫れる（物理的）のほか、人口や予算などが「膨れ上がる」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "My ankle started to swell up.",
+              "ja": "足首が腫れ始めた。",
+              "highlight": "swell"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4945,
+      "word": "compulsory",
+      "pos": "形容詞",
+      "meaning": "義務的な、強制的な、必修の",
+      "nuance": "規則や法律によって「しなければならない」と定められていることです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Education is compulsory until the age of 16.",
+              "ja": "16歳まで教育は義務である。",
+              "highlight": "compulsory"
+            }
+          ]
+        }
+      ],
+      "synonyms": [
+        {"word": "mandatory", "trans": "義務的な"},
+        {"word": "obligatory", "trans": "義務的な"}
+      ],
+      "antonyms": [
+        {"word": "optional", "trans": "選択自由の"},
+        {"word": "voluntary", "trans": "自発的な"}
+      ]
+    },
+    {
+      "number": 4946,
+      "word": "vein",
+      "pos": "名詞",
+      "meaning": "静脈、血管、鉱脈、気質",
+      "nuance": "血液を心臓へ戻す血管（静脈）を指します。また、葉脈や、ある一定の「論調・気分」を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The nurse found a vein in my arm.",
+              "ja": "看護師は私の腕の静脈を見つけた。",
+              "highlight": "vein"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4952,
+      "word": "battery",
+      "pos": "名詞",
+      "meaning": "電池、バッテリー、一連のもの、不法な打撃（暴行罪）",
+      "nuance": "電池だけでなく、a battery of tests のように「一連の〜」という意味や、法律用語としての「暴行」という意味もあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "My phone is out of battery.",
+              "ja": "スマホの電池が切れた。",
+              "highlight": "battery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4954,
+      "word": "grind",
+      "pos": "動詞、名詞",
+      "meaning": "（粉を）ひく、すりつぶす、研磨する、単調な仕事",
+      "nuance": "コーヒー豆を挽くような動作です。日常の「単調で骨の折れる仕事」を the daily grind と呼んだりします。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He grinds his own coffee beans every morning.",
+              "ja": "彼は毎朝、自分でコーヒー豆を挽いている。",
+              "highlight": "grinds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4958,
+      "word": "certificate",
+      "pos": "名詞",
+      "meaning": "証明書、免許状、修了証",
+      "nuance": "ある事実（出生、結婚、資格取得など）を公式に証明する文書です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You will receive a certificate after completing the course.",
+              "ja": "コース修了後、修了証が授与されます。",
+              "highlight": "certificate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4962,
+      "word": "delegate",
+      "pos": "名詞、動詞",
+      "meaning": "代表、使節、〜を代表として送る、（権限を）委譲する",
+      "nuance": "会議などに送られる代表者のこと。動詞では、自分で全部やらずに他人に「仕事を任せる（権限を与える）」という意味でビジネスでよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A good manager knows how to delegate tasks.",
+              "ja": "優れたマネージャーは、タスクを（部下に）任せる方法を知っている。",
+              "highlight": "delegate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4966,
+      "word": "prosecute",
+      "pos": "動詞",
+      "meaning": "〜を起訴する、告発する、遂行する",
+      "nuance": "検察官などが法律に基づいて人を裁判にかけることです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Shoplifters will be prosecuted.",
+              "ja": "万引き犯は起訴されます（店によく貼ってある警告）。",
+              "highlight": "prosecuted"
+            }
+          ]
+        }
+      ],
+      "related": [
+        {"word": "prosecutor", "trans": "名詞：検察官"}
+      ]
+    }
+  ]
+}
