@@ -1121,6 +1121,785 @@
         {"word": "laboratory", "trans": "名詞：研究所（働く場所）"},
         {"word": "elaborate", "trans": "形容詞/動詞：精巧な/詳しく述べる（労力をかけた）"}
       ]
+    },
+    {
+      "number": 688,
+      "word": "component",
+      "pos": "名詞、形容詞",
+      "meaning": "構成要素、成分、部品、構成している",
+      "nuance": "機械の部品や、理論を形作る要素など、大きな全体を構成する個々のパーツを指します。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Trust is a vital component of a successful marriage.",
+              "ja": "信頼は成功する結婚生活に不可欠な要素である。",
+              "highlight": "component"
+            },
+            {
+              "en": "Each component of the engine must be checked regularly.",
+              "ja": "エンジンの各部品は定期的に点検されなければならない。",
+              "highlight": "component"
+            }
+          ]
+        },
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "The component parts are manufactured in Japan.",
+              "ja": "その構成部品は日本で製造されている。",
+              "highlight": "component"
+            }
+          ]
+        }
+      ],
+      "etymology": "com（共に）+ ponere（置く）",
+      "synonyms": [
+        {"word": "element", "trans": "要素"},
+        {"word": "constituent", "trans": "構成要素"},
+        {"word": "part", "trans": "部分"}
+      ],
+      "antonyms": [
+        {"word": "whole", "trans": "全体"},
+        {"word": "composite", "trans": "合成物"}
+      ],
+      "related": [
+        {"word": "compose", "trans": "動詞：構成する"},
+        {"word": "composition", "trans": "名詞：構成、作文"}
+      ]
+    },
+    {
+      "number": 689,
+      "word": "segment",
+      "pos": "名詞、動詞",
+      "meaning": "部分、断片、区分、（市場などの）層、〜を分割する",
+      "nuance": "全体から切り離された、あるいは区分けされた「一区切り」を指します。市場調査（マーケットセグメント）などでよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The orange is divided into segments.",
+              "ja": "そのオレンジはいくつかの房（断片）に分かれている。",
+              "highlight": "segments"
+            },
+            {
+              "en": "The company targets the luxury segment of the market.",
+              "ja": "その企業は市場の高級層（セグメント）をターゲットにしている。",
+              "highlight": "segment"
+            }
+          ]
+        },
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The data can be segmented by age and gender.",
+              "ja": "そのデータは年齢と性別によって分割することができる。",
+              "highlight": "segmented"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 secare（切る）",
+      "synonyms": [
+        {"word": "section", "trans": "区分、部門"},
+        {"word": "portion", "trans": "一部分"},
+        {"word": "division", "trans": "分割"}
+      ],
+      "antonyms": [
+        {"word": "aggregate", "trans": "集合体、総計"}
+      ],
+      "related": [
+        {"word": "segmentation", "trans": "名詞：分割"}
+      ]
+    },
+    {
+      "number": 690,
+      "word": "arithmetic",
+      "pos": "名詞、形容詞",
+      "meaning": "算数、算術、計算、算術の",
+      "nuance": "数学（Mathematics）の中でも、特に四則演算（足し算・引き算・掛け算・割り算）などの基本的な数計算を指します。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "He made a simple error in arithmetic.",
+              "ja": "彼は単純な算数の間違いをした。",
+              "highlight": "arithmetic"
+            },
+            {
+              "en": "I was never very good at arithmetic in school.",
+              "ja": "学生時代、私は算数が得意ではなかった。",
+              "highlight": "arithmetic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 arithmos（数）",
+      "synonyms": [
+        {"word": "calculation", "trans": "計算"},
+        {"word": "computation", "trans": "算定"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "arithmetical", "trans": "形容詞：算術の"}
+      ]
+    },
+    {
+      "number": 691,
+      "word": "geometry",
+      "pos": "名詞",
+      "meaning": "幾何学、図形",
+      "nuance": "点、線、面、立体などの性質や関係を扱う数学の一分野です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Geometry is the study of shapes and their properties.",
+              "ja": "幾何学は形とその性質についての学問である。",
+              "highlight": "Geometry"
+            },
+            {
+              "en": "The complex geometry of the building makes it unique.",
+              "ja": "その建物の複雑な幾何学的構造（図形）が、それをユニークにしている。",
+              "highlight": "geometry"
+            }
+          ]
+        }
+      ],
+      "etymology": "geo（地球・土地）+ metria（測定）→ 土地を測る",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        {"word": "geometer", "trans": "名詞：幾何学者"},
+        {"word": "geography", "trans": "名詞：地理学"}
+      ]
+    },
+    {
+      "number": "691-2",
+      "word": "geometric(al)",
+      "pos": "形容詞",
+      "meaning": "幾何学的な、幾何学の、幾何学級数的な",
+      "nuance": "図形的なデザインや、倍々で増えていくような急激な増加（幾何級数的増加）について使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The wallpaper has a colorful geometric pattern.",
+              "ja": "その壁紙はカラフルな幾何学模様をしている。",
+              "highlight": "geometric"
+            },
+            {
+              "en": "The population growth followed a geometric progression.",
+              "ja": "人口増加は幾何学級数的な進行（増え方）をたどった。",
+              "highlight": "geometric"
+            }
+          ]
+        }
+      ],
+      "etymology": "geometry の形容詞形",
+      "synonyms": [
+        {"word": "formal", "trans": "形式的な、整った"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 692,
+      "word": "algebra",
+      "pos": "名詞",
+      "meaning": "代数学、代数",
+      "nuance": "数値を $x$ や $y$ などの記号（代数）に置き換えて、方程式などを解く数学の一分野です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Algebra is a fundamental part of high school mathematics.",
+              "ja": "代数学は高校数学の基本的部分である。",
+              "highlight": "Algebra"
+            },
+            {
+              "en": "I finally understood how to solve this algebra problem.",
+              "ja": "ようやくこの代数問題の解き方が分かった。",
+              "highlight": "algebra"
+            }
+          ]
+        }
+      ],
+      "etymology": "アラビア語 al-jabr（バラバラのものを再結合する）",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        {"word": "algebraic", "trans": "形容詞：代数（学）の"}
+      ]
+    },
+    {
+      "number": "692-2",
+      "word": "digit",
+      "pos": "名詞",
+      "meaning": "（0から9までの）数字、桁、指（手足の）",
+      "nuance": "数値の一つの「桁」を指します。また、指を使って数を数えていたことから「指」という意味もあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The number 100 has three digits.",
+              "ja": "100という数字は3桁である。",
+              "highlight": "digits"
+            },
+            {
+              "en": "Please enter the last four digits of your phone number.",
+              "ja": "電話番号の下4桁を入力してください。",
+              "highlight": "digits"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 digitus（指）",
+      "synonyms": [
+        {"word": "numeral", "trans": "数字"},
+        {"word": "finger", "trans": "指"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "digital", "trans": "形容詞：デジタルの（指で数えられるような）"}
+      ]
+    },
+    {
+      "number": "692-3",
+      "word": "binary",
+      "pos": "形容詞、名詞",
+      "meaning": "2進法の、2つの要素からなる、バイナリ（データ）",
+      "nuance": "「2つ」を基本単位とするシステム。コンピュータの世界では 0 と 1 の「2進法」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Computers process data in binary code.",
+              "ja": "コンピュータはデータを2進数（バイナリコード）で処理する。",
+              "highlight": "binary"
+            },
+            {
+              "en": "A binary star system consists of two stars orbiting each other.",
+              "ja": "連星系（バイナリ・スター）は互いに回り合う2つの星から成る。",
+              "highlight": "binary"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 bini（2つずつ）",
+      "synonyms": [
+        {"word": "dual", "trans": "二重の"},
+        {"word": "double", "trans": "二倍の"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "combine", "trans": "動詞：結合する（2つ以上を一緒にする）"}
+      ]
+    },
+    {
+      "number": 693,
+      "word": "fraction",
+      "pos": "名詞",
+      "meaning": "分数、端数、ほんの一部",
+      "nuance": "数学的な「分数」の意味と、全体のごくわずかな「一部分」という比喩的な意味の両方でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We can express 0.5 as the fraction 1/2.",
+              "ja": "0.5は分数1/2として表すことができる。",
+              "highlight": "fraction"
+            },
+            {
+              "en": "The cost was only a fraction of what we had expected.",
+              "ja": "費用は私たちが予想していたものの、ほんの一部（わずか）だった。",
+              "highlight": "fraction"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 frangere（壊す）→ バラバラに砕かれたもの",
+      "synonyms": [
+        {"word": "portion", "trans": "部分"},
+        {"word": "fragment", "trans": "破片"},
+        {"word": "part", "trans": "一部分"}
+      ],
+      "antonyms": [
+        {"word": "whole", "trans": "全体"},
+        {"word": "integer", "trans": "整数"}
+      ],
+      "related": [
+        {"word": "fracture", "trans": "名詞/動詞：骨折/砕く"},
+        {"word": "fragile", "trans": "形容詞：壊れやすい"}
+      ]
+    },
+    {
+      "number": "693-2",
+      "word": "multiplication",
+      "pos": "名詞",
+      "meaning": "掛け算、増殖、多様化",
+      "nuance": "数学の「乗算（掛け算）」を指すほか、生物の数などが急速に増えることも意味します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Children learn the multiplication table at school.",
+              "ja": "子供たちは学校で九九（掛け算表）を学ぶ。",
+              "highlight": "multiplication"
+            },
+            {
+              "en": "The multiplication of cells is essential for growth.",
+              "ja": "細胞の増殖は成長に不可欠である。",
+              "highlight": "multiplication"
+            }
+          ]
+        }
+      ],
+      "etymology": "multi（多くの）+ plicare（折り畳む）",
+      "synonyms": [
+        {"word": "proliferation", "trans": "急増、増殖"},
+        {"word": "increase", "trans": "増加"}
+      ],
+      "antonyms": [
+        {"word": "division", "trans": "割り算、分割"},
+        {"word": "reduction", "trans": "減少"}
+      ],
+      "related": [
+        {"word": "multiply", "trans": "動詞：掛ける、増やす"},
+        {"word": "multiple", "trans": "形容詞：多数の、倍数の"}
+      ]
+    },
+    {
+      "number": 694,
+      "word": "diameter",
+      "pos": "名詞",
+      "meaning": "直径",
+      "nuance": "円や球の中心を通り、両端を結ぶ直線の長さを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The diameter of the tree trunk is about 50 centimeters.",
+              "ja": "その木の幹の直径は約50センチメートルである。",
+              "highlight": "diameter"
+            },
+            {
+              "en": "Measure the inside diameter of the pipe.",
+              "ja": "パイプの内径を測ってください。",
+              "highlight": "diameter"
+            }
+          ]
+        }
+      ],
+      "etymology": "dia（横切って）+ metron（測る）",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        {"word": "diagonal", "trans": "名詞/形容詞：対角線/斜めの"},
+        {"word": "perimeter", "trans": "名詞：周囲"}
+      ]
+    },
+    {
+      "number": "694-2",
+      "word": "radius",
+      "pos": "名詞",
+      "meaning": "半径、半径の範囲、橈骨（腕の骨）",
+      "nuance": "中心から円周までの距離。また、ある地点から一定の距離にある範囲（例：2キロ圏内）を指す際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The radius is half the length of the diameter.",
+              "ja": "半径は直径の半分の長さである。",
+              "highlight": "radius"
+            },
+            {
+              "en": "There are no gas stations within a ten-mile radius.",
+              "ja": "半径10マイル以内にガソリンスタンドはない。",
+              "highlight": "radius"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 radius（光線、車輪のスポーク）",
+      "synonyms": [
+        {"word": "range", "trans": "範囲"},
+        {"word": "scope", "trans": "範囲"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "radiate", "trans": "動詞：放射する"},
+        {"word": "radio", "trans": "名詞：ラジオ（電波を放射する）"}
+      ]
+    },
+    {
+      "number": 695,
+      "word": "formula",
+      "pos": "名詞",
+      "meaning": "公式、式、決まり文句、乳児用ミルク",
+      "nuance": "数学的な式のほか、成功のための「秘訣・方程式」、あるいは定型化されたやり方を指します。また、赤ちゃんの粉ミルクのことも formula と呼びます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We used a chemical formula to describe the reaction.",
+              "ja": "私たちはその反応を説明するために化学式を用いた。",
+              "highlight": "formula"
+            },
+            {
+              "en": "There's no magic formula for success.",
+              "ja": "成功に魔法の公式（秘訣）はない。",
+              "highlight": "formula"
+            }
+          ]
+        }
+      ],
+      "etymology": "form（形）+ ula（小さいもの）",
+      "synonyms": [
+        {"word": "equation", "trans": "方程式"},
+        {"word": "method", "trans": "方法"},
+        {"word": "recipe", "trans": "秘訣、調理法"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "formulate", "trans": "動詞：明確に述べる、考案する"},
+        {"word": "conform", "trans": "動詞：従う（形を合わせる）"}
+      ]
+    },
+    {
+      "number": "695-2",
+      "word": "formulate",
+      "pos": "動詞",
+      "meaning": "〜を公式化する、〜を（注意深く）作り上げる、明確に述べる",
+      "nuance": "計画、政策、考えなどを論理的・体系的にまとめ上げることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The scientist formulated a new theory based on the results.",
+              "ja": "その科学者は結果に基づいて新しい理論を構築した（明確に述べた）。",
+              "highlight": "formulated"
+            },
+            {
+              "en": "It's difficult to formulate a plan without more information.",
+              "ja": "もっと情報がないと、計画を練り上げるのは難しい。",
+              "highlight": "formulate"
+            }
+          ]
+        }
+      ],
+      "etymology": "formula + ate（動詞化）",
+      "synonyms": [
+        {"word": "devise", "trans": "考案する"},
+        {"word": "frame", "trans": "組み立てる"},
+        {"word": "draft", "trans": "起草する"}
+      ],
+      "antonyms": [
+        {"word": "destroy", "trans": "破壊する"},
+        {"word": "disorganize", "trans": "混乱させる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 696,
+      "word": "prehistoric",
+      "pos": "形容詞",
+      "meaning": "有史以前の、先史時代の、古すぎる（口語）",
+      "nuance": "文字による歴史記録が始まる前の時代を指します。転じて「時代遅れの」という意味で使われることもあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Dinosaurs were prehistoric animals.",
+              "ja": "恐竜は有史以前の動物だった。",
+              "highlight": "prehistoric"
+            },
+            {
+              "en": "They found some prehistoric paintings inside the cave.",
+              "ja": "彼らは洞窟の中で先史時代の壁画をいくつか発見した。",
+              "highlight": "prehistoric"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre（前に）+ history（歴史）+ ic（形容詞化）",
+      "synonyms": [
+        {"word": "ancient", "trans": "古代の"},
+        {"word": "primeval", "trans": "原始の"}
+      ],
+      "antonyms": [
+        {"word": "historic", "trans": "歴史に残る、有史の"},
+        {"word": "modern", "trans": "現代の"}
+      ],
+      "related": [
+        {"word": "prehistory", "trans": "名詞：先史時代"}
+      ]
+    },
+    {
+      "number": 697,
+      "word": "preoccupation",
+      "pos": "名詞",
+      "meaning": "没頭、夢中、最大の関心事、先入観",
+      "nuance": "心が一つのことに奪われている状態を指します。他を忘れるほど夢中になっている時に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His main preoccupation is his new business.",
+              "ja": "彼の最大の関心事は新しいビジネスだ。",
+              "highlight": "preoccupation"
+            },
+            {
+              "en": "She noticed his preoccupation and asked if anything was wrong.",
+              "ja": "彼女は彼が考え込んでいる（没頭している）のに気づき、何かあったのか尋ねた。",
+              "highlight": "preoccupation"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre（あらかじめ）+ occupy（占める）→ あらかじめ心を占めること",
+      "synonyms": [
+        {"word": "obsession", "trans": "強迫観念、執着"},
+        {"word": "absorption", "trans": "没頭"},
+        {"word": "fixation", "trans": "固執"}
+      ],
+      "antonyms": [
+        {"word": "indifference", "trans": "無関心"},
+        {"word": "detachment", "trans": "無頓着"}
+      ],
+      "related": [
+        {"word": "preoccupy", "trans": "動詞：没頭させる"}
+      ]
+    },
+    {
+      "number": "697-2",
+      "word": "preoccupy",
+      "pos": "動詞",
+      "meaning": "（考えなどが）〜の心を奪う、〜を夢中にさせる",
+      "nuance": "受け身（be preoccupied with...）の形で「〜に夢中になっている、〜で頭がいっぱいだ」と使われるのが最も一般的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The question of how to pay the bills preoccupied him.",
+              "ja": "どうやって請求書を支払うかという問題が、彼の頭を占めていた。",
+              "highlight": "preoccupied"
+            },
+            {
+              "en": "He was too preoccupied with his work to notice the time.",
+              "ja": "彼は仕事に夢中になりすぎて（頭がいっぱいで）、時間に気づかなかった。",
+              "highlight": "preoccupied"
+            }
+          ]
+        }
+      ],
+      "etymology": "preoccupation と同源",
+      "synonyms": [
+        {"word": "absorb", "trans": "夢中にさせる"},
+        {"word": "engross", "trans": "没頭させる"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "occupy", "trans": "動詞：占める、占領する"}
+      ]
+    },
+    {
+      "number": "697-3",
+      "word": "precaution",
+      "pos": "名詞",
+      "meaning": "予防策、用心、備え",
+      "nuance": "悪いことが起きないように、あらかじめ（pre）注意（caution）を払う行為を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They took extra precautions against the virus.",
+              "ja": "彼らはウイルスに対して特別な予防策を講じた。",
+              "highlight": "precautions"
+            },
+            {
+              "en": "As a precaution, you should back up your files.",
+              "ja": "念のため（用心として）、ファイルをバックアップしておくべきだ。",
+              "highlight": "precaution"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre（あらかじめ）+ caution（用心）",
+      "synonyms": [
+        {"word": "safeguard", "trans": "保護手段"},
+        {"word": "preventive measure", "trans": "予防策"},
+        {"word": "care", "trans": "注意"}
+      ],
+      "antonyms": [
+        {"word": "carelessness", "trans": "不注意"},
+        {"word": "neglect", "trans": "放置"}
+      ],
+      "related": [
+        {"word": "precautionary", "trans": "形容詞：予防の"}
+      ]
+    },
+    {
+      "number": 698,
+      "word": "transact",
+      "pos": "動詞",
+      "meaning": "〜を処理する、取引を行う",
+      "nuance": "ビジネスや交渉、事務などを実行することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Most of the business is transacted online.",
+              "ja": "そのビジネスのほとんどはオンラインで処理（取引）される。",
+              "highlight": "transacted"
+            },
+            {
+              "en": "They are ready to transact business with us.",
+              "ja": "彼らは私たちと取引を行う準備ができている。",
+              "highlight": "transact"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans（越えて）+ act（行う）→ 相手との間でやり取りする",
+      "synonyms": [
+        {"word": "conduct", "trans": "行う"},
+        {"word": "negotiate", "trans": "交渉する"},
+        {"word": "carry out", "trans": "実行する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "transaction", "trans": "名詞：取引"}
+      ]
+    },
+    {
+      "number": "698-2",
+      "word": "transaction",
+      "pos": "名詞",
+      "meaning": "取引、売買、処理、（会議の）議事録",
+      "nuance": "金銭のやり取りや契約の締結など、一つの完結したビジネス上の行為を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The bank charging a fee for each transaction.",
+              "ja": "その銀行は取引ごとに手数料を課している。",
+              "highlight": "transaction"
+            },
+            {
+              "en": "All financial transactions are recorded in the database.",
+              "ja": "すべての金融取引はデータベースに記録される。",
+              "highlight": "transactions"
+            }
+          ]
+        }
+      ],
+      "etymology": "transact の名詞形",
+      "synonyms": [
+        {"word": "deal", "trans": "取引"},
+        {"word": "business", "trans": "商売、事務"},
+        {"word": "proceeding", "trans": "進行、手続き"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 699,
+      "word": "transitional",
+      "pos": "形容詞",
+      "meaning": "移り変わる、過渡的な、一時的な",
+      "nuance": "ある状態から別の状態へ変化する途中の、不安定な時期や段階を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The country is in a transitional period after the election.",
+              "ja": "その国は選挙後の過渡期（移行期）にある。",
+              "highlight": "transitional"
+            },
+            {
+              "en": "We need to find a transitional solution for this issue.",
+              "ja": "この問題に対して一時的な（過渡的な）解決策を見つける必要がある。",
+              "highlight": "transitional"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans（越えて）+ it（行く）+ ion + al",
+      "synonyms": [
+        {"word": "temporary", "trans": "一時的な"},
+        {"word": "interim", "trans": "中間の、仮の"},
+        {"word": "passing", "trans": "一時の"}
+      ],
+      "antonyms": [
+        {"word": "permanent", "trans": "永続的な"},
+        {"word": "stable", "trans": "安定した"}
+      ],
+      "related": [
+        {"word": "transition", "trans": "名詞：移行、変化"},
+        {"word": "transit", "trans": "名詞：輸送、通過"}
+      ]
+    },
+    {
+      "number": "699-2",
+      "word": "transform",
+      "pos": "動詞",
+      "meaning": "〜を変形させる、〜を一変させる、変換する",
+      "nuance": "見た目や性質、形を「根本からドラマチックに変える」という強いニュアンスがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The new technology has transformed the way we work.",
+              "ja": "新しい技術は私たちの働き方を一変させた。",
+              "highlight": "transformed"
+            },
+            {
+              "en": "A caterpillar transforms into a butterfly.",
+              "ja": "イモムシは蝶に変身（変態）する。",
+              "highlight": "transforms"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans（越えて・変えて）+ form（形）",
+      "synonyms": [
+        {"word": "convert", "trans": "変換する"},
+        {"word": "alter", "trans": "変える"},
+        {"word": "reshape", "trans": "形を作り直す"}
+      ],
+      "antonyms": [
+        {"word": "preserve", "trans": "保存する"},
+        {"word": "maintain", "trans": "維持する"}
+      ],
+      "related": [
+        {"word": "transformation", "trans": "名詞：変容"},
+        {"word": "transformer", "trans": "名詞：変圧器、トランスフォーマー"}
+      ]
     }
   ]
 }
