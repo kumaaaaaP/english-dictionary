@@ -1126,6 +1126,338 @@
       "related": [
         {"word": "exotically", "trans": "副詞：風変わりな様子で"}
       ]
+    },
+    {
+      "number": 4459,
+      "word": "conceive",
+      "pos": "動詞",
+      "meaning": "〜を思いつく、考える、想像する、妊娠する",
+      "nuance": "頭の中で新しいアイデアや計画を形作る（産み出す）ことを指します。物理的に「子を宿す」という意味と、比喩的に「考えを宿す」という意味の両方で使われます。",
+      "example_sections": [
+        {
+          "title": "意味1：思いつく、想像する",
+          "examples": [
+            {
+              "en": "I cannot conceive how he could behave so badly.",
+              "ja": "彼がなぜあんなにひどい振る舞いができるのか、私には想像もつかない。",
+              "highlight": "conceive"
+            },
+            {
+              "en": "The architect conceived a new design for the museum.",
+              "ja": "その建築家は美術館の新しいデザインを思いついた。",
+              "highlight": "conceived"
+            }
+          ]
+        },
+        {
+          "title": "意味2：妊娠する",
+          "examples": [
+            {
+              "en": "The couple had been trying to conceive for several years.",
+              "ja": "その夫婦は数年間、子宝に恵まれる（妊娠する）よう努めていた。",
+              "highlight": "conceive"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (完全に) + capere (つかむ/取る) → 心の中に取り込む",
+      "synonyms": [
+        {"word": "imagine", "trans": "想像する"},
+        {"word": "devise", "trans": "考案する"},
+        {"word": "think up", "trans": "考え出す"}
+      ],
+      "antonyms": [
+        {"word": "misunderstand", "trans": "誤解する"},
+        {"word": "destroy", "trans": "破壊する"},
+        {"word": "abort", "trans": "（妊娠を）中絶する、中止する"}
+      ],
+      "related": [
+        {"word": "concept", "trans": "名詞：概念、考え"},
+        {"word": "conception", "trans": "名詞：概念、想像、妊娠"},
+        {"word": "conceivable", "trans": "形容詞：考えられる"}
+      ]
+    },
+    {
+      "number": 4460,
+      "word": "starve",
+      "pos": "動詞",
+      "meaning": "餓死する、ひどく空腹である、〜を飢えさせる",
+      "nuance": "食べ物がなくて死ぬという強い意味だけでなく、日常会話で「めちゃくちゃお腹が空いた」という誇張表現（I'm starving!）としても頻出します。",
+      "example_sections": [
+        {
+          "title": "意味1：餓死する、飢える",
+          "examples": [
+            {
+              "en": "Millions of people are starving in the war-torn region.",
+              "ja": "戦争で荒廃した地域では、数百万人が飢えに苦しんでいる。",
+              "highlight": "starving"
+            },
+            {
+              "en": "They were left to starve in the desert.",
+              "ja": "彼らは砂漠で餓死するままに放置された。",
+              "highlight": "starve"
+            }
+          ]
+        },
+        {
+          "title": "意味2：渇望する（〜に飢えている）",
+          "examples": [
+            {
+              "en": "The lonely child was starving for affection.",
+              "ja": "その孤独な子供は愛情に飢えていた（を渇望していた）。",
+              "highlight": "starving"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 steorfan (死ぬ) → ドイツ語 sterben（死ぬ）と同源",
+      "synonyms": [
+        {"word": "famish", "trans": "飢えさせる"},
+        {"word": "perish", "trans": "（悲惨な死に方で）死ぬ"},
+        {"word": "hunger", "trans": "飢える"}
+      ],
+      "antonyms": [
+        {"word": "feed", "trans": "食べ物を与える"},
+        {"word": "feast", "trans": "宴会をする、満腹になる"},
+        {"word": "satiate", "trans": "十分に満足させる"}
+      ],
+      "related": [
+        {"word": "starvation", "trans": "名詞：飢餓、餓死"}
+      ]
+    },
+    {
+      "number": 4463,
+      "word": "render",
+      "pos": "動詞",
+      "meaning": "〜を（特定の状態に）する、与える、表現する",
+      "nuance": "makeと似ていますが、より形式的な言葉です。「ある状態に変える」という意味のほか、サービスや援助を「提供する」際にもよく使われます。",
+      "example_sections": [
+        {
+          "title": "意味1：〜を（状態に）する",
+          "examples": [
+            {
+              "en": "The explosion rendered the building unsafe.",
+              "ja": "爆発により、その建物は安全ではない状態になった。",
+              "highlight": "rendered"
+            },
+            {
+              "en": "His news rendered her speechless.",
+              "ja": "彼の知らせに、彼女は言葉を失った（言葉が出ない状態にされた）。",
+              "highlight": "rendered"
+            }
+          ]
+        },
+        {
+          "title": "意味2：与える、提供する",
+          "examples": [
+            {
+              "en": "The committee rendered a decision after hours of debate.",
+              "ja": "委員会は数時間の討論の末、決定を下した（与えた）。",
+              "highlight": "rendered"
+            },
+            {
+              "en": "We are ready to render any assistance you need.",
+              "ja": "私たちが必要なあらゆる援助を提供する準備はできています。",
+              "highlight": "render"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (後ろへ) + dare (与える) → お返しに与える",
+      "synonyms": [
+        {"word": "make", "trans": "〜にする"},
+        {"word": "provide", "trans": "提供する"},
+        {"word": "represent", "trans": "表現する、描く"}
+      ],
+      "antonyms": [
+        {"word": "withhold", "trans": "（与えずに）抑える"},
+        {"word": "take", "trans": "取る"},
+        {"word": "receive", "trans": "受け取る"}
+      ],
+      "related": [
+        {"word": "rendering", "trans": "名詞：表現、演出、画像化"},
+        {"word": "rendition", "trans": "名詞：演奏、翻訳"}
+      ]
+    },
+    {
+      "number": 4464,
+      "word": "enlighten",
+      "pos": "動詞",
+      "meaning": "〜を啓蒙する、教える、知らせる",
+      "nuance": "暗闇に「光（light）」を当てるように、無知な状態の人に正しい知識や事実を与えて理解させることを指します。",
+      "example_sections": [
+        {
+          "title": "意味1：啓蒙する、理解させる",
+          "examples": [
+            {
+              "en": "Could you enlighten me on the current situation?",
+              "ja": "現在の状況について私に教えて（詳しく説明して）いただけませんか？",
+              "highlight": "enlighten"
+            },
+            {
+              "en": "Books can enlighten the minds of the youth.",
+              "ja": "本は若者の心を啓蒙（知識を与えて賢く）することができる。",
+              "highlight": "enlighten"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (〜にする) + light (光) + en (〜にする) → 光を当てる",
+      "synonyms": [
+        {"word": "inform", "trans": "知らせる"},
+        {"word": "educate", "trans": "教育する"},
+        {"word": "illuminate", "trans": "照らす、解明する"}
+      ],
+      "antonyms": [
+        {"word": "confuse", "trans": "混乱させる"},
+        {"word": "deceive", "trans": "だます"},
+        {"word": "obscure", "trans": "曖昧にする"}
+      ],
+      "related": [
+        {"word": "enlightenment", "trans": "名詞：啓蒙、悟り"},
+        {"word": "enlightened", "trans": "形容詞：見識のある、悟った"}
+      ]
+    },
+    {
+      "number": 4465,
+      "word": "pile",
+      "pos": "名詞、動詞",
+      "meaning": "（積み重なった）山、積み重ねる",
+      "nuance": "整然と、あるいは無造作に「上に積み上げられたもの」を指します。仕事や借金などが溜まっている様子にも使われます。",
+      "example_sections": [
+        {
+          "title": "名詞：山、積み重なったもの",
+          "examples": [
+            {
+              "en": "There is a pile of dirty laundry on the floor.",
+              "ja": "床に汚れた洗濯物の山がある。",
+              "highlight": "pile"
+            },
+            {
+              "en": "I have a huge pile of work to do this weekend.",
+              "ja": "今週末、やらなければならない仕事が山ほどある。",
+              "highlight": "pile"
+            }
+          ]
+        },
+        {
+          "title": "動詞：積み上げる、押し寄せる",
+          "examples": [
+            {
+              "en": "She piled the books neatly on the desk.",
+              "ja": "彼女は机の上に本をきちんと積み上げた。",
+              "highlight": "piled"
+            },
+            {
+              "en": "The passengers piled into the train.",
+              "ja": "乗客たちは列車の中に（どっと）なだれ込んだ。",
+              "highlight": "piled"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン後 pila (石の柱/積み石)",
+      "synonyms": [
+        {"word": "heap", "trans": "山、積み重ね"},
+        {"word": "stack", "trans": "（整然とした）積み重ね"},
+        {"word": "accumulate", "trans": "蓄積する"}
+      ],
+      "antonyms": [
+        {"word": "scatter", "trans": "まき散らす"},
+        {"word": "disperse", "trans": "分散させる"},
+        {"word": "distribute", "trans": "分配する"}
+      ],
+      "related": [
+        {"word": "piledriver", "trans": "名詞：杭打ち機"}
+      ]
+    },
+    {
+      "number": 4467,
+      "word": "startle",
+      "pos": "動詞",
+      "meaning": "〜を驚かせる、びっくりさせる",
+      "nuance": "不意の出来事で、思わずビクッとしたり飛び上がったりするような「一時的な驚き」を与えます。恐怖というよりは「不意を突かれる」ニュアンスです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The loud noise startled the sleeping cat.",
+              "ja": "大きな音が寝ていた猫を驚かせた。",
+              "highlight": "startled"
+            },
+            {
+              "en": "Sorry, I didn't mean to startle you.",
+              "ja": "ごめんなさい、あなたを驚かせるつもりはなかったんです。",
+              "highlight": "startle"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 steartlian (飛び跳ねる) → start（動き出す）の強調形",
+      "synonyms": [
+        {"word": "surprise", "trans": "驚かせる"},
+        {"word": "frighten", "trans": "怖がらせる"},
+        {"word": "shock", "trans": "衝撃を与える"}
+      ],
+      "antonyms": [
+        {"word": "calm", "trans": "落ち着かせる"},
+        {"word": "soothe", "trans": "なだめる"},
+        {"word": "reassure", "trans": "安心させる"}
+      ],
+      "related": [
+        {"word": "startling", "trans": "形容詞：驚くべき"},
+        {"word": "start", "trans": "動詞：驚いて飛び上がる（名詞：驚き）"}
+      ]
+    },
+    {
+      "number": 4470,
+      "word": "pulse",
+      "pos": "名詞、動詞",
+      "meaning": "脈拍、鼓動、パルス（振動）、脈打つ",
+      "nuance": "心臓の鼓動による血液の拍動を指します。比喩的に音楽の「リズム」や、世論の「動向（feel the pulse）」という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "名詞：脈拍、拍動",
+          "examples": [
+            {
+              "en": "The doctor checked the patient's pulse.",
+              "ja": "医者は患者の脈拍を測った。",
+              "highlight": "pulse"
+            },
+            {
+              "en": "Music with a strong pulse is good for dancing.",
+              "ja": "強い拍動（リズム）のある音楽はダンスに向いている。",
+              "highlight": "pulse"
+            }
+          ]
+        },
+        {
+          "title": "動詞：脈打つ、振動する",
+          "examples": [
+            {
+              "en": "The lights were pulsing to the beat of the music.",
+              "ja": "ライトが音楽のビートに合わせて点滅（振動）していた。",
+              "highlight": "pulsing"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 pulsus (打つこと)",
+      "synonyms": [
+        {"word": "beat", "trans": "拍動、打つ"},
+        {"word": "rhythm", "trans": "リズム"},
+        {"word": "vibration", "trans": "振動"}
+      ],
+      "antonyms": [
+        {"word": "stillness", "trans": "静止"},
+        {"word": "silence", "trans": "静寂"},
+        {"word": "stagnation", "trans": "停滞"}
+      ],
+      "related": [
+        {"word": "pulsate", "trans": "動詞：脈打つ、わくわくする"},
+        {"word": "impulse", "trans": "名詞：衝動"}
+      ]
     }
   ]
 }
