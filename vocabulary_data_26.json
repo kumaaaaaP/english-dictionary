@@ -1020,6 +1020,457 @@
       "related": [
         {"word": "doubt", "trans": "名詞/動詞：疑い"}
       ]
+    },
+    {
+      "number": 665,
+      "word": "sodium",
+      "pos": "名詞",
+      "meaning": "ナトリウム",
+      "nuance": "食塩（塩化ナトリウム）の構成要素として、健康や化学の文脈でよく登場します。英語では「ソウディアム」のように発音されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Excessive sodium intake can lead to high blood pressure.",
+              "ja": "過剰なナトリウム摂取は高血圧を招く可能性がある。",
+              "highlight": "sodium"
+            },
+            {
+              "en": "Sodium is a highly reactive metal.",
+              "ja": "ナトリウムは非常に反応性の高い金属である。",
+              "highlight": "Sodium"
+            }
+          ]
+        }
+      ],
+      "etymology": "Soda（ソーダ）+ ium（金属元素名）",
+      "synonyms": [
+        {"word": "natrium", "trans": "ナトリウム（ラテン語由来・ドイツ語等）"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "sodium chloride", "trans": "塩化ナトリウム（食塩）"},
+        {"word": "soda", "trans": "ソーダ、炭酸"}
+      ]
+    },
+    {
+      "number": 666,
+      "word": "presumably",
+      "pos": "副詞",
+      "meaning": "おそらく、たぶん、思うに",
+      "nuance": "確かな証拠はないが、論理的な状況から判断して「おそらくそうであろう」と推測する際に使われます。probably よりも「前提（presume）に基づく」響きがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Presumably, the meeting has been cancelled because of the snow.",
+              "ja": "おそらく（察するに）、雪のために会議は中止になったのだろう。",
+              "highlight": "Presumably"
+            },
+            {
+              "en": "He is not in his office, so presumably he has gone home.",
+              "ja": "彼はオフィスにいないので、たぶん家に帰ったのだろう。",
+              "highlight": "presumably"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre（あらかじめ）+ sumere（取る）→ あらかじめ当然のこととして受け取る",
+      "synonyms": [
+        {"word": "probably", "trans": "おそらく"},
+        {"word": "seemingly", "trans": "見たところ"},
+        {"word": "likely", "trans": "たぶん"}
+      ],
+      "antonyms": [
+        {"word": "certainly", "trans": "確実に"},
+        {"word": "definitely", "trans": "間違いなく"},
+        {"word": "unlikely", "trans": "ありそうにない"}
+      ],
+      "related": [
+        {"word": "presume", "trans": "動詞：推定する"},
+        {"word": "presumption", "trans": "名詞：推定、厚かましさ"}
+      ]
+    },
+    {
+      "number": "666-2",
+      "word": "presumable",
+      "pos": "形容詞",
+      "meaning": "推測できる、もっともらしい",
+      "nuance": "事実や状況から考えて、当然そうであると考えられる状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The presumable cause of the fire was an electrical fault.",
+              "ja": "火災の考えられる（もっともらしい）原因は電気系統の故障だった。",
+              "highlight": "presumable"
+            },
+            {
+              "en": "That is a presumable conclusion based on the current data.",
+              "ja": "それは現在のデータに基づいた、推測可能な結論である。",
+              "highlight": "presumable"
+            }
+          ]
+        }
+      ],
+      "etymology": "presume（推定する）+ able（可能な）",
+      "synonyms": [
+        {"word": "probable", "trans": "ありそうな"},
+        {"word": "likely", "trans": "可能性が高い"},
+        {"word": "plausible", "trans": "もっともらしい"}
+      ],
+      "antonyms": [
+        {"word": "improbable", "trans": "ありそうもない"},
+        {"word": "unthinkable", "trans": "考えられない"}
+      ],
+      "related": [
+        {"word": "presumably", "trans": "副詞：おそらく"}
+      ]
+    },
+    {
+      "number": 667,
+      "word": "supposedly",
+      "pos": "副詞",
+      "meaning": "（真偽は不明だが）建前では、一般に言われているところでは",
+      "nuance": "「〜だと思われているが、実は違うかもしれない」という、少し疑わしいニュアンスを含むことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "This is supposedly the best restaurant in town, but I wasn't impressed.",
+              "ja": "ここは町で一番のレストランだと言われている（建前ではそうだ）が、私は感動しなかった。",
+              "highlight": "supposedly"
+            },
+            {
+              "en": "The movie is supposedly based on a true story.",
+              "ja": "その映画は（世間では）実話に基づいているとされている。",
+              "highlight": "supposedly"
+            }
+          ]
+        }
+      ],
+      "etymology": "sub（下に）+ ponere（置く）→ 仮定する",
+      "synonyms": [
+        {"word": "allegedly", "trans": "（証拠はないが）申し立てによると"},
+        {"word": "purportedly", "trans": "〜と言われて"},
+        {"word": "apparently", "trans": "見たところでは"}
+      ],
+      "antonyms": [
+        {"word": "actually", "trans": "実際には"},
+        {"word": "truly", "trans": "本当に"},
+        {"word": "certainly", "trans": "確かに"}
+      ],
+      "related": [
+        {"word": "suppose", "trans": "動詞：仮定する、〜だと思う"},
+        {"word": "supposition", "trans": "名詞：推測"}
+      ]
+    },
+    {
+      "number": 668,
+      "word": "heighten",
+      "pos": "動詞",
+      "meaning": "〜を高める、増大させる",
+      "nuance": "感情、意識、緊張、効果などをさらに「高いレベル」に引き上げることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The music was used to heighten the suspense in the film.",
+              "ja": "その音楽は映画のサスペンスを高めるために使われた。",
+              "highlight": "heighten"
+            },
+            {
+              "en": "Security has been heightened at the airport.",
+              "ja": "空港の警戒が強化されている（高められている）。",
+              "highlight": "heightened"
+            }
+          ]
+        }
+      ],
+      "etymology": "height（高さ）+ en（動詞化：〜にする）",
+      "synonyms": [
+        {"word": "enhance", "trans": "高める、向上させる"},
+        {"word": "intensify", "trans": "激化させる"},
+        {"word": "increase", "trans": "増やす"}
+      ],
+      "antonyms": [
+        {"word": "lower", "trans": "低くする"},
+        {"word": "diminish", "trans": "減少させる"},
+        {"word": "reduce", "trans": "減らす"}
+      ],
+      "related": [
+        {"word": "height", "trans": "名詞：高さ"}
+      ]
+    },
+    {
+      "number": "668-2",
+      "word": "height",
+      "pos": "名詞",
+      "meaning": "高さ、身長、絶頂、高台",
+      "nuance": "物理的な高さや身長だけでなく、成功の「ピーク（絶頂）」を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The tower is 300 meters in height.",
+              "ja": "その塔は高さが300メートルある。",
+              "highlight": "height"
+            },
+            {
+              "en": "She was at the height of her career when she retired.",
+              "ja": "彼女はキャリアの絶頂期に引退した。",
+              "highlight": "height"
+            }
+          ]
+        }
+      ],
+      "etymology": "high（高い）の古期英語形由来",
+      "synonyms": [
+        {"word": "altitude", "trans": "高度"},
+        {"word": "stature", "trans": "身長、名声"},
+        {"word": "peak", "trans": "頂点"}
+      ],
+      "antonyms": [
+        {"word": "depth", "trans": "深さ"},
+        {"word": "base", "trans": "基盤、底"}
+      ],
+      "related": [
+        {"word": "high", "trans": "形容詞：高い"},
+        {"word": "highly", "trans": "副詞：非常に"}
+      ]
+    },
+    {
+      "number": 669,
+      "word": "width",
+      "pos": "名詞",
+      "meaning": "幅、広さ",
+      "nuance": "物の横方向の長さを指します。対義語は length（長さ）や depth（奥行き/深さ）です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "What is the width of the road?",
+              "ja": "その道路の幅はどのくらいですか？",
+              "highlight": "width"
+            },
+            {
+              "en": "The fabric is available in different widths.",
+              "ja": "その布地はさまざまな幅で購入できる。",
+              "highlight": "widths"
+            }
+          ]
+        }
+      ],
+      "etymology": "wide（広い）+ th（名詞化語尾）",
+      "synonyms": [
+        {"word": "breadth", "trans": "幅、広さ"},
+        {"word": "span", "trans": "スパン、全長"}
+      ],
+      "antonyms": [
+        {"word": "narrowness", "trans": "狭さ"}
+      ],
+      "related": [
+        {"word": "wide", "trans": "形容詞：広い"},
+        {"word": "widen", "trans": "動詞：広くする"}
+      ]
+    },
+    {
+      "number": 670,
+      "word": "induce",
+      "pos": "動詞",
+      "meaning": "〜を誘発する、勧誘して〜させる、（医学）陣痛を促す",
+      "nuance": "ある状態や行動を引き起こす原因となること、あるいは人を説得して何かをさせることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Nothing could induce me to go back there.",
+              "ja": "何があっても、私がそこに戻る気にはならないだろう（誘い込めないだろう）。",
+              "highlight": "induce"
+            },
+            {
+              "en": "High stress levels can induce sleep problems.",
+              "ja": "高いストレスレベルは睡眠障害を誘発することがある。",
+              "highlight": "induce"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）+ ducere（導く）→ 中へ導き入れる",
+      "synonyms": [
+        {"word": "cause", "trans": "引き起こす"},
+        {"word": "persuade", "trans": "説得する"},
+        {"word": "trigger", "trans": "誘発する"}
+      ],
+      "antonyms": [
+        {"word": "prevent", "trans": "防ぐ"},
+        {"word": "deter", "trans": "抑止する"},
+        {"word": "discourage", "trans": "思いとどまらせる"}
+      ],
+      "related": [
+        {"word": "inducement", "trans": "名詞：動機、誘因"},
+        {"word": "introduction", "trans": "名詞：導入、紹介（中に導く）"}
+      ]
+    },
+    {
+      "number": "670-2",
+      "word": "inducement",
+      "pos": "名詞",
+      "meaning": "動機、誘因、おとり、勧誘",
+      "nuance": "人に何かをさせるための「きっかけ」や「報酬」といった、外からの働きかけを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They offered him a large bonus as an inducement to stay.",
+              "ja": "彼らは慰留させるための誘因（動機付け）として多額のボーナスを提示した。",
+              "highlight": "inducement"
+            },
+            {
+              "en": "The low price is a major inducement for customers.",
+              "ja": "低価格は顧客にとって大きな誘因となる。",
+              "highlight": "inducement"
+            }
+          ]
+        }
+      ],
+      "etymology": "induce + ment（名詞化語尾）",
+      "synonyms": [
+        {"word": "incentive", "trans": "動機、報奨金"},
+        {"word": "motivation", "trans": "やる気、動機"},
+        {"word": "stimulus", "trans": "刺激"}
+      ],
+      "antonyms": [
+        {"word": "deterrent", "trans": "抑止力"},
+        {"word": "hindrance", "trans": "障害"}
+      ],
+      "related": [
+        {"word": "induce", "trans": "動詞：誘発する"}
+      ]
+    },
+    {
+      "number": "670-3",
+      "word": "induction",
+      "pos": "名詞",
+      "meaning": "就任（式）、入会、導入、帰納法、（電磁）誘導",
+      "nuance": "新しい環境への「手引き」や、個別の事例から一般論を導く「帰納」を指します。キッチンで使うIH（Induction Heating）のIはこの単語です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "New employees receive two days of induction training.",
+              "ja": "新入社員は2日間の導入研修を受ける。",
+              "highlight": "induction"
+            },
+            {
+              "en": "Scientific reasoning often relies on induction.",
+              "ja": "科学的な推論はしばしば帰納法に頼る。",
+              "highlight": "induction"
+            }
+          ]
+        }
+      ],
+      "etymology": "induce の名詞形",
+      "synonyms": [
+        {"word": "initiation", "trans": "入会、開始"},
+        {"word": "installation", "trans": "就任"},
+        {"word": "introduction", "trans": "導入"}
+      ],
+      "antonyms": [
+        {"word": "deduction", "trans": "演繹（えんえき）法、控除"}
+      ],
+      "related": [
+        {"word": "inductive", "trans": "形容詞：帰納的な"}
+      ]
+    },
+    {
+      "number": "670-4",
+      "word": "incidence",
+      "pos": "名詞",
+      "meaning": "（病気などの）発生率、及ぶ範囲",
+      "nuance": "ある特定の期間や集団において、事件や病気が「どの程度の頻度で起こるか」という割合を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is a high incidence of heart disease in this area.",
+              "ja": "この地域では心臓病の発生率が高い。",
+              "highlight": "incidence"
+            },
+            {
+              "en": "The government aims to reduce the incidence of crime.",
+              "ja": "政府は犯罪の発生率を減らすことを目指している。",
+              "highlight": "incidence"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（上に）+ cadere（落ちる）→ 降りかかること",
+      "synonyms": [
+        {"word": "frequency", "trans": "頻度"},
+        {"word": "rate", "trans": "割合"},
+        {"word": "occurrence", "trans": "発生"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "incident", "trans": "名詞：出来事"}
+      ]
+    },
+    {
+      "number": "670-5",
+      "word": "incident",
+      "pos": "名詞、形容詞",
+      "meaning": "出来事、事件、紛争、付随する",
+      "nuance": "単なる「event（イベント）」よりも、不快なことや重大な「事件」というニュアンスで使われることが多いです。また、何かに付随して起こる状況も指します。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The police are investigating the incident.",
+              "ja": "警察はその事件を調査している。",
+              "highlight": "incident"
+            },
+            {
+              "en": "The border incident led to a diplomatic crisis.",
+              "ja": "国境での紛争が外交危機を招いた。",
+              "highlight": "incident"
+            }
+          ]
+        },
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "There are many risks incident to the job of a firefighter.",
+              "ja": "消防士の仕事には多くのリスクが付きものである（付随している）。",
+              "highlight": "incident"
+            }
+          ]
+        }
+      ],
+      "etymology": "incidence と同源",
+      "synonyms": [
+        {"word": "event", "trans": "出来事"},
+        {"word": "occurrence", "trans": "発生、出来事"},
+        {"word": "episode", "trans": "エピソード、出来事"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "incidental", "trans": "形容詞：付随的な、臨時の"},
+        {"word": "coincidence", "trans": "名詞：偶然の一致"}
+      ]
     }
   ]
 }
