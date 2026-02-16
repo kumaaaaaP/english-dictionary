@@ -352,7 +352,7 @@ def generate_html(data, current_index, sorted_words):
         meaning=data['meaning'],
         nuance=data['nuance'],
         examples_sections=examples_sections,
-        etymology=data['etymology'],
+        etymology=data.get('etymology', '不明または未記載'),
         synonyms=synonyms,
         antonyms=antonyms,
         related=related,
