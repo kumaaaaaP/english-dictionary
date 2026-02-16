@@ -414,6 +414,358 @@
         {"word": "legally", "trans": "副詞：法律的に"},
         {"word": "legality", "trans": "名詞：適法性"}
       ]
+    },
+    {
+      "number": 737,
+      "word": "infectious",
+      "pos": "形容詞",
+      "meaning": "伝染性の、感染症の、影響を与えやすい（うつりやすい）",
+      "nuance": "病原体が体内に侵入して起こる病気全般を指します。比喩的に「笑いやあくびが周囲にうつる」という際にもよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Flu is a highly infectious disease.",
+              "ja": "インフルエンザは非常に伝染性の高い病気である。",
+              "highlight": "infectious"
+            },
+            {
+              "en": "Her laughter was infectious, and soon everyone was giggling.",
+              "ja": "彼女の笑いは周囲にうつりやすく、すぐに誰もがクスクス笑い出した。",
+              "highlight": "infectious"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）+ facere（作る、行う）→ 中に入り込む",
+      "synonyms": [
+        {"word": "communicable", "trans": "伝染性の"},
+        {"word": "catching", "trans": "うつりやすい"},
+        {"word": "spreading", "trans": "広がる"}
+      ],
+      "antonyms": [
+        {"word": "noninfectious", "trans": "非伝染性の"},
+        {"word": "harmless", "trans": "無害な"}
+      ],
+      "related": [
+        {"word": "infect", "trans": "動詞：感染させる"},
+        {"word": "infection", "trans": "名詞：感染"}
+      ]
+    },
+    {
+      "number": "737-2",
+      "word": "infection",
+      "pos": "名詞",
+      "meaning": "感染、伝染、感染症",
+      "nuance": "病原体が体内に侵入し増殖するプロセス、またはその結果生じる病気の状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You should clean the wound to prevent infection.",
+              "ja": "感染を防ぐために傷口をきれいにすべきだ。",
+              "highlight": "infection"
+            },
+            {
+              "en": "Ear infections are common among young children.",
+              "ja": "耳の感染症（中耳炎など）は小さな子供によく見られる。",
+              "highlight": "infections"
+            }
+          ]
+        }
+      ],
+      "etymology": "infect の名詞形",
+      "synonyms": [
+        {"word": "contamination", "trans": "汚染"},
+        {"word": "disease", "trans": "病気"},
+        {"word": "ailment", "trans": "病気、不調"}
+      ],
+      "antonyms": [
+        {"word": "sterilization", "trans": "殺菌、不妊化"},
+        {"word": "purity", "trans": "清潔、純粋"}
+      ],
+      "related": [
+        {"word": "disinfectant", "trans": "名詞：消毒剤"}
+      ]
+    },
+    {
+      "number": "737-3",
+      "word": "infect",
+      "pos": "動詞",
+      "meaning": "〜に感染させる、〜を汚染する、（感情を）うつす",
+      "nuance": "物理的なウイルスだけでなく、コンピュータウイルスを感染させる際や、感情を周囲に広める際にも使います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The virus can infect both humans and animals.",
+              "ja": "そのウイルスは人間と動物の両方に感染する可能性がある。",
+              "highlight": "infect"
+            },
+            {
+              "en": "His enthusiasm infected the whole team.",
+              "ja": "彼の熱意がチーム全体に伝わった（影響を与えた）。",
+              "highlight": "infected"
+            }
+          ]
+        }
+      ],
+      "etymology": "infectious と同語源",
+      "synonyms": [
+        {"word": "contaminate", "trans": "汚染する"},
+        {"word": "pollute", "trans": "汚染する"},
+        {"word": "influence", "trans": "影響を与える"}
+      ],
+      "antonyms": [
+        {"word": "disinfect", "trans": "消毒する"},
+        {"word": "purify", "trans": "浄化する"}
+      ],
+      "related": []
+    },
+    {
+      "number": "737-4",
+      "word": "contagious",
+      "pos": "形容詞",
+      "meaning": "（接触）伝染性の、うつりやすい",
+      "nuance": "infectiousが感染全般を指すのに対し、contagiousは特に「人から人への直接・間接的な接触」によって広まる性質を強調します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Keep the sick child home; the disease is very contagious.",
+              "ja": "病気の子供は家にいさせてください。その病気は非常に伝染性が高いです。",
+              "highlight": "contagious"
+            },
+            {
+              "en": "Yawning is famously contagious.",
+              "ja": "あくびがうつりやすいのは有名な話だ。",
+              "highlight": "contagious"
+            }
+          ]
+        }
+      ],
+      "etymology": "con（共に）+ tangere（触れる）→ 触れ合うことで広がる",
+      "synonyms": [
+        {"word": "infectious", "trans": "伝染性の"},
+        {"word": "transmissible", "trans": "伝達可能な"},
+        {"word": "catching", "trans": "うつりやすい"}
+      ],
+      "antonyms": [
+        {"word": "noncontagious", "trans": "非接触伝染性の"}
+      ],
+      "related": [
+        {"word": "contagion", "trans": "名詞：伝染、伝染病"}
+      ]
+    },
+    {
+      "number": "737-5",
+      "word": "contagion",
+      "pos": "名詞",
+      "meaning": "伝染、伝染病、悪影響の広がり",
+      "nuance": "接触による伝染そのもの、あるいはその伝染病を指します。経済危機が他国に広がるような「負の連鎖」にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government is trying to stop the contagion of the new virus.",
+              "ja": "政府は新型ウイルスの伝染を止めようとしている。",
+              "highlight": "contagion"
+            },
+            {
+              "en": "There are fears of financial contagion across Europe.",
+              "ja": "ヨーロッパ全土に金融危機の連鎖（悪影響）が広がる恐れがある。",
+              "highlight": "contagion"
+            }
+          ]
+        }
+      ],
+      "etymology": "contagious の名詞形",
+      "synonyms": [
+        {"word": "transmission", "trans": "伝達、伝染"},
+        {"word": "outbreak", "trans": "発生、流行"},
+        {"word": "infection", "trans": "感染"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "contact", "trans": "名詞：接触"}
+      ]
+    },
+    {
+      "number": 738,
+      "word": "pandemic",
+      "pos": "名詞、形容詞",
+      "meaning": "（世界的な）大流行病、世界的に流行している",
+      "nuance": "国境を超えて、世界中の極めて広い範囲で発生する流行を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The 1918 Spanish flu was a devastating pandemic.",
+              "ja": "1918年のスペイン風邪は壊滅的なパンデミック（世界的大流行）だった。",
+              "highlight": "pandemic"
+            },
+            {
+              "en": "We must be prepared for the next pandemic.",
+              "ja": "私たちは次のパンデミックに備えなければならない。",
+              "highlight": "pandemic"
+            }
+          ]
+        }
+      ],
+      "etymology": "pan（全ての）+ demos（人々）",
+      "synonyms": [
+        {"word": "global outbreak", "trans": "世界的な発生"},
+        {"word": "scourge", "trans": "災い、天罰"}
+      ],
+      "antonyms": [
+        {"word": "local outbreak", "trans": "局地的な発生"}
+      ],
+      "related": [
+        {"word": "pan-American", "trans": "汎アメリカの"}
+      ]
+    },
+    {
+      "number": "738-2",
+      "word": "epidemic",
+      "pos": "名詞、形容詞",
+      "meaning": "（地域的な）流行病、蔓延、流行の",
+      "nuance": "特定の地域やコミュニティ内で、予想を大幅に超える速度で広がる流行を指します。比喩的に「犯罪の急増」などにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Health officials are struggling to contain the cholera epidemic.",
+              "ja": "衛生当局はコレラの流行（エピデミック）を封じ込めようと苦闘している。",
+              "highlight": "epidemic"
+            },
+            {
+              "en": "The city is facing an epidemic of car thefts.",
+              "ja": "その都市は自動車盗難の蔓延に直面している。",
+              "highlight": "epidemic"
+            }
+          ]
+        }
+      ],
+      "etymology": "epi（〜の間に）+ demos（人々）",
+      "synonyms": [
+        {"word": "plague", "trans": "疫病"},
+        {"word": "rash", "trans": "多発、頻発"},
+        {"word": "outbreak", "trans": "発生、突発"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "epidemiology", "trans": "名詞：疫学"}
+      ]
+    },
+    {
+      "number": "738-3",
+      "word": "endemic",
+      "pos": "形容詞、名詞",
+      "meaning": "（ある地方・集団に）特有の、風土病の、風土病",
+      "nuance": "常に特定の地域に存在している、あるいはその土地から離れない性質を指します（例：熱帯地方のマラリア）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Malaria is endemic in many hot, wet parts of the world.",
+              "ja": "マラリアは世界の多くの暑く湿った地域に特有の（風土病の）病気だ。",
+              "highlight": "endemic"
+            },
+            {
+              "en": "Corruption seems to be endemic in that government.",
+              "ja": "その政府には汚職が（特有のものとして）根付いているようだ。",
+              "highlight": "endemic"
+            }
+          ]
+        }
+      ],
+      "etymology": "en（中に）+ demos（人々）",
+      "synonyms": [
+        {"word": "native", "trans": "固有の"},
+        {"word": "indigenous", "trans": "土着の"},
+        {"word": "prevalent", "trans": "普及している、蔓延している"}
+      ],
+      "antonyms": [
+        {"word": "exotic", "trans": "外来の"},
+        {"word": "foreign", "trans": "外国の"}
+      ],
+      "related": []
+    },
+    {
+      "number": 739,
+      "word": "germ",
+      "pos": "名詞",
+      "meaning": "細菌、微生物、芽、起源（兆し）",
+      "nuance": "病気を引き起こす目に見えない小さな生物（俗称としての細菌）を指すほか、物事の「始まり・種」という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Wash your hands to get rid of germs.",
+              "ja": "バイキン（細菌）を取り除くために手を洗いなさい。",
+              "highlight": "germs"
+            },
+            {
+              "en": "That idea was the germ of a great novel.",
+              "ja": "そのアイデアが、偉大な小説の始まり（種）だった。",
+              "highlight": "germ"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 germen（芽、種）",
+      "synonyms": [
+        {"word": "bacterium", "trans": "細菌（単数形）"},
+        {"word": "microbe", "trans": "微生物"},
+        {"word": "seed", "trans": "種、始まり"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "germinate", "trans": "動詞：芽を出す、発達する"}
+      ]
+    },
+    {
+      "number": "739-2",
+      "word": "virus",
+      "pos": "名詞",
+      "meaning": "ウイルス、有害な影響、コンピュータウイルス",
+      "nuance": "細菌(bacteria)よりさらに小さく、他者の細胞内でしか増殖できない存在。転じて、人々に悪影響を与えるものや、プログラムのウイルスも指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The common cold is caused by a virus.",
+              "ja": "風邪はウイルスによって引き起こされる。",
+              "highlight": "virus"
+            },
+            {
+              "en": "My computer was attacked by a malicious virus.",
+              "ja": "私のコンピュータが悪質なウイルスに攻撃された。",
+              "highlight": "virus"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 virus（毒、毒液）",
+      "synonyms": [
+        {"word": "pathogen", "trans": "病原体"},
+        {"word": "infection", "trans": "感染源"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "viral", "trans": "形容詞：ウイルスの、（ネットで）拡散する"},
+        {"word": "antiviral", "trans": "形容詞：抗ウイルスの"}
+      ]
     }
   ]
 }
