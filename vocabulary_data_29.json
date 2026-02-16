@@ -1,0 +1,419 @@
+{
+  "words": [
+    {
+      "number": 732,
+      "word": "epidemiology",
+      "pos": "名詞",
+      "meaning": "疫学",
+      "nuance": "疾病の発生原因、分布、および予防を研究する医学の一分野です。感染症の蔓延を防ぐための学問として現代社会で重視されています。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Epidemiology is crucial for tracking the spread of infectious diseases.",
+              "ja": "疫学は感染症の拡散を追跡するために極めて重要である。",
+              "highlight": "Epidemiology"
+            },
+            {
+              "en": "She decided to major in epidemiology to help prevent future pandemics.",
+              "ja": "彼女は将来のパンデミックを防ぐ手助けをするため、疫学を専攻することに決めた。",
+              "highlight": "epidemiology"
+            }
+          ]
+        }
+      ],
+      "etymology": "epi（〜の上に）+ demos（人々）+ ology（学問）→ 人々の上に降りかかるもの（流行病）の研究",
+      "synonyms": [
+        {"word": "public health science", "trans": "公衆衛生学"},
+        {"word": "pathology", "trans": "病理学"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "epidemic", "trans": "名詞/形容詞：流行病/流行の"},
+        {"word": "epidemiologist", "trans": "名詞：疫学者"}
+      ]
+    },
+    {
+      "number": "732-2",
+      "word": "hygiene",
+      "pos": "名詞",
+      "meaning": "衛生、清潔、健康法",
+      "nuance": "病気を防ぎ健康を維持するための「清潔さ」や「習慣」を指します。個人的なもの（personal hygiene）から公共のものまで含まれます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Poor standards of hygiene can lead to the spread of disease.",
+              "ja": "低い衛生水準は、病気の蔓延につながる可能性がある。",
+              "highlight": "hygiene"
+            },
+            {
+              "en": "Regular handwashing is an essential part of personal hygiene.",
+              "ja": "定期的な手洗いは、個人衛生の不可欠な要素である。",
+              "highlight": "hygiene"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 Hygieia（健康の女神ヒュギエイア）",
+      "synonyms": [
+        {"word": "cleanliness", "trans": "清潔さ"},
+        {"word": "sanitation", "trans": "公衆衛生、下水施設"},
+        {"word": "purity", "trans": "純粋、清潔"}
+      ],
+      "antonyms": [
+        {"word": "filth", "trans": "不潔、汚物"},
+        {"word": "contamination", "trans": "汚染"}
+      ],
+      "related": [
+        {"word": "hygienic", "trans": "形容詞：衛生的な"}
+      ]
+    },
+    {
+      "number": "732-3",
+      "word": "hygienics",
+      "pos": "名詞",
+      "meaning": "衛生学、健康法",
+      "nuance": "hygieneの実践的な理論や学問としての側面を指します。現在は hygiene や sanitation と呼ばれることが一般的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Hygienics involves the study of environment-related health factors.",
+              "ja": "衛生学には、環境に関連する健康要因の研究が含まれる。",
+              "highlight": "Hygienics"
+            },
+            {
+              "en": "The principles of hygienics are applied in modern hospital design.",
+              "ja": "衛生学の原理は現代の病院設計に応用されている。",
+              "highlight": "hygienics"
+            }
+          ]
+        }
+      ],
+      "etymology": "hygiene + ics（学問）",
+      "synonyms": [
+        {"word": "sanitary science", "trans": "衛生科学"},
+        {"word": "hygiene", "trans": "衛生"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 733,
+      "word": "character",
+      "pos": "名詞",
+      "meaning": "性格、個性、特徴、登場人物、文字",
+      "nuance": "その人を定義する「内面的な資質」から、物語の「キャラクター」、さらには漢字やアルファベットなどの「文字」まで非常に広い意味を持ちます。",
+      "example_sections": [
+        {
+          "title": "例文（性格・特徴）",
+          "examples": [
+            {
+              "en": "Success reveals a person's true character.",
+              "ja": "成功は人の本当の性格（人格）を明らかにする。",
+              "highlight": "character"
+            },
+            {
+              "en": "The area has kept its traditional character.",
+              "ja": "その地域は伝統的な特徴を維持している。",
+              "highlight": "character"
+            }
+          ]
+        },
+        {
+          "title": "例文（登場人物・文字）",
+          "examples": [
+            {
+              "en": "Who is your favorite character in the novel?",
+              "ja": "その小説の中であなたの好きな登場人物は誰ですか？",
+              "highlight": "character"
+            },
+            {
+              "en": "Password must be at least eight characters long.",
+              "ja": "パスワードは少なくとも8文字以上でなければならない。",
+              "highlight": "characters"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 kharassein（刻み込む、印をつける）",
+      "synonyms": [
+        {"word": "personality", "trans": "人格、個性"},
+        {"word": "nature", "trans": "性質"},
+        {"word": "letter", "trans": "文字"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "characteristic", "trans": "名詞/形容詞：特徴/特徴的な"},
+        {"word": "characterize", "trans": "動詞：〜を特徴づける"}
+      ]
+    },
+    {
+      "number": "733-2",
+      "word": "characterize",
+      "pos": "動詞",
+      "meaning": "〜を特徴づける、〜の特色を示す、〜を（…と）評する",
+      "nuance": "何かがどのような性質を持っているかを明確に説明したり、特定の性質が何かの「印」となっている場合に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The disease is characterized by a high fever.",
+              "ja": "その病気は高熱を出すのが特徴である。",
+              "highlight": "characterized"
+            },
+            {
+              "en": "How would you characterize the current economic situation?",
+              "ja": "現在の経済状況をどのように表現（特徴づけ）しますか？",
+              "highlight": "characterize"
+            }
+          ]
+        }
+      ],
+      "etymology": "character + ize（動詞化）",
+      "synonyms": [
+        {"word": "distinguish", "trans": "区別する、特徴づける"},
+        {"word": "define", "trans": "定義する"},
+        {"word": "describe", "trans": "描写する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "characterization", "trans": "名詞：性格描写、特徴づけ"}
+      ]
+    },
+    {
+      "number": 734,
+      "word": "validate",
+      "pos": "動詞",
+      "meaning": "〜を正当だと認める、〜を有効にする、〜を検証（確認）する",
+      "nuance": "データや理論が正しいことを証明する、あるいは切符やパスワードなどを「使える状態にする」行為を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The test results validate our theory.",
+              "ja": "試験結果は我々の理論が正しいことを証明している。",
+              "highlight": "validate"
+            },
+            {
+              "en": "You need to validate your parking ticket at the reception.",
+              "ja": "受付で駐車券の有効化（確認）を受ける必要があります。",
+              "highlight": "validate"
+            }
+          ]
+        }
+      ],
+      "etymology": "valid（有効な）+ ate（動詞化）",
+      "synonyms": [
+        {"word": "confirm", "trans": "確認する"},
+        {"word": "verify", "trans": "検証する"},
+        {"word": "authenticate", "trans": "認証する"}
+      ],
+      "antonyms": [
+        {"word": "invalidate", "trans": "無効にする"},
+        {"word": "nullify", "trans": "無効にする、取り消す"}
+      ],
+      "related": [
+        {"word": "validation", "trans": "名詞：確認、有効化"}
+      ]
+    },
+    {
+      "number": 735,
+      "word": "valid",
+      "pos": "形容詞",
+      "meaning": "有効な、正当な、妥当な、根拠の確かな",
+      "nuance": "法律・規則的に「使える」状態や、論理的に「もっともだ」という納得感の両方に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "This passport is valid for another three years.",
+              "ja": "このパスポートはあと3年間有効です。",
+              "highlight": "valid"
+            },
+            {
+              "en": "She raised some valid points during the meeting.",
+              "ja": "彼女は会議中にいくつかの妥当な（もっともな）指摘をした。",
+              "highlight": "valid"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 valere（強い、価値がある）",
+      "synonyms": [
+        {"word": "legitimate", "trans": "合法的な、正当な"},
+        {"word": "logical", "trans": "論理的な"},
+        {"word": "effective", "trans": "効果的な、有効な"}
+      ],
+      "antonyms": [
+        {"word": "invalid", "trans": "無効な"},
+        {"word": "void", "trans": "無効の、空の"}
+      ],
+      "related": [
+        {"word": "validity", "trans": "名詞：有効性"}
+      ]
+    },
+    {
+      "number": "735-2",
+      "word": "validity",
+      "pos": "名詞",
+      "meaning": "有効性、妥当性、効力",
+      "nuance": "法的な期限が生きていることや、議論の内容がどれほど真実に近いかを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Experts questioned the validity of the data.",
+              "ja": "専門家はそのデータの妥当性を疑問視した。",
+              "highlight": "validity"
+            },
+            {
+              "en": "The period of validity for this offer is one month.",
+              "ja": "この申し出の有効期間は1ヶ月です。",
+              "highlight": "validity"
+            }
+          ]
+        }
+      ],
+      "etymology": "valid の名詞形",
+      "synonyms": [
+        {"word": "soundness", "trans": "健全さ、妥当性"},
+        {"word": "legitimacy", "trans": "正当性、合法性"}
+      ],
+      "antonyms": [
+        {"word": "invalidity", "trans": "無効であること"}
+      ],
+      "related": []
+    },
+    {
+      "number": 736,
+      "word": "invalid",
+      "pos": "形容詞、名詞",
+      "meaning": "無効な、説得力のない、病弱な（人）",
+      "nuance": "形容詞で「無効な」という意味（発音：インヴァリッド）と、名詞で「病人、障害を持つ人」という意味（発音：インヴァリド）があります。",
+      "example_sections": [
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "The contract was declared invalid by the court.",
+              "ja": "その契約は裁判所によって無効と宣言された。",
+              "highlight": "invalid"
+            },
+            {
+              "en": "That is an invalid argument because it's based on false info.",
+              "ja": "それは誤った情報に基づいているので、説得力のない（妥当でない）議論だ。",
+              "highlight": "invalid"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "He spent his last years as an invalid after the stroke.",
+              "ja": "彼は脳卒中の後、晩年を病人（療養生活者）として過ごした。",
+              "highlight": "invalid"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（否定）+ valid（強い）→ 強くない、効力がない",
+      "synonyms": [
+        {"word": "null", "trans": "無効の"},
+        {"word": "void", "trans": "無効の"},
+        {"word": "patient", "trans": "病人（名詞の意味）"}
+      ],
+      "antonyms": [
+        {"word": "valid", "trans": "有効な"},
+        {"word": "healthy", "trans": "健康な"}
+      ],
+      "related": [
+        {"word": "invalidate", "trans": "動詞：無効にする"}
+      ]
+    },
+    {
+      "number": "736-2",
+      "word": "legalize",
+      "pos": "動詞",
+      "meaning": "〜を合法化する、〜を公認する",
+      "nuance": "これまで違法だったり非公式だったりしたものを、法律で認めることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Some countries have moved to legalize gambling.",
+              "ja": "いくつかの国はギャンブルを合法化する動きを見せている。",
+              "highlight": "legalize"
+            },
+            {
+              "en": "The government decided to legalize the use of certain chemicals.",
+              "ja": "政府は特定の化学物質の使用を合法化することを決定した。",
+              "highlight": "legalize"
+            }
+          ]
+        }
+      ],
+      "etymology": "legal（法律の）+ ize（動詞化）",
+      "synonyms": [
+        {"word": "authorize", "trans": "権限を与える、公認する"},
+        {"word": "legitimize", "trans": "正当化する、適法にする"}
+      ],
+      "antonyms": [
+        {"word": "prohibit", "trans": "禁止する"},
+        {"word": "ban", "trans": "禁止する"},
+        {"word": "outlaw", "trans": "法的に禁止する"}
+      ],
+      "related": [
+        {"word": "legalization", "trans": "名詞：合法化"}
+      ]
+    },
+    {
+      "number": "736-3",
+      "word": "legal",
+      "pos": "形容詞",
+      "meaning": "法律上の、合法的な、法律に関する",
+      "nuance": "法律そのものに関連する場合（legal advice）と、法律に違反していない状態（It is legal.）の両方を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You should seek legal advice before signing the document.",
+              "ja": "書類に署名する前に法律的な助言（弁護士の助言）を求めるべきだ。",
+              "highlight": "legal"
+            },
+            {
+              "en": "Is it legal to park your car here overnight?",
+              "ja": "ここに一晩中車を停めるのは合法（法律的にOK）ですか？",
+              "highlight": "legal"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 lex（法律）",
+      "synonyms": [
+        {"word": "lawful", "trans": "法に従った"},
+        {"word": "judicial", "trans": "司法の"},
+        {"word": "statutory", "trans": "法定の"}
+      ],
+      "antonyms": [
+        {"word": "illegal", "trans": "違法の"},
+        {"word": "illicit", "trans": "不法な"}
+      ],
+      "related": [
+        {"word": "legally", "trans": "副詞：法律的に"},
+        {"word": "legality", "trans": "名詞：適法性"}
+      ]
+    }
+  ]
+}
