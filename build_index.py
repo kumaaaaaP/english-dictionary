@@ -1,6 +1,5 @@
 import os
 import re
-import json
 
 # ==========================================
 # 1. チャプターの設定
@@ -40,62 +39,36 @@ CHAPTER_MAP = {
 # 2. 補助関数
 # ==========================================
 def natural_sort_key(filename):
+    """自然順ソート用キー"""
     parts = re.split(r'(\d+)', filename)
-    return [int(p) if p.isdigit() else p.lower() for p in parts if p]
+    converted_parts = [int(p) if p.isdigit() else p.lower() for p in parts if p]
+    
+    if len(converted_parts) > 1:
+        if converted_parts[1] == '.html':
+            return [converted_parts[0], 0] + converted_parts[2:]
+        else:
+            return [converted_parts[0], 1] + converted_parts[2:]
+            
+    return converted_parts
 
 def get_base_number(filename):
+    """ファイル名の先頭数字を取得"""
     match = re.match(r'^(\d+)', filename)
     return int(match.group(1)) if match else 0
 
 # ==========================================
 # 3. メイン処理
 # ==========================================
-def generate_index_and_data():
+def generate_index():
     word_dir = "data"
     if not os.path.exists(word_dir):
-        print(f"Error: {word_dir} directory not found.")
-        return
+        os.makedirs(word_dir)
 
+    # 単語ファイルの取得とソート
     files = [f for f in os.listdir(word_dir) if f.endswith(".html")]
     files.sort(key=natural_sort_key)
 
-    # 1. 単語リスト情報の抽出（JSON用）
-    word_db = []
-    sorted_thresholds = sorted(CHAPTER_MAP.keys(), reverse=True)
-    
-    current_chapter_id = None
-    for filename in files:
-        base_num = get_base_number(filename)
-        
-        # どの章に属するか判定
-        chapter_title = ""
-        chapter_id = 0
-        for t in sorted_thresholds:
-            if base_num >= t:
-                chapter_title = CHAPTER_MAP[t]
-                chapter_id = t
-                break
-
-        word_id_full = filename.replace(".html", "")
-        display_name = re.sub(r'^[0-9-]+', '', word_id_full).replace("-", " ").strip()
-        parts = word_id_full.split("-")
-        is_sub = len(parts) > 1 and parts[1].isdigit()
-        display_id = parts[0] + ("-" + parts[1] if is_sub else "")
-
-        word_db.append({
-            "id": display_id,
-            "name": display_name,
-            "file": filename,
-            "is_sub": is_sub,
-            "chapter_id": chapter_id,
-            "chapter_title": chapter_title
-        })
-
-    # JSONデータとして書き出し
-    with open("word_data.json", "w", encoding="utf-8") as jf:
-        json.dump(word_db, jf, ensure_ascii=False, indent=2)
-
-    # 2. index.html の生成
+    # --- HTMLヘッダー ---
     html_content = """<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -106,130 +79,231 @@ def generate_index_and_data():
         :root { --primary-color: #007bff; --chapter-color: #6c757d; --bg-color: #f4f7f9; }
         body { font-family: sans-serif; background-color: var(--bg-color); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
         .container { width: 100%; max-width: 800px; }
-        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; }
+        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 20px; }
         
-        .toc { background: white; padding: 15px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        .toc-links { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; }
-        .toc-links a { text-decoration: none; color: var(--primary-color); font-size: 0.8rem; background: #eef2f7; padding: 5px 10px; border-radius: 15px; }
+        .toc { background: white; padding: 15px 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .toc-title { font-size: 0.85rem; font-weight: bold; color: var(--chapter-color); margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }
+        .toc-links { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin: 0; }
+        .toc-links a { text-decoration: none; color: var(--primary-color); font-size: 0.85rem; background: #eef2f7; padding: 6px 12px; border-radius: 20px; transition: 0.2s; }
+        .toc-links a:hover { background: var(--primary-color); color: white; }
 
-        .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; }
+        .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; outline: none; }
+        .search-box:focus { border-color: var(--primary-color); }
         
         .word-list { list-style: none; padding: 0; }
-        .chapter-header { background: var(--chapter-color); color: white; padding: 10px 15px; margin: 30px 0 10px 0; border-radius: 5px; font-weight: bold; }
-        .word-item { background: white; margin-bottom: 8px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); animation: fadeIn 0.3s ease-in; }
-        .word-item a { display: flex; padding: 12px 20px; text-decoration: none; color: #333; }
-        .word-id { font-weight: bold; color: var(--primary-color); min-width: 75px; }
-        .sub-word { margin-left: 25px; border-left: 4px solid #ccd5ae; }
+        .chapter-header { background: var(--chapter-color); color: white; padding: 10px 15px; margin: 40px 0 12px 0; border-radius: 5px; font-weight: bold; scroll-margin-top: 20px; }
+        .word-item { background: white; margin-bottom: 8px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: 0.2s; }
+        .word-item:hover { transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        .word-item a { display: flex; padding: 12px 20px; text-decoration: none; color: #333; align-items: center; }
+        .word-id { font-weight: bold; color: var(--primary-color); min-width: 75px; font-family: monospace; }
+        .word-name { font-size: 1.1em; font-weight: 500; }
         
-        #sentinel { height: 50px; display: flex; align-items: center; justify-content: center; color: #888; }
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
+        .sub-word .word-id { color: #6a994e; }
+        
+        /* Lazy Loading用 */
+        .word-item.hidden { display: none; }
+        .loading-indicator { text-align: center; padding: 20px; color: var(--chapter-color); }
     </style>
 </head>
 <body>
 <div class="container">
-    <h1>英単語辞書</h1>
-    <nav class="toc"><ul class="toc-links">"""
+    <h1>英単語辞書 データベース</h1>
+"""
 
+    # --- 目次セクション ---
+    html_content += '    <nav class="toc">\n        <div class="toc-title">Chapter Index</div>\n        <ul class="toc-links">\n'
     for s_num in sorted(CHAPTER_MAP.keys()):
-        html_content += f'<li><a href="#" onclick="jumpToChapter({s_num}); return false;">{CHAPTER_MAP[s_num]}</a></li>'
+        html_content += f'            <li><a href="#chapter-{s_num}">{CHAPTER_MAP[s_num]}</a></li>\n'
+    html_content += '        </ul>\n    </nav>\n'
 
-    html_content += """</ul></nav>
-    <input type="text" id="searchInput" class="search-box" placeholder="検索..." onkeyup="handleSearch()">
-    <ul class="word-list" id="wordList"></ul>
-    <div id="sentinel">さらに読み込み中...</div>
+    html_content += """    <input type="text" id="searchInput" class="search-box" placeholder="単語・番号で検索..." onkeyup="filterList()">
+    <ul class="word-list" id="wordList">
+"""
+
+    # --- 単語リスト部分の生成 ---
+    current_chapter_start = -1
+    sorted_thresholds = sorted(CHAPTER_MAP.keys(), reverse=True)
+
+    for filename in files:
+        base_num = get_base_number(filename)
+        
+        for t in sorted_thresholds:
+            if base_num >= t:
+                if t != current_chapter_start:
+                    html_content += f'        <li class="chapter-header" id="chapter-{t}">{CHAPTER_MAP[t]}</li>\n'
+                    current_chapter_start = t
+                break
+
+        word_id_full = filename.replace(".html", "")
+        display_name = re.sub(r'^[0-9-]+', '', word_id_full).replace("-", " ").strip()
+        
+        parts = word_id_full.split("-")
+        is_sub = len(parts) > 1 and parts[1].isdigit()
+        
+        item_class = "word-item sub-word" if is_sub else "word-item"
+        display_id = parts[0] + ("-" + parts[1] if is_sub else "")
+
+        html_content += f'        <li class="{item_class}"><a href="data/{filename}">'
+        html_content += f'<span class="word-id">{display_id}</span>'
+        html_content += f'<span class="word-name">{display_name}</span></a></li>\n'
+
+    html_content += """    </ul>
+    <div class="loading-indicator" id="loadingIndicator" style="display: none;">読み込み中...</div>
 </div>
-
 <script>
-    let allData = [];
-    let filteredData = [];
-    let currentIndex = 0;
-    const PAGE_SIZE = 40;
+    // Lazy Loading機能
+    const ITEMS_PER_PAGE = 50; // 一度に表示する単語数
+    const CHAPTER_LOAD_RANGE = 50; // 章ジャンプ時に前後何件読み込むか
+    let currentlyVisible = ITEMS_PER_PAGE;
     const wordList = document.getElementById('wordList');
-    const sentinel = document.getElementById('sentinel');
-    let currentChapterInView = null;
-
-    // 1. データの初回取得 (Fetch)
-    async function loadInitialData() {
-        try {
-            const response = await fetch('word_data.json');
-            allData = await response.json();
-            filteredData = allData;
-            initObserver();
-        } catch (e) { console.error("データ読み込み失敗", e); }
-    }
-
-    // 2. リストへの追加描画
-    function renderNextPage() {
-        const nextSet = filteredData.slice(currentIndex, currentIndex + PAGE_SIZE);
-        nextSet.forEach(word => {
-            // 章ヘッダーの挿入
-            if (word.chapter_id !== currentChapterInView && !document.getElementById('search-active')) {
-                const header = document.createElement('li');
-                header.className = 'chapter-header';
-                header.id = `chapter-${word.chapter_id}`;
-                header.textContent = word.chapter_title;
-                wordList.appendChild(header);
-                currentChapterInView = word.chapter_id;
+    const allItems = Array.from(wordList.children).filter(item => 
+        item.classList.contains('word-item')
+    );
+    const loadingIndicator = document.getElementById('loadingIndicator');
+    
+    // 初期表示：最初の50件のみ表示
+    function initializeLazyLoad() {
+        allItems.forEach((item, index) => {
+            if (index >= ITEMS_PER_PAGE) {
+                item.classList.add('hidden');
             }
-
-            const li = document.createElement('li');
-            li.className = word.is_sub ? 'word-item sub-word' : 'word-item';
-            li.innerHTML = `<a href="data/${word.file}">
-                <span class="word-id">${word.id}</span>
-                <span class="word-name">${word.name}</span>
-            </a>`;
-            wordList.appendChild(li);
         });
-        currentIndex += PAGE_SIZE;
-        if (currentIndex >= filteredData.length) sentinel.style.display = 'none';
     }
-
-    // 3. Intersection Observer (交差監視)
-    function initObserver() {
-        const observer = new IntersectionObserver((entries) => {
-            if (entries[0].isIntersecting && currentIndex < filteredData.length) {
-                renderNextPage();
+    
+    // スクロールで追加読み込み
+    function loadMoreItems() {
+        const visibleItems = allItems.filter(item => !item.classList.contains('hidden'));
+        
+        if (visibleItems.length >= allItems.length) {
+            loadingIndicator.style.display = 'none';
+            return;
+        }
+        
+        loadingIndicator.style.display = 'block';
+        
+        // 次の50件を表示
+        const itemsToShow = allItems.slice(currentlyVisible, currentlyVisible + ITEMS_PER_PAGE);
+        itemsToShow.forEach(item => item.classList.remove('hidden'));
+        
+        currentlyVisible += ITEMS_PER_PAGE;
+        loadingIndicator.style.display = 'none';
+    }
+    
+    // 章リンククリック時の処理
+    function loadChapterAndScroll(event, chapterId) {
+        event.preventDefault();
+        
+        // 章ヘッダーを取得
+        const chapterHeader = document.getElementById(chapterId);
+        if (!chapterHeader) return;
+        
+        // 章ヘッダーの位置（全体リストでのインデックス）を探す
+        const allListItems = Array.from(wordList.children);
+        const chapterIndex = allListItems.indexOf(chapterHeader);
+        
+        if (chapterIndex === -1) return;
+        
+        // 章の後ろにある単語アイテムのインデックスを計算
+        let firstWordIndex = -1;
+        for (let i = 0; i < allItems.length; i++) {
+            const itemInList = allListItems.indexOf(allItems[i]);
+            if (itemInList > chapterIndex) {
+                firstWordIndex = i;
+                break;
             }
-        }, { rootMargin: '200px' });
-        observer.observe(sentinel);
-    }
-
-    // 4. 検索機能
-    function handleSearch() {
-        const query = document.getElementById('searchInput').value.toLowerCase();
-        currentIndex = 0;
-        wordList.innerHTML = query ? '<div id="search-active"></div>' : ''; 
-        currentChapterInView = null;
-        sentinel.style.display = 'block';
+        }
         
-        filteredData = allData.filter(w => 
-            w.name.toLowerCase().includes(query) || w.id.toLowerCase().includes(query)
-        );
-        renderNextPage();
-    }
-
-    // 5. 章へのジャンプ
-    function jumpToChapter(id) {
-        const query = document.getElementById('searchInput');
-        if (query.value) { query.value = ''; handleSearch(); }
+        if (firstWordIndex === -1) return;
         
-        // 全データをその章から再描画
-        wordList.innerHTML = '';
-        const startIdx = allData.findIndex(w => w.chapter_id === id);
-        currentIndex = startIdx;
-        currentChapterInView = null;
-        renderNextPage();
-        window.scrollTo(0, 0);
+        // 前後50件の範囲を計算
+        const startIndex = Math.max(0, firstWordIndex - CHAPTER_LOAD_RANGE);
+        const endIndex = Math.min(allItems.length, firstWordIndex + CHAPTER_LOAD_RANGE);
+        
+        // 該当範囲を表示
+        allItems.forEach((item, index) => {
+            if (index >= startIndex && index < endIndex) {
+                item.classList.remove('hidden');
+            }
+        });
+        
+        // currentlyVisibleを更新（最大値に設定）
+        currentlyVisible = Math.max(currentlyVisible, endIndex);
+        
+        // スクロール
+        setTimeout(() => {
+            chapterHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 50);
     }
-
-    loadInitialData();
+    
+    // 目次リンクにイベントリスナーを追加
+    document.addEventListener('DOMContentLoaded', () => {
+        const tocLinks = document.querySelectorAll('.toc-links a');
+        tocLinks.forEach(link => {
+            link.addEventListener('click', (event) => {
+                const href = link.getAttribute('href');
+                const chapterId = href.substring(1); // #を除去
+                loadChapterAndScroll(event, chapterId);
+            });
+        });
+    });
+    
+    // スクロールイベント
+    let isLoading = false;
+    window.addEventListener('scroll', () => {
+        if (isLoading) return;
+        
+        const scrollTop = window.scrollY;
+        const windowHeight = window.innerHeight;
+        const documentHeight = document.documentElement.scrollHeight;
+        
+        // 画面の80%までスクロールしたら次を読み込む
+        if (scrollTop + windowHeight >= documentHeight * 0.8) {
+            isLoading = true;
+            loadMoreItems();
+            setTimeout(() => isLoading = false, 100);
+        }
+    });
+    
+    // 検索機能（既存）
+    function filterList() {
+        const input = document.getElementById('searchInput');
+        const filter = input.value.toLowerCase();
+        const items = wordList.getElementsByTagName('li');
+        
+        if (filter === "") {
+            // 検索なしの場合：Lazy Loading復活
+            allItems.forEach((item, index) => {
+                if (index < currentlyVisible) {
+                    item.classList.remove('hidden');
+                } else {
+                    item.classList.add('hidden');
+                }
+            });
+        } else {
+            // 検索時：すべて表示してフィルタ
+            for (let i = 0; i < items.length; i++) {
+                if (items[i].classList.contains('chapter-header')) {
+                    items[i].style.display = 'none';
+                    continue;
+                }
+                
+                items[i].classList.remove('hidden');
+                const text = items[i].textContent || items[i].innerText;
+                items[i].style.display = text.toLowerCase().indexOf(filter) > -1 ? "" : "none";
+            }
+        }
+    }
+    
+    // ページ読み込み時に初期化
+    initializeLazyLoad();
 </script>
 </body>
 </html>"""
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print("Success: index.html and word_data.json have been generated.")
+    print(f"Update Complete: index.html has been rebuilt with {len(files)} words (Lazy Loading enabled).")
 
 if __name__ == "__main__":
-    generate_index_and_data()
+    generate_index()
