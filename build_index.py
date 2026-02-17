@@ -98,6 +98,28 @@ def generate_index():
         
         .word-item.hidden { display: none; }
         .loading-indicator { text-align: center; padding: 20px; color: var(--chapter-color); }
+
+        /* --- Back to Top Button --- */
+        #backToTop {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 50px;
+            height: 50px;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+            display: none; /* 初期は非表示 */
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            transition: opacity 0.3s, transform 0.2s;
+            z-index: 1000;
+        }
+        #backToTop:hover { transform: scale(1.1); background-color: #0056b3; }
     </style>
 </head>
 <body>
@@ -143,46 +165,51 @@ def generate_index():
     html_content += """    </ul>
     <div class="loading-indicator" id="loadingIndicator">スクロールして読み込み...</div>
 </div>
+
+<button id="backToTop" title="Go to top">↑</button>
+
 <script>
     // --- 座標ベースのLazy Loading改良版 ---
     const wordList = document.getElementById('wordList');
     const allItems = Array.from(wordList.children).filter(item => item.classList.contains('word-item'));
-    const margin = 1200; // 画面外1200px先まで事前に表示させる
+    const backToTopBtn = document.getElementById('backToTop');
+    const margin = 1200;
 
-    // 現在の表示位置をチェックしてhiddenを外す
     function checkVisibleItems() {
         const triggerLimit = window.innerHeight + window.scrollY + margin;
         
         let hasHidden = false;
         for (let item of allItems) {
             if (item.classList.contains('hidden')) {
-                // hidden状態だとgetBoundingClientRect().topが正確に取れない場合があるため、
-                // 親要素内でのオフセット等を利用するか、単純に順番にチェックします。
                 if (item.offsetTop < triggerLimit) {
                     item.classList.remove('hidden');
                 } else {
                     hasHidden = true;
-                    break; // これ以降はまだ画面より遠いので中断
+                    break;
                 }
             }
         }
         
         document.getElementById('loadingIndicator').style.display = hasHidden ? 'block' : 'none';
+
+        // Back to Top ボタンの表示制御 (300pxスクロールしたら表示)
+        if (window.scrollY > 300) {
+            backToTopBtn.style.display = 'flex';
+        } else {
+            backToTopBtn.style.display = 'none';
+        }
     }
 
-    // 初期化
     function initializeLazyLoad() {
         allItems.forEach(item => item.classList.add('hidden'));
         checkVisibleItems();
     }
 
-    // 章ジャンプ
     function loadChapterAndScroll(event, chapterId) {
         event.preventDefault();
         const chapterHeader = document.getElementById(chapterId);
         if (!chapterHeader) return;
 
-        // ジャンプ先の直後の要素をいくつか強制表示（スクロール時の空白防止）
         let nextEl = chapterHeader.nextElementSibling;
         for (let i = 0; i < 40 && nextEl; i++) {
             if (nextEl.classList.contains('word-item')) nextEl.classList.remove('hidden');
@@ -190,8 +217,6 @@ def generate_index():
         }
 
         chapterHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        
-        // スクロール中・完了後に位置判定を再実行
         setTimeout(checkVisibleItems, 100);
         setTimeout(checkVisibleItems, 600);
     }
@@ -199,6 +224,10 @@ def generate_index():
     // イベント登録
     window.addEventListener('scroll', () => {
         window.requestAnimationFrame(checkVisibleItems);
+    });
+
+    backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 
     document.addEventListener('DOMContentLoaded', () => {
@@ -211,7 +240,6 @@ def generate_index():
         initializeLazyLoad();
     });
 
-    // 検索機能
     function filterList() {
         const filter = document.getElementById('searchInput').value.toLowerCase();
         const listItems = wordList.getElementsByTagName('li');
@@ -239,7 +267,7 @@ def generate_index():
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"Update Complete: index.html has been rebuilt with {len(files)} words (Smart Coordinate Loading enabled).")
+    print(f"Update Complete: index.html has been rebuilt with {len(files)} words (Back to Top Button included).")
 
 if __name__ == "__main__":
     generate_index()
