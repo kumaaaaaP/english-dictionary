@@ -1,5 +1,6 @@
 import os
 import re
+from collections import defaultdict
 
 # ==========================================
 # 1. チャプターの設定
@@ -64,6 +65,16 @@ def generate_index():
     files = [f for f in os.listdir(word_dir) if f.endswith(".html")]
     files.sort(key=natural_sort_key)
 
+    # 目次グループ化用
+    grouped_chapters = defaultdict(list)
+    for s_num, title in sorted(CHAPTER_MAP.items()):
+        # 【】の中身を抽出。なければ「Others」
+        group_match = re.search(r'【(.*?)】', title)
+        group_name = group_match.group(1) if group_match else "Others"
+        # ボタンには【】以降のテキストを表示
+        display_label = title.split('】')[-1] if '】' in title else title
+        grouped_chapters[group_name].append((s_num, display_label))
+
     html_content = """<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -76,11 +87,13 @@ def generate_index():
         .container { width: 100%; max-width: 800px; }
         h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 20px; }
         
-        .toc { background: white; padding: 15px 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        .toc-title { font-size: 0.85rem; font-weight: bold; color: var(--chapter-color); margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }
-        .toc-links { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin: 0; }
-        .toc-links a { text-decoration: none; color: var(--primary-color); font-size: 0.85rem; background: #eef2f7; padding: 6px 12px; border-radius: 20px; transition: 0.2s; }
-        .toc-links a:hover { background: var(--primary-color); color: white; }
+        /* 目次 (TOC) 改良 */
+        .toc { background: white; padding: 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .toc-group { margin-bottom: 15px; }
+        .toc-group-title { font-size: 0.9rem; font-weight: bold; color: #333; margin-bottom: 8px; border-left: 4px solid var(--primary-color); padding-left: 10px; }
+        .toc-links { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; padding: 0; margin: 0; }
+        .toc-links a { text-decoration: none; color: var(--primary-color); font-size: 0.8rem; background: #f0f4f8; padding: 5px 10px; border-radius: 4px; transition: 0.2s; border: 1px solid #dce3e9; }
+        .toc-links a:hover { background: var(--primary-color); color: white; border-color: var(--primary-color); }
 
         .search-box { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; margin-bottom: 20px; box-sizing: border-box; outline: none; }
         .search-box:focus { border-color: var(--primary-color); }
@@ -99,42 +112,32 @@ def generate_index():
         .word-item.hidden { display: none; }
         .loading-indicator { text-align: center; padding: 20px; color: var(--chapter-color); }
 
-        /* --- Back to Top Button --- */
+        /* Back to Top Button */
         #backToTop {
-            position: fixed;
-            bottom: 30px;
-            right: 30px;
-            width: 50px;
-            height: 50px;
-            background-color: var(--primary-color);
-            color: white;
-            border: none;
-            border-radius: 50%;
-            cursor: pointer;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-            display: none; /* 初期は非表示 */
-            align-items: center;
-            justify-content: center;
-            font-size: 24px;
-            transition: opacity 0.3s, transform 0.2s;
-            z-index: 1000;
+            position: fixed; bottom: 30px; right: 30px; width: 50px; height: 50px;
+            background-color: var(--primary-color); color: white; border: none; border-radius: 50%;
+            cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.2); display: none;
+            align-items: center; justify-content: center; font-size: 24px; z-index: 1000;
         }
-        #backToTop:hover { transform: scale(1.1); background-color: #0056b3; }
     </style>
 </head>
 <body>
 <div class="container">
     <h1>英単語辞書 データベース</h1>
     <nav class="toc">
-        <div class="toc-title">Chapter Index</div>
-        <ul class="toc-links">
 """
 
-    for s_num in sorted(CHAPTER_MAP.keys()):
-        html_content += f'            <li><a href="#chapter-{s_num}">{CHAPTER_MAP[s_num]}</a></li>\n'
-    
-    html_content += """        </ul>
-    </nav>
+    # --- グループ化された目次の生成 ---
+    for group_name, chapters in grouped_chapters.items():
+        html_content += f'        <div class="toc-group">\n'
+        html_content += f'            <div class="toc-group-title">{group_name}</div>\n'
+        html_content += f'            <ul class="toc-links">\n'
+        for s_num, label in chapters:
+            html_content += f'                <li><a href="#chapter-{s_num}">{label}</a></li>\n'
+        html_content += f'            </ul>\n'
+        html_content += f'        </div>\n'
+
+    html_content += """    </nav>
     <input type="text" id="searchInput" class="search-box" placeholder="単語・番号で検索..." onkeyup="filterList()">
     <ul class="word-list" id="wordList">
 """
@@ -166,10 +169,9 @@ def generate_index():
     <div class="loading-indicator" id="loadingIndicator">スクロールして読み込み...</div>
 </div>
 
-<button id="backToTop" title="Go to top">↑</button>
+<button id="backToTop">↑</button>
 
 <script>
-    // --- 座標ベースのLazy Loading改良版 ---
     const wordList = document.getElementById('wordList');
     const allItems = Array.from(wordList.children).filter(item => item.classList.contains('word-item'));
     const backToTopBtn = document.getElementById('backToTop');
@@ -177,7 +179,6 @@ def generate_index():
 
     function checkVisibleItems() {
         const triggerLimit = window.innerHeight + window.scrollY + margin;
-        
         let hasHidden = false;
         for (let item of allItems) {
             if (item.classList.contains('hidden')) {
@@ -189,15 +190,8 @@ def generate_index():
                 }
             }
         }
-        
         document.getElementById('loadingIndicator').style.display = hasHidden ? 'block' : 'none';
-
-        // Back to Top ボタンの表示制御 (300pxスクロールしたら表示)
-        if (window.scrollY > 300) {
-            backToTopBtn.style.display = 'flex';
-        } else {
-            backToTopBtn.style.display = 'none';
-        }
+        backToTopBtn.style.display = window.scrollY > 300 ? 'flex' : 'none';
     }
 
     function initializeLazyLoad() {
@@ -209,47 +203,32 @@ def generate_index():
         event.preventDefault();
         const chapterHeader = document.getElementById(chapterId);
         if (!chapterHeader) return;
-
         let nextEl = chapterHeader.nextElementSibling;
         for (let i = 0; i < 40 && nextEl; i++) {
             if (nextEl.classList.contains('word-item')) nextEl.classList.remove('hidden');
             nextEl = nextEl.nextElementSibling;
         }
-
         chapterHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
         setTimeout(checkVisibleItems, 100);
-        setTimeout(checkVisibleItems, 600);
     }
 
-    // イベント登録
-    window.addEventListener('scroll', () => {
-        window.requestAnimationFrame(checkVisibleItems);
-    });
-
-    backToTopBtn.addEventListener('click', () => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
+    window.addEventListener('scroll', () => window.requestAnimationFrame(checkVisibleItems));
+    backToTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
     document.addEventListener('DOMContentLoaded', () => {
         document.querySelectorAll('.toc-links a').forEach(link => {
-            link.addEventListener('click', (e) => {
-                const chapterId = link.getAttribute('href').substring(1);
-                loadChapterAndScroll(e, chapterId);
-            });
+            link.addEventListener('click', (e) => loadChapterAndScroll(e, link.getAttribute('href').substring(1)));
         });
         initializeLazyLoad();
     });
 
     function filterList() {
         const filter = document.getElementById('searchInput').value.toLowerCase();
-        const listItems = wordList.getElementsByTagName('li');
-
-        for (let item of listItems) {
+        for (let item of wordList.getElementsByTagName('li')) {
             if (item.classList.contains('chapter-header')) {
                 item.style.display = filter === "" ? "" : "none";
                 continue;
             }
-            
             if (filter === "") {
                 item.classList.add('hidden');
                 item.style.display = "";
@@ -267,7 +246,7 @@ def generate_index():
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"Update Complete: index.html has been rebuilt with {len(files)} words (Back to Top Button included).")
+    print(f"Update Complete: index.html has been rebuilt with grouped TOC.")
 
 if __name__ == "__main__":
     generate_index()
