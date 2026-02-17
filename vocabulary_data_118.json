@@ -1335,6 +1335,1228 @@
       "related": [
         {"word": "postponement", "trans": "名詞：延期"}
       ]
+    },
+    {
+      "number": 11834,
+      "word": "equip",
+      "pos": "動詞",
+      "meaning": "①～を装備させる ②（知識などを）身につけさせる",
+      "nuance": "物理的な道具を揃えることと、教育などを通じて能力を準備させることの両方に使われます。",
+      "example_sections": [
+        {
+          "title": "「装備させる」の例文",
+          "examples": [
+            {
+              "en": "The laboratory is equipped with the latest technology.",
+              "ja": "その研究所には最新の技術が装備されている。",
+              "highlight": "equipped"
+            }
+          ]
+        },
+        {
+          "title": "「能力を身につけさせる」の例文",
+          "examples": [
+            {
+              "en": "The course is designed to equip students with practical skills.",
+              "ja": "その課程は学生に実践的なスキルを身につけさせるよう設計されている。",
+              "highlight": "equip"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 equiper（船を装い整える）",
+      "synonyms": [
+        {"word": "furnish", "trans": "備え付ける"},
+        {"word": "arm", "trans": "武装させる"},
+        {"word": "prepare", "trans": "準備させる"}
+      ],
+      "antonyms": [
+        {"word": "strip", "trans": "剥ぎ取る"},
+        {"word": "divest", "trans": "奪う"}
+      ],
+      "related": [
+        {"word": "equipment", "trans": "名詞：装備、備品"}
+      ]
+    },
+    {
+      "number": 11835,
+      "word": "transmit",
+      "pos": "動詞",
+      "meaning": "①～を送る、伝える ②（病気など）をうつす",
+      "nuance": "信号や情報、またはウイルスなどが一方から他方へ「通り抜けていく」イメージです。",
+      "example_sections": [
+        {
+          "title": "「送る・伝える」の例文",
+          "examples": [
+            {
+              "en": "The radio tower transmits signals across the valley.",
+              "ja": "その無線塔は谷を越えて信号を送っている。",
+              "highlight": "transmits"
+            }
+          ]
+        },
+        {
+          "title": "「病気をうつす」の例文",
+          "examples": [
+            {
+              "en": "The virus can be transmitted through direct contact.",
+              "ja": "そのウイルスは直接的な接触を通じて感染（伝染）する可能性がある。",
+              "highlight": "transmitted"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans (越えて) + mittere (送る)",
+      "synonyms": [
+        {"word": "transfer", "trans": "移す"},
+        {"word": "convey", "trans": "運ぶ、伝える"},
+        {"word": "spread", "trans": "広める"}
+      ],
+      "antonyms": [
+        {"word": "receive", "trans": "受け取る"},
+        {"word": "absorb", "trans": "吸収する"}
+      ],
+      "related": [
+        {"word": "transmission", "trans": "名詞：伝達、変速機"}
+      ]
+    },
+    {
+      "number": 11836,
+      "word": "endow",
+      "pos": "動詞",
+      "meaning": "～を授ける、寄付する",
+      "nuance": "才能などが生まれつき備わっている状態（受身が多い）や、基金を設立する際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She is endowed with a beautiful singing voice.",
+              "ja": "彼女は美しい歌声を授かっている。",
+              "highlight": "endowed"
+            },
+            {
+              "en": "The wealthy businessman endowed a new hospital wing.",
+              "ja": "その裕福な実業家は病院の新病棟に寄付をした（資金を贈った）。",
+              "highlight": "endowed"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (中に) + dotare (贈与する)",
+      "synonyms": [
+        {"word": "gift", "trans": "贈る"},
+        {"word": "bestow", "trans": "授ける"},
+        {"word": "fund", "trans": "資金を提供する"}
+      ],
+      "antonyms": [
+        {"word": "deprive", "trans": "奪う"},
+        {"word": "withdraw", "trans": "撤収する"}
+      ],
+      "related": [
+        {"word": "endowment", "trans": "名詞：寄付金、才能"}
+      ]
+    },
+    {
+      "number": 11837,
+      "word": "inherit",
+      "pos": "動詞",
+      "meaning": "～を受け継ぐ、相続する",
+      "nuance": "財産だけでなく、遺伝的な特徴や前任者の仕事を引き継ぐ際にも使います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He inherited a fortune from his grandmother.",
+              "ja": "彼は祖母から多額の財産を相続した。",
+              "highlight": "inherited"
+            },
+            {
+              "en": "I inherited my father's curly hair.",
+              "ja": "私は父の縮れ毛を受け継いだ（遺伝した）。",
+              "highlight": "inherited"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + heres (相続人)",
+      "synonyms": [
+        {"word": "succeed", "trans": "継承する"},
+        {"word": "acquire", "trans": "得る"}
+      ],
+      "antonyms": [
+        {"word": "bequeath", "trans": "（遺言で）譲る"},
+        {"word": "forfeit", "trans": "没収される"}
+      ],
+      "related": [
+        {"word": "inheritance", "trans": "名詞：相続、遺産"},
+        {"word": "heir", "trans": "名詞：相続人"}
+      ]
+    },
+    {
+      "number": 11838,
+      "word": "retrieve",
+      "pos": "動詞",
+      "meaning": "①～を回収する、取り戻す ②（ファイルなど）を検索する",
+      "nuance": "失ったものを見つけ出して元に戻す、あるいはデータベースから情報を引き出すイメージです。",
+      "example_sections": [
+        {
+          "title": "「回収する」の例文",
+          "examples": [
+            {
+              "en": "The dog ran to retrieve the ball.",
+              "ja": "犬はボールを回収しに（取って戻りに）走った。",
+              "highlight": "retrieve"
+            }
+          ]
+        },
+        {
+          "title": "「検索・抽出する」の例文",
+          "examples": [
+            {
+              "en": "The software allows you to retrieve deleted files.",
+              "ja": "そのソフトを使えば削除されたファイルを検索して復元できる。",
+              "highlight": "retrieve"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + trouver (見つける)",
+      "synonyms": [
+        {"word": "recover", "trans": "回復する"},
+        {"word": "regain", "trans": "取り戻す"},
+        {"word": "fetch", "trans": "行って取ってくる"}
+      ],
+      "antonyms": [
+        {"word": "lose", "trans": "失う"},
+        {"word": "discard", "trans": "捨てる"}
+      ],
+      "related": [
+        {"word": "retriever", "trans": "名詞：レトリバー（猟犬の種）"}
+      ]
+    },
+    {
+      "number": 11839,
+      "word": "displace",
+      "pos": "動詞",
+      "meaning": "①～に取って代わる ②～を追い出す",
+      "nuance": "あるものを本来の場所から動かして別のものを置く、あるいは人々を住処から追い出すことを指します。",
+      "example_sections": [
+        {
+          "title": "「取って代わる」の例文",
+          "examples": [
+            {
+              "en": "Coal has been largely displaced by natural gas.",
+              "ja": "石炭の大部分は天然ガスに取って代わられた。",
+              "highlight": "displaced"
+            }
+          ]
+        },
+        {
+          "title": "「追い出す」の例文",
+          "examples": [
+            {
+              "en": "Thousands of people were displaced by the civil war.",
+              "ja": "内戦によって数千人の人々が故郷を追われた（避難を余儀なくされた）。",
+              "highlight": "displaced"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + place (場所)",
+      "synonyms": [
+        {"word": "replace", "trans": "置き換える"},
+        {"word": "uproot", "trans": "根こそぎにする、追い出す"},
+        {"word": "supplant", "trans": "取って代わる"}
+      ],
+      "antonyms": [
+        {"word": "reinstate", "trans": "復職させる、元の場所に戻す"},
+        {"word": "settle", "trans": "定住させる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11840,
+      "word": "bond",
+      "pos": "名詞",
+      "meaning": "①きずな ②公債、社債",
+      "nuance": "人と人を結びつける心理的な「きずな」と、借用証書としての「債券」という二つの主要な意味があります。",
+      "example_sections": [
+        {
+          "title": "「きずな」の例文",
+          "examples": [
+            {
+              "en": "The common goal created a strong bond between the team members.",
+              "ja": "共通の目標がチームメンバーの間に強いきずなを生んだ。",
+              "highlight": "bond"
+            }
+          ]
+        },
+        {
+          "title": "「債券」の例文",
+          "examples": [
+            {
+              "en": "The government issued new savings bonds to fund the project.",
+              "ja": "政府はプロジェクトの資金を調達するために新しい貯蓄債券を発行した。",
+              "highlight": "bonds"
+            }
+          ]
+        }
+      ],
+      "etymology": "bind (縛る) と同語源",
+      "synonyms": [
+        {"word": "tie", "trans": "結びつき"},
+        {"word": "connection", "trans": "つながり"},
+        {"word": "debenture", "trans": "債務証書"}
+      ],
+      "antonyms": [
+        {"word": "division", "trans": "分裂"},
+        {"word": "separation", "trans": "分離"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11841,
+      "word": "ornament",
+      "pos": "名詞",
+      "meaning": "飾り、置物",
+      "nuance": "実用性よりも美しさを加えるための装飾品を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The Christmas tree was covered with shiny ornaments.",
+              "ja": "クリスマスツリーは輝く飾りで覆われていた。",
+              "highlight": "ornaments"
+            },
+            {
+              "en": "She placed a small glass ornament on the shelf.",
+              "ja": "彼女は棚の上に小さなガラスの置物を置いた。",
+              "highlight": "ornament"
+            }
+          ]
+        }
+      ],
+      "etymology": "ornare (装備する、飾る)",
+      "synonyms": [
+        {"word": "decoration", "trans": "装飾"},
+        {"word": "adornment", "trans": "飾り"},
+        {"word": "knick-knack", "trans": "小道具、置物"}
+      ],
+      "antonyms": [
+        {"word": "plainness", "trans": "地味さ"},
+        {"word": "blemish", "trans": "傷、汚れ"}
+      ],
+      "related": [
+        {"word": "ornamental", "trans": "形容詞：観賞用の"}
+      ]
+    },
+    {
+      "number": 11842,
+      "word": "certificate",
+      "pos": "名詞",
+      "meaning": "証明書、免許状、鑑定書",
+      "nuance": "事実や資格、権利などを公的に認める書類を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You need to provide a birth certificate for the application.",
+              "ja": "申請には出生証明書を提出する必要があります。",
+              "highlight": "certificate"
+            },
+            {
+              "en": "He received a certificate of completion after the workshop.",
+              "ja": "彼はワークショップの後に修了証（証明書）を受け取った。",
+              "highlight": "certificate"
+            }
+          ]
+        }
+      ],
+      "etymology": "certus (確かな) + facere (作る)",
+      "synonyms": [
+        {"word": "document", "trans": "文書"},
+        {"word": "diploma", "trans": "卒業証書"},
+        {"word": "license", "trans": "免許"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "certify", "trans": "動詞：証明する"},
+        {"word": "certain", "trans": "形容詞：確信して"}
+      ]
+    },
+    {
+      "number": 11843,
+      "word": "accommodation",
+      "pos": "名詞",
+      "meaning": "宿泊施設、収容能力",
+      "nuance": "ホテルや寮などの住む場所を指します。アメリカ英語では複数形の accommodations が一般的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The price includes travel and accommodation.",
+              "ja": "その価格には旅費と宿泊費が含まれている。",
+              "highlight": "accommodation"
+            },
+            {
+              "en": "The university helps students find suitable accommodation.",
+              "ja": "大学は学生が適切な宿泊施設（住居）を見つけるのを手助けする。",
+              "highlight": "accommodation"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～に) + commodus (適した)",
+      "synonyms": [
+        {"word": "lodging", "trans": "下宿、宿"},
+        {"word": "housing", "trans": "住宅"},
+        {"word": "quarters", "trans": "宿舎"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "accommodate", "trans": "動詞：収容する、適応させる"}
+      ]
+    },
+    {
+      "number": 11844,
+      "word": "intersection",
+      "pos": "名詞",
+      "meaning": "交差点、交わり",
+      "nuance": "道路が交差する点、あるいは二つの概念が重なり合う部分を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Turn left at the next intersection.",
+              "ja": "次の交差点を左に曲がってください。",
+              "highlight": "intersection"
+            },
+            {
+              "en": "The book explores the intersection of art and science.",
+              "ja": "その本は芸術と科学の交わり（接点）を探求している。",
+              "highlight": "intersection"
+            }
+          ]
+        }
+      ],
+      "etymology": "inter (相互に) + sect (切る)",
+      "synonyms": [
+        {"word": "junction", "trans": "接合点"},
+        {"word": "crossroads", "trans": "十字路"},
+        {"word": "overlap", "trans": "重複部分"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "intersect", "trans": "動詞：交差する"},
+        {"word": "section", "trans": "名詞：部分"}
+      ]
+    },
+    {
+      "number": 11845,
+      "word": "pavement",
+      "pos": "名詞",
+      "meaning": "歩道、舗装道路",
+      "nuance": "イギリス英語では「歩道（sidewalk）」を指しますが、アメリカ英語では「舗装された路面全体」を指すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The children were playing on the pavement.",
+              "ja": "子供たちは歩道で遊んでいた（主に英）。",
+              "highlight": "pavement"
+            },
+            {
+              "en": "The heat from the pavement was unbearable.",
+              "ja": "舗装路からの熱気は耐え難いものだった。",
+              "highlight": "pavement"
+            }
+          ]
+        }
+      ],
+      "etymology": "pavimentum (叩き固められた床)",
+      "synonyms": [
+        {"word": "sidewalk", "trans": "歩道（米）"},
+        {"word": "footpath", "trans": "小道、歩道"},
+        {"word": "asphalt", "trans": "アスファルト"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "pave", "trans": "動詞：舗装する"}
+      ]
+    },
+    {
+      "number": 11846,
+      "word": "pedestrian",
+      "pos": "名詞、形容詞",
+      "meaning": "【名】歩行者 【形】歩行者用の、退屈な",
+      "nuance": "名詞としての意味が一般的ですが、形容詞で「（徒歩のように）平凡で退屈な」という意味も持ちます。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The area is closed to vehicles and reserved for pedestrians.",
+              "ja": "その区域は車両通行止めで、歩行者専用となっている。",
+              "highlight": "pedestrians"
+            }
+          ]
+        },
+        {
+          "title": "形容詞（退屈な）の例文",
+          "examples": [
+            {
+              "en": "His style of writing is rather pedestrian.",
+              "ja": "彼の執筆スタイルはかなり平凡（退屈）だ。",
+              "highlight": "pedestrian"
+            }
+          ]
+        }
+      ],
+      "etymology": "ped (足)",
+      "synonyms": [
+        {"word": "walker", "trans": "歩く人"},
+        {"word": "ordinary", "trans": "普通の、平凡な"},
+        {"word": "dull", "trans": "退屈な"}
+      ],
+      "antonyms": [
+        {"word": "driver", "trans": "運転手"},
+        {"word": "imaginative", "trans": "想像力豊かな、斬新な"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11847,
+      "word": "excursion",
+      "pos": "名詞",
+      "meaning": "小旅行、遠足、脱線",
+      "nuance": "楽しみのために行われる短い旅を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We went on a day excursion to the seaside.",
+              "ja": "私たちは海辺へ日帰り小旅行に出かけた。",
+              "highlight": "excursion"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + currere (走る)",
+      "synonyms": [
+        {"word": "outing", "trans": "遠出"},
+        {"word": "trip", "trans": "旅行"},
+        {"word": "jaunt", "trans": "気晴らしの旅"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11848,
+      "word": "itinerary",
+      "pos": "名詞",
+      "meaning": "旅程、旅程表",
+      "nuance": "旅行のルートやスケジュールを詳細に記した計画を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The travel agent provided a detailed itinerary for our trip to Egypt.",
+              "ja": "旅行代理店がエジプト旅行の詳細な旅程表を用意してくれた。",
+              "highlight": "itinerary"
+            }
+          ]
+        }
+      ],
+      "etymology": "iter (旅、道)",
+      "synonyms": [
+        {"word": "schedule", "trans": "予定表"},
+        {"word": "program", "trans": "計画"},
+        {"word": "route", "trans": "経路"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11849,
+      "word": "token",
+      "pos": "名詞",
+      "meaning": "①しるし ②代用硬貨、トークン ③商品引換券",
+      "nuance": "何か（感謝、愛情、身分など）を表す象徴的なもの、あるいは現金の代わりとなるものを指します。",
+      "example_sections": [
+        {
+          "title": "「しるし」の例文",
+          "examples": [
+            {
+              "en": "Please accept this gift as a token of our appreciation.",
+              "ja": "感謝のしるしとしてこの贈り物を受け取ってください。",
+              "highlight": "token"
+            }
+          ]
+        },
+        {
+          "title": "「代用硬貨」の例文",
+          "examples": [
+            {
+              "en": "The subway used to accept tokens instead of paper tickets.",
+              "ja": "地下鉄は以前、紙の切符の代わりにトークン（代用硬貨）を受け付けていた。",
+              "highlight": "tokens"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 tacen（しるし、象徴）",
+      "synonyms": [
+        {"word": "sign", "trans": "兆候、しるし"},
+        {"word": "symbol", "trans": "象徴"},
+        {"word": "voucher", "trans": "引換券"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11850,
+      "word": "detergent",
+      "pos": "名詞",
+      "meaning": "洗剤",
+      "nuance": "特に化学合成された洗浄剤（洗濯用や食器用）を指します。石鹸（soap）とは区別されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Use a mild detergent to wash delicate fabrics.",
+              "ja": "デリケートな布地を洗うには中性洗剤を使用してください。",
+              "highlight": "detergent"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (離れて) + tergere (拭く)",
+      "synonyms": [
+        {"word": "cleaner", "trans": "洗浄剤"},
+        {"word": "cleanser", "trans": "クレンザー、洗浄剤"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11851,
+      "word": "purchase",
+      "pos": "動詞、名詞",
+      "meaning": "【動】～を購入する 【名】購入（品）",
+      "nuance": "buy よりもフォーマルな語で、大きな買い物や公式な契約などに好まれます。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The company recently purchased a new office building.",
+              "ja": "その会社は最近、新しいオフィスビルを購入した。",
+              "highlight": "purchased"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Please keep your receipt as proof of purchase.",
+              "ja": "購入の証明としてレシートを保管しておいてください。",
+              "highlight": "purchase"
+            }
+          ]
+        }
+      ],
+      "etymology": "pur (追う) + chaser (捕らえる)",
+      "synonyms": [
+        {"word": "buy", "trans": "買う"},
+        {"word": "acquire", "trans": "手に入れる"},
+        {"word": "procure", "trans": "（努力して）獲得する"}
+      ],
+      "antonyms": [
+        {"word": "sell", "trans": "売る"},
+        {"word": "vend", "trans": "売る"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11852,
+      "word": "dwell",
+      "pos": "動詞",
+      "meaning": "①住む ②（on ～）くどくど考える",
+      "nuance": "live より古風・形式的。比喩的に、特定の考えに「留まる（引きずる）」際によく使われます。",
+      "example_sections": [
+        {
+          "title": "「住む」の例文",
+          "examples": [
+            {
+              "en": "Strange creatures are said to dwell in the deep sea.",
+              "ja": "深海には奇妙な生物が住んでいると言われている。",
+              "highlight": "dwell"
+            }
+          ]
+        },
+        {
+          "title": "「くどくど考える」の例文",
+          "examples": [
+            {
+              "en": "Don't dwell on your past mistakes; move forward.",
+              "ja": "過去の失敗をくどくど考えないで、前に進みなさい。",
+              "highlight": "dwell"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 dwellan（惑わす、留まる）",
+      "synonyms": [
+        {"word": "reside", "trans": "居住する"},
+        {"word": "inhabit", "trans": "住む"},
+        {"word": "linger", "trans": "留まる、残る"}
+      ],
+      "antonyms": [
+        {"word": "move", "trans": "動く、去る"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "dwelling", "trans": "名詞：住居"}
+      ]
+    },
+    {
+      "number": 11853,
+      "word": "juvenile",
+      "pos": "形容詞、名詞",
+      "meaning": "【形】青少年の、子供じみた 【名】青少年",
+      "nuance": "主に法律用語（少年犯罪など）として使われるほか、大人の「幼稚な」振る舞いを批判する際にも使います。",
+      "example_sections": [
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "The number of juvenile crimes has decreased recently.",
+              "ja": "少年犯罪の数は最近減少している。",
+              "highlight": "juvenile"
+            },
+            {
+              "en": "Stop making such juvenile jokes.",
+              "ja": "そんな子供じみたジョークを言うのはやめなさい。",
+              "highlight": "juvenile"
+            }
+          ]
+        }
+      ],
+      "etymology": "iuvenis (若い)",
+      "synonyms": [
+        {"word": "young", "trans": "若い"},
+        {"word": "youthful", "trans": "若々しい"},
+        {"word": "childish", "trans": "子供っぽい"}
+      ],
+      "antonyms": [
+        {"word": "adult", "trans": "成人の"},
+        {"word": "mature", "trans": "成熟した"}
+      ],
+      "related": [
+        {"word": "junior", "trans": "形容詞：年下の"}
+      ]
+    },
+    {
+      "number": 11854,
+      "word": "adolescent",
+      "pos": "名詞、形容詞",
+      "meaning": "【名】思春期の若者 【形】思春期の",
+      "nuance": "子供から大人への移行期（10代）にある人を指す、生物学・心理学的な響きを持つ言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Adolescents often struggle with their sense of identity.",
+              "ja": "思春期の若者はしばしばアイデンティティの葛藤を抱える。",
+              "highlight": "Adolescents"
+            },
+            {
+              "en": "She works with adolescent girls to build self-esteem.",
+              "ja": "彼女は思春期の少女たちの自尊心を高める活動をしている。",
+              "highlight": "adolescent"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～へ) + olescere (成長する)",
+      "synonyms": [
+        {"word": "teenager", "trans": "10代の若者"},
+        {"word": "youth", "trans": "若者"}
+      ],
+      "antonyms": [
+        {"word": "child", "trans": "子供"},
+        {"word": "adult", "trans": "大人"}
+      ],
+      "related": [
+        {"word": "adolescence", "trans": "名詞：思春期"}
+      ]
+    },
+    {
+      "number": 11855,
+      "word": "initial",
+      "pos": "形容詞、名詞",
+      "meaning": "【形】最初の 【名】頭文字、イニシャル",
+      "nuance": "何かの始まりの段階を指します。名詞では名前の最初の文字を指します。",
+      "example_sections": [
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "The initial reaction to the news was one of shock.",
+              "ja": "そのニュースに対する最初の反応は、衝撃というものだった。",
+              "highlight": "initial"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Please write your initials at the bottom of each page.",
+              "ja": "各ページの下部にあなたのイニシャルを書いてください。",
+              "highlight": "initials"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + it (行く) → 入口",
+      "synonyms": [
+        {"word": "first", "trans": "第一の"},
+        {"word": "beginning", "trans": "始まりの"},
+        {"word": "opening", "trans": "開始の"}
+      ],
+      "antonyms": [
+        {"word": "final", "trans": "最終的な"},
+        {"word": "last", "trans": "最後の"}
+      ],
+      "related": [
+        {"word": "initially", "trans": "副詞：最初は"},
+        {"word": "initiate", "trans": "動詞：開始する"}
+      ]
+    },
+    {
+      "number": 11856,
+      "word": "precede",
+      "pos": "動詞",
+      "meaning": "～に先行する、～より前に起こる",
+      "nuance": "時間的または場所的に、あるものの前に来ることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A brief introduction preceded the main speech.",
+              "ja": "主要な演説の前に、短い紹介があった（先行した）。",
+              "highlight": "preceded"
+            },
+            {
+              "en": "Lightning precedes thunder.",
+              "ja": "稲妻は雷鳴に先行する（先に起こる）。",
+              "highlight": "precedes"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre (前に) + cedere (行く)",
+      "synonyms": [
+        {"word": "anticipate", "trans": "先んじる"},
+        {"word": "lead", "trans": "導く、先頭に立つ"}
+      ],
+      "antonyms": [
+        {"word": "follow", "trans": "続く"},
+        {"word": "succeed", "trans": "後に来る"}
+      ],
+      "related": [
+        {"word": "precedent", "trans": "名詞：前例"},
+        {"word": "preceding", "trans": "形容詞：前の"}
+      ]
+    },
+    {
+      "number": 11857,
+      "word": "phase",
+      "pos": "名詞",
+      "meaning": "段階、局面、相",
+      "nuance": "変化や発達の過程における、特定の期間や一形態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The project is entering its final phase.",
+              "ja": "プロジェクトは最終段階に入っている。",
+              "highlight": "phase"
+            },
+            {
+              "en": "Most teenagers go through a rebellious phase.",
+              "ja": "ほとんどの10代は反抗期（反抗的な局面）を経験する。",
+              "highlight": "phase"
+            }
+          ]
+        }
+      ],
+      "etymology": "phainein (現れる)",
+      "synonyms": [
+        {"word": "stage", "trans": "段階"},
+        {"word": "step", "trans": "一歩、段階"},
+        {"word": "period", "trans": "期間"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11858,
+      "word": "priority",
+      "pos": "名詞",
+      "meaning": "優先（事項）、最優先されること",
+      "nuance": "他よりも重要であると見なされ、先に対処すべきことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Education is a top priority for the government.",
+              "ja": "教育は政府にとっての最優先事項だ。",
+              "highlight": "priority"
+            },
+            {
+              "en": "Safety must take priority over speed.",
+              "ja": "安全は速度よりも優先されなければならない。",
+              "highlight": "priority"
+            }
+          ]
+        }
+      ],
+      "etymology": "prior (前の)",
+      "synonyms": [
+        {"word": "preference", "trans": "優先、好み"},
+        {"word": "precedence", "trans": "優先（順位）"}
+      ],
+      "antonyms": [
+        {"word": "subordination", "trans": "下位に置くこと"},
+        {"word": "unimportance", "trans": "重要でないこと"}
+      ],
+      "related": [
+        {"word": "prioritize", "trans": "動詞：優先順位をつける"},
+        {"word": "prior", "trans": "形容詞：前の、優先的な"}
+      ]
+    },
+    {
+      "number": 11859,
+      "word": "premise",
+      "pos": "名詞",
+      "meaning": "①前提 ②（-s）敷地",
+      "nuance": "議論の基礎となる「前提」と、複数形で「建物を含む土地」という、全く異なる二つの意味を持ちます。",
+      "example_sections": [
+        {
+          "title": "「前提」の例文",
+          "examples": [
+            {
+              "en": "His argument is based on a false premise.",
+              "ja": "彼の議論は間違った前提に基づいている。",
+              "highlight": "premise"
+            }
+          ]
+        },
+        {
+          "title": "「敷地」の例文",
+          "examples": [
+            {
+              "en": "Smoking is not allowed on the school premises.",
+              "ja": "校内（学校の敷地内）での喫煙は禁止されている。",
+              "highlight": "premises"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre (前に) + mittere (送る) → 前もって提示されたもの",
+      "synonyms": [
+        {"word": "assumption", "trans": "想定、前提"},
+        {"word": "grounds", "trans": "根拠、土地"},
+        {"word": "property", "trans": "所有地"}
+      ],
+      "antonyms": [
+        {"word": "conclusion", "trans": "結論"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11860,
+      "word": "legend",
+      "pos": "名詞",
+      "meaning": "①伝説、言い伝え ②伝説的人物",
+      "nuance": "古い物語だけでなく、ある分野で驚異的な業績を残した存命の人物に対しても使われます。",
+      "example_sections": [
+        {
+          "title": "「伝説」の例文",
+          "examples": [
+            {
+              "en": "According to legend, the castle is haunted.",
+              "ja": "伝説によれば、その城には幽霊が出るという。",
+              "highlight": "legend"
+            }
+          ]
+        },
+        {
+          "title": "「伝説的人物」の例文",
+          "examples": [
+            {
+              "en": "The basketball player is a living legend.",
+              "ja": "そのバスケットボール選手は生きる伝説だ。",
+              "highlight": "legend"
+            }
+          ]
+        }
+      ],
+      "etymology": "legere (読む) → 読まれるべきもの",
+      "synonyms": [
+        {"word": "myth", "trans": "神話"},
+        {"word": "fable", "trans": "寓話"},
+        {"word": "icon", "trans": "象徴、アイコン"}
+      ],
+      "antonyms": [
+        {"word": "fact", "trans": "事実"},
+        {"word": "nobody", "trans": "無名の人"}
+      ],
+      "related": [
+        {"word": "legendary", "trans": "形容詞：伝説的な"}
+      ]
+    },
+    {
+      "number": 11861,
+      "word": "masterpiece",
+      "pos": "名詞",
+      "meaning": "傑作、名作",
+      "nuance": "芸術家や作家の最高傑作、あるいは非常に質の高い作品を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The Mona Lisa is considered Leonardo da Vinci's masterpiece.",
+              "ja": "モナ・リザはレオナルド・ダ・ヴィンチの傑作と考えられている。",
+              "highlight": "masterpiece"
+            }
+          ]
+        }
+      ],
+      "etymology": "master (親方) + piece (作品) → 親方として認められるための作品",
+      "synonyms": [
+        {"word": "classic", "trans": "古典、名作"},
+        {"word": "magnum opus", "trans": "代表作"},
+        {"word": "work of art", "trans": "芸術作品"}
+      ],
+      "antonyms": [
+        {"word": "failure", "trans": "失敗作"},
+        {"word": "junk", "trans": "がらくた"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11862,
+      "word": "ritual",
+      "pos": "名詞、形容詞",
+      "meaning": "【名】儀式、習慣的行為 【形】儀式の",
+      "nuance": "宗教的な儀式だけでなく、毎日決まって行う「ルーチン」のような個人的な習慣にも使われます。",
+      "example_sections": [
+        {
+          "title": "「儀式」の例文",
+          "examples": [
+            {
+              "en": "The religious ritual lasted for three hours.",
+              "ja": "その宗教的儀式は3時間続いた。",
+              "highlight": "ritual"
+            }
+          ]
+        },
+        {
+          "title": "「習慣的行為」の例文",
+          "examples": [
+            {
+              "en": "Making coffee is part of my morning ritual.",
+              "ja": "コーヒーを淹れるのは私の朝の習慣（儀式）の一部だ。",
+              "highlight": "ritual"
+            }
+          ]
+        }
+      ],
+      "etymology": "ritus (慣習、儀式)",
+      "synonyms": [
+        {"word": "ceremony", "trans": "式典"},
+        {"word": "rite", "trans": "儀式"},
+        {"word": "routine", "trans": "日課"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "rite", "trans": "名詞：儀礼"}
+      ]
+    },
+    {
+      "number": 11863,
+      "word": "worship",
+      "pos": "名詞、動詞",
+      "meaning": "【名】崇拝、礼拝 【動】～を崇拝する、お参りする",
+      "nuance": "神仏への信仰だけでなく、スターやアイドルなどを熱狂的に愛する場合にも使われます。",
+      "example_sections": [
+        {
+          "title": "「信仰」の例文",
+          "examples": [
+            {
+              "en": "The temple is a place of worship for Hindus.",
+              "ja": "その寺院はヒンドゥー教徒の礼拝の場所である。",
+              "highlight": "worship"
+            }
+          ]
+        },
+        {
+          "title": "「崇拝する」の例文",
+          "examples": [
+            {
+              "en": "She absolutely worships that rock star.",
+              "ja": "彼女はそのロックスターを完全に崇拝している。",
+              "highlight": "worships"
+            }
+          ]
+        }
+      ],
+      "etymology": "worth (価値) + ship (状態) → 価値を認めること",
+      "synonyms": [
+        {"word": "adore", "trans": "崇拝する"},
+        {"word": "revere", "trans": "崇敬する"},
+        {"word": "venerate", "trans": "尊ぶ"}
+      ],
+      "antonyms": [
+        {"word": "despise", "trans": "軽蔑する"},
+        {"word": "mock", "trans": "あざける"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11864,
+      "word": "advent",
+      "pos": "名詞",
+      "meaning": "①到来 ②キリストの降臨",
+      "nuance": "重要な人物や、歴史を大きく変えるような事柄・技術が登場した際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The advent of the internet changed how we communicate.",
+              "ja": "インターネットの到来が、私たちのコミュニケーション方法を変えた。",
+              "highlight": "advent"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～へ) + venire (来る)",
+      "synonyms": [
+        {"word": "arrival", "trans": "到着"},
+        {"word": "appearance", "trans": "出現"},
+        {"word": "dawn", "trans": "夜明け、始まり"}
+      ],
+      "antonyms": [
+        {"word": "departure", "trans": "出発"},
+        {"word": "passing", "trans": "去ること、終焉"}
+      ],
+      "related": [
+        {"word": "adventure", "trans": "名詞：冒険"}
+      ]
+    },
+    {
+      "number": 11865,
+      "word": "swear",
+      "pos": "動詞",
+      "meaning": "①誓う ②罵る、毒づく",
+      "nuance": "厳粛に約束をすることと、汚い言葉（swear words）を吐くという、両極端な意味があります。",
+      "example_sections": [
+        {
+          "title": "「誓う」の例文",
+          "examples": [
+            {
+              "en": "I swear to tell the truth, the whole truth, and nothing but the truth.",
+              "ja": "真実を、すべての真実を、真実のみを述べることを誓います。",
+              "highlight": "swear"
+            }
+          ]
+        },
+        {
+          "title": "「罵る」の例文",
+          "examples": [
+            {
+              "en": "He started to swear at the driver who cut him off.",
+              "ja": "彼は割り込んできた運転手に向かって罵り始めた。",
+              "highlight": "swear"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 swerian（誓う）",
+      "synonyms": [
+        {"word": "vow", "trans": "誓う"},
+        {"word": "promise", "trans": "約束する"},
+        {"word": "curse", "trans": "呪う、罵る"}
+      ],
+      "antonyms": [
+        {"word": "deny", "trans": "否定する"},
+        {"word": "praise", "trans": "褒める"}
+      ],
+      "related": [
+        {"word": "swearword", "trans": "名詞：罵り言葉"}
+      ]
+    },
+    {
+      "number": 11866,
+      "word": "confess",
+      "pos": "動詞",
+      "meaning": "①（罪などを）白状する ②（認めたくないことを）認める",
+      "nuance": "警察への自白だけでなく、個人的な秘密や恥ずかしい気持ちを打ち明ける際にも使われます。",
+      "example_sections": [
+        {
+          "title": "「白状する」の例文",
+          "examples": [
+            {
+              "en": "The suspect finally confessed to the crime.",
+              "ja": "容疑者はついに犯行を白状した。",
+              "highlight": "confessed"
+            }
+          ]
+        },
+        {
+          "title": "「認める」の例文",
+          "examples": [
+            {
+              "en": "I must confess that I haven't read the book yet.",
+              "ja": "白状すると（実は）、まだその本を読んでいないのです。",
+              "highlight": "confess"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (強意) + fateri (認める)",
+      "synonyms": [
+        {"word": "admit", "trans": "認める"},
+        {"word": "acknowledge", "trans": "認める、承認する"},
+        {"word": "reveal", "trans": "明かす"}
+      ],
+      "antonyms": [
+        {"word": "deny", "trans": "否定する"},
+        {"word": "conceal", "trans": "隠す"}
+      ],
+      "related": [
+        {"word": "confession", "trans": "名詞：告白、自白"}
+      ]
     }
   ]
 }
