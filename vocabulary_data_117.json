@@ -1205,6 +1205,1321 @@
         {"word": "optimism", "trans": "名詞：楽観主義"},
         {"word": "optimize", "trans": "動詞：最適化する"}
       ]
+    },
+    {
+      "number": 11734,
+      "word": "patriotic",
+      "pos": "形容詞",
+      "meaning": "愛国的な、国を愛する",
+      "nuance": "自分の国に対して強い忠誠心や愛情を持っている状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The stadium was filled with patriotic fans waving national flags.",
+              "ja": "スタジアムは国旗を振る愛国的なファンで埋め尽くされた。",
+              "highlight": "patriotic"
+            },
+            {
+              "en": "Many people felt it was their patriotic duty to vote.",
+              "ja": "多くの人が、投票することは愛国的な義務だと感じていた。",
+              "highlight": "patriotic"
+            }
+          ]
+        }
+      ],
+      "etymology": "patris（父、祖国）",
+      "synonyms": [
+        {"word": "loyal", "trans": "忠誠心のある"},
+        {"word": "nationalistic", "trans": "国家主義的な"},
+        {"word": "devoted", "trans": "献身的な"}
+      ],
+      "antonyms": [
+        {"word": "traitorous", "trans": "反逆的な"},
+        {"word": "disloyal", "trans": "不忠な"},
+        {"word": "treasonable", "trans": "裏切りの"}
+      ],
+      "related": [
+        {"word": "patriot", "trans": "名詞：愛国者"},
+        {"word": "patriotism", "trans": "名詞：愛国心"}
+      ]
+    },
+    {
+      "number": 11735,
+      "word": "naughty",
+      "pos": "形容詞",
+      "meaning": "いたずらな、行儀の悪い",
+      "nuance": "主に子供（またはペット）が、悪意はないが言いつけを守らないような時に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Stop being so naughty and sit down!",
+              "ja": "そんなにいたずらばかりしないで、座りなさい！",
+              "highlight": "naughty"
+            },
+            {
+              "en": "The naughty boy drew pictures on the living room wall.",
+              "ja": "そのいたずらっ子はリビングの壁に絵を描いた。",
+              "highlight": "naughty"
+            }
+          ]
+        }
+      ],
+      "etymology": "naught（ゼロ、無価値なもの）に由来",
+      "synonyms": [
+        {"word": "mischievous", "trans": "いたずら好きな"},
+        {"word": "badly-behaved", "trans": "行儀の悪い"},
+        {"word": "disobedient", "trans": "従順でない"}
+      ],
+      "antonyms": [
+        {"word": "well-behaved", "trans": "行儀の良い"},
+        {"word": "obedient", "trans": "従順な"},
+        {"word": "good", "trans": "お利口な"}
+      ],
+      "related": [
+        {"word": "naughtiness", "trans": "名詞：わんぱく、いたずら"}
+      ]
+    },
+    {
+      "number": 11736,
+      "word": "vigorous",
+      "pos": "形容詞",
+      "meaning": "①精力的な、活力にあふれた ②活発な、激しい",
+      "nuance": "身体的な強さだけでなく、活動や議論などが力強く行われる様子を指します。",
+      "example_sections": [
+        {
+          "title": "「精力的な」の例文",
+          "examples": [
+            {
+              "en": "She is still vigorous and active even in her 80s.",
+              "ja": "彼女は80代になっても、依然として精力的で活動的だ。",
+              "highlight": "vigorous"
+            }
+          ]
+        },
+        {
+          "title": "「活発な」の例文",
+          "examples": [
+            {
+              "en": "The government launched a vigorous campaign against smoking.",
+              "ja": "政府は喫煙に対する活発な（強力な）キャンペーンを開始した。",
+              "highlight": "vigorous"
+            }
+          ]
+        }
+      ],
+      "etymology": "viger（元気がいい）",
+      "synonyms": [
+        {"word": "energetic", "trans": "エネルギーに満ちた"},
+        {"word": "dynamic", "trans": "動的な、活力のある"},
+        {"word": "robust", "trans": "強健な"}
+      ],
+      "antonyms": [
+        {"word": "feeble", "trans": "弱々しい"},
+        {"word": "weak", "trans": "弱い"},
+        {"word": "lethargic", "trans": "無気力な"}
+      ],
+      "related": [
+        {"word": "vigor", "trans": "名詞：活力、精力"},
+        {"word": "vigorously", "trans": "副詞：精力的に"}
+      ]
+    },
+    {
+      "number": 11737,
+      "word": "solitary",
+      "pos": "形容詞",
+      "meaning": "①孤独な、孤高の ②ただひとつの、単独の",
+      "nuance": "寂しい（lonely）という感情よりも、好んで一人でいる状態や、ポツンと一つだけ存在している物理的な状態を指します。",
+      "example_sections": [
+        {
+          "title": "「孤高の・一人の」の例文",
+          "examples": [
+            {
+              "en": "He leads a solitary life in a small cabin in the woods.",
+              "ja": "彼は森の中の小さな小屋で孤独な（一人きりの）生活を送っている。",
+              "highlight": "solitary"
+            }
+          ]
+        },
+        {
+          "title": "「ただひとつの」の例文",
+          "examples": [
+            {
+              "en": "A solitary figure was standing on the beach.",
+              "ja": "ただ一人の人影が浜辺に立っていた。",
+              "highlight": "solitary"
+            }
+          ]
+        }
+      ],
+      "etymology": "solus（単独の）",
+      "synonyms": [
+        {"word": "alone", "trans": "一人の"},
+        {"word": "single", "trans": "単一の"},
+        {"word": "isolated", "trans": "隔離された"}
+      ],
+      "antonyms": [
+        {"word": "social", "trans": "社交的な"},
+        {"word": "sociable", "trans": "人付き合いのよい"},
+        {"word": "multiple", "trans": "多数の"}
+      ],
+      "related": [
+        {"word": "solitude", "trans": "名詞：ひとりでいること、孤独"},
+        {"word": "solo", "trans": "形容詞・名詞：独奏、単独の"}
+      ]
+    },
+    {
+      "number": 11738,
+      "word": "vulgar",
+      "pos": "形容詞",
+      "meaning": "①品がない、下品な ②卑わいな",
+      "nuance": "マナーが悪い、教養が感じられない、または性的・不快な言葉遣いなどを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I found his jokes to be quite vulgar and offensive.",
+              "ja": "彼のジョークはかなり下品（卑わい）で不快だと思った。",
+              "highlight": "vulgar"
+            },
+            {
+              "en": "It is considered vulgar to talk loudly on a cell phone in a quiet restaurant.",
+              "ja": "静かなレストランで携帯電話で大声で話すのは、品がないとされる。",
+              "highlight": "vulgar"
+            }
+          ]
+        }
+      ],
+      "etymology": "vulgus（大衆、一般民衆）",
+      "synonyms": [
+        {"word": "rude", "trans": "失礼な"},
+        {"word": "crude", "trans": "粗野な"},
+        {"word": "indecent", "trans": "見苦しい、下品な"}
+      ],
+      "antonyms": [
+        {"word": "refined", "trans": "洗練された"},
+        {"word": "polite", "trans": "礼儀正しい"},
+        {"word": "elegant", "trans": "優雅な"}
+      ],
+      "related": [
+        {"word": "vulgarity", "trans": "名詞：下品な行為"}
+      ]
+    },
+    {
+      "number": 11739,
+      "word": "skeptical",
+      "pos": "形容詞",
+      "meaning": "懐疑的な、疑い深い",
+      "nuance": "本当かどうか確信が持てず、批判的な目で見ている状態です。単なる「疑い（doubtful）」より一歩進んで「証明されるまでは信じない」というニュアンスを含みます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Doctors are skeptical about the effectiveness of the new treatment.",
+              "ja": "医師たちはその新しい治療法の効果について懐疑的だ。",
+              "highlight": "skeptical"
+            },
+            {
+              "en": "She gave me a skeptical look when I told her my excuse.",
+              "ja": "私が言い訳をすると、彼女は疑り深い目つきで私を見た。",
+              "highlight": "skeptical"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 skeptikos（よく考える、調べる）",
+      "synonyms": [
+        {"word": "doubtful", "trans": "疑わしい"},
+        {"word": "dubious", "trans": "怪しい"},
+        {"word": "cynical", "trans": "冷笑的な"}
+      ],
+      "antonyms": [
+        {"word": "optimistic", "trans": "楽観的な"},
+        {"word": "credulous", "trans": "信じやすい"},
+        {"word": "convinced", "trans": "確信している"}
+      ],
+      "related": [
+        {"word": "skeptic", "trans": "名詞：懐疑論者"},
+        {"word": "skepticism", "trans": "名詞：懐疑的な態度"}
+      ]
+    },
+    {
+      "number": 11740,
+      "word": "haunt",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①つきまとう、出没する 【名】②好んで行く場所、たまり場",
+      "nuance": "幽霊が出る（haunted house）だけでなく、嫌な思い出や罪悪感が「頭から離れない」際にもよく使われます。名詞ではお気に入りの場所を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The memory of the accident still haunts him.",
+              "ja": "その事故の記憶が今も彼につきまとっている（忘れられない）。",
+              "highlight": "haunts"
+            },
+            {
+              "en": "The castle is said to be haunted by a headless knight.",
+              "ja": "その城には首なし騎士の幽霊が出ると言われている。",
+              "highlight": "haunted"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "This cafe used to be one of my favorite haunts in college.",
+              "ja": "このカフェは大学時代の私のお気に入りのたまり場の一つだった。",
+              "highlight": "haunts"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 hanter（たびたび訪れる）",
+      "synonyms": [
+        {"word": "obsess", "trans": "取りつく"},
+        {"word": "torment", "trans": "苦しめる"},
+        {"word": "hangout", "trans": "たまり場"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "haunting", "trans": "形容詞：心に残る、忘れられない"}
+      ]
+    },
+    {
+      "number": 11741,
+      "word": "obsessed",
+      "pos": "形容詞",
+      "meaning": "（with ～）取りつかれて、頭が一杯で",
+      "nuance": "何かに過度に熱中し、他のことが考えられない異常な状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Modern society is obsessed with youth and beauty.",
+              "ja": "現代社会は若さと美しさに取り憑かれている。",
+              "highlight": "obsessed"
+            },
+            {
+              "en": "He is obsessed with video games and hardly ever goes out.",
+              "ja": "彼はビデオゲームに夢中（頭が一杯）で、ほとんど外出しない。",
+              "highlight": "obsessed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ob (前に) + sedere (座る) → 前に居座って離れない",
+      "synonyms": [
+        {"word": "preoccupied", "trans": "夢中になっている"},
+        {"word": "fixated", "trans": "固執した"},
+        {"word": "addicted", "trans": "依存している"}
+      ],
+      "antonyms": [
+        {"word": "indifferent", "trans": "無関心な"},
+        {"word": "detached", "trans": "距離を置いた"}
+      ],
+      "related": [
+        {"word": "obsession", "trans": "名詞：強迫観念"},
+        {"word": "obsessive", "trans": "形容詞：過度な、執拗な"}
+      ]
+    },
+    {
+      "number": 11742,
+      "word": "intent",
+      "pos": "形容詞、名詞",
+      "meaning": "【形】①（on ～）没頭した、決心した 【名】②意図、目的",
+      "nuance": "形容詞では「何が何でも〜しようとする」強い集中を、名詞では「成し遂げようとする心（意図）」を指します。",
+      "example_sections": [
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "She was intent on finishing the project before the deadline.",
+              "ja": "彼女は締め切り前にプロジェクトを終わらせようと没頭していた。",
+              "highlight": "intent"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "It was not my intent to hurt your feelings.",
+              "ja": "君の感情を害する意図はなかったんだ。",
+              "highlight": "intent"
+            },
+            {
+              "en": "He was arrested with intent to commit a robbery.",
+              "ja": "彼は強盗の意図を持って（強盗目的で）逮捕された。",
+              "highlight": "intent"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (向かって) + tendere (伸ばす)",
+      "synonyms": [
+        {"word": "determined", "trans": "決心した"},
+        {"word": "focused", "trans": "集中した"},
+        {"word": "purpose", "trans": "目的"}
+      ],
+      "antonyms": [
+        {"word": "aimless", "trans": "目的のない"},
+        {"word": "distracted", "trans": "気が散った"}
+      ],
+      "related": [
+        {"word": "intend", "trans": "動詞：〜するつもりだ"},
+        {"word": "intention", "trans": "名詞：意図"}
+      ]
+    },
+    {
+      "number": 11743,
+      "word": "indulge",
+      "pos": "動詞",
+      "meaning": "①（in ～）ふける、楽しむ ②～を甘やかす、思いのままにさせる",
+      "nuance": "快楽や趣味などにどっぷり浸かること、または他人の要望をすべて聞いて甘やかすことを指します。",
+      "example_sections": [
+        {
+          "title": "「ふける」の例文",
+          "examples": [
+            {
+              "en": "On weekends, I like to indulge in a bit of luxury.",
+              "ja": "週末には、ちょっとした贅沢にふけるのが好きだ。",
+              "highlight": "indulge"
+            }
+          ]
+        },
+        {
+          "title": "「思いのままにさせる」の例文",
+          "examples": [
+            {
+              "en": "The grandparents tend to indulge their grandchildren.",
+              "ja": "祖父母は孫を甘やかす傾向がある。",
+              "highlight": "indulge"
+            }
+          ]
+        }
+      ],
+      "etymology": "indulgere（寛大である、許可する）",
+      "synonyms": [
+        {"word": "spoil", "trans": "甘やかす"},
+        {"word": "gratify", "trans": "満足させる"},
+        {"word": "wallow", "trans": "耽溺する"}
+      ],
+      "antonyms": [
+        {"word": "restrain", "trans": "抑える"},
+        {"word": "deprive", "trans": "奪う、我慢させる"},
+        {"word": "discipline", "trans": "しつける"}
+      ],
+      "related": [
+        {"word": "indulgence", "trans": "名詞：耽溺、甘やかし"},
+        {"word": "indulgent", "trans": "形容詞：甘い、寛大な"}
+      ]
+    },
+    {
+      "number": 11744,
+      "word": "cling",
+      "pos": "動詞",
+      "meaning": "（to ～）固執する、しがみつく、くっつく",
+      "nuance": "物理的に離れないように掴まることと、比喩的に古い考えや希望を「捨てずに持ち続ける」ことの両方を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The child clung to his mother's hand in the crowd.",
+              "ja": "その子は人混みの中で母親の手にしがみついた。",
+              "highlight": "clung"
+            },
+            {
+              "en": "They still cling to the traditions of their ancestors.",
+              "ja": "彼らは今でも先祖の伝統に固執している（守り続けている）。",
+              "highlight": "cling"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（くっつく）",
+      "synonyms": [
+        {"word": "stick", "trans": "くっつく"},
+        {"word": "adhere", "trans": "固執する、密着する"},
+        {"word": "hold on", "trans": "持ちこたえる"}
+      ],
+      "antonyms": [
+        {"word": "detach", "trans": "切り離す"},
+        {"word": "release", "trans": "放す"},
+        {"word": "abandon", "trans": "捨てる"}
+      ],
+      "related": [
+        {"word": "clingy", "trans": "形容詞：べたべたした、依存心の強い"}
+      ]
+    },
+    {
+      "number": 11745,
+      "word": "flaw",
+      "pos": "名詞",
+      "meaning": "欠陥、傷、欠点",
+      "nuance": "物理的なひび割れや、性格・理論などの「惜しい欠点」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There is a minor flaw in the diamond.",
+              "ja": "そのダイヤモンドには小さな傷（欠陥）がある。",
+              "highlight": "flaw"
+            },
+            {
+              "en": "The argument has a fundamental flaw.",
+              "ja": "その議論には根本的な欠陥がある。",
+              "highlight": "flaw"
+            }
+          ]
+        }
+      ],
+      "etymology": "古ノルド語（ひび割れ）",
+      "synonyms": [
+        {"word": "defect", "trans": "欠陥"},
+        {"word": "fault", "trans": "欠点"},
+        {"word": "imperfection", "trans": "不完全さ"}
+      ],
+      "antonyms": [
+        {"word": "perfection", "trans": "完璧"},
+        {"word": "strength", "trans": "長所、強み"}
+      ],
+      "related": [
+        {"word": "flawless", "trans": "形容詞：完璧な"}
+      ]
+    },
+    {
+      "number": 11746,
+      "word": "defect",
+      "pos": "名詞",
+      "meaning": "欠陥、不足、不具合",
+      "nuance": "flaw よりも「機能的な不備」や「標準に達していない不足」というニュアンスが強く、製品のリコールなどの文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company recalled the cars due to a defect in the braking system.",
+              "ja": "ブレーキシステムの欠陥により、会社はその車をリコールした。",
+              "highlight": "defect"
+            },
+            {
+              "en": "She was born with a heart defect.",
+              "ja": "彼女は心臓疾患（欠陥）を持って生まれた。",
+              "highlight": "defect"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (離れて) + facere (作る) → 十分に作られていない",
+      "synonyms": [
+        {"word": "flaw", "trans": "欠陥"},
+        {"word": "shortcoming", "trans": "短所"},
+        {"word": "malfunction", "trans": "誤作動"}
+      ],
+      "antonyms": [
+        {"word": "improvement", "trans": "改善"},
+        {"word": "wholeness", "trans": "完全性"}
+      ],
+      "related": [
+        {"word": "defective", "trans": "形容詞：欠陥のある"},
+        {"word": "deficient", "trans": "形容詞：不足している"}
+      ]
+    },
+    {
+      "number": 11747,
+      "word": "trait",
+      "pos": "名詞",
+      "meaning": "特性、特徴",
+      "nuance": "人の性格や遺伝的な「持ち味」を指すことが多い言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Patience is a necessary trait for a teacher.",
+              "ja": "忍耐強さは教師にとって必要な特性だ。",
+              "highlight": "trait"
+            },
+            {
+              "en": "Eye color is a genetically inherited trait.",
+              "ja": "目の色は遺伝的に受け継がれる特徴だ。",
+              "highlight": "trait"
+            }
+          ]
+        }
+      ],
+      "etymology": "trahere（引く）→ 引かれた線、輪郭",
+      "synonyms": [
+        {"word": "characteristic", "trans": "特徴"},
+        {"word": "attribute", "trans": "特性"},
+        {"word": "feature", "trans": "特色"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11748,
+      "word": "analogy",
+      "pos": "名詞",
+      "meaning": "類似点、類推、たとえ",
+      "nuance": "二つの異なるものの間にある似た関係性を指摘し、説明に使うことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She explained the concept by using an analogy to a football game.",
+              "ja": "彼女はサッカーの試合に例えて（類推を用いて）その概念を説明した。",
+              "highlight": "analogy"
+            }
+          ]
+        }
+      ],
+      "etymology": "ana (応じて) + logos (比率、言葉)",
+      "synonyms": [
+        {"word": "comparison", "trans": "比較"},
+        {"word": "metaphor", "trans": "隠喩、たとえ"},
+        {"word": "similarity", "trans": "類似"}
+      ],
+      "antonyms": [
+        {"word": "difference", "trans": "違い"},
+        {"word": "contrast", "trans": "対比"},
+        {"word": "disparity", "trans": "不均衡"}
+      ],
+      "related": [
+        {"word": "analogous", "trans": "形容詞：類似した"}
+      ]
+    },
+    {
+      "number": 11749,
+      "word": "parallel",
+      "pos": "名詞、形容詞",
+      "meaning": "【名】①類似、匹敵するもの 【形】②（to ～）平行の、類似した",
+      "nuance": "二つのものが同じ方向に、または同じような経過を辿る様子を指します。名詞では「歴史的な類似例」などの意味でよく使われます。",
+      "example_sections": [
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "The road runs parallel to the railway line.",
+              "ja": "その道路は線路と平行に走っている。",
+              "highlight": "parallel"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "It is easy to draw a parallel between the two events.",
+              "ja": "その二つの出来事の間に類似点を見出すのは簡単だ。",
+              "highlight": "parallel"
+            }
+          ]
+        }
+      ],
+      "etymology": "para (横に) + allelon (お互いに)",
+      "synonyms": [
+        {"word": "equivalent", "trans": "同等のもの"},
+        {"word": "corresponding", "trans": "対応する"},
+        {"word": "alike", "trans": "似ている"}
+      ],
+      "antonyms": [
+        {"word": "divergent", "trans": "分岐する"},
+        {"word": "conflicting", "trans": "衝突する"},
+        {"word": "perpendicular", "trans": "垂直な"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11750,
+      "word": "crucial",
+      "pos": "形容詞",
+      "meaning": "重大な、決定的な",
+      "nuance": "物事の成否を分けるような、極めて重要な局面や要素を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Good communication is crucial for a successful marriage.",
+              "ja": "良好なコミュニケーションは、幸福な結婚生活のために極めて重要（決定的な要因）だ。",
+              "highlight": "crucial"
+            },
+            {
+              "en": "The next few days will be crucial for the patient's recovery.",
+              "ja": "これからの数日が、その患者の回復にとって重大な局面となるだろう。",
+              "highlight": "crucial"
+            }
+          ]
+        }
+      ],
+      "etymology": "crux（十字、分かれ道）",
+      "synonyms": [
+        {"word": "critical", "trans": "危機的な、重大な"},
+        {"word": "vital", "trans": "不可欠な"},
+        {"word": "essential", "trans": "本質的な"}
+      ],
+      "antonyms": [
+        {"word": "trivial", "trans": "些細な"},
+        {"word": "insignificant", "trans": "重要でない"},
+        {"word": "minor", "trans": "重要度の低い"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11751,
+      "word": "primary",
+      "pos": "形容詞",
+      "meaning": "①主な、第1の ②初期の、原始の",
+      "nuance": "順序として最初であること、または重要度が最も高いことを指します。",
+      "example_sections": [
+        {
+          "title": "「主な」の例文",
+          "examples": [
+            {
+              "en": "Our primary concern is the safety of the children.",
+              "ja": "私たちの最大の懸念（主な関心事）は子供たちの安全だ。",
+              "highlight": "primary"
+            }
+          ]
+        },
+        {
+          "title": "「初期・原始」の例文",
+          "examples": [
+            {
+              "en": "In the primary stages of the disease, there are no symptoms.",
+              "ja": "その病気の初期段階では、症状は全くない。",
+              "highlight": "primary"
+            }
+          ]
+        }
+      ],
+      "etymology": "primus（最初の）",
+      "synonyms": [
+        {"word": "main", "trans": "主要な"},
+        {"word": "chief", "trans": "首位の"},
+        {"word": "fundamental", "trans": "根本的な"}
+      ],
+      "antonyms": [
+        {"word": "secondary", "trans": "二次的な"},
+        {"word": "subsidiary", "trans": "補助的な"},
+        {"word": "last", "trans": "最後の"}
+      ],
+      "related": [
+        {"word": "primarily", "trans": "副詞：主として"},
+        {"word": "prime", "trans": "形容詞：最高の、主要な"}
+      ]
+    },
+    {
+      "number": 11752,
+      "word": "integral",
+      "pos": "形容詞",
+      "meaning": "①不可欠な ②完全な、整った",
+      "nuance": "全体を構成する一部として、それが欠けると成り立たないような「組み込まれた重要さ」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Vegetables are an integral part of a healthy diet.",
+              "ja": "野菜は健康的な食事に不可欠な（組み込まれた）要素だ。",
+              "highlight": "integral"
+            },
+            {
+              "en": "The music is integral to the film's atmosphere.",
+              "ja": "その音楽は映画の雰囲気にとって不可欠だ。",
+              "highlight": "integral"
+            }
+          ]
+        }
+      ],
+      "etymology": "integer（欠けていない、完全な）",
+      "synonyms": [
+        {"word": "essential", "trans": "不可欠な"},
+        {"word": "intrinsic", "trans": "固有の、本質的な"},
+        {"word": "fundamental", "trans": "根本的な"}
+      ],
+      "antonyms": [
+        {"word": "peripheral", "trans": "周辺的な、重要でない"},
+        {"word": "optional", "trans": "任意の"},
+        {"word": "extra", "trans": "余分な"}
+      ],
+      "related": [
+        {"word": "integrate", "trans": "動詞：統合する"},
+        {"word": "integrity", "trans": "名詞：誠実、完全な状態"}
+      ]
+    },
+    {
+      "number": 11753,
+      "word": "vital",
+      "pos": "形容詞",
+      "meaning": "不可欠な、きわめて重要な、生命の",
+      "nuance": "「生命（vita）に関わる」という語源から、それが無ければ死に至る、あるいは物事が破綻するほど重要なことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It is vital to keep accurate records.",
+              "ja": "正確な記録をつけることが極めて重要だ。",
+              "highlight": "vital"
+            },
+            {
+              "en": "The heart and lungs are vital organs.",
+              "ja": "心臓と肺は（生命維持に不可欠な）生命維持器官だ。",
+              "highlight": "vital"
+            }
+          ]
+        }
+      ],
+      "etymology": "vita（生命）",
+      "synonyms": [
+        {"word": "essential", "trans": "本質的な"},
+        {"word": "indispensable", "trans": "なしでは済まされない"},
+        {"word": "critical", "trans": "決定的な"}
+      ],
+      "antonyms": [
+        {"word": "trivial", "trans": "些細な"},
+        {"word": "useless", "trans": "役に立たない"},
+        {"word": "dead", "trans": "死んだ"}
+      ],
+      "related": [
+        {"word": "vitality", "trans": "名詞：生命力、活力"},
+        {"word": "vitamin", "trans": "名詞：ビタミン"}
+      ]
+    },
+    {
+      "number": 11754,
+      "word": "profound",
+      "pos": "形容詞",
+      "meaning": "深い、深刻な、心からの",
+      "nuance": "物理的な深さよりも、知識、影響、感情などが「非常に深い（底知れない）」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His book had a profound influence on my life.",
+              "ja": "彼の本は私の人生に深い（多大な）影響を与えた。",
+              "highlight": "profound"
+            },
+            {
+              "en": "Please accept my profound apologies.",
+              "ja": "心からの（深い）お詫びを受け入れください。",
+              "highlight": "profound"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前へ) + fundus (底) → 底まで届く",
+      "synonyms": [
+        {"word": "deep", "trans": "深い"},
+        {"word": "intense", "trans": "強烈な"},
+        {"word": "thorough", "trans": "徹底的な"}
+      ],
+      "antonyms": [
+        {"word": "superficial", "trans": "浅薄な、表面的な"},
+        {"word": "shallow", "trans": "浅い"},
+        {"word": "slight", "trans": "わずかな"}
+      ],
+      "related": [
+        {"word": "profoundly", "trans": "副詞：深く、心から"}
+      ]
+    },
+    {
+      "number": 11755,
+      "word": "grim",
+      "pos": "形容詞",
+      "meaning": "（状況などが）厳しい、冷酷な、暗い",
+      "nuance": "希望が持てず、不快で恐ろしいような、重苦しい状況や表情を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The future looks grim for the small company.",
+              "ja": "その小企業の将来は厳しく（暗く）見える。",
+              "highlight": "grim"
+            },
+            {
+              "en": "He had a grim expression on his face when he heard the news.",
+              "ja": "そのニュースを聞いたとき、彼は厳しい（険しい）表情を浮かべた。",
+              "highlight": "grim"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（恐ろしい、厳しい）",
+      "synonyms": [
+        {"word": "stern", "trans": "厳格な"},
+        {"word": "bleak", "trans": "荒涼とした"},
+        {"word": "harsh", "trans": "厳しい"}
+      ],
+      "antonyms": [
+        {"word": "cheerful", "trans": "快活な"},
+        {"word": "bright", "trans": "明るい"},
+        {"word": "pleasant", "trans": "心地よい"}
+      ],
+      "related": [
+        {"word": "grimly", "trans": "副詞：不気味に、厳しく"}
+      ]
+    },
+    {
+      "number": 11756,
+      "word": "fierce",
+      "pos": "形容詞",
+      "meaning": "①激しい ②どう猛な",
+      "nuance": "競争や天候、怒りなどが非常に強く、攻撃的な勢いを持っている様子を指します。",
+      "example_sections": [
+        {
+          "title": "「激しい」の例文",
+          "examples": [
+            {
+              "en": "There is fierce competition between the two tech companies.",
+              "ja": "その2つのIT企業の間には激しい競争がある。",
+              "highlight": "fierce"
+            }
+          ]
+        },
+        {
+          "title": "「どう猛な」の例文",
+          "examples": [
+            {
+              "en": "They were attacked by fierce dogs.",
+              "ja": "彼らはどう猛な犬に襲われた。",
+              "highlight": "fierce"
+            }
+          ]
+        }
+      ],
+      "etymology": "ferus（野生の）",
+      "synonyms": [
+        {"word": "intense", "trans": "強烈な"},
+        {"word": "violent", "trans": "暴力的な、激しい"},
+        {"word": "ferocious", "trans": "どう猛な"}
+      ],
+      "antonyms": [
+        {"word": "gentle", "trans": "穏やかな"},
+        {"word": "mild", "trans": "なだらかな"},
+        {"word": "weak", "trans": "弱い"}
+      ],
+      "related": [
+        {"word": "fiercely", "trans": "副詞：激しく"}
+      ]
+    },
+    {
+      "number": 11757,
+      "word": "harsh",
+      "pos": "形容詞",
+      "meaning": "（環境、罰、批判などが）厳しい、過酷な、耳障りな",
+      "nuance": "容赦がなく、残酷でさえあるような「厳しさ」や、感覚的にザラザラした不快な感じを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The refugees had to endure a harsh winter.",
+              "ja": "難民たちは厳しい冬を耐え抜かなければならなかった。",
+              "highlight": "harsh"
+            },
+            {
+              "en": "He was criticized in harsh terms.",
+              "ja": "彼は厳しい言葉で批判された。",
+              "highlight": "harsh"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（毛深い、ザラザラした）",
+      "synonyms": [
+        {"word": "severe", "trans": "過酷な"},
+        {"word": "cruel", "trans": "残酷な"},
+        {"word": "rough", "trans": "粗い"}
+      ],
+      "antonyms": [
+        {"word": "kind", "trans": "親切な"},
+        {"word": "soft", "trans": "柔らかい"},
+        {"word": "lenient", "trans": "寛大な"}
+      ],
+      "related": [
+        {"word": "harshness", "trans": "名詞：厳しさ"}
+      ]
+    },
+    {
+      "number": 11758,
+      "word": "savage",
+      "pos": "形容詞",
+      "meaning": "どう猛な、容赦ない、野蛮な",
+      "nuance": "文明化されていない野生の激しさや、相手を徹底的に叩きのめすような残酷さを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The politician came under savage attack from the press.",
+              "ja": "その政治家は報道機関から容赦ない（激しい）攻撃を受けた。",
+              "highlight": "savage"
+            },
+            {
+              "en": "Savage animals live in the deep jungle.",
+              "ja": "どう猛な動物たちがジャングルの奥深くに住んでいる。",
+              "highlight": "savage"
+            }
+          ]
+        }
+      ],
+      "etymology": "silva（森）→ 森に住むもの",
+      "synonyms": [
+        {"word": "vicious", "trans": "凶暴な"},
+        {"word": "brutal", "trans": "残忍な"},
+        {"word": "wild", "trans": "野生の"}
+      ],
+      "antonyms": [
+        {"word": "civilized", "trans": "文明化された"},
+        {"word": "tame", "trans": "飼い慣らされた"},
+        {"word": "gentle", "trans": "優しい"}
+      ],
+      "related": [
+        {"word": "savagely", "trans": "副詞：残忍に"}
+      ]
+    },
+    {
+      "number": 11759,
+      "word": "acute",
+      "pos": "形容詞",
+      "meaning": "①深刻な ②鋭い ③急性の",
+      "nuance": "先端が「尖っている」ことがコアイメージです。問題が突き刺さるように「深刻」なこと、感覚が「鋭い」こと、病気が急に激しく出ることを指します。",
+      "example_sections": [
+        {
+          "title": "「深刻な」の例文",
+          "examples": [
+            {
+              "en": "There is an acute shortage of water in the region.",
+              "ja": "その地域では深刻な水不足が起きている。",
+              "highlight": "acute"
+            }
+          ]
+        },
+        {
+          "title": "「鋭い・急性の」の例文",
+          "examples": [
+            {
+              "en": "Dogs have an acute sense of smell.",
+              "ja": "犬は鋭い嗅覚を持っている。",
+              "highlight": "acute"
+            },
+            {
+              "en": "He was rushed to the hospital with acute appendicitis.",
+              "ja": "彼は急性虫垂炎で病院に運ばれた。",
+              "highlight": "acute"
+            }
+          ]
+        }
+      ],
+      "etymology": "acus（針）",
+      "synonyms": [
+        {"word": "severe", "trans": "深刻な"},
+        {"word": "sharp", "trans": "鋭い"},
+        {"word": "sudden", "trans": "突然の"}
+      ],
+      "antonyms": [
+        {"word": "chronic", "trans": "慢性の"},
+        {"word": "dull", "trans": "鈍い"},
+        {"word": "mild", "trans": "軽い"}
+      ],
+      "related": [
+        {"word": "acuity", "trans": "名詞：鋭さ"}
+      ]
+    },
+    {
+      "number": 11760,
+      "word": "ambiguous",
+      "pos": "形容詞",
+      "meaning": "曖昧な、二通りの意味にとれる",
+      "nuance": "意図的に、あるいは不注意で「どちらとも取れる」ため、はっきりしない状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His reply to my question was somewhat ambiguous.",
+              "ja": "私の質問に対する彼の返答は、どこか曖昧だった。",
+              "highlight": "ambiguous"
+            },
+            {
+              "en": "The ending of the movie was deliberately ambiguous.",
+              "ja": "その映画の結末は、意図的に曖昧にされていた。",
+              "highlight": "ambiguous"
+            }
+          ]
+        }
+      ],
+      "etymology": "ambi (両方に) + agere (動く) → 二つの間を行ったり来たりする",
+      "synonyms": [
+        {"word": "vague", "trans": "漠然とした"},
+        {"word": "unclear", "trans": "不明確な"},
+        {"word": "equivocal", "trans": "紛らわしい"}
+      ],
+      "antonyms": [
+        {"word": "clear", "trans": "明確な"},
+        {"word": "unambiguous", "trans": "明白な"},
+        {"word": "definite", "trans": "確定的な"}
+      ],
+      "related": [
+        {"word": "ambiguity", "trans": "名詞：曖昧さ"}
+      ]
+    },
+    {
+      "number": 11761,
+      "word": "obscure",
+      "pos": "形容詞",
+      "meaning": "①ぼやけた、わかりにくい ②無名の",
+      "nuance": "光が足りずに暗くて見えにくい、あるいは世間に知られていなくて「隠れている」イメージです。",
+      "example_sections": [
+        {
+          "title": "「わかりにくい」の例文",
+          "examples": [
+            {
+              "en": "The origins of the custom remain obscure.",
+              "ja": "その慣習の起源は依然として不明（はっきりしない）だ。",
+              "highlight": "obscure"
+            }
+          ]
+        },
+        {
+          "title": "「無名の」の例文",
+          "examples": [
+            {
+              "en": "He was an obscure poet until he won the national prize.",
+              "ja": "彼は国内の賞を取るまでは無名の詩人だった。",
+              "highlight": "obscure"
+            }
+          ]
+        }
+      ],
+      "etymology": "ob (覆う) + scurus (覆われた) → 覆われて暗い",
+      "synonyms": [
+        {"word": "vague", "trans": "曖昧な"},
+        {"word": "unknown", "trans": "未知の"},
+        {"word": "hidden", "trans": "隠された"}
+      ],
+      "antonyms": [
+        {"word": "famous", "trans": "有名な"},
+        {"word": "clear", "trans": "明快な"},
+        {"word": "obvious", "trans": "明らかな"}
+      ],
+      "related": [
+        {"word": "obscurity", "trans": "名詞：無名、曖昧さ"}
+      ]
+    },
+    {
+      "number": 11762,
+      "word": "misleading",
+      "pos": "形容詞",
+      "meaning": "誤解を招く、紛らわしい",
+      "nuance": "人を間違った方向（mis-lead）へ導くような情報や表現を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The advertisement was misleading about the total cost.",
+              "ja": "その広告は総費用について誤解を招くものだった。",
+              "highlight": "misleading"
+            },
+            {
+              "en": "It is misleading to say that the project is already finished.",
+              "ja": "そのプロジェクトが既に完了したと言うのは紛らわしい（語弊がある）。",
+              "highlight": "misleading"
+            }
+          ]
+        }
+      ],
+      "etymology": "mis (誤って) + lead (導く)",
+      "synonyms": [
+        {"word": "deceptive", "trans": "人を欺くような"},
+        {"word": "confusing", "trans": "混乱させる"},
+        {"word": "false", "trans": "偽の"}
+      ],
+      "antonyms": [
+        {"word": "informative", "trans": "有益な、正しい情報を与える"},
+        {"word": "accurate", "trans": "正確な"},
+        {"word": "honest", "trans": "正直な"}
+      ],
+      "related": [
+        {"word": "mislead", "trans": "動詞：誤解させる"}
+      ]
+    },
+    {
+      "number": 11763,
+      "word": "straightforward",
+      "pos": "形容詞",
+      "meaning": "①（方法などが）わかりやすい、単純な ②（人や行動が）率直な",
+      "nuance": "「真っ直ぐ前へ」という語源通り、ひねりがなく、正直で理解しやすい様子を指します。",
+      "example_sections": [
+        {
+          "title": "「わかりやすい」の例文",
+          "examples": [
+            {
+              "en": "The instructions were very straightforward.",
+              "ja": "その指示は非常にわかりやすかった（単純明快だった）。",
+              "highlight": "straightforward"
+            }
+          ]
+        },
+        {
+          "title": "「率直な」の例文",
+          "examples": [
+            {
+              "en": "I appreciate your straightforward answer.",
+              "ja": "君の率直な答えに感謝するよ。",
+              "highlight": "straightforward"
+            }
+          ]
+        }
+      ],
+      "etymology": "straight (真っ直ぐ) + forward (前方へ)",
+      "synonyms": [
+        {"word": "simple", "trans": "単純な"},
+        {"word": "honest", "trans": "正直な"},
+        {"word": "direct", "trans": "直接的な"}
+      ],
+      "antonyms": [
+        {"word": "complicated", "trans": "複雑な"},
+        {"word": "evasive", "trans": "回避的な、言い逃れの"},
+        {"word": "deceptive", "trans": "人を欺くような"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11764,
+      "word": "explicit",
+      "pos": "形容詞",
+      "meaning": "（発言などが）明確な、あからさまな",
+      "nuance": "隠し立てせず、細部まで完全にはっきりと述べられている状態です。反対に暗示的なものは implicit と言います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The teacher gave explicit instructions on how to write the essay.",
+              "ja": "先生はエッセイの書き方について明確な（詳細な）指示を出した。",
+              "highlight": "explicit"
+            },
+            {
+              "en": "The movie contains explicit scenes of violence.",
+              "ja": "その映画にはあからさまな（露骨な）暴力シーンが含まれている。",
+              "highlight": "explicit"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + plicare (折る) → 折り畳まれていたものを外へ広げる",
+      "synonyms": [
+        {"word": "clear", "trans": "明確な"},
+        {"word": "definite", "trans": "確実な"},
+        {"word": "precise", "trans": "正確な"}
+      ],
+      "antonyms": [
+        {"word": "implicit", "trans": "暗示的な"},
+        {"word": "vague", "trans": "曖昧な"},
+        {"word": "ambiguous", "trans": "どちらともとれる"}
+      ],
+      "related": [
+        {"word": "explicitly", "trans": "副詞：明白に"}
+      ]
+    },
+    {
+      "number": 11765,
+      "word": "sophisticated",
+      "pos": "形容詞",
+      "meaning": "①（機械などが）高度な、精巧な ②洗練された、教養のある",
+      "nuance": "単純ではなく、非常に複雑で磨き上げられている状態を指します。",
+      "example_sections": [
+        {
+          "title": "「高度な」の例文",
+          "examples": [
+            {
+              "en": "The hospital uses highly sophisticated medical equipment.",
+              "ja": "その病院は非常に高度な（精巧な）医療機器を使用している。",
+              "highlight": "sophisticated"
+            }
+          ]
+        },
+        {
+          "title": "「洗練された」の例文",
+          "examples": [
+            {
+              "en": "She is a sophisticated woman who enjoys opera and art.",
+              "ja": "彼女はオペラや芸術を嗜む、洗練された（教養のある）女性だ。",
+              "highlight": "sophisticated"
+            }
+          ]
+        }
+      ],
+      "etymology": "sophia（知恵）",
+      "synonyms": [
+        {"word": "advanced", "trans": "進歩した"},
+        {"word": "refined", "trans": "洗練された"},
+        {"word": "elegant", "trans": "優雅な"}
+      ],
+      "antonyms": [
+        {"word": "simple", "trans": "単純な"},
+        {"word": "primitive", "trans": "原始的な"},
+        {"word": "naive", "trans": "世慣れていない"}
+      ],
+      "related": [
+        {"word": "sophistication", "trans": "名詞：洗練、精巧化"}
+      ]
+    },
+    {
+      "number": 11766,
+      "word": "ingenious",
+      "pos": "形容詞",
+      "meaning": "（方法・仕掛けなどが）独創的な、巧妙な、利口な",
+      "nuance": "これまでに無かったような、賢くてクリエイティブなアイデアや解決策を指します。綴りが似ている ingenuous（純真な）と混同しないよう注意が必要です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He came up with an ingenious solution to the problem.",
+              "ja": "彼はその問題に対して独創的な（巧妙な）解決策を思いついた。",
+              "highlight": "ingenious"
+            },
+            {
+              "en": "This is an ingenious tool for opening stubborn jars.",
+              "ja": "これは固い瓶を開けるための実によくできた（独創的な）道具だ。",
+              "highlight": "ingenious"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + gignere (生む) → 内から生まれる才能",
+      "synonyms": [
+        {"word": "creative", "trans": "創造的な"},
+        {"word": "clever", "trans": "賢い"},
+        {"word": "inventive", "trans": "発明の才がある"}
+      ],
+      "antonyms": [
+        {"word": "unimaginative", "trans": "想像力のない"},
+        {"word": "clumsy", "trans": "不器用な"},
+        {"word": "dull", "trans": "鈍い"}
+      ],
+      "related": [
+        {"word": "ingenuity", "trans": "名詞：独創性、器用さ"}
+      ]
     }
   ]
 }
