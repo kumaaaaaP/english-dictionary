@@ -2557,6 +2557,1304 @@
       "related": [
         {"word": "confession", "trans": "名詞：告白、自白"}
       ]
+    },
+    {
+      "number": 11867,
+      "word": "verbal",
+      "pos": "形容詞",
+      "meaning": "言葉による、口頭の",
+      "nuance": "文字（written）ではなく「言葉（words）」そのものを使うことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The manager gave me a verbal warning for being late.",
+              "ja": "部長は遅刻に対して、口頭での（言葉による）警告を与えた。",
+              "highlight": "verbal"
+            },
+            {
+              "en": "He has strong verbal skills but struggles with writing.",
+              "ja": "彼は高い言語能力（言葉を操る能力）を持っているが、書くことには苦労している。",
+              "highlight": "verbal"
+            }
+          ]
+        }
+      ],
+      "etymology": "verbum (言葉)",
+      "synonyms": [
+        {"word": "oral", "trans": "口頭の"},
+        {"word": "spoken", "trans": "話された"},
+        {"word": "lexical", "trans": "語彙の"}
+      ],
+      "antonyms": [
+        {"word": "non-verbal", "trans": "言葉を用いない"},
+        {"word": "written", "trans": "書面による"},
+        {"word": "silent", "trans": "沈黙した"}
+      ],
+      "related": [
+        {"word": "verbally", "trans": "副詞：口頭で"},
+        {"word": "adverb", "trans": "名詞：副詞"}
+      ]
+    },
+    {
+      "number": 11868,
+      "word": "oral",
+      "pos": "形容詞",
+      "meaning": "①口述の、口頭での ②口の",
+      "nuance": "特に「口（mouth）」を使うことや、試験・伝統の口伝などに使われます。",
+      "example_sections": [
+        {
+          "title": "「口述の」の例文",
+          "examples": [
+            {
+              "en": "We have an oral examination in French tomorrow.",
+              "ja": "明日、フランス語の口述試験（面接）がある。",
+              "highlight": "oral"
+            }
+          ]
+        },
+        {
+          "title": "「口の」の例文",
+          "examples": [
+            {
+              "en": "Maintaining good oral hygiene is essential for healthy teeth.",
+              "ja": "良好な口腔（口の）衛生を保つことは、健康な歯のために不可欠だ。",
+              "highlight": "oral"
+            }
+          ]
+        }
+      ],
+      "etymology": "os / oris (口)",
+      "synonyms": [
+        {"word": "spoken", "trans": "話された"},
+        {"word": "vocal", "trans": "声の"},
+        {"word": "verbal", "trans": "口頭の"}
+      ],
+      "antonyms": [
+        {"word": "written", "trans": "書面の"},
+        {"word": "manual", "trans": "手の、手動の"}
+      ],
+      "related": [
+        {"word": "orally", "trans": "副詞：口頭で、経口で"}
+      ]
+    },
+    {
+      "number": 11869,
+      "word": "eloquent",
+      "pos": "形容詞",
+      "meaning": "雄弁な、説得力のある",
+      "nuance": "言葉が流暢であるだけでなく、表現が豊かで聞き手の心を動かす様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He made an eloquent appeal for peace.",
+              "ja": "彼は平和を求めて、雄弁な訴えを行った。",
+              "highlight": "eloquent"
+            },
+            {
+              "en": "Her eyes were more eloquent than any words could be.",
+              "ja": "彼女の瞳は、どんな言葉よりも雄弁に（多くのことを）物語っていた。",
+              "highlight": "eloquent"
+            }
+          ]
+        }
+      ],
+      "etymology": "e (外へ) + loqui (話す)",
+      "synonyms": [
+        {"word": "articulate", "trans": "はっきり話す"},
+        {"word": "fluent", "trans": "流暢な"},
+        {"word": "persuasive", "trans": "説得力のある"}
+      ],
+      "antonyms": [
+        {"word": "inarticulate", "trans": "口下手な"},
+        {"word": "tongue-tied", "trans": "言葉に詰まった"}
+      ],
+      "related": [
+        {"word": "eloquence", "trans": "名詞：雄弁さ"}
+      ]
+    },
+    {
+      "number": 11870,
+      "word": "linguistic",
+      "pos": "形容詞",
+      "meaning": "言語の、言語学の",
+      "nuance": "言語そのものの構造や学習、科学的な側面に関連します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The island has a diverse linguistic background.",
+              "ja": "その島には、多様な言語的背景がある。",
+              "highlight": "linguistic"
+            },
+            {
+              "en": "Children have an amazing linguistic ability to learn new words.",
+              "ja": "子供には、新しい単語を学ぶ驚くべき言語能力がある。",
+              "highlight": "linguistic"
+            }
+          ]
+        }
+      ],
+      "etymology": "lingua (舌、言語)",
+      "synonyms": [
+        {"word": "lingual", "trans": "言葉の"},
+        {"word": "rhetorical", "trans": "修辞的な"}
+      ],
+      "antonyms": [
+        {"word": "non-verbal", "trans": "非言語的な"}
+      ],
+      "related": [
+        {"word": "linguistics", "trans": "名詞：言語学"},
+        {"word": "bilingual", "trans": "形容詞：2ヶ国語を話す"}
+      ]
+    },
+    {
+      "number": 11871,
+      "word": "plot",
+      "pos": "名詞",
+      "meaning": "①（物語の）筋 ②悪だくみ、陰謀",
+      "nuance": "物語の構成要素と、密かに進められる計画という二つの意味があります。",
+      "example_sections": [
+        {
+          "title": "「物語の筋」の例文",
+          "examples": [
+            {
+              "en": "The movie has a very complicated plot.",
+              "ja": "その映画のストーリー（筋）は非常に複雑だ。",
+              "highlight": "plot"
+            }
+          ]
+        },
+        {
+          "title": "「悪だくみ」の例文",
+          "examples": [
+            {
+              "en": "Police uncovered a plot to overthrow the government.",
+              "ja": "警察は政府を転覆させる陰謀（悪だくみ）を暴いた。",
+              "highlight": "plot"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 complot (密集、陰謀)",
+      "synonyms": [
+        {"word": "storyline", "trans": "筋書き"},
+        {"word": "conspiracy", "trans": "共謀、陰謀"},
+        {"word": "scheme", "trans": "計画、策動"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "plotter", "trans": "名詞：陰謀家"}
+      ]
+    },
+    {
+      "number": 11872,
+      "word": "draft",
+      "pos": "名詞、動詞、形容詞",
+      "meaning": "【名】①下書き 【動】②～を徴兵する 【形】③生の（ビール）",
+      "nuance": "未完成のもの（下書き）や、人を「引き出す（徴兵）」、樽から「引き出す（生ビール）」という基本イメージがあります。",
+      "example_sections": [
+        {
+          "title": "名詞（下書き）の例文",
+          "examples": [
+            {
+              "en": "I've finished the first draft of my essay.",
+              "ja": "エッセイの最初の下書き（草稿）を書き終えた。",
+              "highlight": "draft"
+            }
+          ]
+        },
+        {
+          "title": "動詞（徴兵する）の例文",
+          "examples": [
+            {
+              "en": "He was drafted into the army during the war.",
+              "ja": "彼は戦争中、軍隊に徴兵された。",
+              "highlight": "drafted"
+            }
+          ]
+        },
+        {
+          "title": "形容詞（生）の例文",
+          "examples": [
+            {
+              "en": "Would you like a glass of draft beer?",
+              "ja": "生ビールを一杯いかがですか？",
+              "highlight": "draft"
+            }
+          ]
+        }
+      ],
+      "etymology": "draw (引く) と同語源",
+      "synonyms": [
+        {"word": "outline", "trans": "輪郭、下書き"},
+        {"word": "conscript", "trans": "徴兵する"},
+        {"word": "sketch", "trans": "写生、草稿"}
+      ],
+      "antonyms": [
+        {"word": "final version", "trans": "最終版"},
+        {"word": "volunteer", "trans": "志願する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11873,
+      "word": "statement",
+      "pos": "名詞",
+      "meaning": "①声明、述べたこと ②明細書",
+      "nuance": "公式に意見を述べること、または銀行などの公式な記録（明細）を指します。",
+      "example_sections": [
+        {
+          "title": "「声明」の例文",
+          "examples": [
+            {
+              "en": "The president issued a formal statement today.",
+              "ja": "大統領は今日、公式声明を出した。",
+              "highlight": "statement"
+            },
+            {
+              "en": "That is a very bold statement to make.",
+              "ja": "それは非常に大胆な発言（述べたこと）だ。",
+              "highlight": "statement"
+            }
+          ]
+        },
+        {
+          "title": "「明細書」の例文",
+          "examples": [
+            {
+              "en": "Check your monthly bank statement for any errors.",
+              "ja": "間違いがないか、月次の銀行明細書を確認しなさい。",
+              "highlight": "statement"
+            }
+          ]
+        }
+      ],
+      "etymology": "state (述べる) + ment (こと)",
+      "synonyms": [
+        {"word": "announcement", "trans": "発表"},
+        {"word": "declaration", "trans": "宣言"},
+        {"word": "report", "trans": "報告書、明細"}
+      ],
+      "antonyms": [
+        {"word": "silence", "trans": "沈黙"},
+        {"word": "denial", "trans": "否定"}
+      ],
+      "related": [
+        {"word": "state", "trans": "動詞：述べる"}
+      ]
+    },
+    {
+      "number": 11874,
+      "word": "paradox",
+      "pos": "名詞",
+      "meaning": "逆説、パラドックス",
+      "nuance": "一見矛盾しているようで、実は真理を突いている事柄を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It's a paradox that such a rich country has so many poor people.",
+              "ja": "これほど豊かな国にこれほど多くの貧しい人がいるというのは、逆説（矛盾した状況）だ。",
+              "highlight": "paradox"
+            }
+          ]
+        }
+      ],
+      "etymology": "para (反対の) + dokein (考える、意見)",
+      "synonyms": [
+        {"word": "contradiction", "trans": "矛盾"},
+        {"word": "enigma", "trans": "謎"},
+        {"word": "inconsistency", "trans": "不一致"}
+      ],
+      "antonyms": [
+        {"word": "norm", "trans": "標準"},
+        {"word": "consistency", "trans": "一貫性"}
+      ],
+      "related": [
+        {"word": "paradoxical", "trans": "形容詞：逆説的な"}
+      ]
+    },
+    {
+      "number": 11875,
+      "word": "slang",
+      "pos": "名詞",
+      "meaning": "俗語、スラング",
+      "nuance": "特定のグループやインフォーマルな場面で使われる、標準語ではない表現を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "In British slang, 'quid' means one pound.",
+              "ja": "イギリスのスラング（俗語）では、'quid'は1ポンドを意味する。",
+              "highlight": "slang"
+            }
+          ]
+        }
+      ],
+      "etymology": "不詳（北欧語源説あり）",
+      "synonyms": [
+        {"word": "jargon", "trans": "専門用語"},
+        {"word": "colloquialism", "trans": "口語表現"},
+        {"word": "argot", "trans": "隠語"}
+      ],
+      "antonyms": [
+        {"word": "standard language", "trans": "標準語"},
+        {"word": "formal speech", "trans": "公用語"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11876,
+      "word": "riddle",
+      "pos": "名詞",
+      "meaning": "なぞなぞ、謎、不可解なもの",
+      "nuance": "子供の遊びの「なぞなぞ」だけでなく、解明されていないミステリー全般を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "See if you can solve this riddle.",
+              "ja": "このなぞなぞが解けるかやってみて。",
+              "highlight": "riddle"
+            },
+            {
+              "en": "His sudden disappearance remains a riddle to this day.",
+              "ja": "彼の突然の失踪は、今日に至るまで謎のままだ。",
+              "highlight": "riddle"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（助言する、推測する）",
+      "synonyms": [
+        {"word": "puzzle", "trans": "パズル、難問"},
+        {"word": "mystery", "trans": "神秘、謎"},
+        {"word": "conundrum", "trans": "難問"}
+      ],
+      "antonyms": [
+        {"word": "solution", "trans": "解決"},
+        {"word": "answer", "trans": "答え"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11877,
+      "word": "clarify",
+      "pos": "動詞",
+      "meaning": "～を明らかにする、はっきりさせる",
+      "nuance": "混乱や不明瞭な点を「透明（clear）」にすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Could you please clarify your last point?",
+              "ja": "最後の点について、はっきり説明（明確に）していただけますか？",
+              "highlight": "clarify"
+            },
+            {
+              "en": "The new law aims to clarify the rights of tenants.",
+              "ja": "新法は店借人の権利を明らかにすることを目的としている。",
+              "highlight": "clarify"
+            }
+          ]
+        }
+      ],
+      "etymology": "clarus (明るい、澄んだ) + fy (～にする)",
+      "synonyms": [
+        {"word": "explain", "trans": "説明する"},
+        {"word": "elucidate", "trans": "解明する"},
+        {"word": "simplify", "trans": "簡略化する"}
+      ],
+      "antonyms": [
+        {"word": "confuse", "trans": "混乱させる"},
+        {"word": "obscure", "trans": "曖昧にする"},
+        {"word": "muddle", "trans": "かき乱す"}
+      ],
+      "related": [
+        {"word": "clarification", "trans": "名詞：明確化、説明"},
+        {"word": "clarity", "trans": "名詞：明快さ"}
+      ]
+    },
+    {
+      "number": 11878,
+      "word": "exhibit",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①展示する ②（感情などを）示す 【名】③展示物",
+      "nuance": "博物館に飾ることだけでなく、特定の性質や感情を外に「現す」ことも含みます。",
+      "example_sections": [
+        {
+          "title": "「展示する」の例文",
+          "examples": [
+            {
+              "en": "The museum will exhibit her paintings next month.",
+              "ja": "来月、博物館で彼女の絵画が展示される。",
+              "highlight": "exhibit"
+            }
+          ]
+        },
+        {
+          "title": "「示す」の例文",
+          "examples": [
+            {
+              "en": "The patient exhibited symptoms of extreme fatigue.",
+              "ja": "その患者は極度の疲労の兆候を示した。",
+              "highlight": "exhibited"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + habere (持つ)",
+      "synonyms": [
+        {"word": "display", "trans": "展示する"},
+        {"word": "show", "trans": "見せる"},
+        {"word": "reveal", "trans": "明らかにする"}
+      ],
+      "antonyms": [
+        {"word": "hide", "trans": "隠す"},
+        {"word": "conceal", "trans": "隠蔽する"}
+      ],
+      "related": [
+        {"word": "exhibition", "trans": "名詞：展覧会"}
+      ]
+    },
+    {
+      "number": 11879,
+      "word": "portray",
+      "pos": "動詞",
+      "meaning": "～を描く、描写する、演じる",
+      "nuance": "絵や言葉で表現するほか、俳優が役を演じて見せることも指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The novel portrays life in rural Japan.",
+              "ja": "その小説は日本の農村の生活を描いている。",
+              "highlight": "portrays"
+            },
+            {
+              "en": "He was portrayed as a hero by the media.",
+              "ja": "彼はメディアによって英雄として描かれた。",
+              "highlight": "portrayed"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前へ) + trahere (引く) → 輪郭を引き出す",
+      "synonyms": [
+        {"word": "depict", "trans": "描く"},
+        {"word": "describe", "trans": "描写する"},
+        {"word": "represent", "trans": "表現する"}
+      ],
+      "antonyms": [
+        {"word": "misrepresent", "trans": "誤って伝える"},
+        {"word": "distort", "trans": "歪める"}
+      ],
+      "related": [
+        {"word": "portrait", "trans": "名詞：肖像画"}
+      ]
+    },
+    {
+      "number": 11880,
+      "word": "attribute",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①（A to B）AをBのせいにする 【名】②特性、属性",
+      "nuance": "動詞では原因を特定すること、名詞ではそのものが持つ性質を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "She attributes her success to hard work.",
+              "ja": "彼女は自分の成功を努力のおかげ（のせい）だとしている。",
+              "highlight": "attributes"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Patience is an essential attribute for a teacher.",
+              "ja": "忍耐は教師にとって不可欠な特性だ。",
+              "highlight": "attribute"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～に) + tribuere (割り当てる)",
+      "synonyms": [
+        {"word": "ascribe", "trans": "～のせいにする"},
+        {"word": "trait", "trans": "特徴"},
+        {"word": "characteristic", "trans": "特性"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "attribution", "trans": "名詞：帰属、属性の特定"}
+      ]
+    },
+    {
+      "number": 11881,
+      "word": "console",
+      "pos": "動詞",
+      "meaning": "～を慰める",
+      "nuance": "悲しみや失望の中にある人を、元気づけようとすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I tried to console her after her cat died.",
+              "ja": "猫を亡くした彼女を慰めようとした。",
+              "highlight": "console"
+            },
+            {
+              "en": "He consoled himself with the thought that it could have been worse.",
+              "ja": "彼は「もっと悪くなっていたかもしれない」と考えて自分を慰めた。",
+              "highlight": "consoled"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (共に) + solari (和らげる)",
+      "synonyms": [
+        {"word": "comfort", "trans": "慰める"},
+        {"word": "soothe", "trans": "和らげる"},
+        {"word": "cheer up", "trans": "元気づける"}
+      ],
+      "antonyms": [
+        {"word": "upset", "trans": "動揺させる"},
+        {"word": "distress", "trans": "苦しめる"},
+        {"word": "torment", "trans": "苦しめる"}
+      ],
+      "related": [
+        {"word": "consolation", "trans": "名詞：慰め"}
+      ]
+    },
+    {
+      "number": 11882,
+      "word": "arouse",
+      "pos": "動詞",
+      "meaning": "～を呼び起こす、刺激する、目覚めさせる",
+      "nuance": "感情、関心、疑念などを「引き出す」イメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His behavior aroused suspicion among his colleagues.",
+              "ja": "彼の行動は同僚たちの間に疑念を呼び起こした。",
+              "highlight": "aroused"
+            },
+            {
+              "en": "The speaker tried to arouse the audience's interest.",
+              "ja": "その講演者は聴衆の関心を呼び起こそうとした。",
+              "highlight": "arouse"
+            }
+          ]
+        }
+      ],
+      "etymology": "a (強意) + rouse (目覚めさせる)",
+      "synonyms": [
+        {"word": "awaken", "trans": "目覚めさせる"},
+        {"word": "stimulate", "trans": "刺激する"},
+        {"word": "provoke", "trans": "引き起こす"}
+      ],
+      "antonyms": [
+        {"word": "calm", "trans": "静める"},
+        {"word": "suppress", "trans": "抑える"},
+        {"word": "lull", "trans": "なだめる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11883,
+      "word": "distract",
+      "pos": "動詞",
+      "meaning": "①注意をそらす ②気を紛らわす",
+      "nuance": "意識を別の場所に引き離す（dis-tract）ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The loud noise distracted me from my studies.",
+              "ja": "騒音のせいで、勉強から注意がそれてしまった。",
+              "highlight": "distracted"
+            },
+            {
+              "en": "Don't distract the driver.",
+              "ja": "運転手の邪魔をしないで（注意をそらさないで）。",
+              "highlight": "distract"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + trahere (引く)",
+      "synonyms": [
+        {"word": "divert", "trans": "そらす"},
+        {"word": "sidetrack", "trans": "脱線させる"},
+        {"word": "disturb", "trans": "邪魔する"}
+      ],
+      "antonyms": [
+        {"word": "focus", "trans": "集中する"},
+        {"word": "concentrate", "trans": "専念する"}
+      ],
+      "related": [
+        {"word": "distraction", "trans": "名詞：注意をそらすもの、気晴らし"}
+      ]
+    },
+    {
+      "number": 11884,
+      "word": "plead",
+      "pos": "動詞",
+      "meaning": "①懇願する ②（法廷で）申し立てる、主張する",
+      "nuance": "必死に頼むことと、裁判で自分の立場（有罪か無罪かなど）を述べることの二つがあります。",
+      "example_sections": [
+        {
+          "title": "「懇願する」の例文",
+          "examples": [
+            {
+              "en": "She pleaded with him not to leave.",
+              "ja": "彼女は彼に行かないでほしいと懇願した。",
+              "highlight": "pleaded"
+            }
+          ]
+        },
+        {
+          "title": "「申し立てる」の例文",
+          "examples": [
+            {
+              "en": "The defendant decided to plead guilty.",
+              "ja": "被告人は有罪を申し立てる（認める）ことにした。",
+              "highlight": "plead"
+            }
+          ]
+        }
+      ],
+      "etymology": "placitum (合意、訴訟)",
+      "synonyms": [
+        {"word": "beg", "trans": "乞う"},
+        {"word": "appeal", "trans": "訴える"},
+        {"word": "argue", "trans": "主張する"}
+      ],
+      "antonyms": [
+        {"word": "order", "trans": "命じる"},
+        {"word": "demand", "trans": "要求する"}
+      ],
+      "related": [
+        {"word": "plea", "trans": "名詞：嘆願、申し立て"}
+      ]
+    },
+    {
+      "number": 11885,
+      "word": "yearn",
+      "pos": "動詞",
+      "meaning": "切望する、憧れる",
+      "nuance": "手が届かないものや、失ったものを切なく思う強い欲求です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The refugees yearn for their homeland.",
+              "ja": "難民たちは祖国を（切なく）切望している。",
+              "highlight": "yearn"
+            },
+            {
+              "en": "She yearned to travel the world.",
+              "ja": "彼女は世界を旅したいと切望していた。",
+              "highlight": "yearned"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（切望する）",
+      "synonyms": [
+        {"word": "long", "trans": "熱望する"},
+        {"word": "desire", "trans": "強く望む"},
+        {"word": "crave", "trans": "切望する"}
+      ],
+      "antonyms": [
+        {"word": "dislike", "trans": "嫌う"},
+        {"word": "recoil", "trans": "ひるむ、嫌気がさす"}
+      ],
+      "related": [
+        {"word": "yearning", "trans": "名詞：あこがれ、切望"}
+      ]
+    },
+    {
+      "number": 11886,
+      "word": "long",
+      "pos": "動詞",
+      "meaning": "（for ～）切望する、待ち望む",
+      "nuance": "時間がかかることや、距離があることに対して「長く」感じるほど待ち焦がれるイメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I'm longing for a cold drink.",
+              "ja": "冷たい飲み物が欲しくてたまらない（切望している）。",
+              "highlight": "longing"
+            },
+            {
+              "en": "She longed to return to her quiet life.",
+              "ja": "彼女は静かな生活に戻ることを切望していた。",
+              "highlight": "longed"
+            }
+          ]
+        }
+      ],
+      "etymology": "long (長い) と同語源",
+      "synonyms": [
+        {"word": "yearn", "trans": "切望する"},
+        {"word": "crave", "trans": "切望する"},
+        {"word": "hunger", "trans": "切望する"}
+      ],
+      "antonyms": [
+        {"word": "dread", "trans": "恐れる"},
+        {"word": "avoid", "trans": "避ける"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11887,
+      "word": "adore",
+      "pos": "動詞",
+      "meaning": "～を熱愛している、崇拝する",
+      "nuance": "非常に深く愛すること、または「大好きだ」という感情を込めて使います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He adores his newborn daughter.",
+              "ja": "彼は生まれたばかりの娘を熱愛している。",
+              "highlight": "adores"
+            },
+            {
+              "en": "I adore Italian food.",
+              "ja": "私はイタリア料理が大好きだ（熱愛している）。",
+              "highlight": "adore"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～に) + orare (祈る)",
+      "synonyms": [
+        {"word": "love", "trans": "愛する"},
+        {"word": "worship", "trans": "崇拝する"},
+        {"word": "cherish", "trans": "慈しむ"}
+      ],
+      "antonyms": [
+        {"word": "hate", "trans": "憎む"},
+        {"word": "loathe", "trans": "ひどく嫌う"},
+        {"word": "detest", "trans": "嫌悪する"}
+      ],
+      "related": [
+        {"word": "adorable", "trans": "形容詞：愛らしい"}
+      ]
+    },
+    {
+      "number": 11888,
+      "word": "utter",
+      "pos": "動詞、形容詞",
+      "meaning": "【動】①（声を）発する 【形】②まったくの、完全な",
+      "nuance": "動詞は言葉を口に出すこと、形容詞は「これ以上ないほど（外側まで）」という徹底した状態を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "She left the room without uttering a single word.",
+              "ja": "彼女は一言も発することなく部屋を出た。",
+              "highlight": "uttering"
+            }
+          ]
+        },
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "The party was an utter disaster.",
+              "ja": "そのパーティーはまったくの（完全な）大失敗だった。",
+              "highlight": "utter"
+            }
+          ]
+        }
+      ],
+      "etymology": "out (外へ) の比較級に由来",
+      "synonyms": [
+        {"word": "voice", "trans": "口に出す"},
+        {"word": "complete", "trans": "完全な"},
+        {"word": "absolute", "trans": "絶対的な"}
+      ],
+      "antonyms": [
+        {"word": "partial", "trans": "部分的な"},
+        {"word": "slight", "trans": "わずかな"}
+      ],
+      "related": [
+        {"word": "utterance", "trans": "名詞：発言"}
+      ]
+    },
+    {
+      "number": 11889,
+      "word": "exclaim",
+      "pos": "動詞",
+      "meaning": "（驚きなどで）叫ぶ、声を上げる",
+      "nuance": "感情が高ぶって思わず言葉を発することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "\"I won!\" she exclaimed in delight.",
+              "ja": "「勝ったわ！」と彼女は歓喜して叫んだ。",
+              "highlight": "exclaimed"
+            },
+            {
+              "en": "He exclaimed against the injustice of the decision.",
+              "ja": "彼はその決定の不当さに対して声を上げた。",
+              "highlight": "exclaimed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + clamare (叫ぶ)",
+      "synonyms": [
+        {"word": "shout", "trans": "叫ぶ"},
+        {"word": "cry out", "trans": "叫ぶ"},
+        {"word": "yell", "trans": "怒鳴る"}
+      ],
+      "antonyms": [
+        {"word": "whisper", "trans": "ささやく"},
+        {"word": "mutter", "trans": "つぶやく"}
+      ],
+      "related": [
+        {"word": "exclamation", "trans": "名詞：感嘆、絶叫"}
+      ]
+    },
+    {
+      "number": 11890,
+      "word": "lament",
+      "pos": "動詞",
+      "meaning": "～を深く悲しむ、嘆く",
+      "nuance": "死や損失、または現在の不幸な状況に対して、声や言葉に出して悲しむ様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Many people lamented the passing of the great artist.",
+              "ja": "多くの人々がその偉大な芸術家の死を嘆いた。",
+              "highlight": "lamented"
+            },
+            {
+              "en": "He lamented the fact that he had never learned to play the piano.",
+              "ja": "彼はピアノを習わなかったという事実を残念に思った（嘆いた）。",
+              "highlight": "lamented"
+            }
+          ]
+        }
+      ],
+      "etymology": "lamentari (泣き叫ぶ)",
+      "synonyms": [
+        {"word": "mourn", "trans": "悼む"},
+        {"word": "grieve", "trans": "深く悲しむ"},
+        {"word": "bemoan", "trans": "嘆く"}
+      ],
+      "antonyms": [
+        {"word": "rejoice", "trans": "喜ぶ"},
+        {"word": "celebrate", "trans": "祝う"}
+      ],
+      "related": [
+        {"word": "lamentable", "trans": "形容詞：嘆かわしい"}
+      ]
+    },
+    {
+      "number": 11891,
+      "word": "shed",
+      "pos": "動詞",
+      "meaning": "①（涙などを）流す ②（光を）当てる ③（不要なものを）取り除く ④（皮などを）脱ぐ、落とす",
+      "nuance": "内側にあるものを外へ「出す」「こぼす」「落とす」というコアイメージがあります。",
+      "example_sections": [
+        {
+          "title": "「流す・当てる」の例文",
+          "examples": [
+            {
+              "en": "She shed tears of joy when she heard the news.",
+              "ja": "彼女はその知らせを聞いて嬉し涙を流した。",
+              "highlight": "shed"
+            },
+            {
+              "en": "New evidence has shed light on the mystery.",
+              "ja": "新しい証拠がその謎に光を当てた（解明の助けとなった）。",
+              "highlight": "shed"
+            }
+          ]
+        },
+        {
+          "title": "「落とす・取り除く」の例文",
+          "examples": [
+            {
+              "en": "The snake shed its skin.",
+              "ja": "ヘビは皮を脱いだ。",
+              "highlight": "shed"
+            },
+            {
+              "en": "The company is planning to shed 200 jobs.",
+              "ja": "会社は200の職を削減する（取り除く）計画だ。",
+              "highlight": "shed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（分ける、分かれる）",
+      "synonyms": [
+        {"word": "spill", "trans": "こぼす"},
+        {"word": "drop", "trans": "落とす"},
+        {"word": "cast off", "trans": "脱ぎ捨てる"}
+      ],
+      "antonyms": [
+        {"word": "absorb", "trans": "吸収する"},
+        {"word": "keep", "trans": "保つ"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11892,
+      "word": "resent",
+      "pos": "動詞",
+      "meaning": "～に憤慨する、腹を立てる",
+      "nuance": "不当な扱いや、嫉妬を感じる対象に対して「苦々しく思う」感情です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She resented the fact that she had to work on Sundays.",
+              "ja": "彼女は日曜日に働かなければならないという事実に憤慨していた。",
+              "highlight": "resented"
+            },
+            {
+              "en": "I bitterly resent your criticism.",
+              "ja": "私はあなたの批判にひどく腹を立てている。",
+              "highlight": "resent"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + sentire (感じる) → 嫌な感情が繰り返し戻ってくる",
+      "synonyms": [
+        {"word": "begrudge", "trans": "しぶる、妬む"},
+        {"word": "dislike", "trans": "嫌う"}
+      ],
+      "antonyms": [
+        {"word": "accept", "trans": "受け入れる"},
+        {"word": "welcome", "trans": "歓迎する"}
+      ],
+      "related": [
+        {"word": "resentment", "trans": "名詞：憤慨"}
+      ]
+    },
+    {
+      "number": 11893,
+      "word": "dread",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①ひどく恐れる 【名】②恐怖",
+      "nuance": "将来起こるかもしれない悪いことを考えて、強い不安や恐怖を感じることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I dread going to the dentist.",
+              "ja": "歯医者に行くのが怖くてたまらない（ひどく恐れている）。",
+              "highlight": "dread"
+            },
+            {
+              "en": "She lives in dread of losing her job.",
+              "ja": "彼女は仕事を失う恐怖の中で暮らしている。",
+              "highlight": "dread"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 adrædan（恐れる）",
+      "synonyms": [
+        {"word": "fear", "trans": "恐れる"},
+        {"word": "apprehend", "trans": "案ずる、恐れる"},
+        {"word": "terror", "trans": "恐怖"}
+      ],
+      "antonyms": [
+        {"word": "look forward to", "trans": "楽しみに待つ"},
+        {"word": "confidence", "trans": "自信"},
+        {"word": "eagerness", "trans": "熱望"}
+      ],
+      "related": [
+        {"word": "dreadful", "trans": "形容詞：恐ろしい"}
+      ]
+    },
+    {
+      "number": 11894,
+      "word": "startle",
+      "pos": "動詞",
+      "meaning": "～を驚かせる、びっくりさせる",
+      "nuance": "不意をついて、相手を一瞬「ビクッ」とさせるような驚きを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Sorry, I didn't mean to startle you.",
+              "ja": "ごめんなさい、驚かせるつもり（びっくりさせるつもり）はなかったんです。",
+              "highlight": "startle"
+            },
+            {
+              "en": "A sudden noise startled the bird.",
+              "ja": "突然の音がその鳥を驚かせた。",
+              "highlight": "startled"
+            }
+          ]
+        }
+      ],
+      "etymology": "start (動き出す) + le (反復・指小辞)",
+      "synonyms": [
+        {"word": "surprise", "trans": "驚かせる"},
+        {"word": "frighten", "trans": "怖がらせる"},
+        {"word": "shock", "trans": "衝撃を与える"}
+      ],
+      "antonyms": [
+        {"word": "calm", "trans": "落ち着かせる"},
+        {"word": "reassure", "trans": "安心させる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11895,
+      "word": "thrill",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①～をぞくぞくさせる 【名】②スリル、興奮",
+      "nuance": "喜び、興奮、あるいは恐怖によって、体が震えるような強い刺激を感じることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The news of the victory thrilled the whole country.",
+              "ja": "勝利のニュースが国中をぞくぞく（わくわく）させた。",
+              "highlight": "thrilled"
+            },
+            {
+              "en": "I get a real thrill out of mountain climbing.",
+              "ja": "私は登山に本当のスリル（興奮）を感じる。",
+              "highlight": "thrill"
+            }
+          ]
+        }
+      ],
+      "etymology": "thril (穴をあける、貫く) → 心を貫く",
+      "synonyms": [
+        {"word": "excite", "trans": "興奮させる"},
+        {"word": "stimulate", "trans": "刺激する"},
+        {"word": "elate", "trans": "元気づける"}
+      ],
+      "antonyms": [
+        {"word": "bore", "trans": "退屈させる"},
+        {"word": "dull", "trans": "鈍らせる"}
+      ],
+      "related": [
+        {"word": "thrilling", "trans": "形容詞：わくわくさせる"}
+      ]
+    },
+    {
+      "number": 11896,
+      "word": "humiliate",
+      "pos": "動詞",
+      "meaning": "～に恥をかかせる、屈辱を与える",
+      "nuance": "相手のプライドを傷つけ、情けない思いをさせることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I was humiliated by my failure in public.",
+              "ja": "人前での失敗で、私は恥をかかされた（屈辱を感じた）。",
+              "highlight": "humiliated"
+            },
+            {
+              "en": "He enjoyed humiliating his opponents.",
+              "ja": "彼は対戦相手に恥をかかせることを楽しんでいた。",
+              "highlight": "humiliating"
+            }
+          ]
+        }
+      ],
+      "etymology": "humus (地面) → 地面に這いつくばらせる",
+      "synonyms": [
+        {"word": "embarrass", "trans": "当惑させる"},
+        {"word": "shame", "trans": "恥じ入らせる"},
+        {"word": "degrade", "trans": "価値を下げる"}
+      ],
+      "antonyms": [
+        {"word": "honor", "trans": "名誉を与える"},
+        {"word": "praise", "trans": "賞賛する"},
+        {"word": "elevate", "trans": "高める"}
+      ],
+      "related": [
+        {"word": "humiliation", "trans": "名詞：屈辱"},
+        {"word": "humility", "trans": "名詞：謙虚さ"}
+      ]
+    },
+    {
+      "number": 11897,
+      "word": "blush",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①赤面する 【名】②赤面",
+      "nuance": "恥ずかしさや困惑のために、顔が赤くなることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She blushed when he looked at her.",
+              "ja": "彼に見つめられて、彼女は赤面した。",
+              "highlight": "blushed"
+            },
+            {
+              "en": "He blushes easily whenever he makes a mistake.",
+              "ja": "彼は間違いを犯すたびにすぐに赤面する。",
+              "highlight": "blushes"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（輝く、燃える）",
+      "synonyms": [
+        {"word": "flush", "trans": "（顔が）赤くなる"},
+        {"word": "redden", "trans": "赤らめる"}
+      ],
+      "antonyms": [
+        {"word": "pale", "trans": "青ざめる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11898,
+      "word": "frown",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①眉をひそめる 【名】②しかめっ面",
+      "nuance": "怒りや不快、あるいは考え込んでいる時に眉間にしわを寄せる様子です。比喩的に「反対する」という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He frowned at the news.",
+              "ja": "彼はそのニュースを聞いて眉をひそめた。",
+              "highlight": "frowned"
+            },
+            {
+              "en": "The company frowns on personal phone calls during work hours.",
+              "ja": "会社は勤務時間中の私用電話に眉をひそめている（好ましく思っていない）。",
+              "highlight": "frowns"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 froignier (鼻を鳴らす、しかめる)",
+      "synonyms": [
+        {"word": "scowl", "trans": "にらみつける"},
+        {"word": "glare", "trans": "にらみつける"}
+      ],
+      "antonyms": [
+        {"word": "smile", "trans": "微笑む"},
+        {"word": "grin", "trans": "にやっと笑う"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11899,
+      "word": "dismay",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①～を狼狽させる、がっかりさせる 【名】②狼狽、落胆",
+      "nuance": "予期せぬ悪いことに対して、不安になったり、気力を失ったりする状態です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was dismayed by the poor test results.",
+              "ja": "彼はテスト結果の悪さに狼狽した（がっかりした）。",
+              "highlight": "dismayed"
+            },
+            {
+              "en": "To my dismay, the store was closed.",
+              "ja": "がっかりしたことに、店は閉まっていた。",
+              "highlight": "dismay"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + magan (力がある) → 無力にする",
+      "synonyms": [
+        {"word": "appall", "trans": "ぞっとさせる"},
+        {"word": "discourage", "trans": "落胆させる"},
+        {"word": "alarm", "trans": "驚かす、不安にさせる"}
+      ],
+      "antonyms": [
+        {"word": "encourage", "trans": "勇気づける"},
+        {"word": "delight", "trans": "喜ばせる"},
+        {"word": "reassure", "trans": "安心させる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11900,
+      "word": "bewilder",
+      "pos": "動詞",
+      "meaning": "～を当惑させる、途方に暮れさせる",
+      "nuance": "物事が複雑すぎたり、予期せぬことが起きたりして、どうしていいか分からなくなる状態（通例、受け身）です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I was completely bewildered by his sudden change of mind.",
+              "ja": "彼の突然の心変わりには完全に当惑した（途方に暮れた）。",
+              "highlight": "bewildered"
+            },
+            {
+              "en": "The complex instructions bewildered the users.",
+              "ja": "複雑な指示がユーザーたちを当惑させた。",
+              "highlight": "bewildered"
+            }
+          ]
+        }
+      ],
+      "etymology": "be (強意) + wilder (迷わせる) → 荒野（wild）に迷い込ませる",
+      "synonyms": [
+        {"word": "confuse", "trans": "混乱させる"},
+        {"word": "perplex", "trans": "困惑させる"},
+        {"word": "puzzle", "trans": "悩ませる"}
+      ],
+      "antonyms": [
+        {"word": "clarify", "trans": "明らかにする"},
+        {"word": "enlighten", "trans": "啓蒙する、教える"}
+      ],
+      "related": [
+        {"word": "bewilderment", "trans": "名詞：当惑"}
+      ]
     }
   ]
 }
