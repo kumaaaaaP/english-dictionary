@@ -2698,6 +2698,1304 @@
       "related": [
         {"word": "expedite", "trans": "動詞：はかどらせる"}
       ]
+    },
+    {
+      "number": 11667,
+      "word": "enroll",
+      "pos": "動詞",
+      "meaning": "【自】①（in ～）入学する、登録する 【他】②（be enrolled）在籍している",
+      "nuance": "公式な名簿（roll）に名前を入れることが語源。学校だけでなく、コースや軍隊への登録にも使われます。",
+      "example_sections": [
+        {
+          "title": "「入学・登録する」の例文",
+          "examples": [
+            {
+              "en": "I decided to enroll in an online English course.",
+              "ja": "オンラインの英語コースに登録することに決めた。",
+              "highlight": "enroll in"
+            }
+          ]
+        },
+        {
+          "title": "「在籍している」の例文",
+          "examples": [
+            {
+              "en": "More than 500 students are enrolled in this school.",
+              "ja": "この学校には500名以上の生徒が在籍している。",
+              "highlight": "are enrolled in"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (中へ) + rolle (巻物、名簿)",
+      "synonyms": [
+        {"word": "register", "trans": "登録する"},
+        {"word": "sign up", "trans": "申し込む"},
+        {"word": "join", "trans": "加わる"}
+      ],
+      "antonyms": [
+        {"word": "withdraw", "trans": "退会する"},
+        {"word": "drop out", "trans": "中退する"},
+        {"word": "leave", "trans": "去る"}
+      ],
+      "related": [
+        {"word": "enrollment", "trans": "名詞：入学、登録者数"}
+      ]
+    },
+    {
+      "number": 11668,
+      "word": "discipline",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①しつけ、規律 ②学問分野 【他】③〜をしつける、訓練する",
+      "nuance": "自分を律するための「規律」から、厳格な体系を持つ「学問分野」という意味まで広がっています。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Strong discipline is required to succeed in sports.",
+              "ja": "スポーツで成功するには強い規律（克己心）が必要だ。",
+              "highlight": "discipline"
+            },
+            {
+              "en": "Sociology is a relatively new academic discipline.",
+              "ja": "社会学は比較的、新しい学問分野である。",
+              "highlight": "discipline"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "Parents should learn how to discipline their children without violence.",
+              "ja": "親は暴力を使わずに子供をしつける方法を学ぶべきだ。",
+              "highlight": "discipline"
+            }
+          ]
+        }
+      ],
+      "etymology": "discipulus（弟子、学習者）",
+      "synonyms": [
+        {"word": "order", "trans": "秩序"},
+        {"word": "field", "trans": "分野"},
+        {"word": "train", "trans": "訓練する"}
+      ],
+      "antonyms": [
+        {"word": "disorder", "trans": "混乱"},
+        {"word": "chaos", "trans": "カオス"},
+        {"word": "indulgence", "trans": "放漫、甘やかし"}
+      ],
+      "related": [
+        {"word": "disciplinary", "trans": "形容詞：規律の、懲戒の"}
+      ]
+    },
+    {
+      "number": 11669,
+      "word": "cram",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①詰め込み勉強をする ②〜を詰め込む 【名】③詰め込み",
+      "nuance": "狭い場所に無理やり押し込むイメージ。試験直前の「一夜漬け」の定番表現です。",
+      "example_sections": [
+        {
+          "title": "「詰め込み勉強」の例文",
+          "examples": [
+            {
+              "en": "I have to cram for the history exam tomorrow.",
+              "ja": "明日の歴史の試験のために詰め込み勉強をしなければならない。",
+              "highlight": "cram for"
+            }
+          ]
+        },
+        {
+          "title": "「詰め込む」の例文",
+          "examples": [
+            {
+              "en": "He managed to cram all his clothes into one suitcase.",
+              "ja": "彼はすべての服を一つのスーツケースになんとか詰め込んだ。",
+              "highlight": "cram"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 crammian（詰める）",
+      "synonyms": [
+        {"word": "stuff", "trans": "詰め込む"},
+        {"word": "pack", "trans": "荷造りする"},
+        {"word": "swot", "trans": "（英）猛勉強する"}
+      ],
+      "antonyms": [
+        {"word": "empty", "trans": "空にする"},
+        {"word": "extract", "trans": "抜き出す"}
+      ],
+      "related": [
+        {"word": "cram school", "trans": "名詞：学習塾、予備校"}
+      ]
+    },
+    {
+      "number": 11670,
+      "word": "faculty",
+      "pos": "名詞",
+      "meaning": "①（天性の）能力 ②（大学の）学部 ③（大学の）全教員",
+      "nuance": "個人が持つ「力」から、大学という組織における「教授陣」や「部門」を指すようになりました。",
+      "example_sections": [
+        {
+          "title": "「能力」の例文",
+          "examples": [
+            {
+              "en": "He has a remarkable faculty for learning languages.",
+              "ja": "彼には語学を習得する素晴らしい才能（能力）がある。",
+              "highlight": "faculty"
+            }
+          ]
+        },
+        {
+          "title": "「学部・教員」の例文",
+          "examples": [
+            {
+              "en": "She joined the faculty of law at the university.",
+              "ja": "彼女はその大学の法学部に加わった。",
+              "highlight": "faculty"
+            },
+            {
+              "en": "The faculty voted against the new proposal.",
+              "ja": "全教員（教授陣）はその新しい提案に反対票を投じた。",
+              "highlight": "faculty"
+            }
+          ]
+        }
+      ],
+      "etymology": "facilis（容易な）→ 何かを容易に行う力",
+      "synonyms": [
+        {"word": "ability", "trans": "能力"},
+        {"word": "department", "trans": "学部、部門"},
+        {"word": "staff", "trans": "職員"}
+      ],
+      "antonyms": [
+        {"word": "inability", "trans": "無能"},
+        {"word": "incapacity", "trans": "能力欠如"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11671,
+      "word": "tuition",
+      "pos": "名詞",
+      "meaning": "①〈米〉授業料 ②（少人数での）指導、授業",
+      "nuance": "元々は「保護、監視」という意味でしたが、そこから「教育的配慮・指導」やその「費用」を指すようになりました。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Tuition fees at private universities are rising every year.",
+              "ja": "私立大学の授業料は毎年上がっている。",
+              "highlight": "Tuition"
+            },
+            {
+              "en": "He received private tuition in mathematics.",
+              "ja": "彼は数学の個人指導（授業）を受けた。",
+              "highlight": "tuition"
+            }
+          ]
+        }
+      ],
+      "etymology": "tueri（守る、見る）",
+      "synonyms": [
+        {"word": "fee", "trans": "料金"},
+        {"word": "instruction", "trans": "指導"},
+        {"word": "teaching", "trans": "教育"}
+      ],
+      "antonyms": [
+        {"word": "scholarship", "trans": "奨学金（対比として）"}
+      ],
+      "related": [
+        {"word": "tutor", "trans": "名詞：家庭教師、個別指導員"}
+      ]
+    },
+    {
+      "number": 11672,
+      "word": "diploma",
+      "pos": "名詞",
+      "meaning": "〈米〉卒業証書、学位記",
+      "nuance": "特定の課程を修了したことを証明する公的な書類です。degree（学位）よりは特定の専門課程修了の証書を指すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It took her four years to earn her high school diploma.",
+              "ja": "高校の卒業証書を手にするのに彼女は4年かかった。",
+              "highlight": "diploma"
+            },
+            {
+              "en": "He has a diploma in hotel management.",
+              "ja": "彼はホテル経営学の修了証書を持っている。",
+              "highlight": "diploma"
+            }
+          ]
+        }
+      ],
+      "etymology": "diploos（二重の）→ 二つ折りの文書",
+      "synonyms": [
+        {"word": "certificate", "trans": "証明書"},
+        {"word": "degree", "trans": "学位"},
+        {"word": "qualification", "trans": "資格"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "diplomat", "trans": "名詞：外交官（公文書を扱う人）"}
+      ]
+    },
+    {
+      "number": 11673,
+      "word": "mentor",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を指導する 【名】②指導者、良き助言者",
+      "nuance": "単なる教師ではなく、経験豊かな人物が後進のキャリアや人生を長期的にサポートする人を指します。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "She was lucky to have a supportive mentor in her first job.",
+              "ja": "彼女は最初の職場で支えとなる指導者に恵まれて幸運だった。",
+              "highlight": "mentor"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The professor mentors several graduate students.",
+              "ja": "その教授は数人の大学院生を指導している。",
+              "highlight": "mentors"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ神話の登場人物 Mentor（オデュッセウスの友）",
+      "synonyms": [
+        {"word": "advisor", "trans": "助言者"},
+        {"word": "guide", "trans": "導き手"},
+        {"word": "coach", "trans": "コーチ"}
+      ],
+      "antonyms": [
+        {"word": "mentee", "trans": "指導を受ける人"},
+        {"word": "disciple", "trans": "弟子"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11674,
+      "word": "ethic",
+      "pos": "名詞",
+      "meaning": "①（-s）倫理、道徳 ②倫理観、価値観",
+      "nuance": "善悪の基準や、あるべき行動規範を指します。仕事に対する姿勢は「work ethic」と呼ばれます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Medical ethics prohibit doctors from sharing patient information.",
+              "ja": "医療倫理は、医師が患者の情報を共有することを禁じている。",
+              "highlight": "ethics"
+            },
+            {
+              "en": "He has a strong work ethic, always arriving early.",
+              "ja": "彼は強い勤労倫理（仕事への真摯な姿勢）を持っており、いつも早く来る。",
+              "highlight": "work ethic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ethos（性質、習慣）",
+      "synonyms": [
+        {"word": "morality", "trans": "道徳"},
+        {"word": "principles", "trans": "信条"},
+        {"word": "values", "trans": "価値観"}
+      ],
+      "antonyms": [
+        {"word": "immorality", "trans": "不道徳"}
+      ],
+      "related": [
+        {"word": "ethical", "trans": "形容詞：倫理的な"}
+      ]
+    },
+    {
+      "number": 11675,
+      "word": "astronomy",
+      "pos": "名詞",
+      "meaning": "天文学",
+      "nuance": "星や宇宙全体を科学的に研究する学問です。占星術（astrology）と混同しないよう注意が必要です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The invention of the telescope changed the field of astronomy.",
+              "ja": "望遠鏡の発明は天文学の分野を変えた。",
+              "highlight": "astronomy"
+            }
+          ]
+        }
+      ],
+      "etymology": "astron (星) + nomos (法則)",
+      "synonyms": [
+        {"word": "astrophysics", "trans": "天体物理学"},
+        {"word": "cosmology", "trans": "宇宙論"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "astronomer", "trans": "名詞：天文学者"},
+        {"word": "astronomical", "trans": "形容詞：天文学的な、膨大な"}
+      ]
+    },
+    {
+      "number": 11676,
+      "word": "archaeologist",
+      "pos": "名詞",
+      "meaning": "考古学者",
+      "nuance": "遺跡や遺物を発掘・調査して、過去の人類の生活を研究する専門家です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Archaeologists found ancient pottery in the cave.",
+              "ja": "考古学者たちはその洞窟で古代の土器を発見した。",
+              "highlight": "Archaeologists"
+            }
+          ]
+        }
+      ],
+      "etymology": "archaios (古い) + logos (学問)",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        {"word": "archaeology", "trans": "名詞：考古学"},
+        {"word": "archaeological", "trans": "形容詞：考古学の"}
+      ]
+    },
+    {
+      "number": 11677,
+      "word": "anthropologist",
+      "pos": "名詞",
+      "meaning": "（文化）人類学者",
+      "nuance": "人類の起源、生物学的特徴、あるいは社会や文化の多様性を研究する学者です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The anthropologist lived with the tribe for a year.",
+              "ja": "その人類学者は、その部族と1年間生活を共にした。",
+              "highlight": "anthropologist"
+            }
+          ]
+        }
+      ],
+      "etymology": "anthropos (人間) + logos (学問)",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        {"word": "anthropology", "trans": "名詞：人類学"},
+        {"word": "anthropomorphism", "trans": "名詞：擬人化"}
+      ]
+    },
+    {
+      "number": 11678,
+      "word": "perceive",
+      "pos": "動詞",
+      "meaning": "①（A as B）AをBだと認識する ②〜を知覚する、気づく",
+      "nuance": "五感を使って「捉える」ことや、ある事柄を特定の観点から「理解・解釈する」ことを指します。",
+      "example_sections": [
+        {
+          "title": "「知覚・気づく」の例文",
+          "examples": [
+            {
+              "en": "I perceived a slight change in his voice.",
+              "ja": "私は彼の声のわずかな変化に気づいた（を知覚した）。",
+              "highlight": "perceived"
+            }
+          ]
+        },
+        {
+          "title": "「認識する」の例文",
+          "examples": [
+            {
+              "en": "They perceive the new law as a threat to their freedom.",
+              "ja": "彼らはその新しい法律を、自由に対する脅威だと認識している。",
+              "highlight": "perceive"
+            }
+          ]
+        }
+      ],
+      "etymology": "per (完全に) + capere (取る)",
+      "synonyms": [
+        {"word": "notice", "trans": "気づく"},
+        {"word": "recognize", "trans": "認める"},
+        {"word": "see", "trans": "見なす"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "overlook", "trans": "見落とす"}
+      ],
+      "related": [
+        {"word": "perception", "trans": "名詞：知覚、認識"},
+        {"word": "perceptive", "trans": "形容詞：洞察力のある"}
+      ]
+    },
+    {
+      "number": 11679,
+      "word": "grasp",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を理解する ②〜をしっかりつかむ 【名】③理解力、掌握",
+      "nuance": "手で「ギュッとつかむ」ことから、難解な内容を自分の知識として「しっかり理解する」という意味になります。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The boy grasped his mother's hand in the crowd.",
+              "ja": "その少年は人混みの中で母親の手をしっかりつかんだ。",
+              "highlight": "grasped"
+            },
+            {
+              "en": "She failed to grasp the significance of the event.",
+              "ja": "彼女はその出来事の重要性を理解できなかった。",
+              "highlight": "grasp"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "He has a good grasp of the basic principles of physics.",
+              "ja": "彼は物理学の基本原理をよく理解している。",
+              "highlight": "grasp"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（つかむ）",
+      "synonyms": [
+        {"word": "understand", "trans": "理解する"},
+        {"word": "comprehend", "trans": "把握する"},
+        {"word": "grip", "trans": "握る"}
+      ],
+      "antonyms": [
+        {"word": "release", "trans": "放す"},
+        {"word": "misunderstand", "trans": "誤解する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11680,
+      "word": "conceive",
+      "pos": "動詞",
+      "meaning": "①〜を思い浮かべる ②（of〜）〜を想像する ③（子を）妊娠する",
+      "nuance": "「心の中に種を取り込む」イメージで、アイデアを思いつくことと、新しい命を宿すことの両方に使われます。",
+      "example_sections": [
+        {
+          "title": "「思い浮かべる・想像する」の例文",
+          "examples": [
+            {
+              "en": "He conceived a clever plan to surprise his wife.",
+              "ja": "彼は妻を驚かせるための巧妙な計画を思いついた。",
+              "highlight": "conceived"
+            },
+            {
+              "en": "It is hard to conceive of a world without the internet.",
+              "ja": "インターネットのない世界を想像するのは難しい。",
+              "highlight": "conceive of"
+            }
+          ]
+        },
+        {
+          "title": "「妊娠する」の例文",
+          "examples": [
+            {
+              "en": "They had been trying to conceive for several years.",
+              "ja": "彼らは数年間、子供を授かろう（妊娠しよう）としていた。",
+              "highlight": "conceive"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (共に) + capere (取る)",
+      "synonyms": [
+        {"word": "imagine", "trans": "想像する"},
+        {"word": "devise", "trans": "考案する"},
+        {"word": "think up", "trans": "考え出す"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "concept", "trans": "名詞：概念"},
+        {"word": "conception", "trans": "名詞：概念、妊娠"},
+        {"word": "conceivable", "trans": "形容詞：考えられる"}
+      ]
+    },
+    {
+      "number": 11681,
+      "word": "anticipate",
+      "pos": "動詞",
+      "meaning": "①〜を予想する ②〜を期待して待つ",
+      "nuance": "単に予測するだけでなく、それに備えたり、ワクワクして待ったりするニュアンスが含まれます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We anticipate that sales will increase by 10% next year.",
+              "ja": "来年は売上が10%増加すると予想している。",
+              "highlight": "anticipate"
+            },
+            {
+              "en": "Fans are eagerly anticipating the release of the new movie.",
+              "ja": "ファンはその新作映画の公開を熱心に期待して待っている。",
+              "highlight": "anticipating"
+            }
+          ]
+        }
+      ],
+      "etymology": "anti (前に) + capere (取る)",
+      "synonyms": [
+        {"word": "expect", "trans": "期待する"},
+        {"word": "predict", "trans": "予測する"},
+        {"word": "look forward to", "trans": "楽しみに待つ"}
+      ],
+      "antonyms": [
+        {"word": "doubt", "trans": "疑う"},
+        {"word": "dread", "trans": "恐れる"}
+      ],
+      "related": [
+        {"word": "anticipation", "trans": "名詞：期待、予想"}
+      ]
+    },
+    {
+      "number": 11682,
+      "word": "foresee",
+      "pos": "動詞",
+      "meaning": "〜を予知する、あらかじめ知る",
+      "nuance": "将来起こることを、知識や直感に基づいて「前もって見る」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "No one could have foreseen the collapse of the economy.",
+              "ja": "経済の崩壊を予見（予知）できた人は誰もいなかった。",
+              "highlight": "foreseen"
+            },
+            {
+              "en": "We do not foresee any problems with the new system.",
+              "ja": "新システムにおいて何の問題も予見していません。",
+              "highlight": "foresee"
+            }
+          ]
+        }
+      ],
+      "etymology": "fore (前に) + see (見る)",
+      "synonyms": [
+        {"word": "predict", "trans": "予測する"},
+        {"word": "forecast", "trans": "予報する"},
+        {"word": "prognosticate", "trans": "予言する"}
+      ],
+      "antonyms": [
+        {"word": "hindsight", "trans": "後知恵（名詞）"}
+      ],
+      "related": [
+        {"word": "foresight", "trans": "名詞：先見の明"}
+      ]
+    },
+    {
+      "number": 11683,
+      "word": "speculate",
+      "pos": "動詞",
+      "meaning": "①推測する ②（on〜/that）思索する ③（in〜）投機する",
+      "nuance": "十分な証拠がない中で、あれこれと考えを巡らせる（推測）ことや、一攫千金を狙って投資する（投機）ことを指します。",
+      "example_sections": [
+        {
+          "title": "「推測する」の例文",
+          "examples": [
+            {
+              "en": "Scientists speculate that there might be water on that planet.",
+              "ja": "科学者たちは、その惑星に水があるかもしれないと推測している。",
+              "highlight": "speculate"
+            }
+          ]
+        },
+        {
+          "title": "「投機する」の例文",
+          "examples": [
+            {
+              "en": "He lost a lot of money speculating in the stock market.",
+              "ja": "彼は株式市場での投機で多額の金を失った。",
+              "highlight": "speculating"
+            }
+          ]
+        }
+      ],
+      "etymology": "speculari（見張る、観察する）",
+      "synonyms": [
+        {"word": "guess", "trans": "推測する"},
+        {"word": "theorize", "trans": "理論を立てる"},
+        {"word": "gamble", "trans": "賭ける"}
+      ],
+      "antonyms": [
+        {"word": "verify", "trans": "検証する"},
+        {"word": "prove", "trans": "証明する"}
+      ],
+      "related": [
+        {"word": "speculation", "trans": "名詞：推測、投機"},
+        {"word": "speculative", "trans": "形容詞：推測に基づいた"}
+      ]
+    },
+    {
+      "number": 11684,
+      "word": "infer",
+      "pos": "動詞",
+      "meaning": "（A from B）BからAを推論する、察する",
+      "nuance": "提示された事実や証拠に基づいて、直接的には述べられていない結論を導き出すことです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "What can you infer from the author's tone?",
+              "ja": "著者の口調から何を推論できますか？",
+              "highlight": "infer"
+            },
+            {
+              "en": "I inferred from her silence that she was angry.",
+              "ja": "彼女の沈黙から、彼女が怒っているのだと察した。",
+              "highlight": "inferred"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + ferre (運ぶ)",
+      "synonyms": [
+        {"word": "deduce", "trans": "推定する"},
+        {"word": "conclude", "trans": "結論づける"},
+        {"word": "surmise", "trans": "推測する"}
+      ],
+      "antonyms": [
+        {"word": "state", "trans": "明言する"},
+        {"word": "declare", "trans": "宣言する"}
+      ],
+      "related": [
+        {"word": "inference", "trans": "名詞：推論"}
+      ]
+    },
+    {
+      "number": 11685,
+      "word": "deduce",
+      "pos": "動詞",
+      "meaning": "（A from B）BからAを推定する、演繹する",
+      "nuance": "一般的な原理や確実な証拠から、論理的なステップを踏んで特定の結論を「導き出す」イメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The detective deduced the killer's identity from the clues.",
+              "ja": "探偵は手がかりから犯人の身元を推定した。",
+              "highlight": "deduced"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (下へ) + ducere (導く)",
+      "synonyms": [
+        {"word": "infer", "trans": "推論する"},
+        {"word": "reason", "trans": "論理的に考える"}
+      ],
+      "antonyms": [
+        {"word": "induce", "trans": "帰納する（個別の事例から一般論を導く）"}
+      ],
+      "related": [
+        {"word": "deduction", "trans": "名詞：推論、控除"}
+      ]
+    },
+    {
+      "number": 11686,
+      "word": "ponder",
+      "pos": "動詞",
+      "meaning": "〜を熟考する、じっくり考える",
+      "nuance": "決断を下す前などに、時間をかけて注意深く、重み（pound）を量るように考えることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She sat alone, pondering her future career.",
+              "ja": "彼女は一人座り、将来のキャリアについて熟考していた。",
+              "highlight": "pondering"
+            },
+            {
+              "en": "He pondered whether to accept the offer or not.",
+              "ja": "彼はその申し出を受けるべきかどうかじっくり考えた。",
+              "highlight": "pondered"
+            }
+          ]
+        }
+      ],
+      "etymology": "pondus（重さ、ポンド）",
+      "synonyms": [
+        {"word": "consider", "trans": "検討する"},
+        {"word": "contemplate", "trans": "熟考する"},
+        {"word": "reflect on", "trans": "〜を振り返って考える"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "disregard", "trans": "軽視する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11687,
+      "word": "contemplate",
+      "pos": "動詞",
+      "meaning": "〜を熟考する、じっくり眺める、（〜しようと）考える",
+      "nuance": "ponder よりも「静かに深く考える」イメージ。また、将来の可能性などを「視野に入れて考える」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He contemplated the meaning of life.",
+              "ja": "彼は人生の意味について深く考えた（熟考した）。",
+              "highlight": "contemplated"
+            },
+            {
+              "en": "She is contemplating changing her job.",
+              "ja": "彼女は転職しようかと考えている。",
+              "highlight": "contemplating"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (完全に) + templum (寺院、観測場所) → 聖なる場所で観察する",
+      "synonyms": [
+        {"word": "meditate", "trans": "瞑想する、企てる"},
+        {"word": "mull over", "trans": "よく考える"},
+        {"word": "ponder", "trans": "熟考する"}
+      ],
+      "antonyms": [
+        {"word": "forget", "trans": "忘れる"},
+        {"word": "overlook", "trans": "見落とす"}
+      ],
+      "related": [
+        {"word": "contemplation", "trans": "名詞：熟考"}
+      ]
+    },
+    {
+      "number": 11688,
+      "word": "assure",
+      "pos": "動詞",
+      "meaning": "〜に保証する、確信させる",
+      "nuance": "相手の不安を取り除くために「大丈夫だ」と太鼓判を押すイメージです。必ず（人に）を目的語に取ります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I can assure you that the product is safe.",
+              "ja": "その製品が安全であることをあなたに保証します。",
+              "highlight": "assure"
+            },
+            {
+              "en": "She assured me that she would arrive on time.",
+              "ja": "彼女は時間通りに着くと私に請け合った（確信させた）。",
+              "highlight": "assured"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (〜へ) + securus (安全な、安心な)",
+      "synonyms": [
+        {"word": "guarantee", "trans": "保証する"},
+        {"word": "promise", "trans": "約束する"},
+        {"word": "convince", "trans": "納得させる"}
+      ],
+      "antonyms": [
+        {"word": "alarm", "trans": "不安にさせる"},
+        {"word": "unsettle", "trans": "動揺させる"}
+      ],
+      "related": [
+        {"word": "assurance", "trans": "名詞：確信、保証"},
+        {"word": "reassure", "trans": "動詞：安心させる"}
+      ]
+    },
+    {
+      "number": 11689,
+      "word": "assess",
+      "pos": "動詞",
+      "meaning": "〜を評価する、査定する、見極める",
+      "nuance": "価値、質、重要性などを慎重に判断することを指します。税金や損害額の「査定」にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The school will assess each student's progress.",
+              "ja": "学校は各生徒の進歩を評価する。",
+              "highlight": "assess"
+            },
+            {
+              "en": "It's difficult to assess the damage caused by the storm.",
+              "ja": "嵐による被害を査定（評価）するのは難しい。",
+              "highlight": "assess"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (〜のそばに) + sedere (座る) → 裁判官のそばに座って助言する",
+      "synonyms": [
+        {"word": "evaluate", "trans": "評価する"},
+        {"word": "judge", "trans": "判断する"},
+        {"word": "appraise", "trans": "鑑定する"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "assessment", "trans": "名詞：評価、査定"}
+      ]
+    },
+    {
+      "number": 11690,
+      "word": "evaluate",
+      "pos": "動詞",
+      "meaning": "〜を（正しく）評価する、数値化する",
+      "nuance": "e (外へ) + value (価値) を出す。目標に対する達成度や性能などを論理的・客観的に判断することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need to evaluate the success of the marketing campaign.",
+              "ja": "私たちはマーケティングキャンペーンの成功を評価する必要がある。",
+              "highlight": "evaluate"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + valere (価値がある)",
+      "synonyms": [
+        {"word": "assess", "trans": "評価する"},
+        {"word": "rate", "trans": "格付けする"},
+        {"word": "estimate", "trans": "見積もる"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "evaluation", "trans": "名詞：評価"},
+        {"word": "evaluative", "trans": "形容詞：評価の"}
+      ]
+    },
+    {
+      "number": 11691,
+      "word": "verify",
+      "pos": "動詞",
+      "meaning": "（事実かどうか）を確かめる、検証する、立証する",
+      "nuance": "「真実(verus)であることを示す」が語源。正しいかどうかを調査や証拠によって裏付けることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please verify your email address by clicking the link.",
+              "ja": "リンクをクリックしてメールアドレスを認証（確認）してください。",
+              "highlight": "verify"
+            },
+            {
+              "en": "Witnesses were able to verify his story.",
+              "ja": "目撃者たちが彼の話を裏付ける（検証する）ことができた。",
+              "highlight": "verify"
+            }
+          ]
+        }
+      ],
+      "etymology": "verus (真実の) + fy (〜にする)",
+      "synonyms": [
+        {"word": "confirm", "trans": "確認する"},
+        {"word": "substantiate", "trans": "実証する"},
+        {"word": "authenticate", "trans": "本物であると証明する"}
+      ],
+      "antonyms": [
+        {"word": "disprove", "trans": "反証する"},
+        {"word": "falsify", "trans": "偽造する"},
+        {"word": "deny", "trans": "否定する"}
+      ],
+      "related": [
+        {"word": "verification", "trans": "名詞：検証、認証"}
+      ]
+    },
+    {
+      "number": 11692,
+      "word": "compromise",
+      "pos": "動詞、名詞",
+      "meaning": "【自】①（with〜）妥協する 【他】②（主義など）を曲げる、汚す 【名】③妥協点",
+      "nuance": "互いに譲り合うポジティブな「妥協」だけでなく、名誉や安全を「危険にさらす・台無しにする」というネガティブな他動詞の意味も重要です。",
+      "example_sections": [
+        {
+          "title": "「妥協する」の例文",
+          "examples": [
+            {
+              "en": "After hours of discussion, they finally reached a compromise.",
+              "ja": "何時間もの議論の末、彼らはついに妥協点に達した。",
+              "highlight": "compromise"
+            },
+            {
+              "en": "I'm willing to compromise on the price.",
+              "ja": "私は価格について妥協する用意がある。",
+              "highlight": "compromise"
+            }
+          ]
+        },
+        {
+          "title": "「（主義などを）曲げる・汚す」の例文",
+          "examples": [
+            {
+              "en": "He refused to compromise his principles.",
+              "ja": "彼は自分の信条を曲げる（妥協させる）ことを拒んだ。",
+              "highlight": "compromise"
+            },
+            {
+              "en": "The scandal compromised the company's reputation.",
+              "ja": "そのスキャンダルは会社の評判を台無しにした（汚した）。",
+              "highlight": "compromised"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に) + promittere (約束する)",
+      "synonyms": [
+        {"word": "settlement", "trans": "解決、和解"},
+        {"word": "concession", "trans": "譲歩"},
+        {"word": "undermine", "trans": "弱める"}
+      ],
+      "antonyms": [
+        {"word": "persist", "trans": "固執する"},
+        {"word": "disagree", "trans": "不一致"},
+        {"word": "protect", "trans": "守る"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11693,
+      "word": "reconcile",
+      "pos": "動詞",
+      "meaning": "①（A with B）AをBと調和・和解させる ②（oneself to〜）〜を仕方なく受け入れる",
+      "nuance": "対立していた二つを再び結びつけるイメージです。また、不本意な状況を自分の中で折り合いをつけて受け入れる際にも使われます。",
+      "example_sections": [
+        {
+          "title": "「和解・調和させる」の例文",
+          "examples": [
+            {
+              "en": "It's difficult to reconcile work with family life.",
+              "ja": "仕事と家庭生活を調和させるのは難しい。",
+              "highlight": "reconcile"
+            },
+            {
+              "en": "The brothers finally reconciled after years of fighting.",
+              "ja": "その兄弟は数年の喧嘩の末、ついに和解した。",
+              "highlight": "reconciled"
+            }
+          ]
+        },
+        {
+          "title": "「受け入れる」の例文",
+          "examples": [
+            {
+              "en": "She reconciled herself to the fact that she would never be an artist.",
+              "ja": "彼女は、自分は決して芸術家にはなれないという事実に折り合いをつけた（を仕方なく受け入れた）。",
+              "highlight": "reconciled herself to"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + conciliare (結びつける)",
+      "synonyms": [
+        {"word": "harmonize", "trans": "調和させる"},
+        {"word": "resolve", "trans": "解決する"},
+        {"word": "settle", "trans": "決着させる"}
+      ],
+      "antonyms": [
+        {"word": "estrange", "trans": "疎遠にする"},
+        {"word": "alienate", "trans": "遠ざける"},
+        {"word": "clash", "trans": "衝突する"}
+      ],
+      "related": [
+        {"word": "reconciliation", "trans": "名詞：和解"}
+      ]
+    },
+    {
+      "number": 11694,
+      "word": "alert",
+      "pos": "形容詞、名詞、動詞",
+      "meaning": "【形】①油断のない、用心深い 【名】②警告、アラート 【動】③警告する",
+      "nuance": "危険に対してすぐに反応できる「警戒状態」を指します。",
+      "example_sections": [
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "A driver must remain alert at all times.",
+              "ja": "運転手は常に注意を怠らず（用心深く）いなければならない。",
+              "highlight": "alert"
+            }
+          ]
+        },
+        {
+          "title": "名詞・動詞の例文",
+          "examples": [
+            {
+              "en": "The government issued a flood alert.",
+              "ja": "政府は洪水警報を出した。",
+              "highlight": "alert"
+            },
+            {
+              "en": "The pilot alerted the crew to the engine trouble.",
+              "ja": "パイロットは乗組員にエンジントラブルを警告した。",
+              "highlight": "alerted"
+            }
+          ]
+        }
+      ],
+      "etymology": "イタリア語 all'erta（見張り台の上へ）",
+      "synonyms": [
+        {"word": "watchful", "trans": "用心深い"},
+        {"word": "vigilant", "trans": "警戒を怠らない"},
+        {"word": "warning", "trans": "警告"}
+      ],
+      "antonyms": [
+        {"word": "asleep", "trans": "眠っている"},
+        {"word": "unaware", "trans": "気づいていない"},
+        {"word": "careless", "trans": "不注意な"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11695,
+      "word": "stereotype",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①固定観念、典型的なイメージ 【動】②型にはめる",
+      "nuance": "元々は印刷の「鉛版」のこと。一度決まると変えられない、特定のグループに対する単純化された見方を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He doesn't fit the stereotype of a typical professor.",
+              "ja": "彼は典型的な教授のステレオタイプ（固定観念）には当てはまらない。",
+              "highlight": "stereotype"
+            },
+            {
+              "en": "Teenagers are often stereotyped as being lazy.",
+              "ja": "10代の若者は、しばしば怠惰だという型にはめられて見られる。",
+              "highlight": "stereotyped"
+            }
+          ]
+        }
+      ],
+      "etymology": "stereos (固い) + typos (型)",
+      "synonyms": [
+        {"word": "cliché", "trans": "決まり文句、陳腐な表現"},
+        {"word": "convention", "trans": "慣習"},
+        {"word": "label", "trans": "ラベルを貼る"}
+      ],
+      "antonyms": [
+        {"word": "individuality", "trans": "個性"},
+        {"word": "originality", "trans": "独創性"}
+      ],
+      "related": [
+        {"word": "stereotypical", "trans": "形容詞：典型的な"}
+      ]
+    },
+    {
+      "number": 11696,
+      "word": "perspective",
+      "pos": "名詞",
+      "meaning": "①（経験による）視点、見方 ②大局的な見方 ③遠近法",
+      "nuance": "「向こう側まで(per)見る(spect)」が語源。物事を全体像の中で客観的に捉える力や角度を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Traveling to different countries gives you a new perspective on life.",
+              "ja": "様々な国を旅することは、人生に対する新しい視点を与えてくれる。",
+              "highlight": "perspective"
+            },
+            {
+              "en": "We need to keep things in perspective.",
+              "ja": "私たちは物事を大局的な見方で（冷静に）捉え続ける必要がある。",
+              "highlight": "perspective"
+            }
+          ]
+        }
+      ],
+      "etymology": "per (通して) + specere (見る)",
+      "synonyms": [
+        {"word": "viewpoint", "trans": "観点"},
+        {"word": "outlook", "trans": "見通し、見解"},
+        {"word": "angle", "trans": "角度、切り口"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11697,
+      "word": "prospect",
+      "pos": "名詞",
+      "meaning": "見通し、期待、見込み",
+      "nuance": "「前方(pro)を見る(spect)」が語源。将来起こりそうな可能性や、成功の見込みを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The job offer improved his financial prospects.",
+              "ja": "その仕事のオファーは彼の財政的な見通しを改善した。",
+              "highlight": "prospects"
+            },
+            {
+              "en": "I'm excited at the prospect of moving to a new city.",
+              "ja": "新しい街に引っ越すという見通し（期待）にワクワクしている。",
+              "highlight": "prospect"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前に) + specere (見る)",
+      "synonyms": [
+        {"word": "outlook", "trans": "展望"},
+        {"word": "possibility", "trans": "可能性"},
+        {"word": "probability", "trans": "公算"}
+      ],
+      "antonyms": [
+        {"word": "hopelessness", "trans": "絶望"},
+        {"word": "past", "trans": "過去（対比として）"}
+      ],
+      "related": [
+        {"word": "prospective", "trans": "形容詞：将来の、見込みのある"}
+      ]
+    },
+    {
+      "number": 11698,
+      "word": "vow",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①誓い 【動】②〜を誓う",
+      "nuance": "神聖な約束や、自分自身に対する強い決意を指します。結婚の誓い（wedding vows）などが代表的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They exchanged marriage vows in the church.",
+              "ja": "彼らは教会で結婚の誓いを交わした。",
+              "highlight": "vows"
+            },
+            {
+              "en": "He vowed to take revenge on his enemies.",
+              "ja": "彼は敵に復讐することを誓った。",
+              "highlight": "vowed"
+            }
+          ]
+        }
+      ],
+      "etymology": "vovere（誓う、約束する）",
+      "synonyms": [
+        {"word": "promise", "trans": "約束"},
+        {"word": "oath", "trans": "宣誓"},
+        {"word": "pledge", "trans": "固い約束"}
+      ],
+      "antonyms": [
+        {"word": "betrayal", "trans": "裏切り"},
+        {"word": "denial", "trans": "否定"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11699,
+      "word": "intuition",
+      "pos": "名詞",
+      "meaning": "直感、直観",
+      "nuance": "論理的な思考を通さず、瞬時に物事の性質を捉える「第六感」的な力を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Intuition told me that something was wrong.",
+              "ja": "直感が、何かがおかしいと私に告げていた。",
+              "highlight": "Intuition"
+            },
+            {
+              "en": "She has a great sense of intuition when it comes to people.",
+              "ja": "彼女は人を見ることに関しては素晴らしい直感を持っている。",
+              "highlight": "intuition"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + tueri (見る) → 内側を見る力",
+      "synonyms": [
+        {"word": "instinct", "trans": "本能"},
+        {"word": "insight", "trans": "洞察"},
+        {"word": "hunch", "trans": "予感"}
+      ],
+      "antonyms": [
+        {"word": "reason", "trans": "理性、論理"},
+        {"word": "logic", "trans": "論理"}
+      ],
+      "related": [
+        {"word": "intuitive", "trans": "形容詞：直感的な"}
+      ]
+    },
+    {
+      "number": 11700,
+      "word": "illusion",
+      "pos": "名詞",
+      "meaning": "幻想、錯覚、思い込み",
+      "nuance": "実際には存在しないのに、あると信じてしまっている状態や、視覚的な騙し（optical illusion）を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was under the illusion that everyone liked him.",
+              "ja": "彼は、誰もが自分のことを好きだという幻想を抱いていた。",
+              "highlight": "illusion"
+            },
+            {
+              "en": "The mirror creates an illusion of more space in the room.",
+              "ja": "鏡が部屋をより広く見せる錯覚（幻想）を作り出している。",
+              "highlight": "illusion"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + ludere (遊ぶ、ふざける) → 翻弄されること",
+      "synonyms": [
+        {"word": "delusion", "trans": "妄想"},
+        {"word": "hallucination", "trans": "幻覚"},
+        {"word": "fantasy", "trans": "空想"}
+      ],
+      "antonyms": [
+        {"word": "reality", "trans": "現実"},
+        {"word": "truth", "trans": "真実"},
+        {"word": "fact", "trans": "事実"}
+      ],
+      "related": [
+        {"word": "illusive", "trans": "形容詞：人を惑わす"},
+        {"word": "illusory", "trans": "形容詞：架空の"}
+      ]
     }
   ]
 }
