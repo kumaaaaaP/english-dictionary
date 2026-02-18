@@ -1,0 +1,1352 @@
+{
+  "words": [
+    {
+      "number": 11601,
+      "word": "curb",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を抑制する 【名】②縁石（歩道の端の石）",
+      "nuance": "元々は馬の「くつわ（制御具）」を指す言葉で、感情やインフレなどの勢いを抑える際に使われます。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The government is taking measures to curb inflation.",
+              "ja": "政府はインフレを抑制するための措置を講じている。",
+              "highlight": "curb"
+            },
+            {
+              "en": "You need to learn to curb your temper.",
+              "ja": "君は自分の怒りを抑えることを学ぶ必要がある。",
+              "highlight": "curb"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "He parked his car close to the curb.",
+              "ja": "彼は車を縁石の近くに停めた。",
+              "highlight": "curb"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 courbe（曲がった）",
+      "synonyms": [
+        {"word": "restrain", "trans": "抑制する"},
+        {"word": "control", "trans": "制御する"},
+        {"word": "check", "trans": "阻止する"}
+      ],
+      "antonyms": [
+        {"word": "encourage", "trans": "促進する"},
+        {"word": "stimulate", "trans": "刺激する"},
+        {"word": "promote", "trans": "進める"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11602,
+      "word": "restrain",
+      "pos": "動詞",
+      "meaning": "〜を抑制する、制止する",
+      "nuance": "力ずくで、あるいは強い意志を持って、行動や感情が外に出るのを抑え込むイメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It was difficult to restrain my anger during the meeting.",
+              "ja": "会議中に怒りを抑えるのは困難だった。",
+              "highlight": "restrain"
+            },
+            {
+              "en": "The prisoner had to be restrained by three guards.",
+              "ja": "その囚人は3人の看守によって取り押さえられなければならなかった。",
+              "highlight": "restrained"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (後ろへ) + stringere (締める)",
+      "synonyms": [
+        {"word": "suppress", "trans": "抑圧する"},
+        {"word": "hinder", "trans": "妨げる"},
+        {"word": "restrict", "trans": "制限する"}
+      ],
+      "antonyms": [
+        {"word": "release", "trans": "解放する"},
+        {"word": "free", "trans": "自由にする"},
+        {"word": "unleash", "trans": "爆発させる"}
+      ],
+      "related": [
+        {"word": "restraint", "trans": "名詞：抑制、慎み"}
+      ]
+    },
+    {
+      "number": 11603,
+      "word": "halt",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を止める、止まる 【名】②停止、休止",
+      "nuance": "進行中の活動や動きが、突然、あるいは一時的に完全に止まることを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The project was halted due to a lack of funds.",
+              "ja": "資金不足のため、プロジェクトは中止（停止）された。",
+              "highlight": "halted"
+            },
+            {
+              "en": "The car came to a halt in front of the gate.",
+              "ja": "車は門の前で止まった。",
+              "highlight": "halt"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Production was brought to a sudden halt by the strike.",
+              "ja": "ストライキによって生産が突然停止した。",
+              "highlight": "halt"
+            }
+          ]
+        }
+      ],
+      "etymology": "ドイツ語 halt（止まれ）",
+      "synonyms": [
+        {"word": "stop", "trans": "止める"},
+        {"word": "cease", "trans": "終わる"},
+        {"word": "discontinue", "trans": "中断する"}
+      ],
+      "antonyms": [
+        {"word": "start", "trans": "始める"},
+        {"word": "continue", "trans": "続ける"},
+        {"word": "resume", "trans": "再開する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11604,
+      "word": "animate",
+      "pos": "動詞",
+      "meaning": "①〜を活気づける ②〜をアニメ化する、動画にする",
+      "nuance": "「命(anima)を吹き込む」という語源通り、静止しているものに動きや活力を与えることを指します。",
+      "example_sections": [
+        {
+          "title": "「活気づける」の例文",
+          "examples": [
+            {
+              "en": "A spark of hope animated her face.",
+              "ja": "希望の輝きが彼女の顔を活き活きとさせた。",
+              "highlight": "animated"
+            }
+          ]
+        },
+        {
+          "title": "「アニメ化する」の例文",
+          "examples": [
+            {
+              "en": "They used 3D technology to animate the characters.",
+              "ja": "彼らは3D技術を使ってキャラクターを動かした（アニメ化した）。",
+              "highlight": "animate"
+            }
+          ]
+        }
+      ],
+      "etymology": "anima（魂、命）",
+      "synonyms": [
+        {"word": "enliven", "trans": "活気づける"},
+        {"word": "inspire", "trans": "奮い立たせる"},
+        {"word": "vitalize", "trans": "生命を与える"}
+      ],
+      "antonyms": [
+        {"word": "depress", "trans": "意気消沈させる"},
+        {"word": "dampen", "trans": "湿らせる、削ぐ"}
+      ],
+      "related": [
+        {"word": "animation", "trans": "名詞：アニメーション、活気"},
+        {"word": "animated", "trans": "形容詞：活発な、動画の"}
+      ]
+    },
+    {
+      "number": 11605,
+      "word": "spur",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を駆り立てる、促す 【名】②拍車、刺激、動機",
+      "nuance": "馬の脇腹を蹴る「拍車」のことで、外部からの刺激によって行動を急がせるイメージです。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The discovery spurred further research into the field.",
+              "ja": "その発見が、その分野へのさらなる研究を促した。",
+              "highlight": "spurred"
+            },
+            {
+              "en": "Lower interest rates should spur consumer spending.",
+              "ja": "低金利は消費支出を駆り立てるはずだ。",
+              "highlight": "spur"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "On the spur of the moment, I decided to go on a trip.",
+              "ja": "その場の勢い（刺激）で、私は旅行に行くことを決めた。",
+              "highlight": "spur"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（かかと、拍車）",
+      "synonyms": [
+        {"word": "stimulate", "trans": "刺激する"},
+        {"word": "prompt", "trans": "促す"},
+        {"word": "incentive", "trans": "動機"}
+      ],
+      "antonyms": [
+        {"word": "discourage", "trans": "思いとどまらせる"},
+        {"word": "hinder", "trans": "邪魔する"},
+        {"word": "deter", "trans": "制止する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11606,
+      "word": "urge",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜をせき立てる、強く勧める 【名】②（強い）衝動、欲求",
+      "nuance": "何かをせずにはいられないような、内側または外側からの強い圧力を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The doctor urged him to quit smoking immediately.",
+              "ja": "医者は彼にすぐ禁煙するよう強く勧めた。",
+              "highlight": "urged"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "She felt a sudden urge to laugh.",
+              "ja": "彼女は突然笑いたい衝動に駆られた。",
+              "highlight": "urge"
+            }
+          ]
+        }
+      ],
+      "etymology": "urgere（押す、強いる）",
+      "synonyms": [
+        {"word": "encourage", "trans": "勧める"},
+        {"word": "impulse", "trans": "衝動"},
+        {"word": "advocate", "trans": "提唱する"}
+      ],
+      "antonyms": [
+        {"word": "discourage", "trans": "やめさせる"},
+        {"word": "restrain", "trans": "抑える"}
+      ],
+      "related": [
+        {"word": "urgent", "trans": "形容詞：緊急の"},
+        {"word": "urgency", "trans": "名詞：緊急性"}
+      ]
+    },
+    {
+      "number": 11607,
+      "word": "lure",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を誘い込む、おびき出す 【名】②魅力、誘惑、疑似餌（ルアー）",
+      "nuance": "魅力的なもので相手を惹きつけ、意図した場所や行動へ導くことを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The promise of high profits lured many investors.",
+              "ja": "高い利益の約束が多くの投資家を誘い込んだ。",
+              "highlight": "lured"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The lure of the big city was hard to resist.",
+              "ja": "大都会の魅力に抗うのは難しかった。",
+              "highlight": "lure"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 loirre（鷹狩りの餌）",
+      "synonyms": [
+        {"word": "attract", "trans": "惹きつける"},
+        {"word": "entice", "trans": "そそのかす"},
+        {"word": "tempt", "trans": "誘惑する"}
+      ],
+      "antonyms": [
+        {"word": "repel", "trans": "追い払う"},
+        {"word": "deter", "trans": "抑止する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11608,
+      "word": "stimulate",
+      "pos": "動詞",
+      "meaning": "〜を刺激する、活気づける",
+      "nuance": "反応や活動を促すために、外部からエネルギーを与えることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Caffeine stimulates the central nervous system.",
+              "ja": "カフェインは中枢神経系を刺激する。",
+              "highlight": "stimulates"
+            },
+            {
+              "en": "The teacher tried to stimulate the students' interest in science.",
+              "ja": "先生は生徒の科学への興味を刺激しようと努めた。",
+              "highlight": "stimulate"
+            }
+          ]
+        }
+      ],
+      "etymology": "stimulus（突き棒、刺激）",
+      "synonyms": [
+        {"word": "inspire", "trans": "奮い立たせる"},
+        {"word": "activate", "trans": "活性化させる"},
+        {"word": "provoke", "trans": "引き起こす"}
+      ],
+      "antonyms": [
+        {"word": "soothe", "trans": "なだめる"},
+        {"word": "calm", "trans": "落ち着かせる"},
+        {"word": "depress", "trans": "沈滞させる"}
+      ],
+      "related": [
+        {"word": "stimulus", "trans": "名詞：刺激"},
+        {"word": "stimulation", "trans": "名詞：刺激（すること）"}
+      ]
+    },
+    {
+      "number": 11609,
+      "word": "compel",
+      "pos": "動詞",
+      "meaning": "（A to do） Aに〜することを強制する、強いる",
+      "nuance": "法的な義務や、状況的な必然性によって、本人の意思に関わらず何かをさせる時に使います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Illness compelled him to resign from his post.",
+              "ja": "病気が彼を職の辞任へと追いやった（辞任せざるを得なくした）。",
+              "highlight": "compelled"
+            },
+            {
+              "en": "The law compels companies to provide health insurance.",
+              "ja": "法律は企業に健康保険の提供を義務付けている（強制している）。",
+              "highlight": "compels"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に、強く) + pellere (押す)",
+      "synonyms": [
+        {"word": "force", "trans": "強制する"},
+        {"word": "oblige", "trans": "義務付ける"},
+        {"word": "coerce", "trans": "強要する"}
+      ],
+      "antonyms": [
+        {"word": "allow", "trans": "許す"},
+        {"word": "permit", "trans": "許可する"}
+      ],
+      "related": [
+        {"word": "compelling", "trans": "形容詞：説得力のある、抗いがたい"},
+        {"word": "compulsion", "trans": "名詞：強制、衝動"}
+      ]
+    },
+    {
+      "number": 11610,
+      "word": "dictate",
+      "pos": "動詞",
+      "meaning": "①〜を書き取らせる ②〜を命令する、規定する",
+      "nuance": "「言葉を口にする」という語源から、自分が言ったことを相手に従わせる、あるいは書き写させることを指します。",
+      "example_sections": [
+        {
+          "title": "「書き取らせる」の例文",
+          "examples": [
+            {
+              "en": "The director dictated a letter to his secretary.",
+              "ja": "局長は秘書に手紙を書き取らせた。",
+              "highlight": "dictated"
+            }
+          ]
+        },
+        {
+          "title": "「命令・規定する」の例文",
+          "examples": [
+            {
+              "en": "Common sense dictates that we should stop now.",
+              "ja": "常識的に考えれば、今はやめるべきだ（常識がそう命令している）。",
+              "highlight": "dictates"
+            },
+            {
+              "en": "We shouldn't let others dictate how we live.",
+              "ja": "他人に自分たちの生き方を指図（規定）させてはいけない。",
+              "highlight": "dictate"
+            }
+          ]
+        }
+      ],
+      "etymology": "dicere（言う）",
+      "synonyms": [
+        {"word": "command", "trans": "命令する"},
+        {"word": "prescribe", "trans": "規定する"},
+        {"word": "order", "trans": "命じる"}
+      ],
+      "antonyms": [
+        {"word": "request", "trans": "依頼する"},
+        {"word": "obey", "trans": "従う"}
+      ],
+      "related": [
+        {"word": "dictator", "trans": "名詞：独裁者"},
+        {"word": "dictation", "trans": "名詞：書き取り"}
+      ]
+    },
+    {
+      "number": 11611,
+      "word": "blur",
+      "pos": "動詞",
+      "meaning": "①〜をぼやかす ②ぼやける",
+      "nuance": "輪郭を不明瞭にすることを指し、視覚的なものだけでなく、境界線や記憶などについても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Tears blurred her vision.",
+              "ja": "涙で彼女の視界がぼやけた。",
+              "highlight": "blurred"
+            },
+            {
+              "en": "The line between work and private life is increasingly blurred.",
+              "ja": "仕事とプライベートの境界線がますます曖昧になっている。",
+              "highlight": "blurred"
+            }
+          ]
+        }
+      ],
+      "etymology": "由来不明（おそらく「泥」や「汚れ」に関連）",
+      "synonyms": [
+        {"word": "obscure", "trans": "不明瞭にする"},
+        {"word": "cloud", "trans": "曇らせる"},
+        {"word": "fuzz", "trans": "ぼやけさせる"}
+      ],
+      "antonyms": [
+        {"word": "sharpen", "trans": "鋭くする"},
+        {"word": "clarify", "trans": "明確にする"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11612,
+      "word": "divert",
+      "pos": "動詞",
+      "meaning": "①（方向など）を変える ②（注意など）をそらす",
+      "nuance": "流れているもの（水、交通、資金、意識など）を本来の道筋から別の方向へ向けることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Traffic was diverted due to the construction work.",
+              "ja": "工事のため、交通は迂回させられた（方向を変えられた）。",
+              "highlight": "diverted"
+            },
+            {
+              "en": "The noise diverted my attention from the book.",
+              "ja": "物音のせいで、本に向けられていた注意が削がれた（そらされた）。",
+              "highlight": "diverted"
+            }
+          ]
+        }
+      ],
+      "etymology": "di (離れて) + vertere (回す)",
+      "synonyms": [
+        {"word": "reroute", "trans": "ルートを変更する"},
+        {"word": "distract", "trans": "（気を）そらす"},
+        {"word": "deflect", "trans": "屈折させる"}
+      ],
+      "antonyms": [
+        {"word": "focus", "trans": "集中させる"},
+        {"word": "direct", "trans": "向ける"}
+      ],
+      "related": [
+        {"word": "diversion", "trans": "名詞：転換、気分転換"}
+      ]
+    },
+    {
+      "number": 11613,
+      "word": "reverse",
+      "pos": "動詞、名詞、形容詞",
+      "meaning": "【動】①〜を逆転する、覆す 【名】②逆、裏 【形】③逆の",
+      "nuance": "方向や順序、決定などを180度反対にすることを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The court decided to reverse the previous ruling.",
+              "ja": "裁判所は以前の判決を覆す（逆転させる）決定をした。",
+              "highlight": "reverse"
+            }
+          ]
+        },
+        {
+          "title": "名詞・形容詞の例文",
+          "examples": [
+            {
+              "en": "The reverse side of the coin is beautiful.",
+              "ja": "コインの裏側（逆の側）は美しい。",
+              "highlight": "reverse"
+            },
+            {
+              "en": "The results were the exact reverse of what we expected.",
+              "ja": "結果は私たちが予想していたものと正反対だった。",
+              "highlight": "reverse"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (後ろへ) + vertere (回す)",
+      "synonyms": [
+        {"word": "invert", "trans": "逆にする"},
+        {"word": "overturn", "trans": "ひっくり返す"},
+        {"word": "opposite", "trans": "反対の"}
+      ],
+      "antonyms": [
+        {"word": "forward", "trans": "前方の"},
+        {"word": "maintain", "trans": "維持する"}
+      ],
+      "related": [
+        {"word": "reversible", "trans": "形容詞：裏返しにできる"}
+      ]
+    },
+    {
+      "number": 11614,
+      "word": "supplement",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を補う 【名】②補充、サプリメント ③付録",
+      "nuance": "すでに存在するものに、さらに価値を高めたり不足を満たしたりするために「追加」することを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "He supplements his income by working as a tutor at night.",
+              "ja": "彼は夜に家庭教師として働くことで収入を補っている。",
+              "highlight": "supplements"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "I take vitamin supplements every morning.",
+              "ja": "私は毎朝ビタミン剤（サプリメント）を飲んでいる。",
+              "highlight": "supplements"
+            },
+            {
+              "en": "The Sunday paper has a special color supplement.",
+              "ja": "日曜版の新聞には特別なカラー付録がついている。",
+              "highlight": "supplement"
+            }
+          ]
+        }
+      ],
+      "etymology": "sub (下から) + plere (満たす)",
+      "synonyms": [
+        {"word": "complement", "trans": "補完する"},
+        {"word": "add to", "trans": "加える"},
+        {"word": "addition", "trans": "追加物"}
+      ],
+      "antonyms": [
+        {"word": "subtract", "trans": "引く"},
+        {"word": "reduce", "trans": "減らす"}
+      ],
+      "related": [
+        {"word": "supplementary", "trans": "形容詞：補充の、追加の"}
+      ]
+    },
+    {
+      "number": 11615,
+      "word": "pose",
+      "pos": "動詞",
+      "meaning": "〜をもたらす、引き起こす、（問題を）提起する",
+      "nuance": "特に危険、問題、困難、疑問などを相手の前に「置く」というニュアンスで使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Global warming poses a serious threat to our environment.",
+              "ja": "地球温暖化は私たちの環境に深刻な脅威をもたらしている。",
+              "highlight": "poses"
+            },
+            {
+              "en": "The professor posed a difficult question to the students.",
+              "ja": "教授は学生たちに難しい質問を投げかけた（提起した）。",
+              "highlight": "posed"
+            }
+          ]
+        }
+      ],
+      "etymology": "pausa（一時休止、置くこと）",
+      "synonyms": [
+        {"word": "present", "trans": "提示する"},
+        {"word": "cause", "trans": "原因となる"},
+        {"word": "create", "trans": "作り出す"}
+      ],
+      "antonyms": [
+        {"word": "solve", "trans": "解決する"},
+        {"word": "remove", "trans": "取り除く"}
+      ],
+      "related": [
+        {"word": "posture", "trans": "名詞：姿勢"}
+      ]
+    },
+    {
+      "number": 11616,
+      "word": "stroll",
+      "pos": "動詞、名詞",
+      "meaning": "散策する、ぶらぶら歩く",
+      "nuance": "急がず、リラックスした状態で、楽しみのためにゆっくり歩くことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We strolled through the park on Sunday afternoon.",
+              "ja": "私たちは日曜の午後、公園を散策した。",
+              "highlight": "strolled"
+            },
+            {
+              "en": "After dinner, they took a stroll along the beach.",
+              "ja": "夕食後、彼らはビーチをぶらぶら歩いた（散歩した）。",
+              "highlight": "stroll"
+            }
+          ]
+        }
+      ],
+      "etymology": "ドイツ語 strolchen（ぶらぶらする）",
+      "synonyms": [
+        {"word": "wander", "trans": "歩き回る"},
+        {"word": "saunter", "trans": "のんびり歩く"},
+        {"word": "walk", "trans": "歩く"}
+      ],
+      "antonyms": [
+        {"word": "run", "trans": "走る"},
+        {"word": "rush", "trans": "急ぐ"},
+        {"word": "dash", "trans": "突進する"}
+      ],
+      "related": [
+        {"word": "stroller", "trans": "名詞：ベビーカー（米）、散歩する人"}
+      ]
+    },
+    {
+      "number": 11617,
+      "word": "shrug",
+      "pos": "動詞",
+      "meaning": "（肩）をすくめる",
+      "nuance": "「わからない」「興味がない」「どうしようもない」という感情を示すために、両肩を上げる動作を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "When I asked him for the answer, he just shrugged his shoulders.",
+              "ja": "彼に答えを尋ねると、彼はただ肩をすくめた。",
+              "highlight": "shrugged"
+            },
+            {
+              "en": "She shrugged off the criticism and continued her work.",
+              "ja": "彼女は批判を（肩をすくめるように）受け流して、仕事を続けた。",
+              "highlight": "shrugged"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語 schruggen（震える、縮こまる）",
+      "synonyms": [
+        {"word": "ignore", "trans": "無視する（shrug off）"},
+        {"word": "dismiss", "trans": "退ける"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11618,
+      "word": "sniff",
+      "pos": "動詞",
+      "meaning": "①（くんくん）臭いをかぐ ②鼻をすする",
+      "nuance": "鼻から短く息を吸い込む動作を指します。臭いを確認するためや、泣いている時、あるいは軽蔑を示す時に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The dog sniffed the stranger's shoes.",
+              "ja": "犬は見知らぬ人の靴の臭いをくんくんかいだ。",
+              "highlight": "sniffed"
+            },
+            {
+              "en": "Stop sniffing and use a tissue.",
+              "ja": "鼻をすするのはやめて、ティッシュを使いなさい。",
+              "highlight": "sniffing"
+            }
+          ]
+        }
+      ],
+      "etymology": "擬音語的由来",
+      "synonyms": [
+        {"word": "smell", "trans": "臭いをかぐ"},
+        {"word": "inhale", "trans": "吸い込む"},
+        {"word": "snuffle", "trans": "鼻を鳴らす"}
+      ],
+      "antonyms": [
+        {"word": "exhale", "trans": "吐き出す"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11619,
+      "word": "embrace",
+      "pos": "動詞",
+      "meaning": "①〜を抱擁する ②（思想・提案など）を受け入れる",
+      "nuance": "腕の中に抱き込む（物理）だけでなく、新しい考えや変化を喜んで受け入れる（精神）というポジティブな意味で広く使われます。",
+      "example_sections": [
+        {
+          "title": "「抱擁する」の例文",
+          "examples": [
+            {
+              "en": "The two friends embraced warmly at the airport.",
+              "ja": "二人の友人は空港で温かく抱き合った。",
+              "highlight": "embraced"
+            }
+          ]
+        },
+        {
+          "title": "「受け入れる」の例文",
+          "examples": [
+            {
+              "en": "The company has embraced new technologies to stay competitive.",
+              "ja": "その会社は競争力を維持するために新しい技術を取り入れた（受け入れた）。",
+              "highlight": "embraced"
+            },
+            {
+              "en": "She decided to embrace the opportunity to work abroad.",
+              "ja": "彼女は海外で働く機会を喜んで受け入れることにした。",
+              "highlight": "embrace"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (中へ) + brace (腕)",
+      "synonyms": [
+        {"word": "hug", "trans": "抱きしめる"},
+        {"word": "accept", "trans": "受け入れる"},
+        {"word": "adopt", "trans": "採用する"}
+      ],
+      "antonyms": [
+        {"word": "reject", "trans": "拒絶する"},
+        {"word": "exclude", "trans": "除外する"},
+        {"word": "shun", "trans": "避ける"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11620,
+      "word": "betray",
+      "pos": "動詞",
+      "meaning": "①〜を裏切る ②（秘密など）を漏らす、（感情が）うっかり出る",
+      "nuance": "信頼を裏切るという基本意味のほかに、隠そうとしていた本心や秘密が意図せず外に漏れてしまう際にも使われます。",
+      "example_sections": [
+        {
+          "title": "「裏切る」の例文",
+          "examples": [
+            {
+              "en": "He felt that his closest friend had betrayed him.",
+              "ja": "彼は親友に裏切られたと感じた。",
+              "highlight": "betrayed"
+            }
+          ]
+        },
+        {
+          "title": "「漏らす・さらけ出す」の例文",
+          "examples": [
+            {
+              "en": "His voice betrayed his nervousness.",
+              "ja": "彼の声から緊張が（うっかり）漏れてしまった。",
+              "highlight": "betrayed"
+            },
+            {
+              "en": "She promised never to betray the secret.",
+              "ja": "彼女はその秘密を絶対に漏らさないと約束した。",
+              "highlight": "betray"
+            }
+          ]
+        }
+      ],
+      "etymology": "be (完全に) + tradere (引き渡す)",
+      "synonyms": [
+        {"word": "deceive", "trans": "だます"},
+        {"word": "reveal", "trans": "明かす"},
+        {"word": "disclose", "trans": "暴露する"}
+      ],
+      "antonyms": [
+        {"word": "protect", "trans": "守る"},
+        {"word": "defend", "trans": "守る"},
+        {"word": "be loyal", "trans": "忠実である"}
+      ],
+      "related": [
+        {"word": "betrayal", "trans": "名詞：裏切り"}
+      ]
+    },
+    {
+      "number": 11621,
+      "word": "deceive",
+      "pos": "動詞",
+      "meaning": "〜をだます",
+      "nuance": "偽りの情報を与えたり、真実を隠したりすることで、相手に間違ったことを信じ込ませることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The advertisement was designed to deceive consumers.",
+              "ja": "その広告は消費者をだますように作られていた。",
+              "highlight": "deceive"
+            },
+            {
+              "en": "He deceived himself into thinking that everything would be fine.",
+              "ja": "彼はすべてがうまくいくと思い込んで自分を欺いた。",
+              "highlight": "deceived"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (離れて) + capere (取る) → 正道から引き離す",
+      "synonyms": [
+        {"word": "trick", "trans": "だます"},
+        {"word": "mislead", "trans": "誤解させる"},
+        {"word": "cheat", "trans": "欺く"}
+      ],
+      "antonyms": [
+        {"word": "enlighten", "trans": "啓発する"},
+        {"word": "be honest", "trans": "正直である"}
+      ],
+      "related": [
+        {"word": "deception", "trans": "名詞：欺瞞"},
+        {"word": "deceptive", "trans": "形容詞：人をだますような"}
+      ]
+    },
+    {
+      "number": 11622,
+      "word": "bully",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜をいじめる 【名】②いじめっ子、いばり散らす人",
+      "nuance": "自分より弱い者に対して、暴力や脅しを使って苦しめたり、無理やり何かをさせたりすることを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "He was bullied at school for being different.",
+              "ja": "彼は人とは違うという理由で学校でいじめられていた。",
+              "highlight": "bullied"
+            },
+            {
+              "en": "Don't let them bully you into doing something you don't want to do.",
+              "ja": "やりたくないことをするよう彼らに脅されてはいけない。",
+              "highlight": "bully"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The teacher punished the classroom bully.",
+              "ja": "先生はクラスのいじめっ子を罰した。",
+              "highlight": "bully"
+            }
+          ]
+        }
+      ],
+      "etymology": "オランダ語 boel（恋人、兄弟）がなぜか「威張り屋」に転じた",
+      "synonyms": [
+        {"word": "torment", "trans": "苦しめる"},
+        {"word": "intimidate", "trans": "脅す"},
+        {"word": "harass", "trans": "嫌がらせをする"}
+      ],
+      "antonyms": [
+        {"word": "protect", "trans": "保護する"},
+        {"word": "support", "trans": "支援する"}
+      ],
+      "related": [
+        {"word": "bullying", "trans": "名詞：いじめ"}
+      ]
+    },
+    {
+      "number": 11623,
+      "word": "squeeze",
+      "pos": "動詞",
+      "meaning": "①（果汁など）を搾る ②（手などで）〜を強く押す、詰め込む",
+      "nuance": "両側から圧力をかけて中身を出したり、狭い場所に無理やり押し込んだりすることを指します。",
+      "example_sections": [
+        {
+          "title": "「搾る」の例文",
+          "examples": [
+            {
+              "en": "Squeeze the lemon over the fish.",
+              "ja": "魚の上にレモンを搾ってください。",
+              "highlight": "Squeeze"
+            }
+          ]
+        },
+        {
+          "title": "「強く押す・詰め込む」の例文",
+          "examples": [
+            {
+              "en": "He squeezed my hand encouragingly.",
+              "ja": "彼は励ますように私の手を強く握った（押した）。",
+              "highlight": "squeezed"
+            },
+            {
+              "en": "Five of us managed to squeeze into the small car.",
+              "ja": "私たちは5人でなんとかその小さな車に詰め込んで（乗り込んで）入った。",
+              "highlight": "squeeze"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 cwiesan（つぶす）",
+      "synonyms": [
+        {"word": "press", "trans": "押す"},
+        {"word": "compress", "trans": "圧縮する"},
+        {"word": "stuff", "trans": "詰め込む"}
+      ],
+      "antonyms": [
+        {"word": "expand", "trans": "広げる"},
+        {"word": "release", "trans": "放す"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11624,
+      "word": "insert",
+      "pos": "動詞",
+      "meaning": "①〜を差し込む ②（語句など）を書き込む、挿入する",
+      "nuance": "あるものの中に、別のものを注意深く入れることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Insert the card into the machine.",
+              "ja": "機械にカードを差し込んでください。",
+              "highlight": "Insert"
+            },
+            {
+              "en": "You need to insert a comma here.",
+              "ja": "ここにコンマを書き込む（挿入する）必要があります。",
+              "highlight": "insert"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + serere (つなぐ、植える)",
+      "synonyms": [
+        {"word": "put in", "trans": "入れる"},
+        {"word": "introduce", "trans": "導入する"},
+        {"word": "add", "trans": "加える"}
+      ],
+      "antonyms": [
+        {"word": "extract", "trans": "抜き出す"},
+        {"word": "remove", "trans": "取り除く"},
+        {"word": "delete", "trans": "削除する"}
+      ],
+      "related": [
+        {"word": "insertion", "trans": "名詞：挿入"}
+      ]
+    },
+    {
+      "number": 11625,
+      "word": "detach",
+      "pos": "動詞",
+      "meaning": "（A from B） AをBから切り離す、取り外す",
+      "nuance": "くっついているものを分離させることを指します。反対語の attach（取り付ける）とセットで覚えましょう。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please detach the application form and mail it to us.",
+              "ja": "申込書を切り離して、私たちに郵送してください。",
+              "highlight": "detach"
+            },
+            {
+              "en": "It's difficult to detach yourself from your emotions.",
+              "ja": "自分の感情を切り離して考えるのは難しい。",
+              "highlight": "detach"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (離れて) + attach（くっつける）",
+      "synonyms": [
+        {"word": "separate", "trans": "分ける"},
+        {"word": "disconnect", "trans": "切断する"},
+        {"word": "remove", "trans": "取り去る"}
+      ],
+      "antonyms": [
+        {"word": "attach", "trans": "取り付ける"},
+        {"word": "connect", "trans": "接続する"},
+        {"word": "unite", "trans": "結合する"}
+      ],
+      "related": [
+        {"word": "detached", "trans": "形容詞：切り離された、公平な"},
+        {"word": "detachment", "trans": "名詞：分離、超然とした態度"}
+      ]
+    },
+    {
+      "number": 11626,
+      "word": "withdraw",
+      "pos": "動詞",
+      "meaning": "①〜を引っ込める ②（預金など）を引き出す ③退く、撤退する",
+      "nuance": "「後ろ(with)へ引く(draw)」が語源。提示していたものを取り下げたり、場所から立ち去ったりすることを指します。",
+      "example_sections": [
+        {
+          "title": "「引き出す・引っ込める」の例文",
+          "examples": [
+            {
+              "en": "I need to withdraw some cash from the ATM.",
+              "ja": "ATMから現金を引き出す必要がある。",
+              "highlight": "withdraw"
+            },
+            {
+              "en": "The company decided to withdraw the product from the market.",
+              "ja": "会社はその製品を市場から回収する（引っ込める）ことにした。",
+              "highlight": "withdraw"
+            }
+          ]
+        },
+        {
+          "title": "「撤退する」の例文",
+          "examples": [
+            {
+              "en": "The troops were ordered to withdraw from the border.",
+              "ja": "軍隊は国境から撤退するよう命じられた。",
+              "highlight": "withdraw"
+            }
+          ]
+        }
+      ],
+      "etymology": "with (後ろへ) + draw (引く)",
+      "synonyms": [
+        {"word": "retract", "trans": "撤回する"},
+        {"word": "retreat", "trans": "後退する"},
+        {"word": "extract", "trans": "抜き出す"}
+      ],
+      "antonyms": [
+        {"word": "deposit", "trans": "預ける"},
+        {"word": "advance", "trans": "進む"},
+        {"word": "insert", "trans": "挿入する"}
+      ],
+      "related": [
+        {"word": "withdrawal", "trans": "名詞：引き出し、撤退"}
+      ]
+    },
+    {
+      "number": 11627,
+      "word": "withstand",
+      "pos": "動詞",
+      "meaning": "〜に耐える、抵抗する",
+      "nuance": "強い圧力、攻撃、厳しい環境などに対して、屈することなく持ち堪えることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The old building withstood the earthquake.",
+              "ja": "その古い建物は地震に耐えた。",
+              "highlight": "withstood"
+            },
+            {
+              "en": "These materials are designed to withstand high temperatures.",
+              "ja": "これらの材料は高温に耐えられるように設計されている。",
+              "highlight": "withstand"
+            }
+          ]
+        }
+      ],
+      "etymology": "with (対抗して) + stand (立つ)",
+      "synonyms": [
+        {"word": "endure", "trans": "耐える"},
+        {"word": "resist", "trans": "抵抗する"},
+        {"word": "tolerate", "trans": "我慢する"}
+      ],
+      "antonyms": [
+        {"word": "yield", "trans": "屈する"},
+        {"word": "surrender", "trans": "降伏する"},
+        {"word": "collapse", "trans": "崩壊する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11628,
+      "word": "exert",
+      "pos": "動詞",
+      "meaning": "（力・影響力など）を働かせる、使う",
+      "nuance": "持っている力や権利などを、特定の目的のために積極的に投入することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He exerted all his influence to get the job.",
+              "ja": "彼はその仕事を得るために、あらゆる影響力を行使した（働かせた）。",
+              "highlight": "exerted"
+            },
+            {
+              "en": "You should exert more effort if you want to pass the exam.",
+              "ja": "試験に受かりたいなら、もっと努力を注ぐ（使う）べきだ。",
+              "highlight": "exert"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + serere (つなぐ) → 外へ出す",
+      "synonyms": [
+        {"word": "exercise", "trans": "行使する"},
+        {"word": "apply", "trans": "適用する、用いる"},
+        {"word": "wield", "trans": "振るう"}
+      ],
+      "antonyms": [
+        {"word": "idle", "trans": "怠ける"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "exertion", "trans": "名詞：尽力、行使"}
+      ]
+    },
+    {
+      "number": 11629,
+      "word": "compile",
+      "pos": "動詞",
+      "meaning": "〜をまとめる、編集する",
+      "nuance": "様々な場所から情報を集めて、一つのリストや本などの形に整理することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We are compiling a list of potential customers.",
+              "ja": "私たちは潜在顧客のリストをまとめている。",
+              "highlight": "compiling"
+            },
+            {
+              "en": "It took years to compile the dictionary.",
+              "ja": "その辞書を編集するのに何年もかかった。",
+              "highlight": "compile"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に) + pilare (集める、圧縮する)",
+      "synonyms": [
+        {"word": "assemble", "trans": "集める"},
+        {"word": "organize", "trans": "組織化する"},
+        {"word": "collect", "trans": "収集する"}
+      ],
+      "antonyms": [
+        {"word": "scatter", "trans": "まき散らす"},
+        {"word": "disperse", "trans": "分散させる"}
+      ],
+      "related": [
+        {"word": "compilation", "trans": "名詞：編集物"}
+      ]
+    },
+    {
+      "number": 11630,
+      "word": "browse",
+      "pos": "動詞",
+      "meaning": "拾い読みする、ぶらぶら見て回る",
+      "nuance": "特定の目的を持たずに、本や店の品物、ウェブサイトなどをパラパラと眺めることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I spent the afternoon browsing in the bookstore.",
+              "ja": "私は午後、書店で本を拾い読みして（ぶらぶら見て）過ごした。",
+              "highlight": "browsing"
+            },
+            {
+              "en": "Are you looking for something special? No, I'm just browsing.",
+              "ja": "「何かお探しですか？」「いえ、見ているだけです（ブラウズしているだけです）。」",
+              "highlight": "browsing"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 broce（若枝）→ 若枝を食べる",
+      "synonyms": [
+        {"word": "scan", "trans": "ざっと見る"},
+        {"word": "skim", "trans": "すくい読みする"},
+        {"word": "look through", "trans": "目を通す"}
+      ],
+      "antonyms": [
+        {"word": "scrutinize", "trans": "精査する"},
+        {"word": "study", "trans": "詳しく調べる"}
+      ],
+      "related": [
+        {"word": "browser", "trans": "名詞：閲覧ソフト（ブラウザ）"}
+      ]
+    },
+    {
+      "number": 11631,
+      "word": "manipulate",
+      "pos": "動詞",
+      "meaning": "〜を操作する、操る",
+      "nuance": "手で器用に扱うことのほか、人を自分の思い通りに動かしたり、数値を改ざんしたりする「巧みな（または不正な）操作」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She knows how to manipulate people to get what she wants.",
+              "ja": "彼女は欲しいものを手に入れるために人を操る方法を知っている。",
+              "highlight": "manipulate"
+            },
+            {
+              "en": "The robot arm can manipulate delicate objects.",
+              "ja": "そのロボットアームは繊細な物体を操作できる。",
+              "highlight": "manipulate"
+            }
+          ]
+        }
+      ],
+      "etymology": "manus (手) + plere (満たす) → 手いっぱいに扱う",
+      "synonyms": [
+        {"word": "operate", "trans": "操作する"},
+        {"word": "control", "trans": "制御する"},
+        {"word": "influence", "trans": "影響を与える"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "manipulation", "trans": "名詞：操作"}
+      ]
+    },
+    {
+      "number": 11632,
+      "word": "implement",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①（契約・計画など）を実行する 【名】②（単純な）道具",
+      "nuance": "決定された計画やシステムなどを、実際に機能するように導入・実施することを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The new policy will be implemented next month.",
+              "ja": "新しい方針は来月実行（実施）される。",
+              "highlight": "implemented"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Agricultural implements such as plows are necessary for farming.",
+              "ja": "鋤のような農具（道具）が農業には必要だ。",
+              "highlight": "implements"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + plere (満たす) → 満たすための手段",
+      "synonyms": [
+        {"word": "execute", "trans": "実行する"},
+        {"word": "carry out", "trans": "遂行する"},
+        {"word": "tool", "trans": "道具"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "cancel", "trans": "中止する"}
+      ],
+      "related": [
+        {"word": "implementation", "trans": "名詞：実行、実施"}
+      ]
+    },
+    {
+      "number": 11633,
+      "word": "execute",
+      "pos": "動詞",
+      "meaning": "①〜を遂行する、実行する ②〜を処刑する",
+      "nuance": "「最後までやり遂げる」というコアから、計画を完了させること、あるいは死刑判決を執行することを指します。",
+      "example_sections": [
+        {
+          "title": "「実行・遂行する」の例文",
+          "examples": [
+            {
+              "en": "The soldiers executed the order without question.",
+              "ja": "兵士たちは疑うことなく命令を遂行した。",
+              "highlight": "executed"
+            }
+          ]
+        },
+        {
+          "title": "「処刑する」の例文",
+          "examples": [
+            {
+              "en": "He was executed for treason.",
+              "ja": "彼は反逆罪で処刑された。",
+              "highlight": "executed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (最後まで) + sequi (従う)",
+      "synonyms": [
+        {"word": "perform", "trans": "行う"},
+        {"word": "accomplish", "trans": "成し遂げる"},
+        {"word": "put to death", "trans": "死刑にする"}
+      ],
+      "antonyms": [
+        {"word": "fail", "trans": "失敗する"},
+        {"word": "pardon", "trans": "恩赦する"}
+      ],
+      "related": [
+        {"word": "executive", "trans": "名詞：重役 形容詞：執行権を持つ"},
+        {"word": "execution", "trans": "名詞：実行、処刑"}
+      ]
+    }
+  ]
+}
