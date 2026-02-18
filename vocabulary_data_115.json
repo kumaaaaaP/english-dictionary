@@ -1,0 +1,1163 @@
+{
+  "words": [
+    {
+      "number": 11501,
+      "word": "tyranny",
+      "pos": "名詞",
+      "meaning": "①圧政、専制政治 ②暴虐（な行為）",
+      "nuance": "絶対的な権力を持つ支配者が、国民の権利を無視して私利私欲のために行う統治を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The people eventually rose up against the tyranny of the dictator.",
+              "ja": "人々はついに独裁者の圧政に対して蜂起した。",
+              "highlight": "tyranny"
+            },
+            {
+              "en": "The law was designed to prevent the tyranny of the majority.",
+              "ja": "その法律は「多数派の専制（暴挙）」を防ぐために設計された。",
+              "highlight": "tyranny"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 tyrannos（僭主、非合法な支配者）",
+      "synonyms": [
+        {"word": "dictatorship", "trans": "独裁政治"},
+        {"word": "autocracy", "trans": "専制政治"},
+        {"word": "oppression", "trans": "抑圧"}
+      ],
+      "antonyms": [
+        {"word": "democracy", "trans": "民主主義"},
+        {"word": "liberty", "trans": "自由"}
+      ],
+      "related": [
+        {"word": "tyrant", "trans": "名詞：暴君、専制君主"},
+        {"word": "tyrannical", "trans": "形容詞：専制的な"}
+      ]
+    },
+    {
+      "number": 11502,
+      "word": "sanction",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①（-s）制裁 ②（公的な）認可 【動】③〜を認可する",
+      "nuance": "法的な強制力を持つ「お墨付き」が語源。国際関係では悪い事柄への「制裁」、国内法などでは正しい手続きへの「承認」という真逆のニュアンスで使われるため注意が必要です。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The UN imposed economic sanctions on the country.",
+              "ja": "国連はその国に対して経済制裁を科した。",
+              "highlight": "sanctions"
+            },
+            {
+              "en": "The project can only proceed with official sanction.",
+              "ja": "そのプロジェクトは公的な認可がなければ進めることができない。",
+              "highlight": "sanction"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The government refused to sanction the use of force.",
+              "ja": "政府は武力の行使を認める（認可する）ことを拒否した。",
+              "highlight": "sanction"
+            }
+          ]
+        }
+      ],
+      "etymology": "sanctus（神聖な、法によって規定された）",
+      "synonyms": [
+        {"word": "penalty", "trans": "罰則"},
+        {"word": "embargo", "trans": "通商停止"},
+        {"word": "approval", "trans": "承認"}
+      ],
+      "antonyms": [
+        {"word": "prohibition", "trans": "禁止"},
+        {"word": "veto", "trans": "拒否権、否認"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11503,
+      "word": "census",
+      "pos": "名詞",
+      "meaning": "国勢調査、人口調査",
+      "nuance": "単なるアンケートではなく、国が公式に全住民を対象に行う大規模な調査を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A national census is taken every five years in Japan.",
+              "ja": "日本では5年ごとに国勢調査が行われる。",
+              "highlight": "census"
+            }
+          ]
+        }
+      ],
+      "etymology": "censere（評価する、見積もる）",
+      "synonyms": [
+        {"word": "population count", "trans": "人口調査"},
+        {"word": "survey", "trans": "調査"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11504,
+      "word": "candidate",
+      "pos": "名詞",
+      "meaning": "（for ～）候補（者）、（～に）なりそうな人・物",
+      "nuance": "「白い服を着た人」が語源。古代ローマで公職の候補者が白いトガを着用したことに由来します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There are three candidates running for mayor.",
+              "ja": "市長選には3人の候補者が立候補している。",
+              "highlight": "candidates"
+            },
+            {
+              "en": "This area is a prime candidate for redevelopment.",
+              "ja": "この地域は再開発の第一候補地（なりそうな場所）だ。",
+              "highlight": "candidate"
+            }
+          ]
+        }
+      ],
+      "etymology": "candidus（真っ白な）",
+      "synonyms": [
+        {"word": "applicant", "trans": "志願者"},
+        {"word": "nominee", "trans": "指名された候補者"},
+        {"word": "contender", "trans": "競争相手"}
+      ],
+      "antonyms": [
+        {"word": "incumbent", "trans": "（現職の）職務保持者"}
+      ],
+      "related": [
+        {"word": "candidacy", "trans": "名詞：立候補"}
+      ]
+    },
+    {
+      "number": 11505,
+      "word": "senator",
+      "pos": "名詞",
+      "meaning": "〈米〉（しばしばS-）上院議員",
+      "nuance": "アメリカの上院（Senate）の議員。元々は「長老（senex）」が語源で、経験豊富な政治家を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The Senator gave a speech about the new tax bill.",
+              "ja": "その上院議員は新しい税案について演説を行った。",
+              "highlight": "Senator"
+            }
+          ]
+        }
+      ],
+      "etymology": "senex（老人）",
+      "synonyms": [
+        {"word": "lawmaker", "trans": "立法者"},
+        {"word": "legislator", "trans": "国会議員"}
+      ],
+      "antonyms": [
+        {"word": "representative", "trans": "〈米〉下院議員"}
+      ],
+      "related": [
+        {"word": "Senate", "trans": "名詞：上院"}
+      ]
+    },
+    {
+      "number": 11506,
+      "word": "ambassador",
+      "pos": "名詞",
+      "meaning": "大使、使節",
+      "nuance": "一国を代表して他国に駐在する最高位の外交官。比喩的に「親善大使」などにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She was appointed as the Japanese ambassador to the United States.",
+              "ja": "彼女は駐米日本大使に任命された。",
+              "highlight": "ambassador"
+            }
+          ]
+        }
+      ],
+      "etymology": "ambactus（召使い、使者）",
+      "synonyms": [
+        {"word": "envoy", "trans": "公使、使節"},
+        {"word": "emissary", "trans": "密使、使者"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "embassy", "trans": "名詞：大使館"}
+      ]
+    },
+    {
+      "number": 11507,
+      "word": "diplomat",
+      "pos": "名詞",
+      "meaning": "外交官",
+      "nuance": "国を代表して他国との交渉や関係構築を職務とする公務員。大使（ambassador）も外交官の一種です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A diplomat needs to have excellent communication skills.",
+              "ja": "外交官には優れたコミュニケーション能力が必要だ。",
+              "highlight": "diplomat"
+            }
+          ]
+        }
+      ],
+      "etymology": "diploma（二つ折りの公式文書、免状）",
+      "synonyms": [
+        {"word": "statesman", "trans": "政治家、外交家"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "diplomacy", "trans": "名詞：外交"},
+        {"word": "diplomatic", "trans": "形容詞：外交の、外交的な（＝駆け引きのうまい）"}
+      ]
+    },
+    {
+      "number": 11508,
+      "word": "refugee",
+      "pos": "名詞",
+      "meaning": "難民",
+      "nuance": "戦争、迫害、災害などから逃れて他国や他地域に保護を求める人々。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The UN is providing aid to millions of war refugees.",
+              "ja": "国連は何百万人もの戦争難民に援助を提供している。",
+              "highlight": "refugees"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (後ろへ) + fugere (逃げる)",
+      "synonyms": [
+        {"word": "evacuee", "trans": "避難者"},
+        {"word": "displaced person", "trans": "国内避難民（DP）"},
+        {"word": "asylum seeker", "trans": "亡命希望者"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "refuge", "trans": "名詞：避難（所）"},
+        {"word": "fugitive", "trans": "名詞：逃亡者"}
+      ]
+    },
+    {
+      "number": 11509,
+      "word": "territory",
+      "pos": "名詞",
+      "meaning": "①領土 ②（動物の）縄張り ③（学問などの）領域",
+      "nuance": "「土地(terra)」が語源。特定の国、動物、個人が支配・管轄している範囲を指します。",
+      "example_sections": [
+        {
+          "title": "「領土」の例文",
+          "examples": [
+            {
+              "en": "The two countries are fighting over the disputed territory.",
+              "ja": "その二国は紛争地域（領土）を巡って争っている。",
+              "highlight": "territory"
+            }
+          ]
+        },
+        {
+          "title": "「縄張り・領域」の例文",
+          "examples": [
+            {
+              "en": "Male lions will defend their territory from intruders.",
+              "ja": "雄ライオンは侵入者から自分の縄張りを守る。",
+              "highlight": "territory"
+            },
+            {
+              "en": "Quantum physics is unfamiliar territory for most people.",
+              "ja": "量子力学はほとんどの人にとって未知の領域である。",
+              "highlight": "territory"
+            }
+          ]
+        }
+      ],
+      "etymology": "terra（土地）",
+      "synonyms": [
+        {"word": "region", "trans": "地域"},
+        {"word": "domain", "trans": "分野、領地"},
+        {"word": "realm", "trans": "王国、領域"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "territorial", "trans": "形容詞：領土の、縄張り意識の強い"}
+      ]
+    },
+    {
+      "number": 11510,
+      "word": "ally",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①同盟国、協力者 【動】②（with ～）提携する",
+      "nuance": "「〜へ(ad)結びつける(ligare)」が語源。共通の目的（特に戦争やビジネス）のために協力し合うパートナーを指します。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The United States is a close ally of South Korea.",
+              "ja": "アメリカは韓国の緊密な同盟国である。",
+              "highlight": "ally"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The small company allied with a larger corporation to survive.",
+              "ja": "その小企業は生き残るために大企業と提携した。",
+              "highlight": "allied with"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (〜に) + ligare (結ぶ)",
+      "synonyms": [
+        {"word": "partner", "trans": "提携相手"},
+        {"word": "collaborator", "trans": "協力者"},
+        {"word": "confederate", "trans": "同盟者"}
+      ],
+      "antonyms": [
+        {"word": "enemy", "trans": "敵"},
+        {"word": "opponent", "trans": "反対者"},
+        {"word": "rival", "trans": "ライバル"}
+      ],
+      "related": [
+        {"word": "alliance", "trans": "名詞：同盟、提携"}
+      ]
+    },
+    {
+      "number": 11511,
+      "word": "federal",
+      "pos": "形容詞",
+      "meaning": "連邦の、連邦政府の",
+      "nuance": "複数の州などが集まって一つの国（連邦）を構成する形態。中央政府の権限を指す際によく使われます（例：FBIのF）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The federal government is responsible for national defense.",
+              "ja": "連邦政府は国防に責任を負っている。",
+              "highlight": "federal"
+            }
+          ]
+        }
+      ],
+      "etymology": "foedus（条約、同盟）",
+      "synonyms": [
+        {"word": "national", "trans": "国の、国家の"},
+        {"word": "central", "trans": "中央の"}
+      ],
+      "antonyms": [
+        {"word": "local", "trans": "地方の"},
+        {"word": "state", "trans": "州の"}
+      ],
+      "related": [
+        {"word": "federation", "trans": "名詞：連邦、連合"}
+      ]
+    },
+    {
+      "number": 11512,
+      "word": "feudal",
+      "pos": "形容詞",
+      "meaning": "（主に欧州の）封建制の、封建的な",
+      "nuance": "領主が家臣に土地を与え、代わりに軍役などを求める社会制度。転じて、古臭い上下関係についても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Knights played a central role in the feudal system of medieval Europe.",
+              "ja": "中世ヨーロッパの封建制度において、騎士は中心的な役割を果たした。",
+              "highlight": "feudal"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語 fehu（家畜、財産）",
+      "synonyms": [],
+      "antonyms": [
+        {"word": "modern", "trans": "現代の"}
+      ],
+      "related": [
+        {"word": "feudalism", "trans": "名詞：封建主義"}
+      ]
+    },
+    {
+      "number": 11513,
+      "word": "communist",
+      "pos": "形容詞、名詞",
+      "meaning": "【形】①共産主義の 【名】②共産主義者",
+      "nuance": "財産の私有を否定し、共同体による共有を目指す思想。community（共同体）と同根です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The country was under Communist rule for decades.",
+              "ja": "その国は何十年もの間、共産主義の支配下にあった。",
+              "highlight": "Communist"
+            }
+          ]
+        }
+      ],
+      "etymology": "communis（共通の）",
+      "synonyms": [],
+      "antonyms": [
+        {"word": "capitalist", "trans": "資本主義（者）の"}
+      ],
+      "related": [
+        {"word": "communism", "trans": "名詞：共産主義"}
+      ]
+    },
+    {
+      "number": 11514,
+      "word": "estate",
+      "pos": "名詞",
+      "meaning": "①（全）財産 ②地所、私有地",
+      "nuance": "単なるお金ではなく、土地や建物、家財道具などを含む「ひとかたまりの資産」というニュアンスがあります。特に相続の際の「全遺産」を指す際によく使われます。",
+      "example_sections": [
+        {
+          "title": "「全財産・遺産」の例文",
+          "examples": [
+            {
+              "en": "She left her entire estate to a charity.",
+              "ja": "彼女は全財産（遺産）を慈善団体に残した。",
+              "highlight": "estate"
+            }
+          ]
+        },
+        {
+          "title": "「地所」の例文",
+          "examples": [
+            {
+              "en": "He owns a large country estate in Scotland.",
+              "ja": "彼はスコットランドに広大なカントリー・エステート（私有地）を所有している。",
+              "highlight": "estate"
+            }
+          ]
+        }
+      ],
+      "etymology": "stare（立つ）→ 社会的な地位、確立された持ち物",
+      "synonyms": [
+        {"word": "property", "trans": "不動産、財産"},
+        {"word": "assets", "trans": "資産"},
+        {"word": "inheritance", "trans": "相続財産"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "real estate", "trans": "名詞：不動産"}
+      ]
+    },
+    {
+      "number": 11515,
+      "word": "asset",
+      "pos": "名詞",
+      "meaning": "財産、資産、強み",
+      "nuance": "価値のある持ち物。会計用語としての「資産」だけでなく、人や組織の「役に立つ特質・長所」という意味でも多用されます。",
+      "example_sections": [
+        {
+          "title": "「資産」の例文",
+          "examples": [
+            {
+              "en": "The company's assets include factories and patents.",
+              "ja": "その会社の資産には工場や特許が含まれる。",
+              "highlight": "assets"
+            }
+          ]
+        },
+        {
+          "title": "「強み」の例文",
+          "examples": [
+            {
+              "en": "Her ability to speak four languages is a great asset to the team.",
+              "ja": "彼女が4か国語を話せることは、チームにとって大きな強み（資産）だ。",
+              "highlight": "asset"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (〜へ) + satis (十分な) → 負債を払うのに十分なもの",
+      "synonyms": [
+        {"word": "wealth", "trans": "富"},
+        {"word": "resource", "trans": "資源、資質"},
+        {"word": "advantage", "trans": "利点"}
+      ],
+      "antonyms": [
+        {"word": "liability", "trans": "負債、不利な点"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11516,
+      "word": "revenue",
+      "pos": "名詞",
+      "meaning": "（国などの）歳入、（事業などの）収益",
+      "nuance": "「戻ってくるもの(re + venire)」が語源。税金や売上として入ってくる総収入を指します。経費を引く前の「総取り」のイメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Tax revenue decreased due to the economic recession.",
+              "ja": "景気後退により、税収（歳入）が減少した。",
+              "highlight": "revenue"
+            },
+            {
+              "en": "The company reported a 20% increase in annual revenue.",
+              "ja": "その会社は年間収益（売上高）の20%増加を報告した。",
+              "highlight": "revenue"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (戻って) + venire (来る)",
+      "synonyms": [
+        {"word": "income", "trans": "所得、収入"},
+        {"word": "earnings", "trans": "稼ぎ"},
+        {"word": "turnover", "trans": "売上高"}
+      ],
+      "antonyms": [
+        {"word": "expenditure", "trans": "支出"},
+        {"word": "outlay", "trans": "経費支出"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11517,
+      "word": "deficit",
+      "pos": "名詞",
+      "meaning": "（会社、国の）赤字、不足額",
+      "nuance": "支出が収入を上回っている状態、またはその不足している金額を指します。 ",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government is trying to reduce the federal budget deficit.",
+              "ja": "政府は連邦予算の赤字を削減しようとしている。",
+              "highlight": "deficit"
+            },
+            {
+              "en": "The trade deficit with China has widened.",
+              "ja": "対中貿易赤字が拡大した。",
+              "highlight": "deficit"
+            }
+          ]
+        }
+      ],
+      "etymology": "deficere（不足する、欠ける）",
+      "synonyms": [
+        {"word": "shortfall", "trans": "不足分"},
+        {"word": "loss", "trans": "損失"},
+        {"word": "shortage", "trans": "不足"}
+      ],
+      "antonyms": [
+        {"word": "surplus", "trans": "黒字、余剰"},
+        {"word": "profit", "trans": "利益"}
+      ],
+      "related": [
+        {"word": "deficient", "trans": "形容詞：欠けている、不十分な"}
+      ]
+    },
+    {
+      "number": 11518,
+      "word": "commerce",
+      "pos": "名詞",
+      "meaning": "商業、通商、貿易",
+      "nuance": "「共に(com)売買する(merx)」が語源。大規模な商品の交換や、国家間の貿易活動などを指す硬い言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The Internet has revolutionized the way we engage in commerce.",
+              "ja": "インターネットは、私たちが商業（取引）を行う方法に革命をもたらした。",
+              "highlight": "commerce"
+            },
+            {
+              "en": "The Chamber of Commerce supports local businesses.",
+              "ja": "商工会議所は地元のビジネスを支援している。",
+              "highlight": "Commerce"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に) + merx (商品)",
+      "synonyms": [
+        {"word": "trade", "trans": "貿易、商売"},
+        {"word": "business", "trans": "仕事、ビジネス"},
+        {"word": "merchandising", "trans": "商品化計画、売買"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "commercial", "trans": "形容詞：商業の／名詞：コマーシャル"},
+        {"word": "e-commerce", "trans": "名詞：電子商取引"}
+      ]
+    },
+    {
+      "number": 11519,
+      "word": "output",
+      "pos": "名詞",
+      "meaning": "①生産高 ②（エネルギー、情報の）出力",
+      "nuance": "一定期間に工場や人が生み出した成果物の量。外（out）へ出した（put）もの、という直訳通りの意味です。",
+      "example_sections": [
+        {
+          "title": "「生産高」の例文",
+          "examples": [
+            {
+              "en": "Industrial output has increased by 5% this year.",
+              "ja": "今年の工業生産高は5%増加した。",
+              "highlight": "output"
+            }
+          ]
+        },
+        {
+          "title": "「出力」の例文",
+          "examples": [
+            {
+              "en": "The power plant has a maximum output of 1,000 megawatts.",
+              "ja": "その発電所の最大出力は1,000メガワットである。",
+              "highlight": "output"
+            }
+          ]
+        }
+      ],
+      "etymology": "out (外に) + put (置く)",
+      "synonyms": [
+        {"word": "production", "trans": "生産"},
+        {"word": "yield", "trans": "収穫高、産出量"},
+        {"word": "achievement", "trans": "成果"}
+      ],
+      "antonyms": [
+        {"word": "input", "trans": "入力、投入"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11520,
+      "word": "subsidy",
+      "pos": "名詞",
+      "meaning": "補助金、助成金",
+      "nuance": "「下から(sub)支える(sidere)」が語源。特定の産業や活動を保護・促進するために政府などが支払うお金です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government provides a subsidy to farmers who grow organic vegetables.",
+              "ja": "政府は有機野菜を栽培する農家に補助金を提供している。",
+              "highlight": "subsidy"
+            }
+          ]
+        }
+      ],
+      "etymology": "sub (下に) + sedere (座る、居座る)",
+      "synonyms": [
+        {"word": "grant", "trans": "助成金"},
+        {"word": "allowance", "trans": "手当、支給額"},
+        {"word": "financial aid", "trans": "財政援助"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "subsidize", "trans": "動詞：〜に補助金を与える"}
+      ]
+    },
+    {
+      "number": 11521,
+      "word": "monopoly",
+      "pos": "名詞",
+      "meaning": "独占（権、品）、独占企業",
+      "nuance": "「一人(mono)で売る(polein)」が語源。特定の企業や個人が、市場を完全に支配している状態を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The software giant was accused of having a monopoly on the market.",
+              "ja": "そのソフトウェア巨頭は、市場を独占しているとして非難された。",
+              "highlight": "monopoly"
+            },
+            {
+              "en": "The government has a monopoly on the production of tobacco.",
+              "ja": "政府はタバコの製造を独占している。",
+              "highlight": "monopoly"
+            }
+          ]
+        }
+      ],
+      "etymology": "monos (一つの) + polein (売る)",
+      "synonyms": [
+        {"word": "exclusive control", "trans": "排他的支配"},
+        {"word": "dominance", "trans": "優位、支配"}
+      ],
+      "antonyms": [
+        {"word": "competition", "trans": "競争"},
+        {"word": "free market", "trans": "自由市場"}
+      ],
+      "related": [
+        {"word": "monopolize", "trans": "動詞：〜を独占する"}
+      ]
+    },
+    {
+      "number": 11522,
+      "word": "transaction",
+      "pos": "名詞",
+      "meaning": "（売買・業務などの）取引、処理",
+      "nuance": "「向こうへ(trans)動かす(agere)」が語源。お金と商品、あるいは情報のやり取りが行われる「一回一回の活動」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The entire transaction took only a few seconds online.",
+              "ja": "オンライン上での取引全体は、わずか数秒で完了した。",
+              "highlight": "transaction"
+            },
+            {
+              "en": "Commercial banks handle thousands of transactions every day.",
+              "ja": "商業銀行は毎日何千もの取引を処理している。",
+              "highlight": "transactions"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans (横切って) + agere (駆り立てる、行う)",
+      "synonyms": [
+        {"word": "deal", "trans": "取引"},
+        {"word": "business deal", "trans": "商談"},
+        {"word": "exchange", "trans": "交換"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "transact", "trans": "動詞：取引する"}
+      ]
+    },
+    {
+      "number": 11523,
+      "word": "corporation",
+      "pos": "名詞",
+      "meaning": "大企業、法人、株式会社",
+      "nuance": "「体(corpus)をなすもの」が語源。法によって一人の人間のように権利・義務を認められた組織（法人）を指します。一般的には大企業に対して使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He works for a multinational corporation.",
+              "ja": "彼は多国籍大企業で働いている。",
+              "highlight": "corporation"
+            }
+          ]
+        }
+      ],
+      "etymology": "corpus（体）",
+      "synonyms": [
+        {"word": "company", "trans": "会社"},
+        {"word": "firm", "trans": "事務所、会社"},
+        {"word": "entity", "trans": "実体、主体"}
+      ],
+      "antonyms": [
+        {"word": "individual", "trans": "個人"}
+      ],
+      "related": [
+        {"word": "corporate", "trans": "形容詞：企業の、法人の"},
+        {"word": "incorporate", "trans": "動詞：〜を法人化する、組み込む"}
+      ]
+    },
+    {
+      "number": 11524,
+      "word": "enterprise",
+      "pos": "名詞",
+      "meaning": "①企業、事業体 ②（冒険的な）事業 ③進取の気性",
+      "nuance": "corporation よりも「困難なことに取り組む活動」というニュアンスが強く、ベンチャー的な勢いのある事業や、中堅以上の会社を指すのにも使われます。",
+      "example_sections": [
+        {
+          "title": "「企業・事業」の例文",
+          "examples": [
+            {
+              "en": "This software is designed for small and medium-sized enterprises (SMEs).",
+              "ja": "このソフトウェアは中小企業向けに設計されている。",
+              "highlight": "enterprises"
+            },
+            {
+              "en": "Agriculture is the main economic enterprise in this region.",
+              "ja": "農業はこの地域における主要な経済事業である。",
+              "highlight": "enterprise"
+            }
+          ]
+        },
+        {
+          "title": "「進取の気性」の例文",
+          "examples": [
+            {
+              "en": "The project succeeded thanks to the team's spirit of enterprise.",
+              "ja": "そのプロジェクトは、チームの進取の気性（冒険心）のおかげで成功した。",
+              "highlight": "enterprise"
+            }
+          ]
+        }
+      ],
+      "etymology": "entre (の間に) + prendre (取る) → 手を出す、着手する",
+      "synonyms": [
+        {"word": "venture", "trans": "冒険的事業"},
+        {"word": "undertaking", "trans": "事業、引き受けた仕事"},
+        {"word": "initiative", "trans": "主導、新構想"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "enterprising", "trans": "形容詞：意欲的な、進取の気性に富んだ"}
+      ]
+    },
+    {
+      "number": 11525,
+      "word": "venture",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①（ベンチャー）事業、冒険的企て 【動】②危険を冒して行く",
+      "nuance": "「アドベンチャー(adventure)」の短縮形。リスクを承知の上で新しい分野に乗り出すことを指します。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The two companies launched a joint venture in China.",
+              "ja": "その二社は中国で合弁事業を開始した。",
+              "highlight": "joint venture"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "Few people dared to venture into the dark forest.",
+              "ja": "その暗い森へ危険を冒して入ろうとする人はほとんどいなかった。",
+              "highlight": "venture"
+            }
+          ]
+        }
+      ],
+      "etymology": "adventureの短縮形",
+      "synonyms": [
+        {"word": "endeavor", "trans": "努力、試み"},
+        {"word": "gamble", "trans": "賭け"},
+        {"word": "project", "trans": "プロジェクト"}
+      ],
+      "antonyms": [
+        {"word": "safety", "trans": "安全"},
+        {"word": "security", "trans": "確実性"}
+      ],
+      "related": [
+        {"word": "venture capital", "trans": "名詞：ベンチャーキャピタル（投資資金）"}
+      ]
+    },
+    {
+      "number": 11526,
+      "word": "headquarters",
+      "pos": "名詞",
+      "meaning": "本社、本部、司令部",
+      "nuance": "組織の意思決定が行われる中心地。単数としても複数としても扱われますが、常に -s がついた形で使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company moved its headquarters from London to New York.",
+              "ja": "その会社は本社をロンドンからニューヨークに移転した。",
+              "highlight": "headquarters"
+            }
+          ]
+        }
+      ],
+      "etymology": "head (頭、主要な) + quarters (住居、場所)",
+      "synonyms": [
+        {"word": "main office", "trans": "本店、本社"},
+        {"word": "base", "trans": "拠点"},
+        {"word": "HQ", "trans": "略称：本部"}
+      ],
+      "antonyms": [
+        {"word": "branch", "trans": "支社、支部"},
+        {"word": "subsidiary", "trans": "子会社"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11527,
+      "word": "personnel",
+      "pos": "名詞",
+      "meaning": "①（集合的に）全職員、人員 ②人事部（人事課）",
+      "nuance": "個人ではなく、組織を構成する「人の集まり」としてのスタッフを指します。発音は「パーソネル（後ろにアクセント）」。",
+      "example_sections": [
+        {
+          "title": "「全職員」の例文",
+          "examples": [
+            {
+              "en": "All military personnel are required to wear uniforms.",
+              "ja": "全軍関係者（人員）は制服の着用が義務付けられている。",
+              "highlight": "personnel"
+            }
+          ]
+        },
+        {
+          "title": "「人事」の例文",
+          "examples": [
+            {
+              "en": "If you have questions about your contract, talk to personnel.",
+              "ja": "契約に関する質問があれば、人事部に相談しなさい。",
+              "highlight": "personnel"
+            }
+          ]
+        }
+      ],
+      "etymology": "person（人）のフランス語形",
+      "synonyms": [
+        {"word": "staff", "trans": "職員"},
+        {"word": "workforce", "trans": "労働力"},
+        {"word": "human resources", "trans": "人事、人的資源（HR）"}
+      ],
+      "antonyms": [
+        {"word": "management", "trans": "経営陣"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11528,
+      "word": "expertise",
+      "pos": "名詞",
+      "meaning": "専門的知識、専門的技術",
+      "nuance": "特定の分野における高度な「熟練した力」。不可算名詞なので a をつけたり複数形にしたりしません。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need someone with technical expertise in AI.",
+              "ja": "AIにおける技術的な専門知識を持つ人が必要だ。",
+              "highlight": "expertise"
+            },
+            {
+              "en": "He shared his expertise with the younger members of the team.",
+              "ja": "彼はチームの若手メンバーに自分の専門技術を共有した。",
+              "highlight": "expertise"
+            }
+          ]
+        }
+      ],
+      "etymology": "expert（熟練した、専門家）",
+      "synonyms": [
+        {"word": "know-how", "trans": "ノウハウ"},
+        {"word": "proficiency", "trans": "熟達"},
+        {"word": "skill", "trans": "技能"}
+      ],
+      "antonyms": [
+        {"word": "ignorance", "trans": "無知"},
+        {"word": "inexperience", "trans": "未経験"}
+      ],
+      "related": [
+        {"word": "expert", "trans": "名詞：専門家／形容詞：熟練した"}
+      ]
+    },
+    {
+      "number": 11529,
+      "word": "quota",
+      "pos": "名詞",
+      "meaning": "割り当て、ノルマ、（輸出入の）制限量",
+      "nuance": "「どのくらいの数(quot)」が語源。全体の取り分の中から自分に割り振られた、あるいは自分が達成すべき「数字」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The sales team is struggling to meet its monthly quota.",
+              "ja": "営業チームは月間のノルマを達成するのに苦労している。",
+              "highlight": "quota"
+            },
+            {
+              "en": "The government has set a quota on imported cars.",
+              "ja": "政府は輸入車の割り当て制限（枠）を設定した。",
+              "highlight": "quota"
+            }
+          ]
+        }
+      ],
+      "etymology": "quot（どれほどの数の）",
+      "synonyms": [
+        {"word": "allocation", "trans": "割り当て、配分"},
+        {"word": "share", "trans": "分け前"},
+        {"word": "target", "trans": "目標"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11530,
+      "word": "warehouse",
+      "pos": "名詞",
+      "meaning": "倉庫、（イギリス英語で）問屋",
+      "nuance": "商品(ware)を保管する建物(house)。 ",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The goods are stored in a large warehouse near the port.",
+              "ja": "商品は港の近くの大きな倉庫に保管されている。",
+              "highlight": "warehouse"
+            }
+          ]
+        }
+      ],
+      "etymology": "ware (物品) + house (家)",
+      "synonyms": [
+        {"word": "storage", "trans": "保管場所"},
+        {"word": "depot", "trans": "貯蔵所"},
+        {"word": "storehouse", "trans": "蔵、納屋"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "software", "trans": "名詞：ソフトウェア"},
+        {"word": "hardware", "trans": "名詞：ハードウェア"}
+      ]
+    },
+    {
+      "number": 11531,
+      "word": "toil",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①（長時間）骨折って働く 【名】②骨の折れる仕事",
+      "nuance": "単なる作業ではなく、肉体的・精神的に非常にきつい「苦労を伴う労働」を指します。古臭い、あるいは文学的な響きがあります。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The laborers toiled in the sun all day long.",
+              "ja": "労働者たちは一日中、太陽の下で骨折って働いた。",
+              "highlight": "toiled"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "After years of toil, he finally finished his book.",
+              "ja": "長年の苦労（骨の折れる仕事）の末、彼はついに本を書き上げた。",
+              "highlight": "toil"
+            }
+          ]
+        }
+      ],
+      "etymology": "tudiculare（かき回す、押しつぶす）",
+      "synonyms": [
+        {"word": "labor", "trans": "労働"},
+        {"word": "drudgery", "trans": "単調な苦仕事"},
+        {"word": "struggle", "trans": "苦闘"}
+      ],
+      "antonyms": [
+        {"word": "leisure", "trans": "余暇"},
+        {"word": "rest", "trans": "休息"},
+        {"word": "play", "trans": "遊び"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11532,
+      "word": "undertake",
+      "pos": "動詞",
+      "meaning": "（仕事など）を引き受ける、着手する、約束する",
+      "nuance": "責任を持って、ある活動や任務を自分の方に「取り込む(take)」こと。特に困難な、あるいは大きな仕事を開始する際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The university undertook a study on climate change.",
+              "ja": "大学は気候変動に関する研究に着手した（引き受けた）。",
+              "highlight": "undertook"
+            },
+            {
+              "en": "I cannot undertake that the project will be finished by Monday.",
+              "ja": "月曜までにプロジェクトが終わるとはお約束（請け合う）できません。",
+              "highlight": "undertake"
+            }
+          ]
+        }
+      ],
+      "etymology": "under (下に) + take (取る) → 下に入って支える、引き受ける",
+      "synonyms": [
+        {"word": "assume", "trans": "引き受ける"},
+        {"word": "commence", "trans": "開始する"},
+        {"word": "engage in", "trans": "従事する"}
+      ],
+      "antonyms": [
+        {"word": "abandon", "trans": "断念する"},
+        {"word": "refuse", "trans": "拒む"},
+        {"word": "avoid", "trans": "避ける"}
+      ],
+      "related": [
+        {"word": "undertaker", "trans": "名詞：葬儀屋（人生最後の仕事を請け負う人）"}
+      ]
+    },
+    {
+      "number": 11533,
+      "word": "merge",
+      "pos": "動詞",
+      "meaning": "【自】①合併する 【他】②〜を合併させる、溶け込ませる",
+      "nuance": "「水に潜る(mergere)」が語源。二つ以上のものが溶け合って一つになること。ビジネスでは M&A（Mergers and Acquisitions）でおなじみです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The two small banks merged to form a national bank.",
+              "ja": "その二つの小さな銀行は合併して全国規模の銀行になった。",
+              "highlight": "merged"
+            },
+            {
+              "en": "The twilight merged into darkness.",
+              "ja": "薄明かりは次第に闇へと溶け込んでいった。",
+              "highlight": "merged"
+            }
+          ]
+        }
+      ],
+      "etymology": "mergere（浸す、沈める）",
+      "synonyms": [
+        {"word": "combine", "trans": "結合する"},
+        {"word": "unite", "trans": "団結する"},
+        {"word": "blend", "trans": "混ぜ合わせる"}
+      ],
+      "antonyms": [
+        {"word": "split", "trans": "分割する"},
+        {"word": "separate", "trans": "切り離す"},
+        {"word": "divide", "trans": "分ける"}
+      ],
+      "related": [
+        {"word": "merger", "trans": "名詞：合併"}
+      ]
+    }
+  ]
+}
