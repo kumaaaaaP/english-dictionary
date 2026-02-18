@@ -1347,6 +1347,1357 @@
         {"word": "executive", "trans": "名詞：重役 形容詞：執行権を持つ"},
         {"word": "execution", "trans": "名詞：実行、処刑"}
       ]
+    },
+    {
+      "number": 11634,
+      "word": "host",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を主催する 【名】②主催者、主人 ③（a host of）多くの",
+      "nuance": "客を迎え入れる側を指します。「a host of」の形では、天の星の群れのように「数え切れないほど多くの」というニュアンスになります。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "Japan hosted the Olympic Games in 2021.",
+              "ja": "日本は2021年にオリンピックを主催した。",
+              "highlight": "hosted"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Our host made us feel very welcome.",
+              "ja": "主人は私たちをとても温かく歓迎してくれた。",
+              "highlight": "host"
+            },
+            {
+              "en": "The proposal faced a host of difficulties.",
+              "ja": "その提案は多くの困難に直面した。",
+              "highlight": "a host of"
+            }
+          ]
+        }
+      ],
+      "etymology": "hospes（客、主人）",
+      "synonyms": [
+        {"word": "organize", "trans": "組織する"},
+        {"word": "emcee", "trans": "司会を務める"},
+        {"word": "multitude", "trans": "多数"}
+      ],
+      "antonyms": [
+        {"word": "guest", "trans": "客"},
+        {"word": "visitor", "trans": "訪問者"},
+        {"word": "few", "trans": "少数"}
+      ],
+      "related": [
+        {"word": "hospitality", "trans": "名詞：おもてなし"}
+      ]
+    },
+    {
+      "number": 11635,
+      "word": "mount",
+      "pos": "動詞",
+      "meaning": "①〜を据え付ける ②（馬などに）乗る ③増加する",
+      "nuance": "「上へ登る」というコアイメージから、台の上に乗せることや、不安・費用などが積み重なることを指します。",
+      "example_sections": [
+        {
+          "title": "「据え付ける・乗る」の例文",
+          "examples": [
+            {
+              "en": "The security camera was mounted on the wall.",
+              "ja": "監視カメラが壁に据え付けられた。",
+              "highlight": "mounted"
+            },
+            {
+              "en": "He mounted his horse and rode away.",
+              "ja": "彼は馬にまたがり、走り去った。",
+              "highlight": "mounted"
+            }
+          ]
+        },
+        {
+          "title": "「増加する」の例文",
+          "examples": [
+            {
+              "en": "Pressure is mounting on the government to change the law.",
+              "ja": "法律を改正するよう政府への圧力が高まっている（増している）。",
+              "highlight": "mounting"
+            }
+          ]
+        }
+      ],
+      "etymology": "mons（山）",
+      "synonyms": [
+        {"word": "install", "trans": "設置する"},
+        {"word": "ascend", "trans": "登る"},
+        {"word": "increase", "trans": "増える"}
+      ],
+      "antonyms": [
+        {"word": "dismount", "trans": "（馬などから）降りる"},
+        {"word": "decrease", "trans": "減少する"},
+        {"word": "detach", "trans": "取り外す"}
+      ],
+      "related": [
+        {"word": "mountain", "trans": "名詞：山"}
+      ]
+    },
+    {
+      "number": 11636,
+      "word": "discharge",
+      "pos": "動詞",
+      "meaning": "①〜を排出する ②（義務などから）解放する、退院・退役させる",
+      "nuance": "「荷(charge)を下ろす」が語源。溜まっていたものを外に出すことや、職務という荷を下ろして自由になることを指します。",
+      "example_sections": [
+        {
+          "title": "「排出する」の例文",
+          "examples": [
+            {
+              "en": "The factory was fined for discharging chemicals into the river.",
+              "ja": "その工場は川に化学物質を排出したことで罰金を科された。",
+              "highlight": "discharging"
+            }
+          ]
+        },
+        {
+          "title": "「解放・退院させる」の例文",
+          "examples": [
+            {
+              "en": "He was discharged from the hospital yesterday.",
+              "ja": "彼は昨日、退院した（病院から解放された）。",
+              "highlight": "discharged"
+            },
+            {
+              "en": "She faithfully discharged her duties as a director.",
+              "ja": "彼女は取締役としての職務を忠実に果たした（遂行して荷を下ろした）。",
+              "highlight": "discharged"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (反対) + carcare (荷を積む)",
+      "synonyms": [
+        {"word": "emit", "trans": "放出する"},
+        {"word": "release", "trans": "解放する"},
+        {"word": "fulfill", "trans": "果たす"}
+      ],
+      "antonyms": [
+        {"word": "absorb", "trans": "吸収する"},
+        {"word": "admit", "trans": "（入院などを）許可する"},
+        {"word": "hire", "trans": "雇う"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11637,
+      "word": "drain",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜の水を抜く、流出する ②（エネルギーを）使い果たす 【名】③排水管",
+      "nuance": "液体をゆっくり、かつ完全に出し切ることを指します。比喩的に精神的な疲れを指すのにも頻出します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "Drain the pasta well before adding the sauce.",
+              "ja": "ソースを加える前に、パスタの水分をよく切りなさい。",
+              "highlight": "Drain"
+            },
+            {
+              "en": "The long journey completely drained my energy.",
+              "ja": "長旅でエネルギーを完全に使い果たした。",
+              "highlight": "drained"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Don't pour oil down the drain.",
+              "ja": "排水口に油を流してはいけない。",
+              "highlight": "drain"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 dryge（乾いた）",
+      "synonyms": [
+        {"word": "empty", "trans": "空にする"},
+        {"word": "exhaust", "trans": "疲れ果てさせる"},
+        {"word": "deplete", "trans": "枯渇させる"}
+      ],
+      "antonyms": [
+        {"word": "fill", "trans": "満たす"},
+        {"word": "replenish", "trans": "補充する"}
+      ],
+      "related": [
+        {"word": "brain drain", "trans": "名詞：頭脳流出"}
+      ]
+    },
+    {
+      "number": 11638,
+      "word": "soak",
+      "pos": "動詞",
+      "meaning": "①〜を浸す、びしょ濡れにする ②（up）〜を吸収する",
+      "nuance": "液体の中に長時間入れて中まで浸透させること。知識や日光を全身で浴びて吸収する際にも使われます。",
+      "example_sections": [
+        {
+          "title": "「浸す」の例文",
+          "examples": [
+            {
+              "en": "You should soak the beans overnight.",
+              "ja": "豆を一晩水に浸しておくべきだ。",
+              "highlight": "soak"
+            },
+            {
+              "en": "We got soaked to the skin in the heavy rain.",
+              "ja": "大雨で肌までびしょ濡れになった。",
+              "highlight": "soaked"
+            }
+          ]
+        },
+        {
+          "title": "「吸収する」の例文",
+          "examples": [
+            {
+              "en": "I spent the afternoon soaking up the sun on the beach.",
+              "ja": "午後はビーチで日光をたっぷり浴びて過ごした。",
+              "highlight": "soaking up"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 socian（浸る）",
+      "synonyms": [
+        {"word": "steep", "trans": "浸す"},
+        {"word": "drench", "trans": "びしょ濡れにする"},
+        {"word": "absorb", "trans": "吸収する"}
+      ],
+      "antonyms": [
+        {"word": "dry", "trans": "乾かす"},
+        {"word": "wring", "trans": "絞る"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11639,
+      "word": "suspend",
+      "pos": "動詞",
+      "meaning": "①〜を吊るす ②〜を中断する ③〜を停職・停学にする",
+      "nuance": "「下に(sub)ぶら下げる(pend)」が語源。宙ぶらりんの状態にすることから、一時的に動きを止めるという意味に広がりました。",
+      "example_sections": [
+        {
+          "title": "「吊るす」の例文",
+          "examples": [
+            {
+              "en": "A large lamp was suspended from the ceiling.",
+              "ja": "大きなランプが天井から吊るされていた。",
+              "highlight": "suspended"
+            }
+          ]
+        },
+        {
+          "title": "「中断・停学」の例文",
+          "examples": [
+            {
+              "en": "The ferry service was suspended due to the storm.",
+              "ja": "嵐のためフェリーの運航が中断された。",
+              "highlight": "suspended"
+            },
+            {
+              "en": "The student was suspended for two weeks.",
+              "ja": "その生徒は2週間の停学処分になった。",
+              "highlight": "suspended"
+            }
+          ]
+        }
+      ],
+      "etymology": "sub (下に) + pendere (吊るす)",
+      "synonyms": [
+        {"word": "hang", "trans": "掛ける"},
+        {"word": "interrupt", "trans": "中断する"},
+        {"word": "postpone", "trans": "延期する"}
+      ],
+      "antonyms": [
+        {"word": "continue", "trans": "続ける"},
+        {"word": "resume", "trans": "再開する"},
+        {"word": "reinstate", "trans": "復職させる"}
+      ],
+      "related": [
+        {"word": "suspense", "trans": "名詞：サスペンス、不安感"},
+        {"word": "suspension", "trans": "名詞：停止、吊り下げ"}
+      ]
+    },
+    {
+      "number": 11640,
+      "word": "extract",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を取り出す、抽出する 【名】②抽出物、抜粋",
+      "nuance": "「外へ(ex)引き抜く(tract)」が語源。力を使って、あるいは化学的な方法で何かを抜き出すことを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The dentist had to extract two of my teeth.",
+              "ja": "歯医者は私の歯を2本抜かなければならなかった。",
+              "highlight": "extract"
+            },
+            {
+              "en": "They managed to extract information from the prisoner.",
+              "ja": "彼らはなんとか囚人から情報を引き出した。",
+              "highlight": "extract"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Add a few drops of vanilla extract.",
+              "ja": "バニラエッセンス（抽出物）を数滴加えなさい。",
+              "highlight": "extract"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + trahere (引く)",
+      "synonyms": [
+        {"word": "remove", "trans": "取り除く"},
+        {"word": "derive", "trans": "引き出す"},
+        {"word": "excerpt", "trans": "抜粋"}
+      ],
+      "antonyms": [
+        {"word": "insert", "trans": "挿入する"},
+        {"word": "inject", "trans": "注入する"}
+      ],
+      "related": [
+        {"word": "extraction", "trans": "名詞：抽出、摘出"}
+      ]
+    },
+    {
+      "number": 11641,
+      "word": "summon",
+      "pos": "動詞",
+      "meaning": "①〜を召喚する、呼び出す ②（勇気などを）奮い立たせる",
+      "nuance": "権限を持って誰かを公式に呼び出すことや、内なる力（勇気や力）を呼び起こすことを指します。",
+      "example_sections": [
+        {
+          "title": "「召喚する」の例文",
+          "examples": [
+            {
+              "en": "He was summoned to appear in court as a witness.",
+              "ja": "彼は証人として出廷するよう召喚された。",
+              "highlight": "summoned"
+            }
+          ]
+        },
+        {
+          "title": "「奮い立たせる」の例文",
+          "examples": [
+            {
+              "en": "She finally summoned the courage to ask him out.",
+              "ja": "彼女はついに彼をデートに誘う勇気を奮い立たせた。",
+              "highlight": "summoned"
+            }
+          ]
+        }
+      ],
+      "etymology": "sub (密かに) + monere (警告する)",
+      "synonyms": [
+        {"word": "call", "trans": "呼ぶ"},
+        {"word": "subpoena", "trans": "（法的に）召喚する"},
+        {"word": "gather", "trans": "（力を）集める"}
+      ],
+      "antonyms": [
+        {"word": "dismiss", "trans": "解散させる"},
+        {"word": "send away", "trans": "追い出す"}
+      ],
+      "related": [
+        {"word": "summons", "trans": "名詞：召喚状"}
+      ]
+    },
+    {
+      "number": 11642,
+      "word": "embark",
+      "pos": "動詞",
+      "meaning": "①着手する、始める ②船・飛行機に乗る",
+      "nuance": "「船(bark)に乗る(em)」が語源。新しい冒険や、重要で困難な事業に乗り出す際によく使われます。",
+      "example_sections": [
+        {
+          "title": "「着手する」の例文",
+          "examples": [
+            {
+              "en": "She is about to embark on a new career in politics.",
+              "ja": "彼女は政治という新しいキャリアに踏み出そうとしている。",
+              "highlight": "embark on"
+            }
+          ]
+        },
+        {
+          "title": "「乗り込む」の例文",
+          "examples": [
+            {
+              "en": "The passengers embarked at pier 5.",
+              "ja": "乗客は5番埠頭で乗船した。",
+              "highlight": "embarked"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (中に) + barca (小舟)",
+      "synonyms": [
+        {"word": "start", "trans": "始める"},
+        {"word": "commence", "trans": "開始する"},
+        {"word": "board", "trans": "搭乗する"}
+      ],
+      "antonyms": [
+        {"word": "finish", "trans": "終える"},
+        {"word": "disembark", "trans": "下船する"},
+        {"word": "terminate", "trans": "終了させる"}
+      ],
+      "related": [
+        {"word": "embarkation", "trans": "名詞：乗船、搭乗"}
+      ]
+    },
+    {
+      "number": 11643,
+      "word": "thrust",
+      "pos": "動詞",
+      "meaning": "①〜を強く押し付ける ②〜を突き刺す",
+      "nuance": "強い力で、突然、あるいは乱暴に「グイッと」動かす動作を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He thrust the money into my hand and ran off.",
+              "ja": "彼は私の手に金を無理やり押し付けて逃げ去った。",
+              "highlight": "thrust"
+            },
+            {
+              "en": "She thrust her sword through the target.",
+              "ja": "彼女は標的に剣を突き刺した。",
+              "highlight": "thrust"
+            }
+          ]
+        }
+      ],
+      "etymology": "古ノルド語 thrýsta（押す）",
+      "synonyms": [
+        {"word": "shove", "trans": "押しやる"},
+        {"word": "push", "trans": "押す"},
+        {"word": "stab", "trans": "刺す"}
+      ],
+      "antonyms": [
+        {"word": "pull", "trans": "引く"},
+        {"word": "withdraw", "trans": "引き抜く"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11644,
+      "word": "penetrate",
+      "pos": "動詞",
+      "meaning": "①〜を貫通する ②〜に入り込む、浸透する",
+      "nuance": "表面を突き抜けて中深くに入ることを指します。物理的なものから、市場への進出、難解な理論の理解まで幅広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The bullet failed to penetrate the vest.",
+              "ja": "弾丸はベストを貫通しなかった。",
+              "highlight": "penetrate"
+            },
+            {
+              "en": "It’s hard for new companies to penetrate this market.",
+              "ja": "新しい企業がこの市場に参入する（入り込む）のは難しい。",
+              "highlight": "penetrate"
+            }
+          ]
+        }
+      ],
+      "etymology": "penitus（内部に）",
+      "synonyms": [
+        {"word": "pierce", "trans": "突き抜ける"},
+        {"word": "permeate", "trans": "染み渡る"},
+        {"word": "infiltrate", "trans": "潜入する"}
+      ],
+      "antonyms": [
+        {"word": "bounce off", "trans": "跳ね返る"},
+        {"word": "exit", "trans": "出る"}
+      ],
+      "related": [
+        {"word": "penetration", "trans": "名詞：貫通、浸透率"}
+      ]
+    },
+    {
+      "number": 11645,
+      "word": "intrude",
+      "pos": "動詞",
+      "meaning": "（on〜）〜に立ち入る、邪魔をする",
+      "nuance": "招かれていないのに無理に入り込むこと。プライバシーを侵害する際などによく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I'm sorry to intrude on your private conversation.",
+              "ja": "あなた方のプライベートな会話を邪魔して（に立ち入って）すみません。",
+              "highlight": "intrude on"
+            },
+            {
+              "en": "The sound of drums intruded upon the silence of the night.",
+              "ja": "太鼓の音が夜の静寂を破って（入り込んで）きた。",
+              "highlight": "intruded"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + trudere (押す)",
+      "synonyms": [
+        {"word": "interfere", "trans": "干渉する"},
+        {"word": "invade", "trans": "侵略する"},
+        {"word": "trespass", "trans": "不法侵入する"}
+      ],
+      "antonyms": [
+        {"word": "withdraw", "trans": "退く"},
+        {"word": "leave alone", "trans": "そのままにしておく"}
+      ],
+      "related": [
+        {"word": "intruder", "trans": "名詞：侵入者"},
+        {"word": "intrusion", "trans": "名詞：侵害、侵入"}
+      ]
+    },
+    {
+      "number": 11646,
+      "word": "evade",
+      "pos": "動詞",
+      "meaning": "〜を逃れる、回避する",
+      "nuance": "「外へ(e)行く(vade)」が語源。巧みに、あるいは不正に義務や追跡を避けることを指します（特に脱税：tax evasion）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He managed to evade the police for six months.",
+              "ja": "彼は6ヶ月間、警察の手を逃れ続けた。",
+              "highlight": "evade"
+            },
+            {
+              "en": "They were accused of trying to evade taxes.",
+              "ja": "彼らは脱税（税を逃れること）をしようとしたとして告発された。",
+              "highlight": "evade"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + vadere (行く)",
+      "synonyms": [
+        {"word": "avoid", "trans": "避ける"},
+        {"word": "elude", "trans": "（巧みに）逃れる"},
+        {"word": "dodge", "trans": "かわす"}
+      ],
+      "antonyms": [
+        {"word": "confront", "trans": "立ち向かう"},
+        {"word": "face", "trans": "直面する"},
+        {"word": "submit", "trans": "服従する"}
+      ],
+      "related": [
+        {"word": "evasion", "trans": "名詞：回避、言い逃れ"}
+      ]
+    },
+    {
+      "number": 11647,
+      "word": "utilize",
+      "pos": "動詞",
+      "meaning": "〜を利用する、活用する",
+      "nuance": "use よりも硬い語で、あるものを特定の目的のために「効果的に役立てる」というニュアンスが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company should utilize its resources more effectively.",
+              "ja": "その会社はリソースをより効果的に活用すべきだ。",
+              "highlight": "utilize"
+            },
+            {
+              "en": "Vitamin C helps the body utilize iron.",
+              "ja": "ビタミンCは体が鉄分を利用するのを助ける。",
+              "highlight": "utilize"
+            }
+          ]
+        }
+      ],
+      "etymology": "utilis（役に立つ）",
+      "synonyms": [
+        {"word": "use", "trans": "使う"},
+        {"word": "exploit", "trans": "活用する"},
+        {"word": "employ", "trans": "用いる"}
+      ],
+      "antonyms": [
+        {"word": "waste", "trans": "浪費する"},
+        {"word": "misuse", "trans": "誤用する"}
+      ],
+      "related": [
+        {"word": "utility", "trans": "名詞：有用性、公共料金"},
+        {"word": "utilization", "trans": "名詞：利用"}
+      ]
+    },
+    {
+      "number": 11648,
+      "word": "spin",
+      "pos": "動詞",
+      "meaning": "①回転する、回す ②（糸を）紡ぐ",
+      "nuance": "中心軸を中心に速く回ること。また、クモが巣をかけたり、糸を紡いだりする動作も指します。",
+      "example_sections": [
+        {
+          "title": "「回る」の例文",
+          "examples": [
+            {
+              "en": "The Earth spins on its axis once every 24 hours.",
+              "ja": "地球は24時間ごとに地軸を中心に自転している（回転している）。",
+              "highlight": "spins"
+            },
+            {
+              "en": "My head is spinning from all this information.",
+              "ja": "情報が多すぎて、頭がクラクラしている（回っている）。",
+              "highlight": "spinning"
+            }
+          ]
+        },
+        {
+          "title": "「紡ぐ」の例文",
+          "examples": [
+            {
+              "en": "In the past, women used to spin wool by hand.",
+              "ja": "昔、女性たちは手で羊毛を紡いでいた。",
+              "highlight": "spin"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（引く、伸ばす）",
+      "synonyms": [
+        {"word": "rotate", "trans": "回転する"},
+        {"word": "whirl", "trans": "ぐるぐる回る"},
+        {"word": "weave", "trans": "織る"}
+      ],
+      "antonyms": [
+        {"word": "stop", "trans": "止まる"},
+        {"word": "stay still", "trans": "じっとしている"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11649,
+      "word": "plunge",
+      "pos": "動詞",
+      "meaning": "①突っ込む、飛び込む ②急落する",
+      "nuance": "勢いよく、あるいは突然下方向へ移動することを指します。水への飛び込みや、株価の暴落などに使われます。",
+      "example_sections": [
+        {
+          "title": "「突っ込む」の例文",
+          "examples": [
+            {
+              "en": "He plunged into the cold water to save the child.",
+              "ja": "彼は子供を助けるために冷たい水の中に飛び込んだ。",
+              "highlight": "plunged"
+            },
+            {
+              "en": "The car plunged off the cliff.",
+              "ja": "車は崖から転落した（突っ込んだ）。",
+              "highlight": "plunged"
+            }
+          ]
+        },
+        {
+          "title": "「急落する」の例文",
+          "examples": [
+            {
+              "en": "Stock prices plunged after the news of the war.",
+              "ja": "戦争のニュースを受けて、株価が急落した。",
+              "highlight": "plunged"
+            }
+          ]
+        }
+      ],
+      "etymology": "plumbum（鉛）→ 鉛のように沈む",
+      "synonyms": [
+        {"word": "dive", "trans": "飛び込む"},
+        {"word": "plummet", "trans": "真っ逆さまに落ちる"},
+        {"word": "drop", "trans": "落ちる"}
+      ],
+      "antonyms": [
+        {"word": "soar", "trans": "急上昇する"},
+        {"word": "ascend", "trans": "登る"},
+        {"word": "rise", "trans": "上がる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11650,
+      "word": "rattle",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①ガタガタ鳴る ②〜を慌てさせる 【名】③ガラガラ（おもちゃ）",
+      "nuance": "硬いもの同士がぶつかって連続的な音を出すこと。比喩的に「人を動揺させる」という意味でも非常に重要です。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The windows rattled in the strong wind.",
+              "ja": "強風で窓がガタガタ鳴った。",
+              "highlight": "rattled"
+            },
+            {
+              "en": "He was clearly rattled by the tough questions.",
+              "ja": "彼は厳しい質問に明らかに動揺していた（慌てていた）。",
+              "highlight": "rattled"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The baby was playing with a colorful rattle.",
+              "ja": "赤ん坊はカラフルなガラガラで遊んでいた。",
+              "highlight": "rattle"
+            }
+          ]
+        }
+      ],
+      "etymology": "擬音語的由来",
+      "synonyms": [
+        {"word": "clatter", "trans": "カチカチ鳴る"},
+        {"word": "unnerve", "trans": "不安にさせる"},
+        {"word": "disturb", "trans": "かき乱す"}
+      ],
+      "antonyms": [
+        {"word": "soothe", "trans": "なだめる"},
+        {"word": "calm", "trans": "落ち着かせる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11651,
+      "word": "vanish",
+      "pos": "動詞",
+      "meaning": "（突然・完全に）消える、見えなくなる",
+      "nuance": "disappear よりも「跡形もなく、不思議なほど突然消える」というニュアンスが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The magician made the rabbit vanish into thin air.",
+              "ja": "手品師はウサギを跡形もなく消した。",
+              "highlight": "vanish"
+            },
+            {
+              "en": "Traditional cultures are slowly vanishing.",
+              "ja": "伝統文化がゆっくりと消滅しつつある。",
+              "highlight": "vanishing"
+            }
+          ]
+        }
+      ],
+      "etymology": "evaniscere（消え去る）",
+      "synonyms": [
+        {"word": "disappear", "trans": "消える"},
+        {"word": "fade", "trans": "衰える、消えていく"},
+        {"word": "evaporate", "trans": "蒸発する"}
+      ],
+      "antonyms": [
+        {"word": "appear", "trans": "現れる"},
+        {"word": "emerge", "trans": "出現する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11652,
+      "word": "cease",
+      "pos": "動詞",
+      "meaning": "〜をやめる、終わる、〜しなくなる",
+      "nuance": "stop よりも形式的な語で、活動や状態が「完全に、あるいは永久に停止する」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The fighting has finally ceased.",
+              "ja": "戦闘がついに終わった（止まった）。",
+              "highlight": "ceased"
+            },
+            {
+              "en": "The company ceased production of the model last year.",
+              "ja": "その会社は昨年、そのモデルの生産を中止した。",
+              "highlight": "ceased"
+            }
+          ]
+        }
+      ],
+      "etymology": "cedere（立ち去る）",
+      "synonyms": [
+        {"word": "stop", "trans": "止める"},
+        {"word": "halt", "trans": "停止する"},
+        {"word": "terminate", "trans": "終了する"}
+      ],
+      "antonyms": [
+        {"word": "start", "trans": "始める"},
+        {"word": "continue", "trans": "続ける"},
+        {"word": "commence", "trans": "開始する"}
+      ],
+      "related": [
+        {"word": "ceasefire", "trans": "名詞：停戦"},
+        {"word": "ceaseless", "trans": "形容詞：絶え間ない"}
+      ]
+    },
+    {
+      "number": 11653,
+      "word": "haste",
+      "pos": "名詞",
+      "meaning": "急ぐこと、迅速",
+      "nuance": "特に、急いでいるために不注意になる可能性を含む「急ぎ」を指します。ことわざ「Haste makes waste（急がば回れ）」で有名です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "In his haste to leave, he forgot his keys.",
+              "ja": "急いで出かけようとして、彼は鍵を忘れた。",
+              "highlight": "haste"
+            },
+            {
+              "en": "Why all this haste? We have plenty of time.",
+              "ja": "なぜそんなに急ぐのですか？ 時間はたっぷりありますよ。",
+              "highlight": "haste"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（急ぐ）",
+      "synonyms": [
+        {"word": "hurry", "trans": "急ぎ"},
+        {"word": "speed", "trans": "速さ"},
+        {"word": "rush", "trans": "突進"}
+      ],
+      "antonyms": [
+        {"word": "slowness", "trans": "遅さ"},
+        {"word": "delay", "trans": "遅延"},
+        {"word": "leisure", "trans": "余暇、のんびり"}
+      ],
+      "related": [
+        {"word": "hasten", "trans": "動詞：急がせる"},
+        {"word": "hasty", "trans": "形容詞：急ぎの、軽率な"}
+      ]
+    },
+    {
+      "number": 11654,
+      "word": "conceal",
+      "pos": "動詞",
+      "meaning": "〜を隠す",
+      "nuance": "hide よりも硬い語で、人に見られないように、あるいは秘密を悟られないように意図的に隠すことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He tried to conceal his heavy drinking from his family.",
+              "ja": "彼は深酒をしていることを家族に隠そうとした。",
+              "highlight": "conceal"
+            },
+            {
+              "en": "The weapon was concealed under his coat.",
+              "ja": "武器はコートの下に隠されていた。",
+              "highlight": "concealed"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (完全に) + celare (隠す)",
+      "synonyms": [
+        {"word": "hide", "trans": "隠す"},
+        {"word": "cover up", "trans": "覆い隠す"},
+        {"word": "disguise", "trans": "偽装する"}
+      ],
+      "antonyms": [
+        {"word": "reveal", "trans": "明かす"},
+        {"word": "expose", "trans": "さらす"},
+        {"word": "disclose", "trans": "暴露する"}
+      ],
+      "related": [
+        {"word": "concealment", "trans": "名詞：潜伏、隠蔽"}
+      ]
+    },
+    {
+      "number": 11655,
+      "word": "disguise",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を偽装して隠す ②〜に変装する 【名】③変装",
+      "nuance": "外見や性質を変えることで、正体を隠したり別のものに見せかけたりすることを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "She disguised herself as a man to join the army.",
+              "ja": "彼女は軍に入るために男に変装した。",
+              "highlight": "disguised herself as"
+            },
+            {
+              "en": "It was a blessing in disguise.",
+              "ja": "それは不幸を装った幸い（あとの福）だった。",
+              "highlight": "disguise"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "He wore a wig and glasses as a disguise.",
+              "ja": "彼は変装としてウィッグと眼鏡を着用した。",
+              "highlight": "disguise"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + guise (格好、外観)",
+      "synonyms": [
+        {"word": "mask", "trans": "覆い隠す"},
+        {"word": "camouflage", "trans": "迷彩を施す"},
+        {"word": "misrepresent", "trans": "偽って伝える"}
+      ],
+      "antonyms": [
+        {"word": "reveal", "trans": "正体を明かす"},
+        {"word": "unmask", "trans": "仮面を剥ぐ"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11656,
+      "word": "coincide",
+      "pos": "動詞",
+      "meaning": "①（同時に）起きる ②一致する",
+      "nuance": "「共に(co)落ちる(incide)」が語源。偶然に時間が重なることや、意見や形がぴったり合うことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "My holiday coincides with the film festival.",
+              "ja": "私の休暇は映画祭と重なっている（同時に起きる）。",
+              "highlight": "coincides with"
+            },
+            {
+              "en": "Our views on the matter coincide perfectly.",
+              "ja": "その件に関する私たちの見解は完全に一致している。",
+              "highlight": "coincide"
+            }
+          ]
+        }
+      ],
+      "etymology": "co (共に) + incidere (落ちる)",
+      "synonyms": [
+        {"word": "overlap", "trans": "重なる"},
+        {"word": "concur", "trans": "同意する、同時に起こる"},
+        {"word": "match", "trans": "一致する"}
+      ],
+      "antonyms": [
+        {"word": "differ", "trans": "異なる"},
+        {"word": "clash", "trans": "衝突する"},
+        {"word": "diverge", "trans": "分岐する"}
+      ],
+      "related": [
+        {"word": "coincidence", "trans": "名詞：偶然の一致"}
+      ]
+    },
+    {
+      "number": 11657,
+      "word": "prevail",
+      "pos": "動詞",
+      "meaning": "①普及している ②（最後に）優勢となる、勝つ",
+      "nuance": "「前もって(pre)強い(vail)」が語源。特定の考えや習慣が広く行われている状態、あるいは闘いの末に勝利することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Those ancient customs still prevail in the village.",
+              "ja": "それらの古い習慣は、その村では今なお普及している。",
+              "highlight": "prevail"
+            },
+            {
+              "en": "Justice will prevail in the end.",
+              "ja": "最後には正義が勝つだろう。",
+              "highlight": "prevail"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre (前に) + valere (強い)",
+      "synonyms": [
+        {"word": "predominate", "trans": "優位に立つ"},
+        {"word": "triumph", "trans": "勝利する"},
+        {"word": "spread", "trans": "広まる"}
+      ],
+      "antonyms": [
+        {"word": "fail", "trans": "失敗する"},
+        {"word": "lose", "trans": "負ける"},
+        {"word": "die out", "trans": "絶滅する"}
+      ],
+      "related": [
+        {"word": "prevalent", "trans": "形容詞：普及している"}
+      ]
+    },
+    {
+      "number": 11658,
+      "word": "sustain",
+      "pos": "動詞",
+      "meaning": "〜を維持する、支える、（損害などを）受ける",
+      "nuance": "「下から(sub)保つ(tain)」が語源。ある状態を長く持続させること。また、公式な文脈で怪我や損害を「被る」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "「維持する・支える」の例文",
+          "examples": [
+            {
+              "en": "The earth cannot sustain such a large population.",
+              "ja": "地球はこれほどの人口を支える（維持する）ことはできない。",
+              "highlight": "sustain"
+            }
+          ]
+        },
+        {
+          "title": "「受ける」の例文",
+          "examples": [
+            {
+              "en": "The company sustained heavy losses last year.",
+              "ja": "その会社は昨年、多額の損失を出した（受けた）。",
+              "highlight": "sustained"
+            }
+          ]
+        }
+      ],
+      "etymology": "sub (下から) + tenere (保つ)",
+      "synonyms": [
+        {"word": "maintain", "trans": "維持する"},
+        {"word": "support", "trans": "支える"},
+        {"word": "suffer", "trans": "（損害を）受ける"}
+      ],
+      "antonyms": [
+        {"word": "abandon", "trans": "見捨てる"},
+        {"word": "destroy", "trans": "破壊する"}
+      ],
+      "related": [
+        {"word": "sustainable", "trans": "形容詞：持続可能な"},
+        {"word": "sustenance", "trans": "名詞：栄養、維持"}
+      ]
+    },
+    {
+      "number": 11659,
+      "word": "linger",
+      "pos": "動詞",
+      "meaning": "①（いつまでも）残る ②長居する、ぐずぐずする",
+      "nuance": "立ち去るべき時、あるいは終わるべき時を過ぎても、その場に留まったり名残惜しそうに残ったりすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The smell of his perfume lingered in the empty room.",
+              "ja": "誰もいない部屋に、彼の香水の匂いがいつまでも残っていた。",
+              "highlight": "lingered"
+            },
+            {
+              "en": "We lingered over coffee for another hour.",
+              "ja": "私たちはコーヒーを飲みながら、もう一時間長居した。",
+              "highlight": "lingered"
+            }
+          ]
+        }
+      ],
+      "etymology": "古英語 lengan（引き延ばす）",
+      "synonyms": [
+        {"word": "remain", "trans": "残る"},
+        {"word": "loiter", "trans": "ぶらつく"},
+        {"word": "stay", "trans": "留まる"}
+      ],
+      "antonyms": [
+        {"word": "leave", "trans": "去る"},
+        {"word": "depart", "trans": "出発する"},
+        {"word": "vanish", "trans": "消え去る"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11660,
+      "word": "revive",
+      "pos": "動詞",
+      "meaning": "生き返る、〜をよみがえらせる",
+      "nuance": "「再び(re)生きる(vive)」が語源。意識を取り戻すことや、廃れた習慣や人気を復活させることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The paramedics managed to revive the man.",
+              "ja": "救急隊員はなんとかその男性を生き返らせた。",
+              "highlight": "revive"
+            },
+            {
+              "en": "This musical is a revival of a 1950s hit.",
+              "ja": "このミュージカルは1950年代のヒット作の再演（復活）だ。",
+              "highlight": "revival"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + vivere (生きる)",
+      "synonyms": [
+        {"word": "resuscitate", "trans": "蘇生させる"},
+        {"word": "restore", "trans": "修復する"},
+        {"word": "renew", "trans": "新しくする"}
+      ],
+      "antonyms": [
+        {"word": "kill", "trans": "殺す"},
+        {"word": "extinguish", "trans": "消し去る"},
+        {"word": "abolish", "trans": "廃止する"}
+      ],
+      "related": [
+        {"word": "revival", "trans": "名詞：復活、再演"}
+      ]
+    },
+    {
+      "number": 11661,
+      "word": "resume",
+      "pos": "動詞、名詞",
+      "meaning": "【動】①〜を再開する 【名】②〈米〉履歴書 ③レジュメ、要約",
+      "nuance": "動詞は、中断していたものを「元の位置から再び取る」ことを指します。名詞（履歴書）はフランス語由来で発音が異なります（レズメイ）。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The meeting will resume after a short break.",
+              "ja": "会議は短い休憩のあと再開される。",
+              "highlight": "resume"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Please send your resume to our HR department.",
+              "ja": "履歴書を人事部まで送ってください。",
+              "highlight": "resume"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + sumere (取る)",
+      "synonyms": [
+        {"word": "restart", "trans": "再始動する"},
+        {"word": "reopen", "trans": "再び開く"},
+        {"word": "CV", "trans": "履歴書（英）"}
+      ],
+      "antonyms": [
+        {"word": "suspend", "trans": "一時停止する"},
+        {"word": "cease", "trans": "中止する"},
+        {"word": "stop", "trans": "止める"}
+      ],
+      "related": [
+        {"word": "resumption", "trans": "名詞：再開"}
+      ]
+    },
+    {
+      "number": 11662,
+      "word": "inspect",
+      "pos": "動詞",
+      "meaning": "〜を検査する、点検する",
+      "nuance": "「中を(in)見る(spect)」が語源。不備や問題がないか、公式に詳しく調べることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Public health officials came to inspect the kitchen.",
+              "ja": "公衆衛生局の職員がキッチンを検査しに来た。",
+              "highlight": "inspect"
+            },
+            {
+              "en": "Customs officers inspected my suitcase.",
+              "ja": "税関職員が私のスーツケースを点検した。",
+              "highlight": "inspected"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + specere (見る)",
+      "synonyms": [
+        {"word": "examine", "trans": "調べる"},
+        {"word": "check", "trans": "点検する"},
+        {"word": "scrutinize", "trans": "精査する"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "overlook", "trans": "見落とす"}
+      ],
+      "related": [
+        {"word": "inspector", "trans": "名詞：検査官、警部"},
+        {"word": "inspection", "trans": "名詞：点検"}
+      ]
+    },
+    {
+      "number": 11663,
+      "word": "investigate",
+      "pos": "動詞",
+      "meaning": "〜を調査する、捜査する",
+      "nuance": "「足跡(vestigium)をたどる」が語源。事件の真相解明や、科学的な現象の分析のために組織的に調べることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The police are investigating the cause of the accident.",
+              "ja": "警察が事故の原因を捜査している。",
+              "highlight": "investigating"
+            },
+            {
+              "en": "Scientists are investigating the effects of the new drug.",
+              "ja": "科学者たちが新薬の効果を調査している。",
+              "highlight": "investigating"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + vestigare (追跡する)",
+      "synonyms": [
+        {"word": "probe", "trans": "探る"},
+        {"word": "explore", "trans": "探究する"},
+        {"word": "research", "trans": "研究する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "investigation", "trans": "名詞：調査、捜査"},
+        {"word": "investigator", "trans": "名詞：調査員"}
+      ]
+    },
+    {
+      "number": 11664,
+      "word": "detect",
+      "pos": "動詞",
+      "meaning": "〜を探知する、見抜く、発見する",
+      "nuance": "「覆い(tect)を取り除く(de)」が語源。隠れているものや、かすかな兆候を機械や五感で捉えることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The sensor can detect even the smallest movements.",
+              "ja": "そのセンサーは極めて小さな動きでも探知できる。",
+              "highlight": "detect"
+            },
+            {
+              "en": "I detected a hint of irony in her voice.",
+              "ja": "彼女の声の中に、わずかな皮肉を感じ取った（見抜いた）。",
+              "highlight": "detected"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (反対) + tegere (覆う)",
+      "synonyms": [
+        {"word": "discover", "trans": "発見する"},
+        {"word": "identify", "trans": "特定する"},
+        {"word": "notice", "trans": "気づく"}
+      ],
+      "antonyms": [
+        {"word": "miss", "trans": "見逃す"},
+        {"word": "overlook", "trans": "見落とす"}
+      ],
+      "related": [
+        {"word": "detective", "trans": "名詞：探偵、刑事"},
+        {"word": "detector", "trans": "名詞：探知機"}
+      ]
+    },
+    {
+      "number": 11665,
+      "word": "discern",
+      "pos": "動詞",
+      "meaning": "〜を見分ける、識別する",
+      "nuance": "違いが分かりにくいものの中から、知性や鋭い観察眼を使ってはっきりと「認識する」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It is difficult to discern the truth from his lies.",
+              "ja": "彼の嘘から真実を見分けるのは困難だ。",
+              "highlight": "discern"
+            },
+            {
+              "en": "Through the fog, we could just discern the outline of a ship.",
+              "ja": "霧を通して、船の輪郭をかろうじて識別することができた。",
+              "highlight": "discern"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + cernere (分ける)",
+      "synonyms": [
+        {"word": "distinguish", "trans": "区別する"},
+        {"word": "differentiate", "trans": "識別する"},
+        {"word": "perceive", "trans": "知覚する"}
+      ],
+      "antonyms": [
+        {"word": "confuse", "trans": "混同する"},
+        {"word": "mix up", "trans": "取り違える"}
+      ],
+      "related": [
+        {"word": "discerning", "trans": "形容詞：洞察力のある"}
+      ]
+    },
+    {
+      "number": 11666,
+      "word": "expedition",
+      "pos": "名詞",
+      "meaning": "①（目的を持った）探検、遠征 ②探検隊",
+      "nuance": "「足(ped)を外(ex)へ出す」が語源。単なる旅行ではなく、調査、研究、あるいは軍事的な特定の目的を持った組織的な旅を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "They are planning a scientific expedition to the Antarctic.",
+              "ja": "彼らは南極への科学探検を計画している。",
+              "highlight": "expedition"
+            },
+            {
+              "en": "The expedition was forced to turn back due to bad weather.",
+              "ja": "探検隊は悪天候のため引き返さざるを得なかった。",
+              "highlight": "expedition"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外へ) + pes (足)",
+      "synonyms": [
+        {"word": "exploration", "trans": "探検"},
+        {"word": "mission", "trans": "使命、使節団"},
+        {"word": "voyage", "trans": "航海"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "expedite", "trans": "動詞：はかどらせる"}
+      ]
     }
   ]
 }
