@@ -2404,6 +2404,1210 @@
       "related": [
         {"word": "collision", "trans": "名詞：衝突"}
       ]
+    },
+    {
+      "number": 11567,
+      "word": "nephew",
+      "pos": "名詞",
+      "meaning": "甥（おい）",
+      "nuance": "自分の兄弟姉妹の息子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "My nephew is starting university this spring.",
+              "ja": "私の甥はこの春から大学に通い始める。",
+              "highlight": "nephew"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 nepos（孫、甥）",
+      "synonyms": [],
+      "antonyms": [
+        {"word": "niece", "trans": "姪"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11568,
+      "word": "spouse",
+      "pos": "名詞",
+      "meaning": "配偶者",
+      "nuance": "夫（husband）または妻（wife）を指す、より公的・法的な響きを持つ言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company provides health insurance for employees and their spouses.",
+              "ja": "会社は従業員とその配偶者に健康保険を提供している。",
+              "highlight": "spouses"
+            }
+          ]
+        }
+      ],
+      "etymology": "spondere（約束する、誓う）",
+      "synonyms": [
+        {"word": "partner", "trans": "パートナー"},
+        {"word": "companion", "trans": "伴侶"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11569,
+      "word": "heir",
+      "pos": "名詞",
+      "meaning": "相続人、後継者",
+      "nuance": "財産や地位を引き継ぐ人を指します。比喩的に「伝統の継承者」としても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is the sole heir to his father's vast fortune.",
+              "ja": "彼は父の莫大な財産の唯一の相続人だ。",
+              "highlight": "heir"
+            },
+            {
+              "en": "The young prince is the heir to the throne.",
+              "ja": "その若い王子は王位の継承者である。",
+              "highlight": "heir"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 heres（相続人）",
+      "synonyms": [
+        {"word": "successor", "trans": "後継者"},
+        {"word": "inheritor", "trans": "受け継ぐ人"}
+      ],
+      "antonyms": [
+        {"word": "predecessor", "trans": "前任者"},
+        {"word": "ancestor", "trans": "先祖"}
+      ],
+      "related": [
+        {"word": "heritage", "trans": "名詞：遺産、伝統"},
+        {"word": "inherit", "trans": "動詞：～を相続する"}
+      ]
+    },
+    {
+      "number": 11570,
+      "word": "folk",
+      "pos": "名詞",
+      "meaning": "①（-s）人々、家族 ②民族、庶民",
+      "nuance": "people よりも親しみやすく、口語的な響きがあります。複数形で「両親」を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Ordinary folks are worried about the rising cost of living.",
+              "ja": "普通の一般市民（人々）は生活費の上昇を心配している。",
+              "highlight": "folks"
+            },
+            {
+              "en": "I'm going home to visit my folks this weekend.",
+              "ja": "今週末、実家の家族（両親）に会いに帰るつもりだ。",
+              "highlight": "folks"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（人々、軍隊）",
+      "synonyms": [
+        {"word": "people", "trans": "人々"},
+        {"word": "ethnic group", "trans": "民族"},
+        {"word": "public", "trans": "大衆"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "folklore", "trans": "名詞：民間伝承"},
+        {"word": "folk dance", "trans": "名詞：フォークダンス"}
+      ]
+    },
+    {
+      "number": 11571,
+      "word": "peer",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①同等の人、同輩、仲間 【自】②（よく見えなくて）じっと見る",
+      "nuance": "名詞では年齢や能力が「対等な立場の人」を指します。動詞では、暗がりなどで目を細めて凝視する動作を指します。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Teenagers are often influenced by peer pressure.",
+              "ja": "十代の若者はしばしば仲間からの圧力（同調圧力）に影響される。",
+              "highlight": "peer"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "She peered through the mist, trying to find the path.",
+              "ja": "彼女は道を見つけようと、霧の中をじっと見つめた。",
+              "highlight": "peered"
+            }
+          ]
+        }
+      ],
+      "etymology": "名詞は par（等しい）。動詞は「現れる」を意味する語から。",
+      "synonyms": [
+        {"word": "equal", "trans": "同等の人"},
+        {"word": "colleague", "trans": "同僚"},
+        {"word": "gaze", "trans": "凝視する"}
+      ],
+      "antonyms": [
+        {"word": "superior", "trans": "目上の人"},
+        {"word": "inferior", "trans": "目下の人"}
+      ],
+      "related": [
+        {"word": "peerless", "trans": "形容詞：比類なき"}
+      ]
+    },
+    {
+      "number": 11572,
+      "word": "proceed",
+      "pos": "動詞",
+      "meaning": "【自】①進む、続行する ②（to do）さらに続けて〜する",
+      "nuance": "「前へ(pro)行く(cedere)」が語源。中断した後に再開したり、決められた手順に従って整然と進むイメージです。",
+      "example_sections": [
+        {
+          "title": "「進む・続行する」の例文",
+          "examples": [
+            {
+              "en": "The work is proceeding according to plan.",
+              "ja": "仕事は計画通りに進んでいる。",
+              "highlight": "proceeding"
+            }
+          ]
+        },
+        {
+          "title": "「続けて〜する」の例文",
+          "examples": [
+            {
+              "en": "He explained the theory and then proceeded to demonstrate it.",
+              "ja": "彼は理論を説明し、それから続けて実演してみせた。",
+              "highlight": "proceeded to"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前へ) + cedere (行く)",
+      "synonyms": [
+        {"word": "continue", "trans": "続ける"},
+        {"word": "advance", "trans": "前進する"},
+        {"word": "go ahead", "trans": "進める"}
+      ],
+      "antonyms": [
+        {"word": "stop", "trans": "止まる"},
+        {"word": "halt", "trans": "停止する"},
+        {"word": "recede", "trans": "後退する"}
+      ],
+      "related": [
+        {"word": "procedure", "trans": "名詞：手順、手続き"},
+        {"word": "proceedings", "trans": "名詞：議事録、訴訟手続き"}
+      ]
+    },
+    {
+      "number": 11573,
+      "word": "navigate",
+      "pos": "動詞",
+      "meaning": "【自】①進路を決める 【他】②（船などを）操縦する、誘導する ③（困難な状況を）うまく切り抜ける",
+      "nuance": "元々は「船(navis)を動かす(agere)」こと。現在はGPSで道を探したり、複雑なウェブサイトや社会状況をうまく進む際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Early sailors navigated by using the stars.",
+              "ja": "初期の航海士たちは星を使って進路を決めていた。",
+              "highlight": "navigated"
+            },
+            {
+              "en": "It can be difficult to navigate the complex legal system.",
+              "ja": "複雑な法体系をうまく切り抜けるのは難しい場合がある。",
+              "highlight": "navigate"
+            }
+          ]
+        }
+      ],
+      "etymology": "navis (船) + agere (動かす)",
+      "synonyms": [
+        {"word": "steer", "trans": "操縦する"},
+        {"word": "guide", "trans": "案内する"},
+        {"word": "maneuver", "trans": "巧みに操る"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "navigation", "trans": "名詞：航海、ナビゲーション"},
+        {"word": "navy", "trans": "名詞：海軍"}
+      ]
+    },
+    {
+      "number": 11574,
+      "word": "roam",
+      "pos": "動詞",
+      "meaning": "【自】歩き回る、放浪する",
+      "nuance": "特定の目的地を持たず、広い範囲を自由に、あるいはあてもなく移動する様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Cattle are allowed to roam freely in the mountains.",
+              "ja": "牛は山の中で自由に歩き回ることが許されている。",
+              "highlight": "roam"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語（放浪する）",
+      "synonyms": [
+        {"word": "wander", "trans": "さまよう"},
+        {"word": "stroll", "trans": "ぶらつく"},
+        {"word": "ramble", "trans": "散策する"}
+      ],
+      "antonyms": [
+        {"word": "settle", "trans": "定住する"},
+        {"word": "stay", "trans": "とどまる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11575,
+      "word": "flee",
+      "pos": "動詞",
+      "meaning": "【自】逃げる、逃亡する",
+      "nuance": "危険や不快な状況から急いで、あるいは遠くへ逃げ去ることを指します。文語的な響きがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Thousands of people fled the country when the war broke out.",
+              "ja": "戦争が始まったとき、何千人もの人々が国外へ逃亡した。",
+              "highlight": "fled"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（飛ぶように逃げる）",
+      "synonyms": [
+        {"word": "escape", "trans": "逃げる"},
+        {"word": "run away", "trans": "逃げ出す"},
+        {"word": "take flight", "trans": "逃走する"}
+      ],
+      "antonyms": [
+        {"word": "remain", "trans": "とどまる"},
+        {"word": "stay", "trans": "居残る"},
+        {"word": "confront", "trans": "立ち向かう"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11576,
+      "word": "retreat",
+      "pos": "動詞、名詞",
+      "meaning": "【自】①退く、撤退する 【名】②撤退、避難所",
+      "nuance": "「後ろへ(re)引く(trait)」が語源。軍隊が引き下がることや、嫌なことから逃れるために静かな場所へ行くことも指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The army was forced to retreat after a heavy defeat.",
+              "ja": "大敗の後、軍は撤退を余儀なくされた。",
+              "highlight": "retreat"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The mountain cabin served as a peaceful retreat for the writer.",
+              "ja": "その山小屋は作家にとって平和な隠れ家（避難所）として機能した。",
+              "highlight": "retreat"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (後ろへ) + trahere (引く)",
+      "synonyms": [
+        {"word": "withdraw", "trans": "引き下がる"},
+        {"word": "pull back", "trans": "後退する"},
+        {"word": "refuge", "trans": "避難所"}
+      ],
+      "antonyms": [
+        {"word": "advance", "trans": "前進する"},
+        {"word": "attack", "trans": "攻撃する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11577,
+      "word": "crawl",
+      "pos": "動詞",
+      "meaning": "【自】這って進む、ゆっくり進む",
+      "nuance": "手足を使って這う（赤ちゃんのハイハイなど）ことや、交通渋滞などで車が極端に遅く動く様子を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The baby learned to crawl before she could walk.",
+              "ja": "その赤ちゃんは歩けるようになる前に這って進む（ハイハイ）ことを覚えた。",
+              "highlight": "crawl"
+            },
+            {
+              "en": "The traffic was crawling along at five miles per hour.",
+              "ja": "交通は時速5マイルでノロノロ運転（這うように進む動作）をしていた。",
+              "highlight": "crawling"
+            }
+          ]
+        }
+      ],
+      "etymology": "北ゲルマン語（這う）",
+      "synonyms": [
+        {"word": "creep", "trans": "忍び寄る、這う"},
+        {"word": "drag", "trans": "引きずるように進む"}
+      ],
+      "antonyms": [
+        {"word": "run", "trans": "走る"},
+        {"word": "dash", "trans": "突進する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11578,
+      "word": "drift",
+      "pos": "動詞、名詞",
+      "meaning": "【自】①漂う、流される 【名】②漂流、大意",
+      "nuance": "風や水流に任せて目的なく移動すること。また、話の全体的な「趣旨（流れ）」を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The boat drifted out to sea after the engine failed.",
+              "ja": "エンジンが故障した後、ボートは海へと流された。",
+              "highlight": "drifted"
+            },
+            {
+              "en": "Do you catch my drift?",
+              "ja": "私の言わんとすること（大意・流れ）がわかりますか？",
+              "highlight": "drift"
+            }
+          ]
+        }
+      ],
+      "etymology": "drive（追いやる）と同じ語源",
+      "synonyms": [
+        {"word": "float", "trans": "浮かぶ"},
+        {"word": "waft", "trans": "漂う"},
+        {"word": "gist", "trans": "要点"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11579,
+      "word": "alter",
+      "pos": "動詞",
+      "meaning": "【他】〜を変える、作り直す",
+      "nuance": "change よりも「部分的な修正」という響きが強く、服の寸法直しや計画の一部の変更によく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We had to alter our travel plans due to the bad weather.",
+              "ja": "悪天候のため、旅行計画を変更しなければならなかった。",
+              "highlight": "alter"
+            },
+            {
+              "en": "She had her dress altered to fit her better.",
+              "ja": "彼女は自分に合うようにドレスを作り直させた（寸法直しした）。",
+              "highlight": "altered"
+            }
+          ]
+        }
+      ],
+      "etymology": "alter（他の）",
+      "synonyms": [
+        {"word": "modify", "trans": "修正する"},
+        {"word": "adjust", "trans": "調整する"},
+        {"word": "change", "trans": "変える"}
+      ],
+      "antonyms": [
+        {"word": "maintain", "trans": "維持する"},
+        {"word": "preserve", "trans": "保存する"}
+      ],
+      "related": [
+        {"word": "alternative", "trans": "名詞：代わりのもの／形容詞：代わりの"},
+        {"word": "alteration", "trans": "名詞：変更、修正"}
+      ]
+    },
+    {
+      "number": 11580,
+      "word": "convert",
+      "pos": "動詞",
+      "meaning": "【他】①（A into B）AをBに転換する ②〜を改宗させる",
+      "nuance": "「完全に(con)向ける(vertere)」が語源。形や用途、信念を根本から作り替えたり変えたりすることを指します。",
+      "example_sections": [
+        {
+          "title": "「転換する」の例文",
+          "examples": [
+            {
+              "en": "They converted the old warehouse into a modern art gallery.",
+              "ja": "彼らは古い倉庫を現代美術館に転換した。",
+              "highlight": "converted"
+            }
+          ]
+        },
+        {
+          "title": "「改宗させる」の例文",
+          "examples": [
+            {
+              "en": "He was converted to Buddhism late in life.",
+              "ja": "彼は晩年、仏教に改宗した。",
+              "highlight": "converted"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (完全に) + vertere (回す、向ける)",
+      "synonyms": [
+        {"word": "transform", "trans": "変形させる"},
+        {"word": "switch", "trans": "切り替える"},
+        {"word": "proselytize", "trans": "改宗させる、勧誘する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "conversion", "trans": "名詞：転換、改宗"},
+        {"word": "convertible", "trans": "形容詞：転換できる／名詞：オープンカー"}
+      ]
+    },
+    {
+      "number": 11581,
+      "word": "shrink",
+      "pos": "動詞",
+      "meaning": "【自】①縮む ②（数量が）減る 【他】③〜を縮ませる、減らす",
+      "nuance": "サイズが小さくなることだけでなく、予算や市場などの数値が減少することにも使われます。また、恐怖で身をすくめる際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "My sweater shrank in the wash.",
+              "ja": "セーターが洗濯で縮んでしまった。",
+              "highlight": "shrank"
+            },
+            {
+              "en": "The company's profits have continued to shrink.",
+              "ja": "その会社の利益は減り続けている。",
+              "highlight": "shrink"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（縮む）",
+      "synonyms": [
+        {"word": "contract", "trans": "収縮する"},
+        {"word": "decrease", "trans": "減少する"},
+        {"word": "diminish", "trans": "衰退する"}
+      ],
+      "antonyms": [
+        {"word": "expand", "trans": "拡大する"},
+        {"word": "grow", "trans": "成長する"},
+        {"word": "stretch", "trans": "伸びる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11582,
+      "word": "wither",
+      "pos": "動詞",
+      "meaning": "【自】しおれる、しぼむ、衰える",
+      "nuance": "植物が水分を失って枯れること。比喩的に、希望や愛、才能などが弱まり消えていく際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The flowers withered in the summer heat.",
+              "ja": "その花は夏の暑さでしおれてしまった。",
+              "highlight": "withered"
+            },
+            {
+              "en": "Her confidence began to wither under his criticism.",
+              "ja": "彼の批判を受けて、彼女の自信は衰え始めた。",
+              "highlight": "wither"
+            }
+          ]
+        }
+      ],
+      "etymology": "weather（天候にさらす）と同じ語源",
+      "synonyms": [
+        {"word": "fade", "trans": "あせる、しぼむ"},
+        {"word": "dry up", "trans": "干からびる"},
+        {"word": "decline", "trans": "衰退する"}
+      ],
+      "antonyms": [
+        {"word": "flourish", "trans": "繁栄する"},
+        {"word": "bloom", "trans": "咲く"},
+        {"word": "thrive", "trans": "健康に育つ"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11583,
+      "word": "transition",
+      "pos": "名詞",
+      "meaning": "移り変わり、推移、過渡期",
+      "nuance": "「横切って(trans)行く(ire)」が語源。ある状態から別の状態へ変化する「プロセス」そのものを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company is currently in a period of transition.",
+              "ja": "その会社は現在、過渡期（移り変わりの時期）にある。",
+              "highlight": "transition"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans (横切って) + ire (行く)",
+      "synonyms": [
+        {"word": "shift", "trans": "変化、移動"},
+        {"word": "progression", "trans": "進行、進展"},
+        {"word": "changeover", "trans": "転換"}
+      ],
+      "antonyms": [
+        {"word": "stagnation", "trans": "停滞"},
+        {"word": "stability", "trans": "安定"}
+      ],
+      "related": [
+        {"word": "transitory", "trans": "形容詞：一時的な、無常の"}
+      ]
+    },
+    {
+      "number": 11584,
+      "word": "distortion",
+      "pos": "名詞",
+      "meaning": "（事実などの）歪曲、歪めること、（音などの）ひずみ",
+      "nuance": "「引き離して(dis)ねじる(tort)」が語源。形や事実を不自然に、あるいは意図的に変えることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The article was a gross distortion of the truth.",
+              "ja": "その記事は真実をひどく歪曲したものだった。",
+              "highlight": "distortion"
+            },
+            {
+              "en": "Electronic musical instruments can produce sound distortion.",
+              "ja": "電子楽器は音のひずみを作り出すことができる。",
+              "highlight": "distortion"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + torquere (ねじる)",
+      "synonyms": [
+        {"word": "falsification", "trans": "偽造"},
+        {"word": "misrepresentation", "trans": "誤伝、不当表示"},
+        {"word": "warp", "trans": "ゆがみ"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "distort", "trans": "動詞：〜を歪める"}
+      ]
+    },
+    {
+      "number": 11585,
+      "word": "enhance",
+      "pos": "動詞",
+      "meaning": "【他】〜（質・価値・魅力など）を向上させる、高める",
+      "nuance": "すでに良い状態のものを、さらに良く、あるいは魅力的にすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The new lighting will enhance the beauty of the room.",
+              "ja": "新しい照明は部屋の美しさをさらに高めるだろう。",
+              "highlight": "enhance"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + altus (高い) → 高める",
+      "synonyms": [
+        {"word": "improve", "trans": "改善する"},
+        {"word": "boost", "trans": "高める"},
+        {"word": "upgrade", "trans": "向上させる"}
+      ],
+      "antonyms": [
+        {"word": "diminish", "trans": "減らす"},
+        {"word": "degrade", "trans": "質を下げる"}
+      ],
+      "related": [
+        {"word": "enhancement", "trans": "名詞：向上、強化"}
+      ]
+    },
+    {
+      "number": 11586,
+      "word": "reinforce",
+      "pos": "動詞",
+      "meaning": "【他】〜を補強する、強化する",
+      "nuance": "「再び(re)力(force)を入れる」が語源。構造物、軍隊、あるいは考えや信念をより強くすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The bridge needs to be reinforced with steel beams.",
+              "ja": "その橋は鋼鉄の梁で補強する必要がある。",
+              "highlight": "reinforced"
+            },
+            {
+              "en": "The success of the experiment reinforced her belief in the theory.",
+              "ja": "実験の成功によって、彼女はその理論への信念を強めた（強化した）。",
+              "highlight": "reinforced"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + in (中に) + force (力)",
+      "synonyms": [
+        {"word": "strengthen", "trans": "強くする"},
+        {"word": "bolster", "trans": "支持する、強化する"},
+        {"word": "fortify", "trans": "防備を固める"}
+      ],
+      "antonyms": [
+        {"word": "weaken", "trans": "弱める"},
+        {"word": "undermine", "trans": "揺るがす"}
+      ],
+      "related": [
+        {"word": "reinforcement", "trans": "名詞：補強、増員部隊"}
+      ]
+    },
+    {
+      "number": 11587,
+      "word": "foster",
+      "pos": "動詞、形容詞",
+      "meaning": "【他】①（才能・関係など）を育成する、促進する ②〜の里親になる 【形】③里親の",
+      "nuance": "「育てる(foodと同根)」が語源。成長を助けたり、適切な環境を整えて大切に育むイメージです。",
+      "example_sections": [
+        {
+          "title": "「育成する」の例文",
+          "examples": [
+            {
+              "en": "The school aims to foster creativity in its students.",
+              "ja": "その学校は生徒たちの創造性を育成することを目指している。",
+              "highlight": "foster"
+            }
+          ]
+        },
+        {
+          "title": "「里親」の例文",
+          "examples": [
+            {
+              "en": "They have fostered several children over the years.",
+              "ja": "彼らは長年にわたって数人の子供たちの里親になってきた。",
+              "highlight": "fostered"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（育てる、養う）",
+      "synonyms": [
+        {"word": "nurture", "trans": "養育する"},
+        {"word": "promote", "trans": "促進する"},
+        {"word": "cultivate", "trans": "耕す、育む"}
+      ],
+      "antonyms": [
+        {"word": "neglect", "trans": "放置する"},
+        {"word": "stifle", "trans": "抑え込む"}
+      ],
+      "related": [
+        {"word": "foster parent", "trans": "名詞：里親"}
+      ]
+    },
+    {
+      "number": 11588,
+      "word": "breakdown",
+      "pos": "名詞",
+      "meaning": "①崩壊、決裂 ②故障 ③衰弱、内訳",
+      "nuance": "システムや関係が壊れること、機械が動かなくなること、また「詳しく分析すること（内訳）」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The talks led to a breakdown in communication between the two countries.",
+              "ja": "その会談は、二国間のコミュニケーションの決裂（崩壊）を招いた。",
+              "highlight": "breakdown"
+            },
+            {
+              "en": "Can you give me a breakdown of the costs?",
+              "ja": "費用の内訳を教えてもらえますか？",
+              "highlight": "breakdown"
+            }
+          ]
+        }
+      ],
+      "etymology": "break (壊す) + down (下に)",
+      "synonyms": [
+        {"word": "failure", "trans": "失敗、故障"},
+        {"word": "collapse", "trans": "崩壊"},
+        {"word": "analysis", "trans": "分析"}
+      ],
+      "antonyms": [
+        {"word": "repair", "trans": "修理"},
+        {"word": "buildup", "trans": "増強"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11589,
+      "word": "collapse",
+      "pos": "動詞、名詞",
+      "meaning": "【自】①崩壊する、倒れる 【名】②崩壊、挫折",
+      "nuance": "「共に(col)滑る(labi)」が語源。建物が重みで潰れたり、人が過労で倒れたり、経済が破綻したりするように、突然ガタガタと崩れる様子を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The roof collapsed under the weight of the snow.",
+              "ja": "屋根が雪の重みで崩壊した。",
+              "highlight": "collapsed"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The stock market collapse caused a global recession.",
+              "ja": "株式市場の崩壊（暴落）が世界的な不況を引き起こした。",
+              "highlight": "collapse"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に) + labi (滑る、落ちる)",
+      "synonyms": [
+        {"word": "crumble", "trans": "崩れる"},
+        {"word": "break down", "trans": "壊れる"},
+        {"word": "faint", "trans": "失神する"}
+      ],
+      "antonyms": [
+        {"word": "rise", "trans": "上がる"},
+        {"word": "stand", "trans": "立つ"},
+        {"word": "flourish", "trans": "繁栄する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11590,
+      "word": "render",
+      "pos": "動詞",
+      "meaning": "【他】①（SVOC）OをCの状態にする ②（援助・サービスなど）を与える、提供する",
+      "nuance": "「戻して(re)与える(dare)」が語源。make よりもフォーマルな言葉で、ある状態に変えたり、義務として何かを提供したりする際に使われます。",
+      "example_sections": [
+        {
+          "title": "「状態にする」の例文",
+          "examples": [
+            {
+              "en": "The explosion rendered the building unsafe for use.",
+              "ja": "爆発により、その建物は使用するには危険な状態になった。",
+              "highlight": "rendered"
+            }
+          ]
+        },
+        {
+          "title": "「与える・提供する」の例文",
+          "examples": [
+            {
+              "en": "The charity renders assistance to those in need.",
+              "ja": "その慈善団体は困っている人々に援助を提供している。",
+              "highlight": "renders"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (戻して) + dare (与える)",
+      "synonyms": [
+        {"word": "make", "trans": "〜にする"},
+        {"word": "provide", "trans": "提供する"},
+        {"word": "give", "trans": "与える"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11591,
+      "word": "impair",
+      "pos": "動詞",
+      "meaning": "【他】（機能・能力・質など）を低下させる、損なう",
+      "nuance": "「より悪く(pejor)する」が語源。本来あるべき健康な状態や正常な機能を弱めることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Loud noise can impair your hearing permanently.",
+              "ja": "大きな騒音は、聴力を永久に損なう（低下させる）可能性がある。",
+              "highlight": "impair"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + pejor (より悪い)",
+      "synonyms": [
+        {"word": "damage", "trans": "傷つける"},
+        {"word": "weaken", "trans": "弱める"},
+        {"word": "harm", "trans": "害する"}
+      ],
+      "antonyms": [
+        {"word": "improve", "trans": "改善する"},
+        {"word": "enhance", "trans": "高める"},
+        {"word": "repair", "trans": "修復する"}
+      ],
+      "related": [
+        {"word": "impairment", "trans": "名詞：障害、損傷"},
+        {"word": "visually impaired", "trans": "形容詞：視覚障害のある"}
+      ]
+    },
+    {
+      "number": 11592,
+      "word": "deteriorate",
+      "pos": "動詞",
+      "meaning": "【自】悪化する、低下する",
+      "nuance": "状況や健康状態、建物の品質などが時間の経過とともに「どんどん悪くなっていく」自動詞です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His health deteriorated rapidly after the surgery.",
+              "ja": "手術の後、彼の健康状態は急速に悪化した。",
+              "highlight": "deteriorated"
+            }
+          ]
+        }
+      ],
+      "etymology": "deter (より悪い) + ior (比較級)",
+      "synonyms": [
+        {"word": "worsen", "trans": "悪化する"},
+        {"word": "decline", "trans": "衰退する"},
+        {"word": "degenerate", "trans": "退化する"}
+      ],
+      "antonyms": [
+        {"word": "improve", "trans": "向上する"},
+        {"word": "recover", "trans": "回復する"}
+      ],
+      "related": [
+        {"word": "deterioration", "trans": "名詞：悪化"}
+      ]
+    },
+    {
+      "number": 11593,
+      "word": "undermine",
+      "pos": "動詞",
+      "meaning": "【他】〜を弱める、揺るがす、〜の土台を壊す",
+      "nuance": "「下(under)を掘る(mine)」が語源。表面上は分からないように、徐々に、あるいは密かに基礎を削って弱体化させるイメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Continual criticism can undermine a person's confidence.",
+              "ja": "絶え間ない批判は、人の自信を（根底から）弱める可能性がある。",
+              "highlight": "undermine"
+            }
+          ]
+        }
+      ],
+      "etymology": "under (下に) + mine (掘る)",
+      "synonyms": [
+        {"word": "weaken", "trans": "弱める"},
+        {"word": "sabotage", "trans": "妨害する、破壊する"},
+        {"word": "threaten", "trans": "脅かす"}
+      ],
+      "antonyms": [
+        {"word": "reinforce", "trans": "補強する"},
+        {"word": "strengthen", "trans": "強化する"},
+        {"word": "support", "trans": "支持する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11594,
+      "word": "tackle",
+      "pos": "動詞",
+      "meaning": "【他】〜（問題・課題など）に取り組む、〜にタックルする",
+      "nuance": "ラグビーのタックルのように、逃げずに正面からガシッと掴んで解決しようとする意欲的な姿勢を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government is determined to tackle the problem of inflation.",
+              "ja": "政府はインフレ問題に取り組む（解決しようとする）決意だ。",
+              "highlight": "tackle"
+            }
+          ]
+        }
+      ],
+      "etymology": "中低ドイツ語（船の索具、道具）",
+      "synonyms": [
+        {"word": "address", "trans": "（問題に）取り組む"},
+        {"word": "confront", "trans": "直面する"},
+        {"word": "deal with", "trans": "対処する"}
+      ],
+      "antonyms": [
+        {"word": "avoid", "trans": "避ける"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11595,
+      "word": "disposal",
+      "pos": "名詞",
+      "meaning": "①処分、廃棄 ②（at one's -）〜の自由にできること",
+      "nuance": "不要なものを捨てることだけでなく、何かを自由に使いこなせる「配置」にあることも指します。",
+      "example_sections": [
+        {
+          "title": "「処分・廃棄」の例文",
+          "examples": [
+            {
+              "en": "The proper disposal of nuclear waste is a major challenge.",
+              "ja": "核廃棄物の適切な処分は大きな課題だ。",
+              "highlight": "disposal"
+            }
+          ]
+        },
+        {
+          "title": "「自由にできる」の例文",
+          "examples": [
+            {
+              "en": "I am at your disposal if you need any help.",
+              "ja": "何か助けが必要なら、私のことは自由に使ってください（自由にお申し付けください）。",
+              "highlight": "at your disposal"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + ponere (置く) → 配置する",
+      "synonyms": [
+        {"word": "discarding", "trans": "廃棄"},
+        {"word": "dumping", "trans": "投げ捨てること"},
+        {"word": "command", "trans": "支配、自由な使用"}
+      ],
+      "antonyms": [
+        {"word": "collection", "trans": "収集"},
+        {"word": "retention", "trans": "保持"}
+      ],
+      "related": [
+        {"word": "dispose", "trans": "動詞：配置する、処分する"},
+        {"word": "disposable", "trans": "形容詞：使い捨ての"}
+      ]
+    },
+    {
+      "number": 11596,
+      "word": "confine",
+      "pos": "動詞",
+      "meaning": "【他】①〜を閉じ込める ②〜（活動・話題など）を制限する、限定する",
+      "nuance": "「完全に(con)境界(finis)の中に置く」が語源。人や物を狭い場所に閉じ込めたり、範囲を限定したりすることを指します。",
+      "example_sections": [
+        {
+          "title": "「閉じ込める」の例文",
+          "examples": [
+            {
+              "en": "He was confined to a wheelchair after the accident.",
+              "ja": "事故の後、彼は車椅子での生活を余儀なくされた（車椅子に閉じ込められた）。",
+              "highlight": "confined"
+            }
+          ]
+        },
+        {
+          "title": "「制限する」の例文",
+          "examples": [
+            {
+              "en": "Please confine your remarks to the topic under discussion.",
+              "ja": "発言は議論中のトピックだけに限定してください。",
+              "highlight": "confine"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に) + finis (境界、終わり)",
+      "synonyms": [
+        {"word": "restrict", "trans": "制限する"},
+        {"word": "limit", "trans": "限定する"},
+        {"word": "imprison", "trans": "投獄する"}
+      ],
+      "antonyms": [
+        {"word": "release", "trans": "解放する"},
+        {"word": "expand", "trans": "拡大する"},
+        {"word": "free", "trans": "自由にする"}
+      ],
+      "related": [
+        {"word": "confinement", "trans": "名詞：監禁、制限"}
+      ]
+    },
+    {
+      "number": 11597,
+      "word": "designate",
+      "pos": "動詞",
+      "meaning": "【他】（通例受身形で）〜を指定する、指名する",
+      "nuance": "特定の目的や役割のために、はっきりと印をつけたり選んだりすることを指します。標識などで示された場所などによく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "This area has been designated as a non-smoking zone.",
+              "ja": "このエリアは禁煙区域に指定されている。",
+              "highlight": "designated"
+            },
+            {
+              "en": "He was designated as the successor to the CEO.",
+              "ja": "彼はCEOの後継者に指名された。",
+              "highlight": "designated"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (はっきりと) + signare (印をつける)",
+      "synonyms": [
+        {"word": "specify", "trans": "指定する"},
+        {"word": "appoint", "trans": "任命する"},
+        {"word": "select", "trans": "選ぶ"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "designation", "trans": "名詞：名称、指定"}
+      ]
+    },
+    {
+      "number": 11598,
+      "word": "regulate",
+      "pos": "動詞",
+      "meaning": "【他】①（規則などで）〜を規制する、統制する ②（速度・温度など）を調整する",
+      "nuance": "「規則(regula)」に従って正しく動くようにコントロールすることを指します。政府による業界への規制や、機械の設定調整などに使われます。",
+      "example_sections": [
+        {
+          "title": "「規制する」の例文",
+          "examples": [
+            {
+              "en": "The government needs to regulate the banking industry.",
+              "ja": "政府は銀行業界を規制する必要がある。",
+              "highlight": "regulate"
+            }
+          ]
+        },
+        {
+          "title": "「調整する」の例文",
+          "examples": [
+            {
+              "en": "This valve regulates the flow of water.",
+              "ja": "このバルブが水の流れを調整する。",
+              "highlight": "regulates"
+            }
+          ]
+        }
+      ],
+      "etymology": "regula（定規、規則）",
+      "synonyms": [
+        {"word": "control", "trans": "制御する"},
+        {"word": "adjust", "trans": "調整する"},
+        {"word": "govern", "trans": "統治する"}
+      ],
+      "antonyms": [
+        {"word": "deregulate", "trans": "規制を撤廃する"},
+        {"word": "disorganize", "trans": "混乱させる"}
+      ],
+      "related": [
+        {"word": "regulation", "trans": "名詞：規則、規制"},
+        {"word": "regular", "trans": "形容詞：規則的な、定期的な"}
+      ]
+    },
+    {
+      "number": 11599,
+      "word": "prohibit",
+      "pos": "動詞",
+      "meaning": "【他】〜を禁じる、（公式に）禁止する",
+      "nuance": "法律や公的なルールによって、ある行為をすることを認めないことを指します。 forbid よりもフォーマルな響きです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The law prohibits smoking in public buildings.",
+              "ja": "法律により、公共の建物での喫煙は禁止されている。",
+              "highlight": "prohibits"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前に) + habere (持つ) → 前に置いて通さない",
+      "synonyms": [
+        {"word": "ban", "trans": "禁止する"},
+        {"word": "forbid", "trans": "禁じる"},
+        {"word": "outlaw", "trans": "不法とする"}
+      ],
+      "antonyms": [
+        {"word": "allow", "trans": "許可する"},
+        {"word": "permit", "trans": "認める"},
+        {"word": "authorize", "trans": "公認する"}
+      ],
+      "related": [
+        {"word": "prohibition", "trans": "名詞：禁止（特にアメリカの禁酒法時代を指すこともある）"}
+      ]
+    },
+    {
+      "number": 11600,
+      "word": "refrain",
+      "pos": "動詞",
+      "meaning": "【自】（from ～）〜を控える、慎む",
+      "nuance": "自分の意思でやりたいことを「ぐっとこらえる」イメージです。公共の場でのアナウンスなどでよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please refrain from smoking until the plane has landed.",
+              "ja": "飛行機が着陸するまで喫煙はお控えください。",
+              "highlight": "refrain from"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (後ろへ) + frenum (手綱) → 手綱を引いて止める",
+      "synonyms": [
+        {"word": "abstain", "trans": "（酒などを）控える"},
+        {"word": "desist", "trans": "やめる"},
+        {"word": "avoid", "trans": "避ける"}
+      ],
+      "antonyms": [
+        {"word": "indulge", "trans": "ふける、思う存分やる"},
+        {"word": "continue", "trans": "続ける"}
+      ],
+      "related": []
     }
   ]
 }
