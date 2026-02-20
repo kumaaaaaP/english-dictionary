@@ -73,6 +73,20 @@ def get_base_number(filename):
     match = re.match(r'^(\d+)', filename)
     return int(match.group(1)) if match else 0
 
+def get_japanese_meaning(filepath):
+    """HTMLファイルからmeaning-jpクラスの日本語訳を抽出する"""
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            content = f.read()
+        match = re.search(r'<div class="meaning-jp">\s*(.*?)\s*</div>', content, re.DOTALL)
+        if match:
+            # HTMLタグを除去して返す
+            text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+            return text
+    except:
+        pass
+    return ""
+
 # ==========================================
 # 3. メイン処理
 # ==========================================
@@ -124,6 +138,7 @@ def generate_index():
         .word-item a { display: flex; padding: 12px 20px; text-decoration: none; color: #333; align-items: center; }
         .word-id { font-weight: bold; color: var(--primary-color); min-width: 75px; font-family: monospace; }
         .word-name { font-size: 1.1em; font-weight: 500; }
+        .word-meaning { font-size: 0.78em; color: #888; margin-left: 12px; font-weight: normal; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 250px; }
         
         .sub-word { margin-left: 30px; border-left: 4px solid #ccd5ae; background-color: #fafafa; }
         .sub-word .word-id { color: #6a994e; }
@@ -180,9 +195,15 @@ def generate_index():
         item_class = "word-item sub-word" if is_sub else "word-item"
         display_id = parts[0] + ("-" + parts[1] if is_sub else "")
 
+        # 日本語訳を取得
+        meaning = get_japanese_meaning(os.path.join(word_dir, filename))
+
         html_content += f'        <li class="{item_class}"><a href="data/{filename}">'
         html_content += f'<span class="word-id">{display_id}</span>'
-        html_content += f'<span class="word-name">{display_name}</span></a></li>\n'
+        html_content += f'<span class="word-name">{display_name}</span>'
+        if meaning:
+            html_content += f'<span class="word-meaning">{meaning}</span>'
+        html_content += f'</a></li>\n'
 
     html_content += """    </ul>
     <div class="loading-indicator" id="loadingIndicator">スクロールして読み込み...</div>
