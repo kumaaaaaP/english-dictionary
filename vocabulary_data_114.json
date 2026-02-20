@@ -2660,6 +2660,1388 @@
       "related": [
         {"word": "prestigious", "trans": "形容詞：名声のある、一流の"}
       ]
+    },
+    {
+      "number": 11467,
+      "word": "privilege",
+      "pos": "名詞",
+      "meaning": "特権、名誉",
+      "nuance": "特定の個人やグループにのみ与えられる特別な権利。また、身に余る光栄（名誉）という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Education should be a right, not a privilege for the wealthy.",
+              "ja": "教育は権利であるべきであり、富裕層のための特権であってはならない。",
+              "highlight": "privilege"
+            },
+            {
+              "en": "It is a great privilege to meet the president.",
+              "ja": "大統領にお会いできるのは大変な光栄（名誉）です。",
+              "highlight": "privilege"
+            }
+          ]
+        }
+      ],
+      "etymology": "privus (個人の) + lex (法) → 個人にのみ適用される法",
+      "synonyms": [
+        {"word": "prerogative", "trans": "特権、大権"},
+        {"word": "advantage", "trans": "有利な点"},
+        {"word": "honor", "trans": "名誉"}
+      ],
+      "antonyms": [
+        {"word": "disadvantage", "trans": "不利"},
+        {"word": "restriction", "trans": "制限"},
+        {"word": "duty", "trans": "義務"}
+      ],
+      "related": [
+        {"word": "privileged", "trans": "形容詞：特権のある、恵まれた"}
+      ]
+    },
+    {
+      "number": 11468,
+      "word": "feat",
+      "pos": "名詞",
+      "meaning": "偉業、妙技",
+      "nuance": "並外れた勇気、技術、または強さを必要とする素晴らしい行為や達成。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The team accomplished a remarkable feat by winning ten games in a row.",
+              "ja": "そのチームは10連勝するという驚くべき偉業を成し遂げた。",
+              "highlight": "feat"
+            },
+            {
+              "en": "Building the pyramids was a brilliant feat of engineering.",
+              "ja": "ピラミッドの建設は、工学における輝かしい偉業だった。",
+              "highlight": "feat"
+            }
+          ]
+        }
+      ],
+      "etymology": "factum (なされたこと、行為)",
+      "synonyms": [
+        {"word": "achievement", "trans": "達成、業績"},
+        {"word": "accomplishment", "trans": "遂行、成果"},
+        {"word": "exploit", "trans": "手柄"}
+      ],
+      "antonyms": [
+        {"word": "failure", "trans": "失敗"},
+        {"word": "defeat", "trans": "敗北"},
+        {"word": "fiasco", "trans": "大失敗"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11469,
+      "word": "dignity",
+      "pos": "名詞",
+      "meaning": "威厳、尊厳",
+      "nuance": "人から尊敬されるにふさわしい気高さや、自分自身を大切にする誇り。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She maintained her dignity even in the most difficult circumstances.",
+              "ja": "彼女は最も困難な状況にあっても、自らの尊厳（気高さ）を保った。",
+              "highlight": "dignity"
+            },
+            {
+              "en": "The elderly should be treated with respect and dignity.",
+              "ja": "高齢者は敬意と尊厳を持って扱われるべきだ。",
+              "highlight": "dignity"
+            }
+          ]
+        }
+      ],
+      "etymology": "dignus (ふさわしい、価値がある)",
+      "synonyms": [
+        {"word": "self-respect", "trans": "自尊心"},
+        {"word": "nobility", "trans": "高潔さ"},
+        {"word": "stature", "trans": "威信"}
+      ],
+      "antonyms": [
+        {"word": "humiliation", "trans": "屈辱"},
+        {"word": "shame", "trans": "恥"},
+        {"word": "indignity", "trans": "侮辱"}
+      ],
+      "related": [
+        {"word": "dignify", "trans": "動詞：威厳をつける"},
+        {"word": "indignant", "trans": "形容詞：憤慨した（価値を無視されて怒る）"}
+      ]
+    },
+    {
+      "number": 11470,
+      "word": "virtue",
+      "pos": "名詞",
+      "meaning": "①美徳 ②（人、物の個々の）長所 ③（by virtue of ～）～のために",
+      "nuance": "道徳的な正しさ、あるいは何かが持つ優れた機能や利点を指します。",
+      "example_sections": [
+        {
+          "title": "意味①②：美徳、長所",
+          "examples": [
+            {
+              "en": "Patience is a virtue when dealing with children.",
+              "ja": "子供と接する際、忍耐は美徳である。",
+              "highlight": "virtue"
+            },
+            {
+              "en": "One of the virtues of this method is its simplicity.",
+              "ja": "この方法の長所の一つは、その単純さだ。",
+              "highlight": "virtues"
+            }
+          ]
+        },
+        {
+          "title": "意味③：～の理由で（熟語）",
+          "examples": [
+            {
+              "en": "She succeeded by virtue of her hard work and tenacity.",
+              "ja": "彼女は懸命な努力と粘り強さのおかげで（によって）成功した。",
+              "highlight": "by virtue of"
+            }
+          ]
+        }
+      ],
+      "etymology": "virtus (力、勇気、男らしさ)",
+      "synonyms": [
+        {"word": "goodness", "trans": "善良さ"},
+        {"word": "advantage", "trans": "利点"},
+        {"word": "merit", "trans": "メリット"}
+      ],
+      "antonyms": [
+        {"word": "vice", "trans": "悪徳"},
+        {"word": "defect", "trans": "欠点"},
+        {"word": "shortcoming", "trans": "短所"}
+      ],
+      "related": [
+        {"word": "virtuous", "trans": "形容詞：徳の高い"},
+        {"word": "virtual", "trans": "形容詞：実質的な（徳＝力がある状態）"}
+      ]
+    },
+    {
+      "number": 11471,
+      "word": "aristocracy",
+      "pos": "名詞",
+      "meaning": "貴族（階級、社会）",
+      "nuance": "血筋や地位が高い人々、または彼らが支配する政治体制を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "In the past, the country was ruled by the aristocracy.",
+              "ja": "かつて、その国は貴族階級によって支配されていた。",
+              "highlight": "aristocracy"
+            },
+            {
+              "en": "She was born into the landed aristocracy.",
+              "ja": "彼女は土地所有貴族の家に生まれた。",
+              "highlight": "aristocracy"
+            }
+          ]
+        }
+      ],
+      "etymology": "aristos (最高の) + kratos (支配) → 最良の人々による支配",
+      "synonyms": [
+        {"word": "nobility", "trans": "貴族階級"},
+        {"word": "upper class", "trans": "上流階級"},
+        {"word": "elite", "trans": "エリート"}
+      ],
+      "antonyms": [
+        {"word": "working class", "trans": "労働者階級"},
+        {"word": "peasantry", "trans": "小作農、農民階級"},
+        {"word": "proletariat", "trans": "無産階級"}
+      ],
+      "related": [
+        {"word": "aristocrat", "trans": "名詞：貴族"},
+        {"word": "aristocratic", "trans": "形容詞：貴族的な"}
+      ]
+    },
+    {
+      "number": 11472,
+      "word": "rebel",
+      "pos": "名詞、自動詞",
+      "meaning": "①反逆者 [自] ②（against ～）（～に）反逆する、反抗する",
+      "nuance": "政府や既存の権威、ルールに対して武力や態度で立ち向かうこと。",
+      "example_sections": [
+        {
+          "title": "意味①：反逆者（名詞）",
+          "examples": [
+            {
+              "en": "The rebels took control of the capital city.",
+              "ja": "反逆者たちは首都を制圧した。",
+              "highlight": "rebels"
+            }
+          ]
+        },
+        {
+          "title": "意味②：反逆する（動詞）",
+          "examples": [
+            {
+              "en": "Teenagers often rebel against their parents' authority.",
+              "ja": "10代の若者はしばしば親の権威に反抗する。",
+              "highlight": "rebel"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + bellum (戦争) → 再び戦争を起こす",
+      "synonyms": [
+        {"word": "insurgent", "trans": "暴徒"},
+        {"word": "revolter", "trans": "反乱者"},
+        {"word": "resist", "trans": "抵抗する"}
+      ],
+      "antonyms": [
+        {"word": "loyalist", "trans": "忠誠派"},
+        {"word": "obey", "trans": "従う"},
+        {"word": "conform", "trans": "従順に従う"}
+      ],
+      "related": [
+        {"word": "rebellion", "trans": "名詞：反乱、反抗"},
+        {"word": "rebellious", "trans": "形容詞：反抗的な"}
+      ]
+    },
+    {
+      "number": 11473,
+      "word": "scheme",
+      "pos": "名詞",
+      "meaning": "①〈英〉計画 ②陰謀",
+      "nuance": "英国では単なる「計画、公的な制度」を指しますが、米国や一般的文脈では「悪だくみ、陰謀」というネガティブな響きが強くなります。",
+      "example_sections": [
+        {
+          "title": "意味①：計画（英用法）",
+          "examples": [
+            {
+              "en": "The government launched a new training scheme for the unemployed.",
+              "ja": "政府は失業者のための新しい訓練計画（制度）を開始した。",
+              "highlight": "scheme"
+            }
+          ]
+        },
+        {
+          "title": "意味②：陰謀",
+          "examples": [
+            {
+              "en": "They discovered a scheme to embezzle money from the company.",
+              "ja": "彼らは会社から金を横領しようとする陰謀を発見した。",
+              "highlight": "scheme"
+            }
+          ]
+        }
+      ],
+      "etymology": "schema (形、図、計画)",
+      "synonyms": [
+        {"word": "plan", "trans": "計画"},
+        {"word": "plot", "trans": "陰謀"},
+        {"word": "strategy", "trans": "戦略"}
+      ],
+      "antonyms": [
+        {"word": "chaos", "trans": "混乱"},
+        {"word": "accident", "trans": "偶然"},
+        {"word": "disorder", "trans": "無秩序"}
+      ],
+      "related": [
+        {"word": "schematic", "trans": "形容詞：図式の"}
+      ]
+    },
+    {
+      "number": 11474,
+      "word": "convention",
+      "pos": "名詞",
+      "meaning": "①会議、大会 ②慣習 ③条約",
+      "nuance": "人々が集まること（大会）、長年受け入れられてきた形（慣習）、国家間の合意（条約）という多岐にわたる意味があります。",
+      "example_sections": [
+        {
+          "title": "意味①：会議、大会",
+          "examples": [
+            {
+              "en": "The annual comic book convention attracts thousands of fans.",
+              "ja": "毎年のコミック大会には何千人ものファンが集まる。",
+              "highlight": "convention"
+            }
+          ]
+        },
+        {
+          "title": "意味②：慣習",
+          "examples": [
+            {
+              "en": "Social conventions vary from culture to culture.",
+              "ja": "社会的慣習は文化によって異なる。",
+              "highlight": "conventions"
+            }
+          ]
+        },
+        {
+          "title": "意味③：条約",
+          "examples": [
+            {
+              "en": "The Geneva Convention established standards for international law.",
+              "ja": "ジュネーブ条約は国際法の基準を確立した。",
+              "highlight": "Convention"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (共に) + venire (来る) → 一緒に来ること",
+      "synonyms": [
+        {"word": "conference", "trans": "会議"},
+        {"word": "custom", "trans": "慣習"},
+        {"word": "treaty", "trans": "条約"}
+      ],
+      "antonyms": [
+        {"word": "oddity", "trans": "風変わり"},
+        {"word": "deviation", "trans": "逸脱"},
+        {"word": "informality", "trans": "非公式"}
+      ],
+      "related": [
+        {"word": "conventional", "trans": "形容詞：型にはまった、従来の"},
+        {"word": "convene", "trans": "動詞：召集する"}
+      ]
+    },
+    {
+      "number": 11475,
+      "word": "conference",
+      "pos": "名詞",
+      "meaning": "（on ～）（～に関する）会議",
+      "nuance": "特定のトピックについて議論や意見交換を行うための公式な集まり。Conventionよりは学術的・実務的な議論の場というニュアンスが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I'm attending a conference on climate change next week.",
+              "ja": "来週、気候変動に関する会議に出席します。",
+              "highlight": "conference"
+            },
+            {
+              "en": "The manager held a press conference to explain the situation.",
+              "ja": "マネージャーは状況を説明するために記者会見を開いた。",
+              "highlight": "conference"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (共に) + ferre (運ぶ) → 意見を持ち寄ること",
+      "synonyms": [
+        {"word": "meeting", "trans": "集まり"},
+        {"word": "symposium", "trans": "討論会"},
+        {"word": "seminar", "trans": "ゼミ、研修"}
+      ],
+      "antonyms": [
+        {"word": "solitude", "trans": "独り"},
+        {"word": "silence", "trans": "沈黙"}
+      ],
+      "related": [
+        {"word": "confer", "trans": "動詞：相談する、授与する"}
+      ]
+    },
+    {
+      "number": 11476,
+      "word": "consent",
+      "pos": "名詞、自動詞",
+      "meaning": "①合意、承諾 [自] ②（to ～）（～に）合意する",
+      "nuance": "他人の提案や要求に対して、自分の意思で「いいですよ」と許可・賛成すること。法律や医療の文脈でよく使われます。",
+      "example_sections": [
+        {
+          "title": "意味①：合意（名詞）",
+          "examples": [
+            {
+              "en": "The patient gave her written consent for the surgery.",
+              "ja": "患者はその手術に対して書面による承諾を与えた。",
+              "highlight": "consent"
+            }
+          ]
+        },
+        {
+          "title": "意味②：合意する（動詞）",
+          "examples": [
+            {
+              "en": "He reluctantly consented to the proposal.",
+              "ja": "彼は不本意ながらその提案に同意した。",
+              "highlight": "consented"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (共に) + sentire (感じる) → 同じように感じること",
+      "synonyms": [
+        {"word": "agreement", "trans": "同意"},
+        {"word": "permission", "trans": "許可"},
+        {"word": "approval", "trans": "承認"}
+      ],
+      "antonyms": [
+        {"word": "dissent", "trans": "異議、反対"},
+        {"word": "refusal", "trans": "拒否"},
+        {"word": "objection", "trans": "反対"}
+      ],
+      "related": [
+        {"word": "consensus", "trans": "名詞：総意、コンセンサス"}
+      ]
+    },
+    {
+      "number": 11477,
+      "word": "initiative",
+      "pos": "名詞",
+      "meaning": "①新構想、新計画 ②主導権",
+      "nuance": "物事を新しく始めるための積極的なエネルギー、あるいは最初の一歩。",
+      "example_sections": [
+        {
+          "title": "意味①：新計画",
+          "examples": [
+            {
+              "en": "The peace initiative failed to end the conflict.",
+              "ja": "その和平構想は紛争を終わらせることができなかった。",
+              "highlight": "initiative"
+            }
+          ]
+        },
+        {
+          "title": "意味②：主導権",
+          "examples": [
+            {
+              "en": "He took the initiative and started the discussion.",
+              "ja": "彼は主導権を握り、議論を始めた。",
+              "highlight": "initiative"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + ire (行く) → 中へ入っていくこと、始まり",
+      "synonyms": [
+        {"word": "enterprise", "trans": "進取の気性"},
+        {"word": "lead", "trans": "リード、先導"},
+        {"word": "proposal", "trans": "提案"}
+      ],
+      "antonyms": [
+        {"word": "passivity", "trans": "受動性"},
+        {"word": "indecision", "trans": "優柔不断"},
+        {"word": "reaction", "trans": "反応、受け身"}
+      ],
+      "related": [
+        {"word": "initiate", "trans": "動詞：～を始める"},
+        {"word": "initial", "trans": "形容詞：最初の"}
+      ]
+    },
+    {
+      "number": 11478,
+      "word": "province",
+      "pos": "名詞",
+      "meaning": "①（カナダなどの）州、（中国の）省 ②（the provinces）地方",
+      "nuance": "国家を分ける大きな行政区画。また、都会（首都）に対して「田舎、地方」という意味でも使われます。",
+      "example_sections": [
+        {
+          "title": "意味①：行政区画",
+          "examples": [
+            {
+              "en": "Quebec is a province of Canada.",
+              "ja": "ケベックはカナダの州の一つだ。",
+              "highlight": "province"
+            }
+          ]
+        },
+        {
+          "title": "意味②：地方",
+          "examples": [
+            {
+              "en": "She grew up in the provinces and later moved to London.",
+              "ja": "彼女は地方で育ち、後にロンドンへ引っ越した。",
+              "highlight": "provinces"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前に) + vincere (征服する) → 征服された地域",
+      "synonyms": [
+        {"word": "state", "trans": "（米などの）州"},
+        {"word": "region", "trans": "地域"},
+        {"word": "territory", "trans": "領土、領域"}
+      ],
+      "antonyms": [
+        {"word": "metropolis", "trans": "大都市"},
+        {"word": "capital", "trans": "首都"}
+      ],
+      "related": [
+        {"word": "provincial", "trans": "形容詞：地方の、偏狭な"}
+      ]
+    },
+    {
+      "number": 11479,
+      "word": "colony",
+      "pos": "名詞",
+      "meaning": "①植民地 ②（アリなどの）群落",
+      "nuance": "母国から離れた土地に移り住んだ人々の居留地。また、同じ種類の生物がまとまって生活している状態。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "India was once a British colony.",
+              "ja": "インドはかつてイギリスの植民地だった。",
+              "highlight": "colony"
+            },
+            {
+              "en": "The researchers found a large colony of penguins on the island.",
+              "ja": "研究者たちはその島でペンギンの大きな群落を発見した。",
+              "highlight": "colony"
+            }
+          ]
+        }
+      ],
+      "etymology": "colere (耕す、住む)",
+      "synonyms": [
+        {"word": "settlement", "trans": "定住地"},
+        {"word": "dependency", "trans": "保護領"},
+        {"word": "community", "trans": "共同体"}
+      ],
+      "antonyms": [
+        {"word": "motherland", "trans": "母国"},
+        {"word": "individual", "trans": "個体"}
+      ],
+      "related": [
+        {"word": "colonial", "trans": "形容詞：植民地の"},
+        {"word": "colonize", "trans": "動詞：～を植民地化する"}
+      ]
+    },
+    {
+      "number": 11480,
+      "word": "frontier",
+      "pos": "名詞",
+      "meaning": "①辺境、（主に英）国境 ②（the frontiers）最前線",
+      "nuance": "文明化された地域の端や、二国の境界線。比喩的に学問などの「未開拓分野、最前線」としても重要です。",
+      "example_sections": [
+        {
+          "title": "意味①：国境、辺境",
+          "examples": [
+            {
+              "en": "They crossed the frontier between France and Spain.",
+              "ja": "彼らはフランスとスペインの間の国境を越えた。",
+              "highlight": "frontier"
+            }
+          ]
+        },
+        {
+          "title": "意味②：最前線、未開拓分野",
+          "examples": [
+            {
+              "en": "Space is often called the final frontier.",
+              "ja": "宇宙はしばしば最後のフロンティア（未開拓領域）と呼ばれる。",
+              "highlight": "frontier"
+            }
+          ]
+        }
+      ],
+      "etymology": "frons (額、正面) → 最も前に位置するもの",
+      "synonyms": [
+        {"word": "border", "trans": "国境"},
+        {"word": "boundary", "trans": "境界"},
+        {"word": "edge", "trans": "端"}
+      ],
+      "antonyms": [
+        {"word": "center", "trans": "中心"},
+        {"word": "interior", "trans": "内部"},
+        {"word": "heartland", "trans": "中心地"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11481,
+      "word": "tribe",
+      "pos": "名詞",
+      "meaning": "部族、種族",
+      "nuance": "言語、宗教、習慣などを共有し、通常はリーダーに率いられた伝統的な社会集団。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The Amazon rainforest is home to many indigenous tribes.",
+              "ja": "アマゾンの熱帯雨林には多くの先住部族が住んでいる。",
+              "highlight": "tribes"
+            },
+            {
+              "en": "Membership in the tribe is based on kinship.",
+              "ja": "部族への所属は血縁に基づいている。",
+              "highlight": "tribe"
+            }
+          ]
+        }
+      ],
+      "etymology": "tribus (ローマの3つの部族の1つ)",
+      "synonyms": [
+        {"word": "clan", "trans": "氏族"},
+        {"word": "ethnic group", "trans": "民族集団"},
+        {"word": "nation", "trans": "部族国家、国民"}
+      ],
+      "antonyms": [
+        {"word": "individual", "trans": "個人"},
+        {"word": "civilization", "trans": "（大規模な）文明社会"}
+      ],
+      "related": [
+        {"word": "tribal", "trans": "形容詞：部族の"}
+      ]
+    },
+    {
+      "number": 11482,
+      "word": "primitive",
+      "pos": "形容詞",
+      "meaning": "原始的な、未開の",
+      "nuance": "進化の初期段階にあること、あるいは現代的な道具がなく非常にシンプルな状態。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Primitive people lived in caves and used stone tools.",
+              "ja": "原始人は洞窟に住み、石器を使っていた。",
+              "highlight": "Primitive"
+            },
+            {
+              "en": "Conditions at the campsite were quite primitive.",
+              "ja": "そのキャンプ場の状況はかなり原始的（不便）だった。",
+              "highlight": "primitive"
+            }
+          ]
+        }
+      ],
+      "etymology": "primus (第一の) → 最初の段階の",
+      "synonyms": [
+        {"word": "ancient", "trans": "古代の"},
+        {"word": "crude", "trans": "粗末な、加工されていない"},
+        {"word": "elemental", "trans": "基本的な"}
+      ],
+      "antonyms": [
+        {"word": "modern", "trans": "現代的な"},
+        {"word": "advanced", "trans": "進んだ"},
+        {"word": "sophisticated", "trans": "洗練された"}
+      ],
+      "related": [
+        {"word": "prime", "trans": "形容詞：主要な、最初の"}
+      ]
+    },
+    {
+      "number": 11483,
+      "word": "ethnic",
+      "pos": "形容詞",
+      "meaning": "民族の、民族的な",
+      "nuance": "共通の文化的伝統、言語、歴史を持つグループに関するもの。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The city has a rich diversity of ethnic groups.",
+              "ja": "その都市には多様な民族グループが存在する。",
+              "highlight": "ethnic"
+            },
+            {
+              "en": "I love exploring ethnic restaurants in London.",
+              "ja": "ロンドンのエスニック（民族的）料理店を巡るのが大好きだ。",
+              "highlight": "ethnic"
+            }
+          ]
+        }
+      ],
+      "etymology": "ethnos (人々、国民)",
+      "synonyms": [
+        {"word": "racial", "trans": "人種の"},
+        {"word": "cultural", "trans": "文化的な"},
+        {"word": "traditional", "trans": "伝統的な"}
+      ],
+      "antonyms": [
+        {"word": "national", "trans": "国民全体の"},
+        {"word": "universal", "trans": "普遍的な"},
+        {"word": "global", "trans": "世界的な"}
+      ],
+      "related": [
+        {"word": "ethnicity", "trans": "名詞：民族性"}
+      ]
+    },
+    {
+      "number": 11484,
+      "word": "anonymous",
+      "pos": "形容詞",
+      "meaning": "匿名の",
+      "nuance": "名前が明かされていない、あるいは正体不明の状態。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The museum received a large donation from an anonymous donor.",
+              "ja": "博物館は匿名の人から多額の寄付を受け取った。",
+              "highlight": "anonymous"
+            },
+            {
+              "en": "The author of the book preferred to remain anonymous.",
+              "ja": "その本の著者は匿名のままでいることを好んだ。",
+              "highlight": "anonymous"
+            }
+          ]
+        }
+      ],
+      "etymology": "an (無) + onyma (名前) → 名前がない",
+      "synonyms": [
+        {"word": "unnamed", "trans": "名前のない"},
+        {"word": "unidentified", "trans": "正体不明の"},
+        {"word": "incognito", "trans": "匿名で、お忍びで"}
+      ],
+      "antonyms": [
+        {"word": "named", "trans": "名前のある"},
+        {"word": "known", "trans": "知られた"},
+        {"word": "identified", "trans": "特定された"}
+      ],
+      "related": [
+        {"word": "anonymity", "trans": "名詞：匿名性"}
+      ]
+    },
+    {
+      "number": 11485,
+      "word": "coverage",
+      "pos": "名詞",
+      "meaning": "①報道 ②（保険の）補償（範囲）",
+      "nuance": "対象をどの程度「カバー」しているかという範囲を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：報道",
+          "examples": [
+            {
+              "en": "The Olympics received extensive media coverage worldwide.",
+              "ja": "オリンピックは世界中で大々的なメディア報道をされた。",
+              "highlight": "coverage"
+            }
+          ]
+        },
+        {
+          "title": "意味②：補償範囲",
+          "examples": [
+            {
+              "en": "Does your insurance policy provide coverage for fire damage?",
+              "ja": "あなたの保険プランは火災による損害を補償していますか？",
+              "highlight": "coverage"
+            }
+          ]
+        }
+      ],
+      "etymology": "cover (覆う) + age (こと、状態)",
+      "synonyms": [
+        {"word": "reporting", "trans": "報道"},
+        {"word": "protection", "trans": "保護、補償"},
+        {"word": "scope", "trans": "範囲"}
+      ],
+      "antonyms": [
+        {"word": "exclusion", "trans": "除外"},
+        {"word": "neglect", "trans": "無視"},
+        {"word": "lack", "trans": "欠如"}
+      ],
+      "related": [
+        {"word": "cover", "trans": "動詞：～を覆う、～を扱う"}
+      ]
+    },
+    {
+      "number": 11486,
+      "word": "obligation",
+      "pos": "名詞",
+      "meaning": "①（社会に対する）責務 ②（個人に対する）恩義",
+      "nuance": "法、道徳、約束などによって「しなければならない」と縛られている状態。",
+      "example_sections": [
+        {
+          "title": "意味①：責務",
+          "examples": [
+            {
+              "en": "Parents have a legal obligation to ensure their children go to school.",
+              "ja": "親には子供を学校に通わせる法的義務がある。",
+              "highlight": "obligation"
+            }
+          ]
+        },
+        {
+          "title": "意味②：恩義",
+          "examples": [
+            {
+              "en": "I feel an obligation to help him because he helped me before.",
+              "ja": "以前彼に助けてもらったので、彼を助ける義務（恩義）を感じている。",
+              "highlight": "obligation"
+            }
+          ]
+        }
+      ],
+      "etymology": "ob (～に対して) + ligare (縛る) → ～に対して縛られていること",
+      "synonyms": [
+        {"word": "duty", "trans": "義務"},
+        {"word": "responsibility", "trans": "責任"},
+        {"word": "commitment", "trans": "約束、献身"}
+      ],
+      "antonyms": [
+        {"word": "freedom", "trans": "自由"},
+        {"word": "option", "trans": "選択肢"},
+        {"word": "exemption", "trans": "免除"}
+      ],
+      "related": [
+        {"word": "oblige", "trans": "動詞：～を強いる"},
+        {"word": "obligatory", "trans": "形容詞：義務的な"}
+      ]
+    },
+    {
+      "number": 11487,
+      "word": "norm",
+      "pos": "名詞",
+      "meaning": "①ふつうのこと ②（norms）規範",
+      "nuance": "ある集団において「標準的」とされる行動や期待、ルール。",
+      "example_sections": [
+        {
+          "title": "意味①：ふつうのこと、標準",
+          "examples": [
+            {
+              "en": "In many modern families, two working parents are the norm.",
+              "ja": "多くの現代の家庭では、共働きがふつう（標準）である。",
+              "highlight": "norm"
+            }
+          ]
+        },
+        {
+          "title": "意味②：規範",
+          "examples": [
+            {
+              "en": "Social norms dictate how we should behave in public.",
+              "ja": "社会的規範が、公共の場での私たちの振る舞いを決定する。",
+              "highlight": "norms"
+            }
+          ]
+        }
+      ],
+      "etymology": "norma (大工の定規)",
+      "synonyms": [
+        {"word": "standard", "trans": "標準"},
+        {"word": "benchmark", "trans": "基準"},
+        {"word": "rule", "trans": "規則"}
+      ],
+      "antonyms": [
+        {"word": "exception", "trans": "例外"},
+        {"word": "abnormality", "trans": "異常"},
+        {"word": "deviation", "trans": "逸脱"}
+      ],
+      "related": [
+        {"word": "normal", "trans": "形容詞：普通の"},
+        {"word": "normalize", "trans": "動詞：正常化する"}
+      ]
+    },
+    {
+      "number": 11488,
+      "word": "patent",
+      "pos": "名詞、他動詞、形容詞",
+      "meaning": "①特許（権） [他] ②～の特許をとる [形] ③明白な",
+      "nuance": "発明などを公開する代わりに独占権を得る「特許」。また形容詞では「誰の目にも明らかな」という意味もあります。",
+      "example_sections": [
+        {
+          "title": "意味①②：特許、特許をとる",
+          "examples": [
+            {
+              "en": "The inventor applied for a patent for his new engine.",
+              "ja": "その発明家は新しいエンジンの特許を申請した。",
+              "highlight": "patent"
+            }
+          ]
+        },
+        {
+          "title": "意味③：明白な（形容詞）",
+          "examples": [
+            {
+              "en": "It was a patent lie, but everyone pretended to believe it.",
+              "ja": "それは見えすいた（明白な）嘘だったが、誰もが信じるふりをした。",
+              "highlight": "patent"
+            }
+          ]
+        }
+      ],
+      "etymology": "patere (開いている) → 公開されているもの",
+      "synonyms": [
+        {"word": "copyright", "trans": "著作権"},
+        {"word": "license", "trans": "認可"},
+        {"word": "obvious", "trans": "明白な"}
+      ],
+      "antonyms": [
+        {"word": "secret", "trans": "秘密の"},
+        {"word": "hidden", "trans": "隠された"},
+        {"word": "ambiguous", "trans": "曖昧な"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11489,
+      "word": "entitled",
+      "pos": "形容詞",
+      "meaning": "①（to ～）（～の）権利がある ②～と題された",
+      "nuance": "「～というタイトル（title）を与えられた」あるいは「資格（title）を与えられた」状態を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：権利がある",
+          "examples": [
+            {
+              "en": "All citizens are entitled to equal protection under the law.",
+              "ja": "すべての市民は法の下で平等な保護を受ける権利がある。",
+              "highlight": "entitled"
+            },
+            {
+              "en": "He feels entitled to a promotion after five years of work.",
+              "ja": "彼は5年働いたのだから昇進する資格があると感じている。",
+              "highlight": "entitled"
+            }
+          ]
+        },
+        {
+          "title": "意味②：題された",
+          "examples": [
+            {
+              "en": "She wrote an essay entitled 'The Future of AI'.",
+              "ja": "彼女は『AIの未来』と題されたエッセイを書いた。",
+              "highlight": "entitled"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (～にする) + title (称号、資格)",
+      "synonyms": [
+        {"word": "eligible", "trans": "資格のある"},
+        {"word": "named", "trans": "～という名の"},
+        {"word": "authorized", "trans": "権限を与えられた"}
+      ],
+      "antonyms": [
+        {"word": "ineligible", "trans": "資格のない"},
+        {"word": "forbidden", "trans": "禁じられた"},
+        {"word": "untitled", "trans": "題名のない"}
+      ],
+      "related": [
+        {"word": "entitlement", "trans": "名詞：権利、受給権、特権意識"}
+      ]
+    },
+    {
+      "number": 11490,
+      "word": "donate",
+      "pos": "他動詞",
+      "meaning": "①～を寄付する ②（臓器など）を提供する",
+      "nuance": "慈善目的で、金銭、物品、あるいは自分の体の一部を無償で提供すること。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company donated one million yen to the earthquake victims.",
+              "ja": "その企業は地震の被災者に100万円を寄付した。",
+              "highlight": "donated"
+            },
+            {
+              "en": "He decided to donate his organs after his death.",
+              "ja": "彼は死後、臓器を提供することに決めた。",
+              "highlight": "donate"
+            }
+          ]
+        }
+      ],
+      "etymology": "donum (贈り物)",
+      "synonyms": [
+        {"word": "contribute", "trans": "寄付する、貢献する"},
+        {"word": "give", "trans": "与える"},
+        {"word": "present", "trans": "贈呈する"}
+      ],
+      "antonyms": [
+        {"word": "receive", "trans": "受け取る"},
+        {"word": "keep", "trans": "保持する"},
+        {"word": "withdraw", "trans": "撤回する"}
+      ],
+      "related": [
+        {"word": "donation", "trans": "名詞：寄付"},
+        {"word": "donor", "trans": "名詞：寄付者、提供者"}
+      ]
+    },
+    {
+      "number": 11491,
+      "word": "conform",
+      "pos": "自動詞",
+      "meaning": "（to ～）（～に）合わせる、順応する、一致する",
+      "nuance": "周囲の期待、ルール、標準的な形（form）に自分を「合わせる」こと。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Students are required to conform to the school rules.",
+              "ja": "生徒は校則に従う（合わせる）ことが求められる。",
+              "highlight": "conform"
+            },
+            {
+              "en": "The products must conform to international safety standards.",
+              "ja": "その製品は国際的な安全基準に適合しなければならない。",
+              "highlight": "conform"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (共に) + formare (形作る) → 同じ形になる",
+      "synonyms": [
+        {"word": "comply", "trans": "従う"},
+        {"word": "adapt", "trans": "順応する"},
+        {"word": "match", "trans": "一致する"}
+      ],
+      "antonyms": [
+        {"word": "rebel", "trans": "反抗する"},
+        {"word": "differ", "trans": "異なる"},
+        {"word": "deviate", "trans": "逸脱する"}
+      ],
+      "related": [
+        {"word": "conformity", "trans": "名詞：順応、一致"}
+      ]
+    },
+    {
+      "number": 11492,
+      "word": "comply",
+      "pos": "自動詞",
+      "meaning": "（with ～）（～に）従う、遵守する",
+      "nuance": "命令、規則、要求などを「満たす（ply）」ように行動すること。Conformよりも「（嫌でも）ルールに従う」実務的な響きが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Failure to comply with the regulations may result in a fine.",
+              "ja": "規則に従わない場合は罰金が科せられる可能性がある。",
+              "highlight": "comply"
+            },
+            {
+              "en": "We are happy to comply with your request.",
+              "ja": "お客様の要求に喜んで応じ（従い）ます。",
+              "highlight": "comply"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (完全に) + plere (満たす) → 要求を完全に満たす",
+      "synonyms": [
+        {"word": "obey", "trans": "従う"},
+        {"word": "observe", "trans": "（法などを）守る"},
+        {"word": "adhere", "trans": "固執する、守る"}
+      ],
+      "antonyms": [
+        {"word": "violate", "trans": "違反する"},
+        {"word": "disobey", "trans": "背く"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "compliance", "trans": "名詞：遵守、コンプライアンス"}
+      ]
+    },
+    {
+      "number": 11493,
+      "word": "legislation",
+      "pos": "名詞",
+      "meaning": "法律（集合的）、立法",
+      "nuance": "個々の法律（law）ではなく、議会で作られた法律の「総称」あるいは「法律を作るプロセス」そのもの。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government introduced new legislation to protect the environment.",
+              "ja": "政府は環境保護のための新しい法律（立法措置）を導入した。",
+              "highlight": "legislation"
+            },
+            {
+              "en": "Legislation is one of the primary functions of parliament.",
+              "ja": "立法は議会の主要な機能の一つだ。",
+              "highlight": "Legislation"
+            }
+          ]
+        }
+      ],
+      "etymology": "lex (法) + latio (運ぶこと、提案すること)",
+      "synonyms": [
+        {"word": "lawmaking", "trans": "立法"},
+        {"word": "statute", "trans": "制定法"},
+        {"word": "regulations", "trans": "規制"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "legislative", "trans": "形容詞：立法の"},
+        {"word": "legislator", "trans": "名詞：立法者、議員"},
+        {"word": "legislature", "trans": "名詞：立法府、議会"}
+      ]
+    },
+    {
+      "number": 11494,
+      "word": "testimony",
+      "pos": "名詞",
+      "meaning": "（法廷などでの）証言、証拠",
+      "nuance": "法廷で宣誓した上で行う公式な発言。比喩的に「～の証左（しるし）」としても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Her testimony was crucial in convicting the suspect.",
+              "ja": "彼女の証言は、容疑者の有罪判決において決定的だった。",
+              "highlight": "testimony"
+            },
+            {
+              "en": "The success of the project is a testimony to her hard work.",
+              "ja": "プロジェクトの成功は、彼女の努力の証（証拠）である。",
+              "highlight": "testimony"
+            }
+          ]
+        }
+      ],
+      "etymology": "testis (目撃者、証人)",
+      "synonyms": [
+        {"word": "evidence", "trans": "証拠"},
+        {"word": "statement", "trans": "声明、供述"},
+        {"word": "proof", "trans": "証明"}
+      ],
+      "antonyms": [
+        {"word": "denial", "trans": "否定"},
+        {"word": "refutation", "trans": "反論"}
+      ],
+      "related": [
+        {"word": "testify", "trans": "動詞：証言する"}
+      ]
+    },
+    {
+      "number": 11495,
+      "word": "jury",
+      "pos": "名詞",
+      "meaning": "陪審（員団）",
+      "nuance": "裁判において事実認定を行うために選ばれた一般市民のグループ。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The jury found the defendant not guilty.",
+              "ja": "陪審員団は被告人に無罪の評決を下した。",
+              "highlight": "jury"
+            },
+            {
+              "en": "She was called for jury duty last month.",
+              "ja": "彼女は先月、陪審員の任務に召喚された。",
+              "highlight": "jury"
+            }
+          ]
+        }
+      ],
+      "etymology": "jurare (誓う) → 宣誓した人々",
+      "synonyms": [
+        {"word": "panel", "trans": "（陪審員の）名簿、団"},
+        {"word": "peers", "trans": "同等の人々（陪審員の理念）"}
+      ],
+      "antonyms": [
+        {"word": "judge", "trans": "裁判官"},
+        {"word": "prosecutor", "trans": "検察官"}
+      ],
+      "related": [
+        {"word": "juror", "trans": "名詞：陪審員（個人）"},
+        {"word": "justice", "trans": "名詞：正義、裁判官"}
+      ]
+    },
+    {
+      "number": 11496,
+      "word": "legitimate",
+      "pos": "形容詞",
+      "meaning": "①正当な ②合法の",
+      "nuance": "法的に認められていること、あるいは論理や筋道が通っていて納得できる状態。",
+      "example_sections": [
+        {
+          "title": "意味①：正当な（納得できる）",
+          "examples": [
+            {
+              "en": "It is a legitimate question to ask how the money will be spent.",
+              "ja": "そのお金がどう使われるか尋ねるのは正当な疑問だ。",
+              "highlight": "legitimate"
+            }
+          ]
+        },
+        {
+          "title": "意味②：合法の、嫡出の",
+          "examples": [
+            {
+              "en": "He has a legitimate claim to the property.",
+              "ja": "彼はその財産に対して合法的な権利（主張）を持っている。",
+              "highlight": "legitimate"
+            }
+          ]
+        }
+      ],
+      "etymology": "lex (法) → 法に適った",
+      "synonyms": [
+        {"word": "legal", "trans": "合法の"},
+        {"word": "valid", "trans": "有効な、妥当な"},
+        {"word": "justifiable", "trans": "正当化できる"}
+      ],
+      "antonyms": [
+        {"word": "illegal", "trans": "不法の"},
+        {"word": "invalid", "trans": "無効な"},
+        {"word": "unreasonable", "trans": "不合理な"}
+      ],
+      "related": [
+        {"word": "legitimacy", "trans": "名詞：正当性"}
+      ]
+    },
+    {
+      "number": 11497,
+      "word": "enforce",
+      "pos": "他動詞",
+      "meaning": "①～を施行する、遵守させる ②～を強制する",
+      "nuance": "力（force）を加えて、法律や規則を実際に機能させること。",
+      "example_sections": [
+        {
+          "title": "意味①：施行する、守らせる",
+          "examples": [
+            {
+              "en": "The police are responsible for enforcing the law.",
+              "ja": "警察は法を執行する責任がある。",
+              "highlight": "enforcing"
+            }
+          ]
+        },
+        {
+          "title": "意味②：強制する",
+          "examples": [
+            {
+              "en": "It is difficult to enforce silence in a room full of children.",
+              "ja": "子供でいっぱいの部屋で静寂を強いるのは難しい。",
+              "highlight": "enforce"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (～にする) + force (力) → 力を入れる",
+      "synonyms": [
+        {"word": "implement", "trans": "実行する"},
+        {"word": "execute", "trans": "執行する"},
+        {"word": "compel", "trans": "強いる"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "neglect", "trans": "放置する"},
+        {"word": "repeal", "trans": "（法を）廃止する"}
+      ],
+      "related": [
+        {"word": "enforcement", "trans": "名詞：執行、強制"}
+      ]
+    },
+    {
+      "number": 11498,
+      "word": "regime",
+      "pos": "名詞",
+      "meaning": "政権、政治体制、管理体制",
+      "nuance": "単なる政府（government）よりも、特定の支配体制や、厳格な「管理システム」を指す言葉。しばしば独裁的な政権に対して使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The old military regime was eventually overthrown.",
+              "ja": "旧軍事政権は最終的に打倒された。",
+              "highlight": "regime"
+            },
+            {
+              "en": "The athlete follows a strict training regime.",
+              "ja": "そのアスリートは厳格なトレーニング管理（体制）に従っている。",
+              "highlight": "regime"
+            }
+          ]
+        }
+      ],
+      "etymology": "regere (導く、統治する)",
+      "synonyms": [
+        {"word": "government", "trans": "政府"},
+        {"word": "administration", "trans": "政権、管理"},
+        {"word": "system", "trans": "体系、制度"}
+      ],
+      "antonyms": [
+        {"word": "anarchy", "trans": "無政府状態"},
+        {"word": "chaos", "trans": "混乱"}
+      ],
+      "related": [
+        {"word": "regiment", "trans": "名詞：連隊（厳格に管理された部隊）"}
+      ]
+    },
+    {
+      "number": 11499,
+      "word": "bureaucracy",
+      "pos": "名詞",
+      "meaning": "①官僚制度、官僚主義 ②（集合的に）官僚",
+      "nuance": "公務員による行政組織。手続きが複雑で時間がかかるというネガティブな文脈（お役所仕事）でよく使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need to cut through the red tape of the federal bureaucracy.",
+              "ja": "連邦政府の官僚主義による不必要な形式的手続き（お役所仕事）を打破する必要がある。",
+              "highlight": "bureaucracy"
+            },
+            {
+              "en": "The state bureaucracy is responsible for tax collection.",
+              "ja": "州の官僚機構が徴税を担当している。",
+              "highlight": "bureaucracy"
+            }
+          ]
+        }
+      ],
+      "etymology": "bureau (事務机、事務所) + kratia (支配) → 机に座っている人による支配",
+      "synonyms": [
+        {"word": "administration", "trans": "行政"},
+        {"word": "civil service", "trans": "公務員組織"},
+        {"word": "officials", "trans": "当局者"}
+      ],
+      "antonyms": [
+        {"word": "democracy", "trans": "民主主義"},
+        {"word": "individualism", "trans": "個人主義"}
+      ],
+      "related": [
+        {"word": "bureaucrat", "trans": "名詞：官僚"},
+        {"word": "bureaucratic", "trans": "形容詞：官僚的な"}
+      ]
+    },
+    {
+      "number": 11500,
+      "word": "corruption",
+      "pos": "名詞",
+      "meaning": "腐敗、汚職、堕落",
+      "nuance": "権力者が私利私欲のために地位を悪用すること。また、純粋なものが損なわれること。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government is determined to fight political corruption.",
+              "ja": "政府は政治的汚職と戦う決意だ。",
+              "highlight": "corruption"
+            },
+            {
+              "en": "Power tends to corrupt, and absolute power corrupts absolutely.",
+              "ja": "権力は腐敗しがちであり、絶対的権力は絶対に腐敗する。（格言）",
+              "highlight": "corrupts"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (強調) + rumpere (壊す) → 完全に壊れること",
+      "synonyms": [
+        {"word": "bribery", "trans": "贈収賄"},
+        {"word": "dishonesty", "trans": "不誠実"},
+        {"word": "decay", "trans": "朽ちること"}
+      ],
+      "antonyms": [
+        {"word": "integrity", "trans": "誠実、清廉"},
+        {"word": "honesty", "trans": "正直"},
+        {"word": "purity", "trans": "純粋"}
+      ],
+      "related": [
+        {"word": "corrupt", "trans": "形容詞：腐敗した / 動詞：～を堕落させる"}
+      ]
     }
   ]
 }
