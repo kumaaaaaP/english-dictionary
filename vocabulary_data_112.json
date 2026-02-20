@@ -1,0 +1,1321 @@
+{
+  "words": [
+    {
+      "number": 11201,
+      "word": "insight",
+      "pos": "名詞",
+      "meaning": "①（into ～）（～に対する）洞察（力） ②見識",
+      "nuance": "物事の本質を鋭く見抜く力、あるいはその結果得られた深い理解を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：洞察（力）",
+          "examples": [
+            {
+              "en": "The book provides a fascinating insight into human psychology.",
+              "ja": "その本は人間心理に対する興味深い洞察を与えてくれる。",
+              "highlight": "insight"
+            },
+            {
+              "en": "She has sharp insight into political issues.",
+              "ja": "彼女は政治問題に対して鋭い洞察力を持っている。",
+              "highlight": "insight"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + sight (見る) → 中まで見通すこと",
+      "synonyms": [
+        {"word": "perception", "trans": "知覚、洞察"},
+        {"word": "understanding", "trans": "理解"},
+        {"word": "discernment", "trans": "識別力"}
+      ],
+      "antonyms": [
+        {"word": "ignorance", "trans": "無知"},
+        {"word": "blindness", "trans": "盲目、無頓着"}
+      ],
+      "related": [
+        {"word": "insightful", "trans": "形容詞：洞察力のある"}
+      ]
+    },
+    {
+      "number": 11202,
+      "word": "outlook",
+      "pos": "名詞",
+      "meaning": "①（人生などへの）考え方 ②（経済などの）見通し",
+      "nuance": "外に向かって物事をどう見るかという「態度」や、将来の「予測」を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：考え方、態度",
+          "examples": [
+            {
+              "en": "He has a positive outlook on life.",
+              "ja": "彼は人生に対して前向きな考え方を持っている。",
+              "highlight": "outlook"
+            }
+          ]
+        },
+        {
+          "title": "意味②：見通し",
+          "examples": [
+            {
+              "en": "The economic outlook for the next year is uncertain.",
+              "ja": "来年の経済見通しは不透明だ。",
+              "highlight": "outlook"
+            },
+            {
+              "en": "The weather outlook remains bleak for the weekend.",
+              "ja": "週末の天候の見通しは暗いままだ。",
+              "highlight": "outlook"
+            }
+          ]
+        }
+      ],
+      "etymology": "out (外を) + look (見る)",
+      "synonyms": [
+        {"word": "perspective", "trans": "観点"},
+        {"word": "prospect", "trans": "見通し"},
+        {"word": "viewpoint", "trans": "視点"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11203,
+      "word": "caution",
+      "pos": "名詞、他動詞",
+      "meaning": "①用心 ②警告 [他] ③～に警告を与える",
+      "nuance": "危険を避けるための「慎重さ」や、直接的な「注意喚起」を指します。",
+      "example_sections": [
+        {
+          "title": "意味①②：用心、警告（名詞）",
+          "examples": [
+            {
+              "en": "You should exercise caution when driving in the snow.",
+              "ja": "雪の中を運転するときは用心すべきだ。",
+              "highlight": "caution"
+            },
+            {
+              "en": "The sign serves as a caution to swimmers.",
+              "ja": "その標識は泳ぐ人への警告として機能している。",
+              "highlight": "caution"
+            }
+          ]
+        },
+        {
+          "title": "意味③：警告する（動詞）",
+          "examples": [
+            {
+              "en": "The doctor cautioned him against smoking.",
+              "ja": "医者は彼にタバコを吸わないよう警告した。",
+              "highlight": "cautioned"
+            }
+          ]
+        }
+      ],
+      "etymology": "cavere (用心する)",
+      "synonyms": [
+        {"word": "care", "trans": "注意"},
+        {"word": "warning", "trans": "警告"},
+        {"word": "prudence", "trans": "慎重さ"}
+      ],
+      "antonyms": [
+        {"word": "carelessness", "trans": "不注意"},
+        {"word": "recklessness", "trans": "無謀さ"}
+      ],
+      "related": [
+        {"word": "cautious", "trans": "形容詞：慎重な"}
+      ]
+    },
+    {
+      "number": 11204,
+      "word": "will",
+      "pos": "名詞",
+      "meaning": "①意志 ②遺書",
+      "nuance": "助動詞の「～だろう」の根底にある、何かを成し遂げようとする強い「精神力」、あるいは死後に残す意志（遺言）。",
+      "example_sections": [
+        {
+          "title": "意味①：意志",
+          "examples": [
+            {
+              "en": "Where there is a will, there is a way.",
+              "ja": "意志のあるところには、道がある（精神一到何事か成らざらん）。",
+              "highlight": "will"
+            },
+            {
+              "en": "She has a strong will to succeed.",
+              "ja": "彼女には成功しようとする強い意志がある。",
+              "highlight": "will"
+            }
+          ]
+        },
+        {
+          "title": "意味②：遺書",
+          "examples": [
+            {
+              "en": "He left all his property to his daughter in his will.",
+              "ja": "彼は遺書で全財産を娘に残した。",
+              "highlight": "will"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 willa (願い、意志)",
+      "synonyms": [
+        {"word": "determination", "trans": "決意"},
+        {"word": "testament", "trans": "遺言"},
+        {"word": "volition", "trans": "意欲"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "willing", "trans": "形容詞：～する気がある"},
+        {"word": "willpower", "trans": "名詞：意志の力"}
+      ]
+    },
+    {
+      "number": 11205,
+      "word": "option",
+      "pos": "名詞",
+      "meaning": "選択肢，選択（の自由）",
+      "nuance": "選ぶことができる複数の対象、あるいは選ぶ権利そのもの。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We have several options for the summer vacation.",
+              "ja": "夏休みにはいくつかの選択肢がある。",
+              "highlight": "options"
+            },
+            {
+              "en": "Giving up is not an option.",
+              "ja": "諦めるという選択肢はない。",
+              "highlight": "option"
+            }
+          ]
+        }
+      ],
+      "etymology": "optare (選ぶ)",
+      "synonyms": [
+        {"word": "choice", "trans": "選択"},
+        {"word": "alternative", "trans": "代わりの選択肢"},
+        {"word": "selection", "trans": "選定"}
+      ],
+      "antonyms": [
+        {"word": "compulsion", "trans": "強制"},
+        {"word": "necessity", "trans": "不可欠なもの"}
+      ],
+      "related": [
+        {"word": "optional", "trans": "形容詞：任意の"},
+        {"word": "adopt", "trans": "動詞：採用する（選び取る）"}
+      ]
+    },
+    {
+      "number": 11206,
+      "word": "nightmare",
+      "pos": "名詞",
+      "meaning": "①悪夢 ②悪夢のようなこと",
+      "nuance": "寝ている時に見る怖い夢から転じて、現実の耐え難い状況やひどい経験を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：悪夢（夢の中）",
+          "examples": [
+            {
+              "en": "The child woke up screaming after a nightmare.",
+              "ja": "その子は悪夢を見た後、叫びながら目を覚ました。",
+              "highlight": "nightmare"
+            }
+          ]
+        },
+        {
+          "title": "意味②：悪夢のような状況",
+          "examples": [
+            {
+              "en": "The traffic jam was a complete nightmare.",
+              "ja": "交通渋滞は全くの悪夢（ひどい状況）だった。",
+              "highlight": "nightmare"
+            }
+          ]
+        }
+      ],
+      "etymology": "night (夜) + mare (夢魔)",
+      "synonyms": [
+        {"word": "bad dream", "trans": "悪い夢"},
+        {"word": "ordeal", "trans": "厳しい試練"},
+        {"word": "horror", "trans": "恐怖"}
+      ],
+      "antonyms": [
+        {"word": "daydream", "trans": "白昼夢"},
+        {"word": "pleasure", "trans": "喜び"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11207,
+      "word": "keen",
+      "pos": "形容詞",
+      "meaning": "①（感覚などが）鋭い ②（be keen on）熱中して",
+      "nuance": "刃物が鋭いことから転じ、頭脳の明晰さや、何かに強く興味を持つ様子を表します。",
+      "example_sections": [
+        {
+          "title": "意味①：鋭い",
+          "examples": [
+            {
+              "en": "Dogs have a keen sense of smell.",
+              "ja": "犬は鋭い嗅覚を持っている。",
+              "highlight": "keen"
+            },
+            {
+              "en": "He is a keen observer of human behavior.",
+              "ja": "彼は人間の行動の鋭い観察者だ。",
+              "highlight": "keen"
+            }
+          ]
+        },
+        {
+          "title": "意味②：熱中して",
+          "examples": [
+            {
+              "en": "She is keen on learning Japanese culture.",
+              "ja": "彼女は日本文化を学ぶことに熱中している。",
+              "highlight": "keen"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 cene (大胆な、賢い)",
+      "synonyms": [
+        {"word": "sharp", "trans": "鋭い"},
+        {"word": "eager", "trans": "熱心な"},
+        {"word": "acute", "trans": "鋭敏な"}
+      ],
+      "antonyms": [
+        {"word": "dull", "trans": "鈍い"},
+        {"word": "indifferent", "trans": "無関心な"}
+      ],
+      "related": [
+        {"word": "keenly", "trans": "副詞：鋭く、痛切に"}
+      ]
+    },
+    {
+      "number": 11208,
+      "word": "cherish",
+      "pos": "他動詞",
+      "meaning": "～を大切にする，（希望などを）胸に抱く",
+      "nuance": "愛情を持って慈しみ、守り続けるという温かい響きのある言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You should cherish your friends.",
+              "ja": "友達を大切にすべきだ。",
+              "highlight": "cherish"
+            },
+            {
+              "en": "She still cherishes the memory of her childhood.",
+              "ja": "彼女は今でも子供の頃の思い出を胸に大切に抱いている。",
+              "highlight": "cherishes"
+            }
+          ]
+        }
+      ],
+      "etymology": "carus (親愛な)",
+      "synonyms": [
+        {"word": "treasure", "trans": "宝物のように大切にする"},
+        {"word": "value", "trans": "価値を置く"},
+        {"word": "nurture", "trans": "育む、大切にする"}
+      ],
+      "antonyms": [
+        {"word": "neglect", "trans": "無視する、放置する"},
+        {"word": "abandon", "trans": "捨てる"},
+        {"word": "despise", "trans": "軽蔑する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11209,
+      "word": "intend",
+      "pos": "他動詞",
+      "meaning": "（to do）～するつもりだ",
+      "nuance": "ある目的を持って、何かをしようと心に決めている状態。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I didn't intend to hurt your feelings.",
+              "ja": "あなたの感情を傷つけるつもりはなかった。",
+              "highlight": "intend"
+            },
+            {
+              "en": "We intend to visit Kyoto next month.",
+              "ja": "私たちは来月京都を訪れるつもりだ。",
+              "highlight": "intend"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (の中に) + tendere (伸ばす) → 心を向ける",
+      "synonyms": [
+        {"word": "plan", "trans": "計画する"},
+        {"word": "aim", "trans": "狙う"},
+        {"word": "mean", "trans": "～するつもりである"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "intention", "trans": "名詞：意図"},
+        {"word": "intentional", "trans": "形容詞：意図的な"}
+      ]
+    },
+    {
+      "number": 11210,
+      "word": "suspect",
+      "pos": "他動詞、名詞",
+      "meaning": "①～ではないかと思う ②～を疑う [名] ③容疑者",
+      "nuance": "「（悪いことが）事実ではないか」と推測すること。疑いの対象が名詞になると「容疑者」となります。",
+      "example_sections": [
+        {
+          "title": "意味①：～ではないかと思う",
+          "examples": [
+            {
+              "en": "I suspect that he is lying.",
+              "ja": "彼は嘘をついているのではないかと思う。",
+              "highlight": "suspect"
+            }
+          ]
+        },
+        {
+          "title": "意味②③：疑う、容疑者",
+          "examples": [
+            {
+              "en": "The police suspect him of robbery.",
+              "ja": "警察は彼を強盗の疑いで調べている（疑っている）。",
+              "highlight": "suspect"
+            },
+            {
+              "en": "The suspect was arrested yesterday.",
+              "ja": "容疑者は昨日逮捕された。",
+              "highlight": "suspect"
+            }
+          ]
+        }
+      ],
+      "etymology": "sub (下から) + specere (見る) → 下からジロジロ見る",
+      "synonyms": [
+        {"word": "doubt", "trans": "（違うのではないかと）疑う"},
+        {"word": "distrust", "trans": "不信感を抱く"},
+        {"word": "guess", "trans": "推測する"}
+      ],
+      "antonyms": [
+        {"word": "trust", "trans": "信頼する"},
+        {"word": "believe", "trans": "信じる"}
+      ],
+      "related": [
+        {"word": "suspicion", "trans": "名詞：疑い"},
+        {"word": "suspicious", "trans": "形容詞：疑わしい"}
+      ]
+    },
+    {
+      "number": 11211,
+      "word": "comprehend",
+      "pos": "他動詞",
+      "meaning": "～を（十分に）理解する",
+      "nuance": "understandよりも硬い語で、複雑な内容や全体像を完全に理解・包含することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He failed to comprehend the seriousness of the situation.",
+              "ja": "彼は事態の深刻さを理解できなかった。",
+              "highlight": "comprehend"
+            },
+            {
+              "en": "The infinite scale of the universe is difficult to comprehend.",
+              "ja": "宇宙の無限の規模を理解するのは難しい。",
+              "highlight": "comprehend"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に) + prehendere (つかむ) → 全てをつかみ取る",
+      "synonyms": [
+        {"word": "understand", "trans": "理解する"},
+        {"word": "grasp", "trans": "把握する"},
+        {"word": "fathom", "trans": "（深く）理解する"}
+      ],
+      "antonyms": [
+        {"word": "misunderstand", "trans": "誤解する"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "comprehension", "trans": "名詞：理解（力）"},
+        {"word": "comprehensive", "trans": "形容詞：包括的な"}
+      ]
+    },
+    {
+      "number": 11212,
+      "word": "misunderstand",
+      "pos": "他動詞",
+      "meaning": "～を誤解している",
+      "nuance": "相手の意図や事実を、正しくない形で受け取ってしまうこと。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I think you misunderstood my point.",
+              "ja": "あなたは私の主張を誤解していると思う。",
+              "highlight": "misunderstood"
+            },
+            {
+              "en": "Don't misunderstand me; I'm not saying it's your fault.",
+              "ja": "誤解しないで。君のせいだと言っているわけじゃないんだ。",
+              "highlight": "misunderstand"
+            }
+          ]
+        }
+      ],
+      "etymology": "mis (誤って) + understand (理解する)",
+      "synonyms": [
+        {"word": "misconceive", "trans": "思い違いをする"},
+        {"word": "misinterpret", "trans": "誤って解釈する"}
+      ],
+      "antonyms": [
+        {"word": "understand", "trans": "理解する"},
+        {"word": "comprehend", "trans": "十分に理解する"}
+      ],
+      "related": [
+        {"word": "misunderstanding", "trans": "名詞：誤解"}
+      ]
+    },
+    {
+      "number": 11213,
+      "word": "identify",
+      "pos": "他動詞",
+      "meaning": "①～を特定する ②（A with B）同一視する ③（with ～）なりきる・共感する",
+      "nuance": "「それ（identity）」が何であるかを一致させること。犯人を特定したり、自分を登場人物に重ねたりする時に使います。",
+      "example_sections": [
+        {
+          "title": "意味①：特定する",
+          "examples": [
+            {
+              "en": "She identified the man as the attacker.",
+              "ja": "彼女はその男が攻撃者であると特定した。",
+              "highlight": "identified"
+            }
+          ]
+        },
+        {
+          "title": "意味②：同一視する",
+          "examples": [
+            {
+              "en": "Never identify wealth with happiness.",
+              "ja": "富と幸福を同一視してはいけない。",
+              "highlight": "identify"
+            }
+          ]
+        },
+        {
+          "title": "意味③：共感する、なりきる",
+          "examples": [
+            {
+              "en": "Many readers identify with the main character in the novel.",
+              "ja": "多くの読者がその小説の主人公に共感する（自分を重ね合わせる）。",
+              "highlight": "identify"
+            }
+          ]
+        }
+      ],
+      "etymology": "idem (同じ) + facere (作る) → 同じであることを証明する",
+      "synonyms": [
+        {"word": "recognize", "trans": "認める、識別する"},
+        {"word": "detect", "trans": "見抜く"},
+        {"word": "sympathize", "trans": "共感する"}
+      ],
+      "antonyms": [
+        {"word": "confuse", "trans": "混同する"},
+        {"word": "mistake", "trans": "間違える"}
+      ],
+      "related": [
+        {"word": "identity", "trans": "名詞：身元、同一性"},
+        {"word": "identification", "trans": "名詞：身分証明"}
+      ]
+    },
+    {
+      "number": 11214,
+      "word": "permit",
+      "pos": "他動詞、名詞",
+      "meaning": "①～を許可する [名] ②許可証",
+      "nuance": "allowよりも公式な響きがあり、権限を持った人が許可を出す場合に使われます。",
+      "example_sections": [
+        {
+          "title": "意味①：許可する（動詞）",
+          "examples": [
+            {
+              "en": "Smoking is not permitted in this building.",
+              "ja": "この建物内での喫煙は許可されていない。",
+              "highlight": "permitted"
+            },
+            {
+              "en": "We will start the game, weather permitting.",
+              "ja": "天候が許せば、試合を開始します。",
+              "highlight": "permitting"
+            }
+          ]
+        },
+        {
+          "title": "意味②：許可証（名詞）",
+          "examples": [
+            {
+              "en": "You need a parking permit to leave your car here.",
+              "ja": "ここに車を停めるには駐車許可証が必要だ。",
+              "highlight": "permit"
+            }
+          ]
+        }
+      ],
+      "etymology": "per (通して) + mittere (送る) → 通ることを許す",
+      "synonyms": [
+        {"word": "allow", "trans": "許す"},
+        {"word": "authorize", "trans": "権限を与える"},
+        {"word": "license", "trans": "免許を与える"}
+      ],
+      "antonyms": [
+        {"word": "forbid", "trans": "禁じる"},
+        {"word": "prohibit", "trans": "禁止する"},
+        {"word": "ban", "trans": "禁止する"}
+      ],
+      "related": [
+        {"word": "permission", "trans": "名詞：許可"},
+        {"word": "permissive", "trans": "形容詞：寛大な"}
+      ]
+    },
+    {
+      "number": 11215,
+      "word": "acknowledge",
+      "pos": "他動詞",
+      "meaning": "～を（事実だと）認める，（受け取ったことを）知らせる",
+      "nuance": "しぶしぶ、あるいは公式に「それが真実である」と認めたり、感謝やお礼の意を込めて反応することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He acknowledged that he had made a mistake.",
+              "ja": "彼は自分が間違いを犯したことを認めた。",
+              "highlight": "acknowledged"
+            },
+            {
+              "en": "Please acknowledge receipt of this letter.",
+              "ja": "この手紙を受け取ったことを（返信などで）知らせてください。",
+              "highlight": "acknowledge"
+            }
+          ]
+        }
+      ],
+      "etymology": "ac (～へ) + knowledge (知識) → 知識として取り入れる",
+      "synonyms": [
+        {"word": "admit", "trans": "認める"},
+        {"word": "recognize", "trans": "認識する"},
+        {"word": "confess", "trans": "白状する"}
+      ],
+      "antonyms": [
+        {"word": "deny", "trans": "否定する"},
+        {"word": "reject", "trans": "拒絶する"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "acknowledgment", "trans": "名詞：承認、謝辞"}
+      ]
+    },
+    {
+      "number": 11216,
+      "word": "trim",
+      "pos": "他動詞、形容詞",
+      "meaning": "①～を刈り込む [形] ②こぎれいな",
+      "nuance": "余分な部分を切り落として、形を整え、スッキリさせるというイメージです。",
+      "example_sections": [
+        {
+          "title": "意味①：刈り込む、切り取る",
+          "examples": [
+            {
+              "en": "I need to trim the hedges in the garden.",
+              "ja": "庭の生垣を刈り込む必要がある。",
+              "highlight": "trim"
+            },
+            {
+              "en": "The budget needs to be trimmed by 10%.",
+              "ja": "予算を10%削減（切り詰め）しなければならない。",
+              "highlight": "trimmed"
+            }
+          ]
+        },
+        {
+          "title": "意味②：こぎれいな、引き締まった",
+          "examples": [
+            {
+              "en": "He has a trim figure for his age.",
+              "ja": "彼は年齢の割に引き締まった体つきをしている。",
+              "highlight": "trim"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 trymman (整える、強くする)",
+      "synonyms": [
+        {"word": "cut", "trans": "切る"},
+        {"word": "prune", "trans": "（枝などを）剪定する"},
+        {"word": "neat", "trans": "きちんとした"}
+      ],
+      "antonyms": [
+        {"word": "messy", "trans": "散らかった"},
+        {"word": "expand", "trans": "広げる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11217,
+      "word": "omit",
+      "pos": "他動詞",
+      "meaning": "～を省く，（うっかり）忘れる",
+      "nuance": "リストから外したり、わざと言わなかったり、あるいは不注意で抜かしてしまうこと。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please do not omit any details from the report.",
+              "ja": "報告書からどんな詳細も省かないでください。",
+              "highlight": "omit"
+            },
+            {
+              "en": "His name was omitted from the list by mistake.",
+              "ja": "彼の間違えで名前がリストから漏れていた（省かれていた）。",
+              "highlight": "omitted"
+            }
+          ]
+        }
+      ],
+      "etymology": "ob (離れて) + mittere (送る) → 送り出さない、残しておく",
+      "synonyms": [
+        {"word": "exclude", "trans": "除外する"},
+        {"word": "leave out", "trans": "省く"},
+        {"word": "skip", "trans": "飛ばす"}
+      ],
+      "antonyms": [
+        {"word": "include", "trans": "含む"},
+        {"word": "add", "trans": "加える"},
+        {"word": "insert", "trans": "挿入する"}
+      ],
+      "related": [
+        {"word": "omission", "trans": "名詞：省略、欠落"}
+      ]
+    },
+    {
+      "number": 11218,
+      "word": "cultivate",
+      "pos": "他動詞",
+      "meaning": "①～を耕す ②～を育む ③（才能などを）磨く",
+      "nuance": "土地を耕して作物を育てることから、転じて関係性や才能を「手間暇かけて育てる」という意味になります。",
+      "example_sections": [
+        {
+          "title": "意味①：耕す",
+          "examples": [
+            {
+              "en": "The farmers cultivate the land for corn.",
+              "ja": "農夫たちはトウモロコシのために土地を耕している。",
+              "highlight": "cultivate"
+            }
+          ]
+        },
+        {
+          "title": "意味②③：育む、磨く",
+          "examples": [
+            {
+              "en": "It takes time to cultivate a good relationship.",
+              "ja": "良い関係を築く（育む）には時間がかかる。",
+              "highlight": "cultivate"
+            },
+            {
+              "en": "She tried to cultivate an interest in art.",
+              "ja": "彼女は芸術への関心を養おうとした。",
+              "highlight": "cultivate"
+            }
+          ]
+        }
+      ],
+      "etymology": "cultus (耕された)",
+      "synonyms": [
+        {"word": "farm", "trans": "耕作する"},
+        {"word": "nurture", "trans": "育てる"},
+        {"word": "develop", "trans": "発達させる"}
+      ],
+      "antonyms": [
+        {"word": "neglect", "trans": "放置する"},
+        {"word": "destroy", "trans": "破壊する"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "culture", "trans": "名詞：文化、教養"},
+        {"word": "cultivation", "trans": "名詞：耕作、養成"}
+      ]
+    },
+    {
+      "number": 11219,
+      "word": "shade",
+      "pos": "名詞",
+      "meaning": "①日陰，ブラインド ②（意味などの）わずかな違い",
+      "nuance": "光を遮ってできる「影」だけでなく、色や意味の「微妙な濃淡・差異」を指す際にも重要です。",
+      "example_sections": [
+        {
+          "title": "意味①：日陰",
+          "examples": [
+            {
+              "en": "We sat in the shade of a large oak tree.",
+              "ja": "私たちは大きなオークの木の日陰に座った。",
+              "highlight": "shade"
+            }
+          ]
+        },
+        {
+          "title": "意味②：わずかな違い、ニュアンス",
+          "examples": [
+            {
+              "en": "There are different shades of meaning in these two words.",
+              "ja": "これら二つの単語には、意味のわずかな違いがある。",
+              "highlight": "shades"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 sceadu (影、暗がり)",
+      "synonyms": [
+        {"word": "shadow", "trans": "影（形を伴うもの）"},
+        {"word": "nuance", "trans": "微妙な差異"},
+        {"word": "tint", "trans": "色合い"}
+      ],
+      "antonyms": [
+        {"word": "light", "trans": "光"},
+        {"word": "brightness", "trans": "明るさ"}
+      ],
+      "related": [
+        {"word": "shady", "trans": "形容詞：日陰の、怪しい"}
+      ]
+    },
+    {
+      "number": 11220,
+      "word": "breeze",
+      "pos": "名詞",
+      "meaning": "そよ風",
+      "nuance": "心地よく、穏やかに吹く風。比喩的に「とても簡単なこと」を指すこともあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A cool breeze blew from the ocean.",
+              "ja": "海から涼しいそよ風が吹いてきた。",
+              "highlight": "breeze"
+            },
+            {
+              "en": "The exam was a breeze; I finished it in 20 minutes.",
+              "ja": "試験は朝飯前（そよ風のように簡単）だった。20分で終わったよ。",
+              "highlight": "breeze"
+            }
+          ]
+        }
+      ],
+      "etymology": "スペイン語 brisa (北東風)",
+      "synonyms": [
+        {"word": "gentle wind", "trans": "穏やかな風"},
+        {"word": "puff", "trans": "一吹きの風"},
+        {"word": "cinch", "trans": "（口語）簡単なこと"}
+      ],
+      "antonyms": [
+        {"word": "gale", "trans": "強風"},
+        {"word": "storm", "trans": "嵐"}
+      ],
+      "related": [
+        {"word": "breezy", "trans": "形容詞：風通しの良い、快活な"}
+      ]
+    },
+    {
+      "number": 11221,
+      "word": "desert",
+      "pos": "名詞、他動詞",
+      "meaning": "①砂漠 [他] ②～を見捨てる",
+      "nuance": "「見捨てられた場所（名詞）」から「見捨てる（動詞）」という関係。発音が名詞（デズアート）と動詞（ディザート）で異なる点に注意。",
+      "example_sections": [
+        {
+          "title": "意味①：砂漠（名詞）",
+          "examples": [
+            {
+              "en": "The Sahara is the largest hot desert in the world.",
+              "ja": "サハラは世界最大の熱い砂漠だ。",
+              "highlight": "desert"
+            }
+          ]
+        },
+        {
+          "title": "意味②：見捨てる（動詞）",
+          "examples": [
+            {
+              "en": "He deserted his family when they needed him most.",
+              "ja": "家族が最も彼を必要としていた時、彼は家族を見捨てた。",
+              "highlight": "deserted"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (離れて) + serere (つなぐ) → つながりを絶つ",
+      "synonyms": [
+        {"word": "abandon", "trans": "見捨てる"},
+        {"word": "forsake", "trans": "見放す"},
+        {"word": "wasteland", "trans": "荒れ地"}
+      ],
+      "antonyms": [
+        {"word": "stay", "trans": "とどまる"},
+        {"word": "support", "trans": "支える"}
+      ],
+      "related": [
+        {"word": "desertion", "trans": "名詞：放棄、脱走"}
+      ]
+    },
+    {
+      "number": 11222,
+      "word": "fog",
+      "pos": "名詞",
+      "meaning": "霧",
+      "nuance": "地表付近で水蒸気が凝結し、視界を遮るもの。mistよりも濃い状態を指すのが一般的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A thick fog covered the city this morning.",
+              "ja": "今朝、濃い霧が街を覆った。",
+              "highlight": "fog"
+            },
+            {
+              "en": "I was in a mental fog and couldn't think clearly.",
+              "ja": "頭に霧がかかったようで（ぼーっとして）、はっきりと考えることができなかった。",
+              "highlight": "fog"
+            }
+          ]
+        }
+      ],
+      "etymology": "おそらくスカンジナビア語源",
+      "synonyms": [
+        {"word": "mist", "trans": "霞、霧"},
+        {"word": "haze", "trans": "靄（もや）"},
+        {"word": "smog", "trans": "スモッグ"}
+      ],
+      "antonyms": [
+        {"word": "clarity", "trans": "明快さ"},
+        {"word": "sunshine", "trans": "日光"}
+      ],
+      "related": [
+        {"word": "foggy", "trans": "形容詞：霧の深い"}
+      ]
+    },
+    {
+      "number": 11223,
+      "word": "moisture",
+      "pos": "名詞",
+      "meaning": "湿気，水分",
+      "nuance": "空気中や物の表面に含まれる、ごく少量の液体としての水。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Plants absorb moisture from the soil.",
+              "ja": "植物は土壌から水分を吸収する。",
+              "highlight": "moisture"
+            },
+            {
+              "en": "The skin needs moisture to stay healthy.",
+              "ja": "肌は健康を保つために水分（保湿）を必要とする。",
+              "highlight": "moisture"
+            }
+          ]
+        }
+      ],
+      "etymology": "moist (湿った)",
+      "synonyms": [
+        {"word": "humidity", "trans": "湿度"},
+        {"word": "dampness", "trans": "湿っぽさ"},
+        {"word": "wetness", "trans": "濡れ"}
+      ],
+      "antonyms": [
+        {"word": "dryness", "trans": "乾燥"},
+        {"word": "aridity", "trans": "不毛、乾燥"}
+      ],
+      "related": [
+        {"word": "moist", "trans": "形容詞：湿った"},
+        {"word": "moisturize", "trans": "動詞：保湿する"}
+      ]
+    },
+    {
+      "number": 11224,
+      "word": "damp",
+      "pos": "形容詞",
+      "meaning": "湿った，じめじめした",
+      "nuance": "不快に感じる、あるいは少し濡れた状態。家の中や服が湿っている時に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The clothes are still a bit damp.",
+              "ja": "服はまだ少し湿っている。",
+              "highlight": "damp"
+            },
+            {
+              "en": "We lived in a cold, damp basement.",
+              "ja": "私たちは寒くてじめじめした地下室に住んでいた。",
+              "highlight": "damp"
+            }
+          ]
+        }
+      ],
+      "etymology": "ドイツ語 Dampf (蒸気)",
+      "synonyms": [
+        {"word": "moist", "trans": "しっとりした（肯定的にも使う）"},
+        {"word": "humid", "trans": "（気候が）蒸し暑い"},
+        {"word": "soggy", "trans": "ふやけた、びしょ濡れの"}
+      ],
+      "antonyms": [
+        {"word": "dry", "trans": "乾燥した"},
+        {"word": "parched", "trans": "カラカラに乾いた"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11225,
+      "word": "path",
+      "pos": "名詞",
+      "meaning": "（小）道，進路",
+      "nuance": "人が歩いて自然にできたような細い道や、人生・物事の進むべき「進路」。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Follow the path through the woods.",
+              "ja": "森の中の小道に沿って進んでください。",
+              "highlight": "path"
+            },
+            {
+              "en": "She chose a career path in medicine.",
+              "ja": "彼女は医学のキャリア（進路）を選んだ。",
+              "highlight": "path"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 pæth",
+      "synonyms": [
+        {"word": "lane", "trans": "細道"},
+        {"word": "route", "trans": "ルート"},
+        {"word": "track", "trans": "跡、小道"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "pathway", "trans": "名詞：経路"}
+      ]
+    },
+    {
+      "number": 11226,
+      "word": "trail",
+      "pos": "名詞",
+      "meaning": "①山道 ②跡 ③（a trail of destruction）爪跡",
+      "nuance": "引きずった跡（トレース）から、未舗装の道や、何かが通り過ぎた後に残された一連の痕跡を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：山道、小道",
+          "examples": [
+            {
+              "en": "The hiking trail leads to the mountain summit.",
+              "ja": "そのハイキングコース（山道）は山頂へと続いている。",
+              "highlight": "trail"
+            }
+          ]
+        },
+        {
+          "title": "意味②③：跡、爪跡",
+          "examples": [
+            {
+              "en": "The typhoon left a trail of destruction across the island.",
+              "ja": "台風は島中に破壊の爪跡を残した。",
+              "highlight": "trail"
+            }
+          ]
+        }
+      ],
+      "etymology": "trahere (引く) → 引きずった跡",
+      "synonyms": [
+        {"word": "track", "trans": "足跡、通った跡"},
+        {"word": "path", "trans": "小道"},
+        {"word": "trace", "trans": "痕跡"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "trailer", "trans": "名詞：トレーラー、予告編（後に続くもの）"}
+      ]
+    },
+    {
+      "number": 11227,
+      "word": "stream",
+      "pos": "名詞",
+      "meaning": "①小川 ②（a stream of ～）（～の）流れ",
+      "nuance": "絶え間なく動き続ける水の流れ、あるいは情報や人の「連続した流れ」を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：小川",
+          "examples": [
+            {
+              "en": "We sat by a small stream and had lunch.",
+              "ja": "私たちは小川のそばに座って昼食をとった。",
+              "highlight": "stream"
+            }
+          ]
+        },
+        {
+          "title": "意味②：流れ",
+          "examples": [
+            {
+              "en": "There was a steady stream of traffic on the highway.",
+              "ja": "高速道路では車の流れが途絶えなかった。",
+              "highlight": "stream"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 stream",
+      "synonyms": [
+        {"word": "brook", "trans": "小川"},
+        {"word": "river", "trans": "川"},
+        {"word": "flow", "trans": "流れ"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "streaming", "trans": "名詞：ストリーミング（データの流れ）"}
+      ]
+    },
+    {
+      "number": 11228,
+      "word": "tide",
+      "pos": "名詞",
+      "meaning": "①潮（の干満） ②時流，傾向",
+      "nuance": "月の引力による海の満ち引きから、世の中の「勢い」や「流れ」へと意味が広がりました。",
+      "example_sections": [
+        {
+          "title": "意味①：潮",
+          "examples": [
+            {
+              "en": "The tide is coming in.",
+              "ja": "潮が満ちてきている。",
+              "highlight": "tide"
+            }
+          ]
+        },
+        {
+          "title": "意味②：時流、傾向",
+          "examples": [
+            {
+              "en": "It is difficult to swim against the tide of public opinion.",
+              "ja": "世論の時流に逆らうのは難しい。",
+              "highlight": "tide"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 tid (時間) → 決まった時間に起こる潮の満ち引き",
+      "synonyms": [
+        {"word": "current", "trans": "潮流、現在の"},
+        {"word": "trend", "trans": "傾向"},
+        {"word": "flow", "trans": "流れ"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "tidal", "trans": "形容詞：潮汐の"}
+      ]
+    },
+    {
+      "number": 11229,
+      "word": "habitat",
+      "pos": "名詞",
+      "meaning": "生息地",
+      "nuance": "ある動植物が自然な状態で住んでいる場所。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The forest is the natural habitat of the panda.",
+              "ja": "森はパンダの自然な生息地だ。",
+              "highlight": "habitat"
+            },
+            {
+              "en": "We must protect the habitats of endangered species.",
+              "ja": "私たちは絶滅危惧種の生息地を守らなければならない。",
+              "highlight": "habitats"
+            }
+          ]
+        }
+      ],
+      "etymology": "habitare (住む)",
+      "synonyms": [
+        {"word": "home", "trans": "住処"},
+        {"word": "environment", "trans": "環境"},
+        {"word": "territory", "trans": "なわばり"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "inhabit", "trans": "動詞：～に住む"},
+        {"word": "habitant", "trans": "名詞：居住者"}
+      ]
+    },
+    {
+      "number": 11230,
+      "word": "layer",
+      "pos": "名詞",
+      "meaning": "（大気や地面などの）層",
+      "nuance": "何かの上に重なっている平らな面。地層、ペンキの塗り重ね、服の重ね着など。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The ozone layer protects the Earth from UV rays.",
+              "ja": "オゾン層は地球を紫外線から守っている。",
+              "highlight": "layer"
+            },
+            {
+              "en": "A thin layer of dust covered the furniture.",
+              "ja": "薄いホコリの層が家具を覆っていた。",
+              "highlight": "layer"
+            }
+          ]
+        }
+      ],
+      "etymology": "lay (置く) + er (もの)",
+      "synonyms": [
+        {"word": "sheet", "trans": "シート"},
+        {"word": "stratum", "trans": "地層"},
+        {"word": "coating", "trans": "被覆、コーティング"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11231,
+      "word": "volcano",
+      "pos": "名詞",
+      "meaning": "火山",
+      "nuance": "マグマが地表に噴出してできる山。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The volcano erupted after lying dormant for 100 years.",
+              "ja": "その火山は100年間の休止を経て噴火した。",
+              "highlight": "volcano"
+            }
+          ]
+        }
+      ],
+      "etymology": "Vulcanus (ローマ神話の火の神ウルカヌス)",
+      "synonyms": [
+        {"word": "peak", "trans": "山頂"},
+        {"word": "mountain", "trans": "山"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "volcanic", "trans": "形容詞：火山の"}
+      ]
+    },
+    {
+      "number": 11232,
+      "word": "mine",
+      "pos": "名詞",
+      "meaning": "①鉱山 ②地雷",
+      "nuance": "代名詞の「私のもの」とは別に、地面を掘って資源を得る場所、あるいは地面に埋められた兵器を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：鉱山",
+          "examples": [
+            {
+              "en": "His father worked in a gold mine.",
+              "ja": "彼の父親は金鉱山で働いていた。",
+              "highlight": "mine"
+            }
+          ]
+        },
+        {
+          "title": "意味②：地雷",
+          "examples": [
+            {
+              "en": "The soldiers cleared the land of mines.",
+              "ja": "兵士たちは土地から地雷を除去した。",
+              "highlight": "mines"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 mine (鉱脈)",
+      "synonyms": [
+        {"word": "quarry", "trans": "採石場"},
+        {"word": "explosive", "trans": "爆発物"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "miner", "trans": "名詞：鉱夫"},
+        {"word": "mineral", "trans": "名詞：ミネラル、鉱物"}
+      ]
+    },
+    {
+      "number": 11233,
+      "word": "scent",
+      "pos": "名詞",
+      "meaning": "①（良い）香り ②（動物の）臭い",
+      "nuance": "花や香水のような「芳香」と、狩猟犬などが追う「動物の足跡の臭い」の両方を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：香り",
+          "examples": [
+            {
+              "en": "The air was filled with the sweet scent of roses.",
+              "ja": "空気はバラの甘い香りで満たされていた。",
+              "highlight": "scent"
+            }
+          ]
+        },
+        {
+          "title": "意味②：臭い（痕跡）",
+          "examples": [
+            {
+              "en": "The dog followed the scent of the fox.",
+              "ja": "その犬はキツネの臭いを追った。",
+              "highlight": "scent"
+            }
+          ]
+        }
+      ],
+      "etymology": "sentire (感じる、知覚する)",
+      "synonyms": [
+        {"word": "fragrance", "trans": "芳香"},
+        {"word": "aroma", "trans": "アロマ"},
+        {"word": "odor", "trans": "（一般に不快な）臭い"}
+      ],
+      "antonyms": [
+        {"word": "stink", "trans": "悪臭"},
+        {"word": "stench", "trans": "強烈な悪臭"}
+      ],
+      "related": []
+    }
+  ]
+}
