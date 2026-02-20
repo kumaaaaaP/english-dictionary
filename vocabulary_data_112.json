@@ -1316,6 +1316,1319 @@
         {"word": "stench", "trans": "強烈な悪臭"}
       ],
       "related": []
+    },
+    {
+      "number": 11234,
+      "word": "wheat",
+      "pos": "名詞",
+      "meaning": "小麦",
+      "nuance": "パンやパスタの原料となる主要な穀物を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Wheat is a major crop grown in this region.",
+              "ja": "小麦はこの地域で栽培されている主要な作物だ。",
+              "highlight": "Wheat"
+            },
+            {
+              "en": "Flour is made by grinding wheat into powder.",
+              "ja": "小麦粉は小麦を粉状に挽くことで作られる。",
+              "highlight": "wheat"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 hwæte (白いもの) ※粉の色に由来",
+      "synonyms": [
+        {"word": "grain", "trans": "穀物"},
+        {"word": "cereal", "trans": "穀類"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "whole-wheat", "trans": "全粒粉の"}
+      ]
+    },
+    {
+      "number": 11235,
+      "word": "swallow",
+      "pos": "名詞、他動詞",
+      "meaning": "①ツバメ [他] ②～を飲み込む",
+      "nuance": "鳥の名前としての意味と、食べ物や感情を「飲み込む」動作の両方を持ちます。",
+      "example_sections": [
+        {
+          "title": "意味①：ツバメ（名詞）",
+          "examples": [
+            {
+              "en": "One swallow does not make a summer.",
+              "ja": "ツバメ一羽が来たからといって夏になったわけではない（早合点は禁物）。",
+              "highlight": "swallow"
+            }
+          ]
+        },
+        {
+          "title": "意味②：飲み込む（動詞）",
+          "examples": [
+            {
+              "en": "Chew your food well before you swallow it.",
+              "ja": "飲み込む前によく食べ物を噛みなさい。",
+              "highlight": "swallow"
+            },
+            {
+              "en": "She had to swallow her pride and apologize.",
+              "ja": "彼女はプライドを押し殺して（飲み込んで）謝らなければならなかった。",
+              "highlight": "swallow"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 swelgan (飲み込む) / swealwe (ツバメ)",
+      "synonyms": [
+        {"word": "gulp", "trans": "ごくごく飲む"},
+        {"word": "consume", "trans": "消費する、摂取する"},
+        {"word": "suppress", "trans": "（感情を）抑える"}
+      ],
+      "antonyms": [
+        {"word": "vomit", "trans": "吐く"},
+        {"word": "spit out", "trans": "吐き出す"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11236,
+      "word": "web",
+      "pos": "名詞",
+      "meaning": "①（クモの）巣 ②インターネット",
+      "nuance": "網目状の構造物を指し、現代ではWWW（World Wide Web）の略称として定着しています。",
+      "example_sections": [
+        {
+          "title": "意味①：クモの巣",
+          "examples": [
+            {
+              "en": "A spider was spinning a web in the corner.",
+              "ja": "クモが隅の方で巣を張っていた。",
+              "highlight": "web"
+            }
+          ]
+        },
+        {
+          "title": "意味②：インターネット",
+          "examples": [
+            {
+              "en": "You can find almost any information on the web.",
+              "ja": "ウェブ上ではほとんどどんな情報でも見つけることができる。",
+              "highlight": "web"
+            }
+          ]
+        }
+      ],
+      "etymology": "織る (weave) ことに由来",
+      "synonyms": [
+        {"word": "net", "trans": "網"},
+        {"word": "network", "trans": "ネットワーク"},
+        {"word": "mesh", "trans": "網目"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "website", "trans": "ウェブサイト"},
+        {"word": "spiderweb", "trans": "クモの巣"}
+      ]
+    },
+    {
+      "number": 11237,
+      "word": "cattle",
+      "pos": "名詞",
+      "meaning": "ウシ",
+      "nuance": "家畜としての牛の集合称です。複数扱いで、1頭の場合は a cow や a bull を使います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The farmer raises cattle for beef and milk.",
+              "ja": "その農家は牛肉と牛乳のために牛を飼育している。",
+              "highlight": "cattle"
+            },
+            {
+              "en": "A large herd of cattle was grazing in the field.",
+              "ja": "牛の大きな群れが野原で草を食べていた。",
+              "highlight": "cattle"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 capitalis (主要な、個人の財産としての頭数)",
+      "synonyms": [
+        {"word": "livestock", "trans": "家畜"},
+        {"word": "oxen", "trans": "（働く）雄牛たち"},
+        {"word": "cows", "trans": "雌牛たち"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "cowboy", "trans": "カウボーイ"}
+      ]
+    },
+    {
+      "number": 11238,
+      "word": "kitten",
+      "pos": "名詞",
+      "meaning": "子ネコ",
+      "nuance": "生後間もない、あるいは幼い猫を指す愛らしい響きの言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Our cat gave birth to four kittens.",
+              "ja": "うちの猫が4匹の子猫を産んだ。",
+              "highlight": "kittens"
+            },
+            {
+              "en": "The kitten was playing with a ball of yarn.",
+              "ja": "その子猫は毛糸玉で遊んでいた。",
+              "highlight": "kitten"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期フランス語 chitoun (小猫)",
+      "synonyms": [
+        {"word": "kitty", "trans": "（幼児語）ねこちゃん"},
+        {"word": "pussycat", "trans": "ねこちゃん"}
+      ],
+      "antonyms": [
+        {"word": "adult cat", "trans": "成猫"}
+      ],
+      "related": [
+        {"word": "cat", "trans": "猫"}
+      ]
+    },
+    {
+      "number": 11239,
+      "word": "organism",
+      "pos": "名詞",
+      "meaning": "生物，有機体",
+      "nuance": "動物、植物、細菌など、生命活動を行う個体全体を指す学術的な響きの言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A drop of pond water contains many tiny organisms.",
+              "ja": "池の水一滴には、多くの小さな生物が含まれている。",
+              "highlight": "organisms"
+            },
+            {
+              "en": "The human body is a complex organism.",
+              "ja": "人間の体は複雑な有機体である。",
+              "highlight": "organism"
+            }
+          ]
+        }
+      ],
+      "etymology": "organ (器官) + ism → 器官を持つもの",
+      "synonyms": [
+        {"word": "living thing", "trans": "生き物"},
+        {"word": "creature", "trans": "動物、生き物"},
+        {"word": "being", "trans": "存在、生き物"}
+      ],
+      "antonyms": [
+        {"word": "inorganic matter", "trans": "無機物"},
+        {"word": "dead matter", "trans": "死物"}
+      ],
+      "related": [
+        {"word": "organic", "trans": "形容詞：有機の"},
+        {"word": "organization", "trans": "名詞：組織"}
+      ]
+    },
+    {
+      "number": 11240,
+      "word": "wildlife",
+      "pos": "名詞",
+      "meaning": "野生生物",
+      "nuance": "人間の管理下にない、野生の動物や植物を集合的に指します（不可算名詞）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government is taking steps to protect local wildlife.",
+              "ja": "政府は地元の野生生物を保護するための措置を講じている。",
+              "highlight": "wildlife"
+            },
+            {
+              "en": "We saw various wildlife during our safari trip.",
+              "ja": "私たちはサファリ旅行中に様々な野生生物を見た。",
+              "highlight": "wildlife"
+            }
+          ]
+        }
+      ],
+      "etymology": "wild (野生の) + life (命)",
+      "synonyms": [
+        {"word": "fauna", "trans": "動物相"},
+        {"word": "nature", "trans": "自然"}
+      ],
+      "antonyms": [
+        {"word": "domestic animals", "trans": "家畜"},
+        {"word": "pets", "trans": "ペット"}
+      ],
+      "related": [
+        {"word": "wilderness", "trans": "名詞：荒野"}
+      ]
+    },
+    {
+      "number": 11241,
+      "word": "beast",
+      "pos": "名詞",
+      "meaning": "野獣，動物",
+      "nuance": "特に大型で凶暴な動物を指したり、人間性を欠いた人を蔑んで呼ぶ際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The lion is known as the king of beasts.",
+              "ja": "ライオンは百獣の王として知られている。",
+              "highlight": "beasts"
+            },
+            {
+              "en": "He behaved like a cruel beast.",
+              "ja": "彼は残酷な獣のように振る舞った。",
+              "highlight": "beast"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 bestia (獣)",
+      "synonyms": [
+        {"word": "animal", "trans": "動物"},
+        {"word": "monster", "trans": "怪物"},
+        {"word": "brute", "trans": "畜生、残忍な人間"}
+      ],
+      "antonyms": [
+        {"word": "human", "trans": "人間"},
+        {"word": "angel", "trans": "天使"}
+      ],
+      "related": [
+        {"word": "beastly", "trans": "形容詞：獣のような、ひどい"}
+      ]
+    },
+    {
+      "number": 11242,
+      "word": "ape",
+      "pos": "名詞",
+      "meaning": "類人猿",
+      "nuance": "チンパンジーやゴリラなど、尾のない霊長類。monkey（尾のあるサル）とは区別されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Humans and apes share a common ancestor.",
+              "ja": "人間と類人猿は共通の祖先を共有している。",
+              "highlight": "apes"
+            },
+            {
+              "en": "Chimpanzees are highly intelligent great apes.",
+              "ja": "チンパンジーは非常に知能の高い大型類人猿だ。",
+              "highlight": "apes"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 apa",
+      "synonyms": [
+        {"word": "primate", "trans": "霊長類"},
+        {"word": "hominoid", "trans": "ヒト上科"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "monkey", "trans": "サル（尾があるもの）"}
+      ]
+    },
+    {
+      "number": 11243,
+      "word": "mammal",
+      "pos": "名詞",
+      "meaning": "哺乳動物，哺乳類",
+      "nuance": "乳で子を育てる、恒温動物のグループを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Whales and dolphins are mammals, not fish.",
+              "ja": "クジラやイルカは魚ではなく哺乳類だ。",
+              "highlight": "mammals"
+            },
+            {
+              "en": "Humans are the most advanced mammals on Earth.",
+              "ja": "人間は地球上で最も進化した哺乳類だ。",
+              "highlight": "mammals"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 mamma (乳房)",
+      "synonyms": [],
+      "antonyms": [
+        {"word": "reptile", "trans": "爬虫類"},
+        {"word": "bird", "trans": "鳥類"},
+        {"word": "amphibian", "trans": "両生類"}
+      ],
+      "related": [
+        {"word": "mammalian", "trans": "形容詞：哺乳類の"}
+      ]
+    },
+    {
+      "number": 11244,
+      "word": "flock",
+      "pos": "名詞、自動詞",
+      "meaning": "①（鳥，羊の）群れ [自] ②群れる，集まる",
+      "nuance": "特に鳥や羊、山羊の集まりに使われます。動詞では人々が大勢移動する際にも使われます。",
+      "example_sections": [
+        {
+          "title": "意味①：群れ（名詞）",
+          "examples": [
+            {
+              "en": "A flock of birds flew over the lake.",
+              "ja": "鳥の群れが湖の上を飛んでいった。",
+              "highlight": "flock"
+            },
+            {
+              "en": "The shepherd leads his flock of sheep.",
+              "ja": "羊飼いが羊の群れを導く。",
+              "highlight": "flock"
+            }
+          ]
+        },
+        {
+          "title": "意味②：群れる、集まる（動詞）",
+          "examples": [
+            {
+              "en": "Thousands of people flocked to the beach.",
+              "ja": "何千人もの人々がビーチに詰めかけた。",
+              "highlight": "flocked"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 flocc (軍勢、群れ)",
+      "synonyms": [
+        {"word": "herd", "trans": "（牛などの）群れ"},
+        {"word": "swarm", "trans": "（昆虫の）群れ"},
+        {"word": "gather", "trans": "集まる"}
+      ],
+      "antonyms": [
+        {"word": "scatter", "trans": "散らばる"},
+        {"word": "disperse", "trans": "散会する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11245,
+      "word": "breed",
+      "pos": "動詞、名詞",
+      "meaning": "①繁殖する ②～を繁殖させる ③～を引き起こす [名] ④品種",
+      "nuance": "生物が子孫を増やすこと、あるいは人工的に交配させること。また、悪い事態を生む原因にもなります。",
+      "example_sections": [
+        {
+          "title": "意味①②：繁殖する、させる",
+          "examples": [
+            {
+              "en": "These insects breed very quickly in hot weather.",
+              "ja": "これらの昆虫は暑い時期に非常に速く繁殖する。",
+              "highlight": "breed"
+            }
+          ]
+        },
+        {
+          "title": "意味③：引き起こす",
+          "examples": [
+            {
+              "en": "Poverty often breeds crime.",
+              "ja": "貧困はしばしば犯罪を引き起こす（生む）。",
+              "highlight": "breeds"
+            }
+          ]
+        },
+        {
+          "title": "意味④：品種（名詞）",
+          "examples": [
+            {
+              "en": "What breed of dog do you have?",
+              "ja": "どんな犬種を飼っているのですか？",
+              "highlight": "breed"
+            }
+          ]
+        }
+      ],
+      "etymology": "古期英語 bredan (暖める、育てる)",
+      "synonyms": [
+        {"word": "reproduce", "trans": "繁殖する"},
+        {"word": "generate", "trans": "生み出す"},
+        {"word": "type", "trans": "タイプ、種類"}
+      ],
+      "antonyms": [
+        {"word": "die out", "trans": "絶滅する"},
+        {"word": "extinguish", "trans": "絶やす"}
+      ],
+      "related": [
+        {"word": "breeding", "trans": "名詞：繁殖、しつけ"}
+      ]
+    },
+    {
+      "number": 11246,
+      "word": "reproduce",
+      "pos": "動詞",
+      "meaning": "①繁殖する ②～を再現する，複製する",
+      "nuance": "子孫を増やすことと、音や画像を元通りに作り出すことの両方を意味します。",
+      "example_sections": [
+        {
+          "title": "意味①：繁殖する",
+          "examples": [
+            {
+              "en": "Salmon return to their home rivers to reproduce.",
+              "ja": "サケは繁殖するために故郷の川に戻る。",
+              "highlight": "reproduce"
+            }
+          ]
+        },
+        {
+          "title": "意味②：再現する、複製する",
+          "examples": [
+            {
+              "en": "This speaker can reproduce high-quality sound.",
+              "ja": "このスピーカーは高品質な音を再現できる。",
+              "highlight": "reproduce"
+            },
+            {
+              "en": "It is difficult to reproduce this experiment's results.",
+              "ja": "この実験結果を再現するのは難しい。",
+              "highlight": "reproduce"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + produce (生み出す)",
+      "synonyms": [
+        {"word": "multiply", "trans": "増殖する"},
+        {"word": "copy", "trans": "コピーする"},
+        {"word": "replicate", "trans": "模写する、再現する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "reproduction", "trans": "名詞：生殖、複製"}
+      ]
+    },
+    {
+      "number": 11247,
+      "word": "hatch",
+      "pos": "動詞",
+      "meaning": "①（卵から）かえる ②（卵から）～をかえす ③（計画を）企てる",
+      "nuance": "卵が割れて中身が出てくること。転じて、密かに計画を練る際にも使われます。",
+      "example_sections": [
+        {
+          "title": "意味①②：かえる、かえす",
+          "examples": [
+            {
+              "en": "The sea turtles hatched and crawled toward the ocean.",
+              "ja": "ウミガメが孵化し、海に向かって這っていった。",
+              "highlight": "hatched"
+            },
+            {
+              "en": "It takes 21 days for a chicken egg to hatch.",
+              "ja": "鶏の卵がかえるのに21日かかる。",
+              "highlight": "hatch"
+            }
+          ]
+        },
+        {
+          "title": "意味③：企てる",
+          "examples": [
+            {
+              "en": "They hatched a secret plan to surprise her.",
+              "ja": "彼らは彼女を驚かせるための秘密の計画を企てた。",
+              "highlight": "hatched"
+            }
+          ]
+        }
+      ],
+      "etymology": "中英語 hacchen",
+      "synonyms": [
+        {"word": "emerge", "trans": "出てくる"},
+        {"word": "devise", "trans": "考案する"},
+        {"word": "plot", "trans": "企む"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "hatchery", "trans": "名詞：孵化場"}
+      ]
+    },
+    {
+      "number": 11248,
+      "word": "diligent",
+      "pos": "形容詞",
+      "meaning": "勤勉な",
+      "nuance": "コツコツと真面目に、注意深く仕事や勉強に取り組む様子を褒める言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is a diligent student who never misses a class.",
+              "ja": "彼は一度も授業を休まない勤勉な学生だ。",
+              "highlight": "diligent"
+            },
+            {
+              "en": "Success is the result of diligent effort.",
+              "ja": "成功はたゆまぬ努力の結果である。",
+              "highlight": "diligent"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (離れて) + legere (選ぶ) → 注意深く選んで集中する",
+      "synonyms": [
+        {"word": "hardworking", "trans": "働き者の"},
+        {"word": "industrious", "trans": "勤勉な"},
+        {"word": "assiduous", "trans": "精を出す"}
+      ],
+      "antonyms": [
+        {"word": "lazy", "trans": "怠惰な"},
+        {"word": "idle", "trans": "なまけている"}
+      ],
+      "related": [
+        {"word": "diligence", "trans": "名詞：勤勉さ"}
+      ]
+    },
+    {
+      "number": 11249,
+      "word": "noble",
+      "pos": "形容詞、名詞",
+      "meaning": "①高潔な ②貴族の [名] ③貴族",
+      "nuance": "身分が高いこと、あるいは精神的に気高く尊敬に値することを指します。",
+      "example_sections": [
+        {
+          "title": "意味①：高潔な、立派な",
+          "examples": [
+            {
+              "en": "Saving the child was a noble act.",
+              "ja": "その子供を救ったのは気高い行為だった。",
+              "highlight": "noble"
+            }
+          ]
+        },
+        {
+          "title": "意味②③：貴族（の）",
+          "examples": [
+            {
+              "en": "He was born into a noble family.",
+              "ja": "彼は貴族の家に生まれた。",
+              "highlight": "noble"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 gnobilis (知る価値のある、有名な)",
+      "synonyms": [
+        {"word": "aristocratic", "trans": "貴族の"},
+        {"word": "dignified", "trans": "威厳のある"},
+        {"word": "honorable", "trans": "名誉ある"}
+      ],
+      "antonyms": [
+        {"word": "humble", "trans": "卑しい、控えめな"},
+        {"word": "common", "trans": "庶民の"},
+        {"word": "ignoble", "trans": "卑劣な"}
+      ],
+      "related": [
+        {"word": "nobility", "trans": "名詞：貴族、高潔さ"}
+      ]
+    },
+    {
+      "number": 11250,
+      "word": "arrogant",
+      "pos": "形容詞",
+      "meaning": "傲慢な",
+      "nuance": "自分が他人より優れていると思い込み、見下した態度を取る様子。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is so arrogant that he never listens to others.",
+              "ja": "彼は非常に傲慢なので、決して他人の言うことを聞かない。",
+              "highlight": "arrogant"
+            },
+            {
+              "en": "I found his arrogant attitude very unpleasant.",
+              "ja": "彼の傲慢な態度は非常に不快だと感じた。",
+              "highlight": "arrogant"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～に) + rogare (要求する) → 自分に多くを要求（主張）しすぎる",
+      "synonyms": [
+        {"word": "haughty", "trans": "高慢な"},
+        {"word": "conceited", "trans": "うぬぼれた"},
+        {"word": "proud", "trans": "誇り高い、思い上がった"}
+      ],
+      "antonyms": [
+        {"word": "humble", "trans": "謙虚な"},
+        {"word": "modest", "trans": "控えめな"}
+      ],
+      "related": [
+        {"word": "arrogance", "trans": "名詞：傲慢さ"}
+      ]
+    },
+    {
+      "number": 11251,
+      "word": "timid",
+      "pos": "形容詞",
+      "meaning": "臆病な，内気な",
+      "nuance": "自信がなく、すぐに怖がったり恥ずかしがったりする様子。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He was too timid to ask her for a dance.",
+              "ja": "彼は臆病すぎて彼女にダンスを申し込めなかった。",
+              "highlight": "timid"
+            },
+            {
+              "en": "The deer made a timid approach to the water.",
+              "ja": "その鹿は怖々と（臆病に）水場に近づいた。",
+              "highlight": "timid"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 timere (恐れる)",
+      "synonyms": [
+        {"word": "shy", "trans": "恥ずかしがり屋の"},
+        {"word": "fearful", "trans": "恐れている"},
+        {"word": "bashful", "trans": "内気な"}
+      ],
+      "antonyms": [
+        {"word": "bold", "trans": "大胆な"},
+        {"word": "brave", "trans": "勇敢な"},
+        {"word": "confident", "trans": "自信のある"}
+      ],
+      "related": [
+        {"word": "timidity", "trans": "名詞：臆病さ"}
+      ]
+    },
+    {
+      "number": 11252,
+      "word": "humble",
+      "pos": "形容詞",
+      "meaning": "①控えめな，謙虚な ②卑しい，貧しい",
+      "nuance": "自分を高く見せない態度、あるいは社会的地位や生活水準が低いことを指します。",
+      "example_sections": [
+        {
+          "title": "意味①：控えめな、謙虚な",
+          "examples": [
+            {
+              "en": "Despite his success, he remains a humble man.",
+              "ja": "成功にもかかわらず、彼は謙虚な男のままだ。",
+              "highlight": "humble"
+            }
+          ]
+        },
+        {
+          "title": "意味②：貧しい、質素な",
+          "examples": [
+            {
+              "en": "He rose from humble beginnings to become president.",
+              "ja": "彼は貧しい家柄（境遇）から大統領にまで登り詰めた。",
+              "highlight": "humble"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 humus (地面) → 地面に近い、低い",
+      "synonyms": [
+        {"word": "modest", "trans": "控えめな"},
+        {"word": "lowly", "trans": "身分の低い"},
+        {"word": "plain", "trans": "質素な"}
+      ],
+      "antonyms": [
+        {"word": "arrogant", "trans": "傲慢な"},
+        {"word": "proud", "trans": "誇り高い"},
+        {"word": "haughty", "trans": "高慢な"}
+      ],
+      "related": [
+        {"word": "humility", "trans": "名詞：謙虚さ"}
+      ]
+    },
+    {
+      "number": 11253,
+      "word": "inclined",
+      "pos": "形容詞",
+      "meaning": "①～する傾向がある ②～したい気持ちだ",
+      "nuance": "心が特定の方向に「傾いている（incline）」状態を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：傾向がある",
+          "examples": [
+            {
+              "en": "He is inclined to be late for appointments.",
+              "ja": "彼は約束に遅れる傾向がある。",
+              "highlight": "inclined"
+            }
+          ]
+        },
+        {
+          "title": "意味②：～したい気持ちだ",
+          "examples": [
+            {
+              "en": "I'm inclined to agree with your proposal.",
+              "ja": "私はあなたの提案に賛成したい気持ちだ。",
+              "highlight": "inclined"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + clinare (曲げる、傾ける)",
+      "synonyms": [
+        {"word": "prone", "trans": "（悪い方に）～しがちな"},
+        {"word": "tending", "trans": "～する傾向のある"},
+        {"word": "disposed", "trans": "～したい気がする"}
+      ],
+      "antonyms": [
+        {"word": "disinclined", "trans": "～したくない"},
+        {"word": "unwilling", "trans": "気が進まない"}
+      ],
+      "related": [
+        {"word": "incline", "trans": "動詞：傾く / 名詞：斜面"},
+        {"word": "inclination", "trans": "名詞：傾向、好み"}
+      ]
+    },
+    {
+      "number": 11254,
+      "word": "principal",
+      "pos": "形容詞、名詞",
+      "meaning": "①主要な [名] ②（米）校長",
+      "nuance": "最も重要な位置にある人や物を指します。principle（原理・原則）と綴りが似ているので注意。",
+      "example_sections": [
+        {
+          "title": "意味①：主要な",
+          "examples": [
+            {
+              "en": "Vegetables are the principal ingredient in this soup.",
+              "ja": "野菜がこのスープの主な材料だ。",
+              "highlight": "principal"
+            }
+          ]
+        },
+        {
+          "title": "意味②：校長（名詞）",
+          "examples": [
+            {
+              "en": "The principal gave a speech at the graduation ceremony.",
+              "ja": "校長が卒業式でスピーチをした。",
+              "highlight": "principal"
+            }
+          ]
+        }
+      ],
+      "etymology": "princeps (第一の、最も重要な)",
+      "synonyms": [
+        {"word": "main", "trans": "主な"},
+        {"word": "chief", "trans": "主要な、長"},
+        {"word": "headmaster", "trans": "（英）校長"}
+      ],
+      "antonyms": [
+        {"word": "secondary", "trans": "二義的な"},
+        {"word": "minor", "trans": "重要でない"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11255,
+      "word": "prime",
+      "pos": "形容詞、名詞",
+      "meaning": "①最重要な，最高の [名] ②素数 ③全盛期",
+      "nuance": "質や重要度において「第一級の」であることを指します。",
+      "example_sections": [
+        {
+          "title": "意味①：最重要な、最高の",
+          "examples": [
+            {
+              "en": "The prime objective is to ensure safety.",
+              "ja": "最重要の目的は安全を確保することだ。",
+              "highlight": "prime"
+            }
+          ]
+        },
+        {
+          "title": "意味②③：素数、全盛期",
+          "examples": [
+            {
+              "en": "He is still in the prime of his life.",
+              "ja": "彼はまだ人生の全盛期にいる。",
+              "highlight": "prime"
+            },
+            {
+              "en": "Is seven a prime number?",
+              "ja": "7は素数ですか？",
+              "highlight": "prime"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 primus (最初の)",
+      "synonyms": [
+        {"word": "primary", "trans": "第一の"},
+        {"word": "first-rate", "trans": "第一級の"},
+        {"word": "peak", "trans": "絶頂"}
+      ],
+      "antonyms": [
+        {"word": "worst", "trans": "最悪の"},
+        {"word": "inferior", "trans": "劣った"}
+      ],
+      "related": [
+        {"word": "primitive", "trans": "形容詞：原始的な"}
+      ]
+    },
+    {
+      "number": 11256,
+      "word": "indispensable",
+      "pos": "形容詞",
+      "meaning": "不可欠な",
+      "nuance": "それがなければ成り立たない、絶対に外せないほど重要なこと。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A smartphone has become indispensable to modern life.",
+              "ja": "スマートフォンは現代生活に不可欠なものになった。",
+              "highlight": "indispensable"
+            },
+            {
+              "en": "She is an indispensable member of our team.",
+              "ja": "彼女は私たちのチームに欠かせないメンバーだ。",
+              "highlight": "indispensable"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + dispensable (分配できる＝なくても済む) → なくては済まされない",
+      "synonyms": [
+        {"word": "essential", "trans": "本質的な、不可欠な"},
+        {"word": "vital", "trans": "極めて重要な"},
+        {"word": "necessary", "trans": "必要な"}
+      ],
+      "antonyms": [
+        {"word": "dispensable", "trans": "なくても済む"},
+        {"word": "unnecessary", "trans": "不要な"},
+        {"word": "optional", "trans": "任意の"}
+      ],
+      "related": [
+        {"word": "dispense", "trans": "動詞：分配する、～なしで済ます(with)"}
+      ]
+    },
+    {
+      "number": 11257,
+      "word": "grave",
+      "pos": "形容詞、名詞",
+      "meaning": "①重大な，深刻な [名] ②墓（穴）",
+      "nuance": "形容詞では「重々しい」状況、名詞では「死者を埋葬する場所」を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：重大な、深刻な",
+          "examples": [
+            {
+              "en": "The situation is far more grave than we thought.",
+              "ja": "状況は私たちが考えていたよりもはるかに深刻だ。",
+              "highlight": "grave"
+            }
+          ]
+        },
+        {
+          "title": "意味②：墓（名詞）",
+          "examples": [
+            {
+              "en": "They laid flowers on his grave.",
+              "ja": "彼らは彼の墓に花を供えた。",
+              "highlight": "grave"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 gravis (重い) / 古期英語 græf (掘った場所)",
+      "synonyms": [
+        {"word": "serious", "trans": "深刻な"},
+        {"word": "critical", "trans": "危機的な"},
+        {"word": "tomb", "trans": "墓"}
+      ],
+      "antonyms": [
+        {"word": "cheerful", "trans": "陽気な"},
+        {"word": "trivial", "trans": "些細な"}
+      ],
+      "related": [
+        {"word": "gravity", "trans": "名詞：重力、重大さ"}
+      ]
+    },
+    {
+      "number": 11258,
+      "word": "definite",
+      "pos": "形容詞",
+      "meaning": "明確な，はっきりした",
+      "nuance": "境界線がはっきりしており、疑いの余地がないこと。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I need a definite answer by tomorrow.",
+              "ja": "明日までに明確な返事が必要です。",
+              "highlight": "definite"
+            },
+            {
+              "en": "There is no definite proof of his guilt.",
+              "ja": "彼の有罪を示す明確な証拠はない。",
+              "highlight": "definite"
+            }
+          ]
+        }
+      ],
+      "etymology": "de (強調) + finis (境界、終わり) → はっきりと区切られた",
+      "synonyms": [
+        {"word": "clear", "trans": "はっきりした"},
+        {"word": "certain", "trans": "確信している"},
+        {"word": "specific", "trans": "具体的な"}
+      ],
+      "antonyms": [
+        {"word": "indefinite", "trans": "不明確な"},
+        {"word": "vague", "trans": "あいまいな"},
+        {"word": "uncertain", "trans": "不確かな"}
+      ],
+      "related": [
+        {"word": "define", "trans": "動詞：定義する"},
+        {"word": "definition", "trans": "名詞：定義"}
+      ]
+    },
+    {
+      "number": 11259,
+      "word": "evident",
+      "pos": "形容詞",
+      "meaning": "明らかな",
+      "nuance": "外から見て、あるいは証拠によって誰の目にも明らかな状態。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "It was evident that she was very tired.",
+              "ja": "彼女がとても疲れていることは明らかだった。",
+              "highlight": "evident"
+            },
+            {
+              "en": "His relief was evident from the smile on his face.",
+              "ja": "彼の顔の笑みから、彼が安心しているのは明らかだった。",
+              "highlight": "evident"
+            }
+          ]
+        }
+      ],
+      "etymology": "ex (外に) + videre (見る) → 外から見える",
+      "synonyms": [
+        {"word": "obvious", "trans": "明らかな"},
+        {"word": "apparent", "trans": "見たところ明らかな"},
+        {"word": "plain", "trans": "明白な"}
+      ],
+      "antonyms": [
+        {"word": "hidden", "trans": "隠された"},
+        {"word": "obscure", "trans": "不明瞭な"}
+      ],
+      "related": [
+        {"word": "evidence", "trans": "名詞：証拠"}
+      ]
+    },
+    {
+      "number": 11260,
+      "word": "prominent",
+      "pos": "形容詞",
+      "meaning": "①（物が）目立った ②（人が）著名な",
+      "nuance": "周囲よりも突き出していること、あるいは社会的に地位が高く目立つことを指します。",
+      "example_sections": [
+        {
+          "title": "意味①：目立った、突き出した",
+          "examples": [
+            {
+              "en": "The church tower is a prominent feature of the landscape.",
+              "ja": "教会の塔はその景観の中で目立った特徴だ。",
+              "highlight": "prominent"
+            }
+          ]
+        },
+        {
+          "title": "意味②：著名な、重要な",
+          "examples": [
+            {
+              "en": "He is a prominent figure in the medical world.",
+              "ja": "彼は医学界の著名な人物だ。",
+              "highlight": "prominent"
+            }
+          ]
+        }
+      ],
+      "etymology": "pro (前に) + minere (突き出る)",
+      "synonyms": [
+        {"word": "noticeable", "trans": "目につく"},
+        {"word": "famous", "trans": "有名な"},
+        {"word": "conspicuous", "trans": "人目を引く"}
+      ],
+      "antonyms": [
+        {"word": "unimportant", "trans": "重要でない"},
+        {"word": "obscure", "trans": "無名の、ぼやけた"}
+      ],
+      "related": [
+        {"word": "prominence", "trans": "名詞：卓越、目立つこと"}
+      ]
+    },
+    {
+      "number": 11261,
+      "word": "marked",
+      "pos": "形容詞",
+      "meaning": "（名詞の前で）際立った，著しい",
+      "nuance": "印（mark）を付けたように、誰の目にもはっきりと分かる変化や違い。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "There has been a marked improvement in his health.",
+              "ja": "彼の健康状態には著しい改善が見られる。",
+              "highlight": "marked"
+            },
+            {
+              "en": "There is a marked contrast between the two sisters.",
+              "ja": "その二人の姉妹の間には際立った対照がある。",
+              "highlight": "marked"
+            }
+          ]
+        }
+      ],
+      "etymology": "mark (印) から",
+      "synonyms": [
+        {"word": "noticeable", "trans": "目立つ"},
+        {"word": "distinct", "trans": "はっきりした"},
+        {"word": "striking", "trans": "印象的な"}
+      ],
+      "antonyms": [
+        {"word": "slight", "trans": "わずかな"},
+        {"word": "imperceptible", "trans": "気づかないほどの"}
+      ],
+      "related": [
+        {"word": "markedly", "trans": "副詞：著しく"}
+      ]
+    },
+    {
+      "number": 11262,
+      "word": "grace",
+      "pos": "名詞",
+      "meaning": "①優美さ ②感謝の祈り",
+      "nuance": "動きのしなやかさや、神の恵み、また食事の前の短い祈りを指します。",
+      "example_sections": [
+        {
+          "title": "意味①：優美さ、しとやかさ",
+          "examples": [
+            {
+              "en": "She danced with natural grace.",
+              "ja": "彼女は天性の優雅さで踊った。",
+              "highlight": "grace"
+            }
+          ]
+        },
+        {
+          "title": "意味②：感謝の祈り",
+          "examples": [
+            {
+              "en": "The family said grace before starting dinner.",
+              "ja": "家族は夕食を始める前に感謝の祈りを捧げた。",
+              "highlight": "grace"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 gratia (好意、感謝)",
+      "synonyms": [
+        {"word": "elegance", "trans": "優雅"},
+        {"word": "blessing", "trans": "恵み"},
+        {"word": "prayer", "trans": "祈り"}
+      ],
+      "antonyms": [
+        {"word": "clumsiness", "trans": "不器用さ"},
+        {"word": "rudeness", "trans": "無作法"}
+      ],
+      "related": [
+        {"word": "graceful", "trans": "形容詞：優雅な"},
+        {"word": "gracious", "trans": "形容詞：丁寧な、慈悲深い"}
+      ]
+    },
+    {
+      "number": 11263,
+      "word": "charm",
+      "pos": "名詞",
+      "meaning": "①魅力 ②お守り",
+      "nuance": "人を引きつける不思議な力、あるいは魔除けや幸運を呼ぶ小さな品物を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：魅力",
+          "examples": [
+            {
+              "en": "The old town has a special charm.",
+              "ja": "その古い町には特別な魅力がある。",
+              "highlight": "charm"
+            }
+          ]
+        },
+        {
+          "title": "意味②：お守り、まじない",
+          "examples": [
+            {
+              "en": "He carries a lucky charm in his pocket.",
+              "ja": "彼はポケットに幸運のお守りを入れている。",
+              "highlight": "charm"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 carmen (歌、呪文)",
+      "synonyms": [
+        {"word": "attraction", "trans": "引きつける力"},
+        {"word": "appeal", "trans": "訴えかける力"},
+        {"word": "talisman", "trans": "お守り"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "charming", "trans": "形容詞：魅力的な"}
+      ]
+    },
+    {
+      "number": 11264,
+      "word": "rational",
+      "pos": "形容詞",
+      "meaning": "理性的な，合理的な",
+      "nuance": "感情に流されず、論理や理屈に基づいて考えたり行動したりすること。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need to make a rational decision based on facts.",
+              "ja": "事実に基いて理性的な判断を下す必要がある。",
+              "highlight": "rational"
+            },
+            {
+              "en": "It is not rational to fear something that doesn't exist.",
+              "ja": "存在しないものを恐れるのは合理的ではない。",
+              "highlight": "rational"
+            }
+          ]
+        }
+      ],
+      "etymology": "ratio (計算、理由)",
+      "synonyms": [
+        {"word": "logical", "trans": "論理的な"},
+        {"word": "reasonable", "trans": "道理にかなった"},
+        {"word": "sensible", "trans": "賢明な"}
+      ],
+      "antonyms": [
+        {"word": "irrational", "trans": "不合理な"},
+        {"word": "emotional", "trans": "感情的な"}
+      ],
+      "related": [
+        {"word": "ratio", "trans": "名詞：比率"},
+        {"word": "rationale", "trans": "名詞：根拠"}
+      ]
+    },
+    {
+      "number": 11265,
+      "word": "magnificent",
+      "pos": "形容詞",
+      "meaning": "壮大な，素晴らしい",
+      "nuance": "外観が非常に立派で、見る人を圧倒するような美しさや規模を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The view from the mountain top was magnificent.",
+              "ja": "山頂からの景色は壮大（最高に素晴らしか）った。",
+              "highlight": "magnificent"
+            },
+            {
+              "en": "He lives in a magnificent palace.",
+              "ja": "彼は壮麗な宮殿に住んでいる。",
+              "highlight": "magnificent"
+            }
+          ]
+        }
+      ],
+      "etymology": "magnus (大きい) + facere (作る) → 大きく作られた",
+      "synonyms": [
+        {"word": "splendid", "trans": "輝かしい、素晴らしい"},
+        {"word": "grand", "trans": "壮大な"},
+        {"word": "superb", "trans": "見事な"}
+      ],
+      "antonyms": [
+        {"word": "modest", "trans": "質素な"},
+        {"word": "ordinary", "trans": "普通の"},
+        {"word": "unimpressive", "trans": "印象に残らない"}
+      ],
+      "related": [
+        {"word": "magnify", "trans": "動詞：拡大する"}
+      ]
+    },
+    {
+      "number": 11266,
+      "word": "superior",
+      "pos": "形容詞、名詞",
+      "meaning": "①～より優れている [名] ②上役，上司",
+      "nuance": "質、能力、地位などが他よりも上であることを指します。比較対象には than ではなく to を使います。",
+      "example_sections": [
+        {
+          "title": "意味①：優れている（形容詞）",
+          "examples": [
+            {
+              "en": "This model is superior to the previous one in every way.",
+              "ja": "このモデルはあらゆる点で以前のものより優れている。",
+              "highlight": "superior"
+            }
+          ]
+        },
+        {
+          "title": "意味②：上司（名詞）",
+          "examples": [
+            {
+              "en": "He always follows the instructions of his superior.",
+              "ja": "彼は常に上司の指示に従う。",
+              "highlight": "superior"
+            }
+          ]
+        }
+      ],
+      "etymology": "super (上に) の比較級形",
+      "synonyms": [
+        {"word": "better", "trans": "より良い"},
+        {"word": "boss", "trans": "ボス"},
+        {"word": "excellent", "trans": "優れた"}
+      ],
+      "antonyms": [
+        {"word": "inferior", "trans": "劣っている"},
+        {"word": "subordinate", "trans": "部下"}
+      ],
+      "related": [
+        {"word": "superiority", "trans": "名詞：優越感、卓越"}
+      ]
     }
   ]
 }
