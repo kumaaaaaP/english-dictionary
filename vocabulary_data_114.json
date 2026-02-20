@@ -1345,6 +1345,1321 @@
       "related": [
         {"word": "coinage", "trans": "名詞：新語、通貨"}
       ]
+    },
+    {
+      "number": 11434,
+      "word": "physician",
+      "pos": "名詞",
+      "meaning": "①〈米〉医師 ②〈英〉内科医",
+      "nuance": "surgery（外科）を行う surgeon と対比され、主に薬物療法などを行う「内科医」を指すことが多い硬い表現です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "You should consult a physician if the symptoms persist.",
+              "ja": "症状が続く場合は、医師に相談すべきです。",
+              "highlight": "physician"
+            },
+            {
+              "en": "He is a highly respected primary care physician.",
+              "ja": "彼は非常に尊敬されているかかりつけの医師（総合診療医）だ。",
+              "highlight": "physician"
+            }
+          ]
+        }
+      ],
+      "etymology": "physica (自然科学) + ian (専門家) → 自然の理をもって治す人",
+      "synonyms": [
+        {"word": "doctor", "trans": "医者"},
+        {"word": "medical practitioner", "trans": "開業医、医師"},
+        {"word": "clinician", "trans": "臨床医"}
+      ],
+      "antonyms": [
+        {"word": "patient", "trans": "患者"},
+        {"word": "layman", "trans": "素人、門外漢"}
+      ],
+      "related": [
+        {"word": "physics", "trans": "名詞：物理学"},
+        {"word": "physical", "trans": "形容詞：身体の、物理的な"}
+      ]
+    },
+    {
+      "number": 11435,
+      "word": "veterinarian",
+      "pos": "名詞",
+      "meaning": "獣医",
+      "nuance": "日常会話では短縮形の 'vet' がよく使われます。動物の病気や怪我を専門に扱う医師です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The veterinarian examined the dog's paw.",
+              "ja": "獣医は犬の足を検査した。",
+              "highlight": "veterinarian"
+            },
+            {
+              "en": "She decided to become a veterinarian because of her love for horses.",
+              "ja": "彼女は馬が大好きだったので、獣医になる決心をした。",
+              "highlight": "veterinarian"
+            }
+          ]
+        }
+      ],
+      "etymology": "veterinae (働く動物、荷獣)",
+      "synonyms": [
+        {"word": "vet", "trans": "獣医（短縮形）"},
+        {"word": "animal doctor", "trans": "動物の医者"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "veterinary", "trans": "形容詞：獣医学の"}
+      ]
+    },
+    {
+      "number": 11436,
+      "word": "therapy",
+      "pos": "名詞",
+      "meaning": "治療（法）",
+      "nuance": "手術以外の、心理療法や物理療法など、時間をかけて回復を図る治療プロセスを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is undergoing physical therapy after the car accident.",
+              "ja": "彼は交通事故の後、理学療法を受けている。",
+              "highlight": "therapy"
+            },
+            {
+              "en": "Music therapy can be effective for reducing stress.",
+              "ja": "音楽療法はストレス軽減に効果的な場合がある。",
+              "highlight": "therapy"
+            }
+          ]
+        }
+      ],
+      "etymology": "therapeia (世話、治療)",
+      "synonyms": [
+        {"word": "treatment", "trans": "治療"},
+        {"word": "rehabilitation", "trans": "リハビリ"},
+        {"word": "remedy", "trans": "治療法、改善策"}
+      ],
+      "antonyms": [
+        {"word": "harm", "trans": "害"},
+        {"word": "injury", "trans": "負傷"}
+      ],
+      "related": [
+        {"word": "therapist", "trans": "名詞：療法士"},
+        {"word": "therapeutic", "trans": "形容詞：治療上の、癒やしになる"}
+      ]
+    },
+    {
+      "number": 11437,
+      "word": "injection",
+      "pos": "名詞",
+      "meaning": "注射",
+      "nuance": "液体（薬液）を体内に「投げ入れる」こと。比喩的に「資金の注入」などにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The nurse gave him an injection of antibiotics.",
+              "ja": "看護師は彼に抗生物質の注射を打った。",
+              "highlight": "injection"
+            },
+            {
+              "en": "The economy needs a massive injection of capital.",
+              "ja": "経済には大規模な資本の注入（投入）が必要だ。",
+              "highlight": "injection"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + jacere (投げる) → 中へ投げ入れること",
+      "synonyms": [
+        {"word": "shot", "trans": "（口語的な）注射"},
+        {"word": "vaccination", "trans": "予防接種"},
+        {"word": "infusion", "trans": "注入"}
+      ],
+      "antonyms": [
+        {"word": "extraction", "trans": "抽出、抜き取ること"},
+        {"word": "withdrawal", "trans": "撤退、引き出し"}
+      ],
+      "related": [
+        {"word": "inject", "trans": "動詞：～を注射する、注入する"}
+      ]
+    },
+    {
+      "number": 11438,
+      "word": "dose",
+      "pos": "名詞",
+      "meaning": "（1回分の）服用量",
+      "nuance": "薬の量だけでなく、「適度な量（a dose of reality：現実を思い知らせること）」などの比喩表現でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Do not exceed the recommended dose of this medication.",
+              "ja": "この薬の推奨服用量を超えないようにしてください。",
+              "highlight": "dose"
+            },
+            {
+              "en": "The team needs a healthy dose of confidence.",
+              "ja": "そのチームには適度な自信が必要だ。",
+              "highlight": "dose"
+            }
+          ]
+        }
+      ],
+      "etymology": "dosis (与えること) → 与えられる分量",
+      "synonyms": [
+        {"word": "dosage", "trans": "服用量、用量"},
+        {"word": "portion", "trans": "一人前、一部"},
+        {"word": "quantity", "trans": "量"}
+      ],
+      "antonyms": [
+        {"word": "deficiency", "trans": "不足"},
+        {"word": "shortage", "trans": "欠乏"}
+      ],
+      "related": [
+        {"word": "dosage", "trans": "名詞：用量、調剤"}
+      ]
+    },
+    {
+      "number": 11439,
+      "word": "sanitation",
+      "pos": "名詞",
+      "meaning": "衛生",
+      "nuance": "個人の清潔（hygiene）よりも、下水道やゴミ処理などの「公衆衛生・設備」を指すことが多い言葉です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Poor sanitation can lead to the spread of diseases.",
+              "ja": "劣悪な衛生設備は、病気の蔓延を招く可能性がある。",
+              "highlight": "sanitation"
+            },
+            {
+              "en": "The city improved its sanitation system last year.",
+              "ja": "その都市は昨年、下水処理システム（衛生設備）を改善した。",
+              "highlight": "sanitation"
+            }
+          ]
+        }
+      ],
+      "etymology": "sanus (健康な) → 健康を維持するための状態",
+      "synonyms": [
+        {"word": "hygiene", "trans": "衛生、清潔"},
+        {"word": "cleanliness", "trans": "清潔さ"},
+        {"word": "public health", "trans": "公衆衛生"}
+      ],
+      "antonyms": [
+        {"word": "pollution", "trans": "汚染"},
+        {"word": "contamination", "trans": "汚染"},
+        {"word": "dirtiness", "trans": "不潔"}
+      ],
+      "related": [
+        {"word": "sanitary", "trans": "形容詞：衛生的な"},
+        {"word": "sane", "trans": "形容詞：正気の"}
+      ]
+    },
+    {
+      "number": 11440,
+      "word": "germ",
+      "pos": "名詞",
+      "meaning": "細菌、ばい菌〈可算〉",
+      "nuance": "病気を引き起こす微生物の総称。また、「兆し・芽（the germ of an idea）」という意味もあります。",
+      "example_sections": [
+        {
+          "title": "意味①：ばい菌",
+          "examples": [
+            {
+              "en": "Wash your hands thoroughly to kill germs.",
+              "ja": "ばい菌を殺すために手をよく洗いなさい。",
+              "highlight": "germs"
+            }
+          ]
+        },
+        {
+          "title": "意味②：兆し、芽",
+          "examples": [
+            {
+              "en": "This project was the germ of a great discovery.",
+              "ja": "このプロジェクトが偉大な発見の芽（きっかけ）となった。",
+              "highlight": "germ"
+            }
+          ]
+        }
+      ],
+      "etymology": "germen (芽、種子)",
+      "synonyms": [
+        {"word": "bacteria", "trans": "細菌"},
+        {"word": "microbe", "trans": "微生物"},
+        {"word": "seed", "trans": "種、根源"}
+      ],
+      "antonyms": [
+        {"word": "disinfectant", "trans": "消毒剤"},
+        {"word": "sterility", "trans": "無菌状態"}
+      ],
+      "related": [
+        {"word": "germinate", "trans": "動詞：発芽する"}
+      ]
+    },
+    {
+      "number": 11441,
+      "word": "tumor",
+      "pos": "名詞",
+      "meaning": "腫瘍〈可算〉",
+      "nuance": "体内の細胞が異常に増殖した塊。良性（benign）と悪性（malignant/cancerous）があります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The brain tumor was successfully removed by the surgeon.",
+              "ja": "脳腫瘍は外科医によって無事に摘出された。",
+              "highlight": "tumor"
+            },
+            {
+              "en": "Test results showed that the tumor was benign.",
+              "ja": "検査結果は、その腫瘍が良性であることを示していた。",
+              "highlight": "tumor"
+            }
+          ]
+        }
+      ],
+      "etymology": "tumere (腫れる)",
+      "synonyms": [
+        {"word": "growth", "trans": "腫瘍、増殖物"},
+        {"word": "lump", "trans": "しこり、塊"},
+        {"word": "swelling", "trans": "腫れ"}
+      ],
+      "antonyms": [
+        {"word": "atrophy", "trans": "萎縮"},
+        {"word": "depression", "trans": "陥没"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11442,
+      "word": "agony",
+      "pos": "名詞",
+      "meaning": "苦痛",
+      "nuance": "肉体的・精神的な「極限の苦しみ、もがき」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He lay on the floor in agony after breaking his leg.",
+              "ja": "彼は足を骨折して、激痛で床に横たわっていた。",
+              "highlight": "agony"
+            },
+            {
+              "en": "Waiting for the results was pure agony.",
+              "ja": "結果を待つのは、まさに生きた心地がしなかった（精神的な苦痛だった）。",
+              "highlight": "agony"
+            }
+          ]
+        }
+      ],
+      "etymology": "agon (競技、闘争) → 必死でもがくこと",
+      "synonyms": [
+        {"word": "torture", "trans": "拷問、ひどい苦痛"},
+        {"word": "misery", "trans": "惨めさ、苦難"},
+        {"word": "anguish", "trans": "激しい苦悩"}
+      ],
+      "antonyms": [
+        {"word": "ecstasy", "trans": "有頂天、快感"},
+        {"word": "comfort", "trans": "快適さ"},
+        {"word": "pleasure", "trans": "喜び"}
+      ],
+      "related": [
+        {"word": "agonizing", "trans": "形容詞：苦悶させる、苦しい"}
+      ]
+    },
+    {
+      "number": 11443,
+      "word": "disorder",
+      "pos": "名詞",
+      "meaning": "（心身の）不調、混乱",
+      "nuance": "正常な順序（order）が崩れた状態。病気としての「障害（mental disorder）」や、社会的な「騒乱」に使われます。",
+      "example_sections": [
+        {
+          "title": "意味①：不調、障害",
+          "examples": [
+            {
+              "en": "He suffers from a rare genetic disorder.",
+              "ja": "彼は珍しい遺伝的疾患（障害）を患っている。",
+              "highlight": "disorder"
+            }
+          ]
+        },
+        {
+          "title": "意味②：混乱、騒乱",
+          "examples": [
+            {
+              "en": "The meeting ended in total disorder.",
+              "ja": "会議は完全に混乱した状態で終わった。",
+              "highlight": "disorder"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (否定) + order (秩序) → 秩序がない状態",
+      "synonyms": [
+        {"word": "ailment", "trans": "病気、不調"},
+        {"word": "confusion", "trans": "混乱"},
+        {"word": "chaos", "trans": "混沌"}
+      ],
+      "antonyms": [
+        {"word": "order", "trans": "秩序"},
+        {"word": "health", "trans": "健康"},
+        {"word": "system", "trans": "体系"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11444,
+      "word": "plague",
+      "pos": "名詞、他動詞",
+      "meaning": "①（大規模な）疫病、伝染病、災害 [他] ②～を苦しめる",
+      "nuance": "もともとは「ペスト」を指しますが、広く「災い」や「絶えず悩ませるもの」を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：疫病、災い（名詞）",
+          "examples": [
+            {
+              "en": "A plague of locusts destroyed the crops.",
+              "ja": "バッタの大量発生（災害）が作物を全滅させた。",
+              "highlight": "plague"
+            }
+          ]
+        },
+        {
+          "title": "意味②：苦しめる（動詞）",
+          "examples": [
+            {
+              "en": "The company has been plagued by financial problems.",
+              "ja": "その会社は財政難に悩まされ（苦しめられ）続けている。",
+              "highlight": "plagued"
+            }
+          ]
+        }
+      ],
+      "etymology": "plaga (打ち身、打撃) → 神からの打撃（災い）",
+      "synonyms": [
+        {"word": "epidemic", "trans": "伝染病"},
+        {"word": "curse", "trans": "呪い、災い"},
+        {"word": "torment", "trans": "苦しめる"}
+      ],
+      "antonyms": [
+        {"word": "blessing", "trans": "恩恵"},
+        {"word": "cure", "trans": "治療法"},
+        {"word": "comfort", "trans": "慰め"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11445,
+      "word": "epidemic",
+      "pos": "名詞、形容詞",
+      "meaning": "（病気の）流行、伝染病",
+      "nuance": "特定の地域やコミュニティで病気が急速に広まること。パンデミック（世界的大流行）の一段階手前です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The flu epidemic reached its peak in February.",
+              "ja": "インフルエンザの流行は2月にピークに達した。",
+              "highlight": "epidemic"
+            },
+            {
+              "en": "Opioid addiction has become an epidemic in some regions.",
+              "ja": "オピオイド中毒は一部の地域で蔓延（流行）している。",
+              "highlight": "epidemic"
+            }
+          ]
+        }
+      ],
+      "etymology": "epi (〜の上に) + demos (人々) → 人々の上に広がるもの",
+      "synonyms": [
+        {"word": "outbreak", "trans": "発生、勃発"},
+        {"word": "prevalence", "trans": "普及、蔓延"},
+        {"word": "pandemic", "trans": "世界的流行（より広範囲）"}
+      ],
+      "antonyms": [
+        {"word": "endemic", "trans": "地域固有の（限定的な）"},
+        {"word": "containment", "trans": "封じ込め"}
+      ],
+      "related": [
+        {"word": "democracy", "trans": "名詞：民主主義（人々の統治）"}
+      ]
+    },
+    {
+      "number": 11446,
+      "word": "diagnosis",
+      "pos": "名詞",
+      "meaning": "診断",
+      "nuance": "症状から原因を「見通して判断する」こと。医療以外でも問題分析に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Early diagnosis is crucial for successful cancer treatment.",
+              "ja": "癌治療を成功させるには早期診断が極めて重要だ。",
+              "highlight": "diagnosis"
+            },
+            {
+              "en": "What is your diagnosis of the current economic situation?",
+              "ja": "現在の経済状況に対するあなたの分析（診断）は何ですか？",
+              "highlight": "diagnosis"
+            }
+          ]
+        }
+      ],
+      "etymology": "dia (～を通して) + gnosis (知ること) → 見通して知ること",
+      "synonyms": [
+        {"word": "analysis", "trans": "分析"},
+        {"word": "assessment", "trans": "査定、評価"},
+        {"word": "examination", "trans": "検査"}
+      ],
+      "antonyms": [
+        {"word": "prognosis", "trans": "予後（今後の予測）"},
+        {"word": "misinterpretation", "trans": "誤解"}
+      ],
+      "related": [
+        {"word": "diagnose", "trans": "動詞：～を診断する"}
+      ]
+    },
+    {
+      "number": 11447,
+      "word": "mortality",
+      "pos": "名詞",
+      "meaning": "①（－ rate）死亡率 ②死すべき運命",
+      "nuance": "「いつかは死ぬということ」という哲学的な意味と、「死亡数」という統計的な意味があります。",
+      "example_sections": [
+        {
+          "title": "意味①：死亡率",
+          "examples": [
+            {
+              "en": "Infant mortality has decreased significantly over the last decade.",
+              "ja": "乳児死亡率は過去10年間で大幅に低下した。",
+              "highlight": "mortality"
+            }
+          ]
+        },
+        {
+          "title": "意味②：死すべき運命",
+          "examples": [
+            {
+              "en": "The hero was forced to face his own mortality.",
+              "ja": "ヒーローは自分自身の死すべき運命（限りある命）に向き合わざるを得なかった。",
+              "highlight": "mortality"
+            }
+          ]
+        }
+      ],
+      "etymology": "mors (死) + ity (性質) → 死ぬべき性質",
+      "synonyms": [
+        {"word": "death rate", "trans": "死亡率"},
+        {"word": "fatality", "trans": "致命率、死者数"},
+        {"word": "impermanence", "trans": "無常、非永続性"}
+      ],
+      "antonyms": [
+        {"word": "immortality", "trans": "不老不死"},
+        {"word": "eternity", "trans": "永遠"},
+        {"word": "birth rate", "trans": "出生率"}
+      ],
+      "related": [
+        {"word": "mortal", "trans": "形容詞：死すべき、致命的な"},
+        {"word": "murder", "trans": "名詞/動詞：殺人、殺す"}
+      ]
+    },
+    {
+      "number": 11448,
+      "word": "chronic",
+      "pos": "形容詞",
+      "meaning": "慢性の",
+      "nuance": "病気が長期間続くこと。転じて、借金や不況などの「絶え間ない、根深い」問題にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She suffers from chronic back pain.",
+              "ja": "彼女は慢性の腰痛に苦しんでいる。",
+              "highlight": "chronic"
+            },
+            {
+              "en": "The country is facing a chronic shortage of labor.",
+              "ja": "その国は慢性的（恒常的）な労働力不足に直面している。",
+              "highlight": "chronic"
+            }
+          ]
+        }
+      ],
+      "etymology": "chronos (時間) → 時間がかかる、長引く",
+      "synonyms": [
+        {"word": "persistent", "trans": "持続的な"},
+        {"word": "long-term", "trans": "長期の"},
+        {"word": "habitual", "trans": "習慣的な"}
+      ],
+      "antonyms": [
+        {"word": "acute", "trans": "急性の"},
+        {"word": "temporary", "trans": "一時的な"},
+        {"word": "occasional", "trans": "時々の"}
+      ],
+      "related": [
+        {"word": "chronicle", "trans": "名詞：年代記"},
+        {"word": "synchronize", "trans": "動詞：同時に起こる"}
+      ]
+    },
+    {
+      "number": 11449,
+      "word": "immune",
+      "pos": "形容詞",
+      "meaning": "免疫の（ある）、免除された",
+      "nuance": "病原体に対する抵抗力があること、または特定の義務や影響を「受けない」こと。",
+      "example_sections": [
+        {
+          "title": "意味①：免疫がある",
+          "examples": [
+            {
+              "en": "Most people are immune to this virus after vaccination.",
+              "ja": "ほとんどの人はワクチン接種後、このウイルスに対して免疫がある。",
+              "highlight": "immune"
+            }
+          ]
+        },
+        {
+          "title": "意味②：免除された、影響を受けない",
+          "examples": [
+            {
+              "en": "No one should be immune from the law.",
+              "ja": "何人も法の適用を免れる（免除される）べきではない。",
+              "highlight": "immune"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + munis (奉仕、義務) → 義務（＝病気や税）から逃れている",
+      "synonyms": [
+        {"word": "resistant", "trans": "抵抗力のある"},
+        {"word": "exempt", "trans": "免除された"},
+        {"word": "protected", "trans": "保護された"}
+      ],
+      "antonyms": [
+        {"word": "vulnerable", "trans": "脆弱な"},
+        {"word": "susceptible", "trans": "影響を受けやすい"},
+        {"word": "liable", "trans": "～しがちな、責任がある"}
+      ],
+      "related": [
+        {"word": "immunity", "trans": "名詞：免疫、免除"},
+        {"word": "immunize", "trans": "動詞：～に免疫を与える"}
+      ]
+    },
+    {
+      "number": 11450,
+      "word": "choke",
+      "pos": "自動詞、他動詞",
+      "meaning": "①（on ～）（～で）息が詰まる、窒息する [他] ②～を窒息させる",
+      "nuance": "物理的に喉が詰まること。また、緊張で声が出なくなったり、実力を発揮できない（choke under pressure）際にも使われます。",
+      "example_sections": [
+        {
+          "title": "意味①：息が詰まる",
+          "examples": [
+            {
+              "en": "She started to choke on a piece of steak.",
+              "ja": "彼女はステーキを喉に詰まらせて息が詰まった。",
+              "highlight": "choke"
+            }
+          ]
+        },
+        {
+          "title": "意味②：窒息させる、詰まらせる",
+          "examples": [
+            {
+              "en": "The thick smoke threatened to choke the residents.",
+              "ja": "濃い煙が住民を窒息させそうになった。",
+              "highlight": "choke"
+            },
+            {
+              "en": "Weeds were choking the garden flowers.",
+              "ja": "雑草が庭の花をふさいで（絞め殺して）いた。",
+              "highlight": "choking"
+            }
+          ]
+        }
+      ],
+      "etymology": "aceocian (喉をふさぐ)",
+      "synonyms": [
+        {"word": "suffocate", "trans": "窒息させる"},
+        {"word": "strangle", "trans": "絞め殺す"},
+        {"word": "clog", "trans": "詰まらせる"}
+      ],
+      "antonyms": [
+        {"word": "breathe", "trans": "呼吸する"},
+        {"word": "inhale", "trans": "吸い込む"},
+        {"word": "clear", "trans": "（詰まりを）取り除く"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11451,
+      "word": "paralyze",
+      "pos": "他動詞",
+      "meaning": "～を麻痺させる",
+      "nuance": "体の一部を動かせなくすること。比喩的に、恐怖で立ちすくんだり、機能が停止したりする際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The accident paralyzed him from the waist down.",
+              "ja": "その事故で、彼は下半身が麻痺した。",
+              "highlight": "paralyzed"
+            },
+            {
+              "en": "A sudden heavy snowstorm paralyzed the city's transport system.",
+              "ja": "突然の激しい吹雪が、都市の交通システムを麻痺（機能停止）させた。",
+              "highlight": "paralyzed"
+            }
+          ]
+        }
+      ],
+      "etymology": "para (傍らに) + luein (解く) → 筋肉の結びつきを解く",
+      "synonyms": [
+        {"word": "immobilize", "trans": "動かなくする"},
+        {"word": "disable", "trans": "無力にする"},
+        {"word": "freeze", "trans": "凍りつかせる、停止させる"}
+      ],
+      "antonyms": [
+        {"word": "activate", "trans": "活性化させる"},
+        {"word": "mobilize", "trans": "動員する、動かす"},
+        {"word": "stimulate", "trans": "刺激する"}
+      ],
+      "related": [
+        {"word": "paralysis", "trans": "名詞：麻痺"}
+      ]
+    },
+    {
+      "number": 11452,
+      "word": "infect",
+      "pos": "他動詞",
+      "meaning": "（人、動物、地域）に感染させる、伝染する",
+      "nuance": "ウイルスなどをうつすこと。比喩的に「あくび」や「笑い」、「熱意」が周囲に広まる際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The virus can infect both humans and birds.",
+              "ja": "そのウイルスは人間と鳥の両方に感染する可能性がある。",
+              "highlight": "infect"
+            },
+            {
+              "en": "Her enthusiasm soon infected the whole team.",
+              "ja": "彼女の熱意はすぐさまチーム全体に伝染した（広がった）。",
+              "highlight": "infected"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (中に) + facere (作る、置く) → 中に（毒を）入れる",
+      "synonyms": [
+        {"word": "contaminate", "trans": "汚染する"},
+        {"word": "transmit", "trans": "伝達する"},
+        {"word": "spread", "trans": "広める"}
+      ],
+      "antonyms": [
+        {"word": "disinfect", "trans": "消毒する"},
+        {"word": "purify", "trans": "浄化する"},
+        {"word": "protect", "trans": "保護する"}
+      ],
+      "related": [
+        {"word": "infection", "trans": "名詞：感染"},
+        {"word": "infectious", "trans": "形容詞：伝染性の"}
+      ]
+    },
+    {
+      "number": 11453,
+      "word": "prescribe",
+      "pos": "他動詞",
+      "meaning": "①（薬など）を処方する ②（行為など）を指示する、定める",
+      "nuance": "「あらかじめ（pre）書く（scribe）」ことから、医師が治療法を書く、または規則がルールを定めることを意味します。",
+      "example_sections": [
+        {
+          "title": "意味①：処方する",
+          "examples": [
+            {
+              "en": "The doctor prescribed antibiotics for her throat infection.",
+              "ja": "医師は彼女の喉の感染症に対して抗生物質を処方した。",
+              "highlight": "prescribed"
+            }
+          ]
+        },
+        {
+          "title": "意味②：指示する、定める",
+          "examples": [
+            {
+              "en": "The law prescribes the penalties for this crime.",
+              "ja": "法律はこの犯罪に対する罰則を規定（指示）している。",
+              "highlight": "prescribes"
+            }
+          ]
+        }
+      ],
+      "etymology": "pre (前に) + scribere (書く) → 前もって書いておく",
+      "synonyms": [
+        {"word": "order", "trans": "命令する、注文する"},
+        {"word": "dictate", "trans": "命じる"},
+        {"word": "stipulate", "trans": "規定する"}
+      ],
+      "antonyms": [
+        {"word": "proscribe", "trans": "禁止する（対照的な語）"},
+        {"word": "suggest", "trans": "提案する（弱い表現）"},
+        {"word": "ignore", "trans": "無視する"}
+      ],
+      "related": [
+        {"word": "prescription", "trans": "名詞：処方箋、規定"}
+      ]
+    },
+    {
+      "number": 11454,
+      "word": "digest",
+      "pos": "他動詞、名詞",
+      "meaning": "①～を消化する ②～を理解する [名] ③要約",
+      "nuance": "食べ物や情報を細かく砕いて取り込みやすい形にすること。名詞では情報のまとめを指します。",
+      "example_sections": [
+        {
+          "title": "意味①：消化する",
+          "examples": [
+            {
+              "en": "It takes about two hours to digest a heavy meal.",
+              "ja": "重い食事を消化するのに約2時間かかる。",
+              "highlight": "digest"
+            }
+          ]
+        },
+        {
+          "title": "意味②：理解する",
+          "examples": [
+            {
+              "en": "I need some time to digest all this information.",
+              "ja": "このすべての情報を消化（理解）するのに少し時間が必要だ。",
+              "highlight": "digest"
+            }
+          ]
+        },
+        {
+          "title": "意味③：要約（名詞）",
+          "examples": [
+            {
+              "en": "He read a digest of the report.",
+              "ja": "彼はその報告書の要約を読んだ。",
+              "highlight": "digest"
+            }
+          ]
+        }
+      ],
+      "etymology": "di (離れて) + gerere (運ぶ) → 分けて運ぶ、整理する",
+      "synonyms": [
+        {"word": "absorb", "trans": "吸収する"},
+        {"word": "understand", "trans": "理解する"},
+        {"word": "summary", "trans": "要約"}
+      ],
+      "antonyms": [
+        {"word": "vomit", "trans": "吐き出す"},
+        {"word": "misunderstand", "trans": "誤解する"},
+        {"word": "expansion", "trans": "拡張"}
+      ],
+      "related": [
+        {"word": "digestion", "trans": "名詞：消化"},
+        {"word": "digestive", "trans": "形容詞：消化の"}
+      ]
+    },
+    {
+      "number": 11455,
+      "word": "weary",
+      "pos": "形容詞",
+      "meaning": "①（極度に）疲れている ②うんざりしている",
+      "nuance": "単なる tiredness よりも、長い間の苦労や繰り返しで「心身ともに疲れ果てた」状態を指します。",
+      "example_sections": [
+        {
+          "title": "意味①：疲れている",
+          "examples": [
+            {
+              "en": "The weary travelers finally reached their hotel.",
+              "ja": "疲れ果てた旅人たちは、ついにホテルに到着した。",
+              "highlight": "weary"
+            }
+          ]
+        },
+        {
+          "title": "意味②：うんざりしている",
+          "examples": [
+            {
+              "en": "He was weary of the constant complaints.",
+              "ja": "彼は絶え間ない不平不満にうんざりしていた。",
+              "highlight": "weary"
+            }
+          ]
+        }
+      ],
+      "etymology": "werig (疲れ果てた)",
+      "synonyms": [
+        {"word": "exhausted", "trans": "疲れ果てた"},
+        {"word": "fatigued", "trans": "疲労した"},
+        {"word": "bored", "trans": "退屈した、飽きた"}
+      ],
+      "antonyms": [
+        {"word": "energetic", "trans": "精力的な"},
+        {"word": "refreshed", "trans": "気分がすっきりした"},
+        {"word": "enthusiastic", "trans": "熱心な"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11456,
+      "word": "nourish",
+      "pos": "他動詞",
+      "meaning": "①～に栄養を与える ②（考えなど）を抱く",
+      "nuance": "体や植物に栄養を補給するだけでなく、心の中で感情や希望を「育む」際にも使われます。",
+      "example_sections": [
+        {
+          "title": "意味①：栄養を与える",
+          "examples": [
+            {
+              "en": "Children need balanced meals to nourish their bodies.",
+              "ja": "子供たちは体に栄養を与えるためにバランスの取れた食事を必要とする。",
+              "highlight": "nourish"
+            }
+          ]
+        },
+        {
+          "title": "意味②：抱く、育む",
+          "examples": [
+            {
+              "en": "She had long nourished a hope of becoming an artist.",
+              "ja": "彼女は長い間、芸術家になりたいという希望を抱いていた。",
+              "highlight": "nourished"
+            }
+          ]
+        }
+      ],
+      "etymology": "nutrire (養う、授乳する)",
+      "synonyms": [
+        {"word": "feed", "trans": "食べ物を与える"},
+        {"word": "nurture", "trans": "育む、養育する"},
+        {"word": "cherish", "trans": "大切にする、抱く"}
+      ],
+      "antonyms": [
+        {"word": "starve", "trans": "飢えさせる"},
+        {"word": "deprive", "trans": "奪う"},
+        {"word": "neglect", "trans": "放置する"}
+      ],
+      "related": [
+        {"word": "nourishment", "trans": "名詞：食物、栄養"},
+        {"word": "nutrition", "trans": "名詞：栄養"}
+      ]
+    },
+    {
+      "number": 11457,
+      "word": "flesh",
+      "pos": "名詞",
+      "meaning": "（人、動物の）肉、果肉",
+      "nuance": "食肉（meat）ではなく、生きた体の一部としての「筋肉や皮膚」を指します。また、人間としての「肉体（精神との対比）」を意味することもあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The tiger's claws tore into the deer's flesh.",
+              "ja": "虎の爪が鹿の肉に食い込んだ。",
+              "highlight": "flesh"
+            },
+            {
+              "en": "The fruit has sweet, white flesh.",
+              "ja": "その果物は甘い白い果肉を持っている。",
+              "highlight": "flesh"
+            },
+            {
+              "en": "In the flesh",
+              "ja": "生身で（本人に直接）",
+              "highlight": "flesh"
+            }
+          ]
+        }
+      ],
+      "etymology": "flasc (肉、体)",
+      "synonyms": [
+        {"word": "muscle", "trans": "筋肉"},
+        {"word": "pulp", "trans": "果肉"},
+        {"word": "body", "trans": "肉体"}
+      ],
+      "antonyms": [
+        {"word": "bone", "trans": "骨"},
+        {"word": "spirit", "trans": "精神、魂"},
+        {"word": "skeleton", "trans": "骸骨"}
+      ],
+      "related": [
+        {"word": "fleshy", "trans": "形容詞：肉付きの良い"}
+      ]
+    },
+    {
+      "number": 11458,
+      "word": "kidney",
+      "pos": "名詞",
+      "meaning": "腎臓",
+      "nuance": "血液をろ過して尿を作る臓器。通常、体には左右2つあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He is waiting for a kidney transplant.",
+              "ja": "彼は腎臓移植を待っている。",
+              "highlight": "kidney"
+            },
+            {
+              "en": "The kidneys play a vital role in filtering blood.",
+              "ja": "腎臓は血液をろ過する上で極めて重要な役割を果たす。",
+              "highlight": "kidneys"
+            }
+          ]
+        }
+      ],
+      "etymology": "kid (嚢、腹) + ney (睾丸、卵)",
+      "synonyms": [
+        {"word": "organ", "trans": "臓器"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "renal", "trans": "形容詞：腎臓の（医学用語）"}
+      ]
+    },
+    {
+      "number": 11459,
+      "word": "posture",
+      "pos": "名詞",
+      "meaning": "姿勢",
+      "nuance": "立ったり座ったりしている時の「体の構え」だけでなく、ある問題に対する「態度・心構え」も指します。",
+      "example_sections": [
+        {
+          "title": "意味①：体の姿勢",
+          "examples": [
+            {
+              "en": "Good posture is important for avoiding back pain.",
+              "ja": "腰痛を避けるためには、良い姿勢が重要だ。",
+              "highlight": "posture"
+            }
+          ]
+        },
+        {
+          "title": "意味②：態度、心構え",
+          "examples": [
+            {
+              "en": "The government adopted a more aggressive posture toward the issue.",
+              "ja": "政府はその問題に対してより攻撃的な姿勢（態度）をとった。",
+              "highlight": "posture"
+            }
+          ]
+        }
+      ],
+      "etymology": "ponere (置く) → どのように自分を置くか",
+      "synonyms": [
+        {"word": "pose", "trans": "ポーズ、姿勢"},
+        {"word": "stance", "trans": "立ち位置、態度"},
+        {"word": "attitude", "trans": "態度"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11460,
+      "word": "limb",
+      "pos": "名詞",
+      "meaning": "手足（の1本）、大きな枝",
+      "nuance": "腕（arm）や脚（leg）を指す硬い言葉です。また、木の大枝も指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The patient lost a limb in the explosion.",
+              "ja": "患者は爆発で手足の一本を失った。",
+              "highlight": "limb"
+            },
+            {
+              "en": "Heavy snow caused several limbs to break off the tree.",
+              "ja": "大雪で、木の枝が数本折れた。",
+              "highlight": "limbs"
+            }
+          ]
+        }
+      ],
+      "etymology": "lim (四肢、手足)",
+      "synonyms": [
+        {"word": "extremity", "trans": "四肢、末端"},
+        {"word": "appendage", "trans": "付属肢"},
+        {"word": "branch", "trans": "枝"}
+      ],
+      "antonyms": [
+        {"word": "torso", "trans": "胴体"},
+        {"word": "trunk", "trans": "（木の）幹、胴体"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11461,
+      "word": "erect",
+      "pos": "形容詞、他動詞",
+      "meaning": "①直立した [他] ②～を建てる",
+      "nuance": "真っ直ぐ上に伸びている様子。建物や壁を「垂直に立てる」ことを意味します。",
+      "example_sections": [
+        {
+          "title": "意味①：直立した（形容詞）",
+          "examples": [
+            {
+              "en": "He stood erect and saluted the officer.",
+              "ja": "彼は直立し、将校に敬礼した。",
+              "highlight": "erect"
+            }
+          ]
+        },
+        {
+          "title": "意味②：建てる（動詞）",
+          "examples": [
+            {
+              "en": "The city plan to erect a statue in the park.",
+              "ja": "市は公園に像を建てることを計画している。",
+              "highlight": "erect"
+            }
+          ]
+        }
+      ],
+      "etymology": "e (外へ) + regere (導く、真っ直ぐにする) → まっすぐに上へ伸ばす",
+      "synonyms": [
+        {"word": "upright", "trans": "直立した"},
+        {"word": "vertical", "trans": "垂直な"},
+        {"word": "build", "trans": "建てる"}
+      ],
+      "antonyms": [
+        {"word": "sloping", "trans": "傾斜した"},
+        {"word": "bent", "trans": "曲がった"},
+        {"word": "demolish", "trans": "取り壊す"}
+      ],
+      "related": [
+        {"word": "erection", "trans": "名詞：建設、直立"}
+      ]
+    },
+    {
+      "number": 11462,
+      "word": "compensate",
+      "pos": "他動詞",
+      "meaning": "（A for B） （A）に（B を）補償する、埋め合わせる",
+      "nuance": "失ったものや損害に対して、お金や他のもので「釣り合いを取る」こと。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Nothing can compensate for the loss of a loved one.",
+              "ja": "愛する人を失った悲しみは何をもってしても埋め合わせることはできない。",
+              "highlight": "compensate"
+            },
+            {
+              "en": "The company compensated the victims for their injuries.",
+              "ja": "会社は被害者に対し、怪我の補償をした。",
+              "highlight": "compensated"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (共に) + pensare (重さを量る) → 釣り合いを取る",
+      "synonyms": [
+        {"word": "make up for", "trans": "～を埋め合わせる"},
+        {"word": "reimburse", "trans": "払い戻す、賠償する"},
+        {"word": "offset", "trans": "相殺する"}
+      ],
+      "antonyms": [
+        {"word": "deprive", "trans": "奪う"},
+        {"word": "damage", "trans": "損害を与える"},
+        {"word": "penalize", "trans": "罰を与える"}
+      ],
+      "related": [
+        {"word": "compensation", "trans": "名詞：補償、報酬"}
+      ]
+    },
+    {
+      "number": 11463,
+      "word": "flourish",
+      "pos": "自動詞",
+      "meaning": "栄える、繁盛する、元気に育つ",
+      "nuance": "花が咲き誇るように、勢いよく成長したり、ビジネスが成功したりすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The civilization flourished for hundreds of years.",
+              "ja": "その文明は何百年もの間栄えた。",
+              "highlight": "flourished"
+            },
+            {
+              "en": "These plants flourish in warm, damp climates.",
+              "ja": "これらの植物は温暖で湿った気候でよく育つ。",
+              "highlight": "flourish"
+            }
+          ]
+        }
+      ],
+      "etymology": "flos (花) → 花が咲くように勢いがある",
+      "synonyms": [
+        {"word": "thrive", "trans": "繁栄する"},
+        {"word": "prosper", "trans": "繁盛する"},
+        {"word": "bloom", "trans": "花開く"}
+      ],
+      "antonyms": [
+        {"word": "wither", "trans": "しおれる"},
+        {"word": "decline", "trans": "衰退する"},
+        {"word": "fade", "trans": "衰える"}
+      ],
+      "related": [
+        {"word": "flower", "trans": "名詞：花"}
+      ]
+    },
+    {
+      "number": 11464,
+      "word": "abuse",
+      "pos": "名詞、他動詞",
+      "meaning": "①虐待 ②乱用 [他] ③～を悪用する、虐待する",
+      "nuance": "「使い（use）道を誤る（ab-）」ことから、力や薬を間違った方法で使う、あるいは人を不当に扱うことを意味します。",
+      "example_sections": [
+        {
+          "title": "意味①②：虐待、乱用（名詞）",
+          "examples": [
+            {
+              "en": "He was arrested for child abuse.",
+              "ja": "彼は児童虐待の容疑で逮捕された。",
+              "highlight": "abuse"
+            },
+            {
+              "en": "Drug abuse is a serious social problem.",
+              "ja": "薬物乱用は深刻な社会問題だ。",
+              "highlight": "abuse"
+            }
+          ]
+        },
+        {
+          "title": "意味③：悪用する、虐待する（動詞）",
+          "examples": [
+            {
+              "en": "The dictator abused his power for personal gain.",
+              "ja": "独裁者は私利私欲のために権力を乱用（悪用）した。",
+              "highlight": "abused"
+            }
+          ]
+        }
+      ],
+      "etymology": "ab (離れて、誤って) + uti (使う) → 正しくない使い方をする",
+      "synonyms": [
+        {"word": "misuse", "trans": "誤用、悪用"},
+        {"word": "maltreatment", "trans": "酷使、虐待"},
+        {"word": "exploit", "trans": "（不当に）利用する"}
+      ],
+      "antonyms": [
+        {"word": "care", "trans": "世話、配慮"},
+        {"word": "respect", "trans": "尊重する"},
+        {"word": "proper use", "trans": "適正使用"}
+      ],
+      "related": [
+        {"word": "abusive", "trans": "形容詞：口汚い、虐待的な"}
+      ]
+    },
+    {
+      "number": 11465,
+      "word": "bias",
+      "pos": "名詞",
+      "meaning": "偏見、先入観",
+      "nuance": "思考が一方に「傾いている」こと。公平性を欠く傾向を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The news report was criticized for its political bias.",
+              "ja": "そのニュース報道は、政治的偏向（偏見）があるとして批判された。",
+              "highlight": "bias"
+            },
+            {
+              "en": "Researchers must try to eliminate personal bias.",
+              "ja": "研究者は個人の先入観（バイアス）を排除するよう努めなければならない。",
+              "highlight": "bias"
+            }
+          ]
+        }
+      ],
+      "etymology": "biais (斜めの) → まっすぐでないこと",
+      "synonyms": [
+        {"word": "prejudice", "trans": "偏見"},
+        {"word": "partiality", "trans": "不公平"},
+        {"word": "slant", "trans": "（特定の）見方、偏り"}
+      ],
+      "antonyms": [
+        {"word": "objectivity", "trans": "客観性"},
+        {"word": "fairness", "trans": "公平さ"},
+        {"word": "impartiality", "trans": "不偏不党"}
+      ],
+      "related": [
+        {"word": "biased", "trans": "形容詞：偏った"}
+      ]
+    },
+    {
+      "number": 11466,
+      "word": "prestige",
+      "pos": "名詞",
+      "meaning": "名声、威信",
+      "nuance": "業績、成功、地位などから得られる「周囲からの尊敬や高い評価」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Winning the Nobel Prize brings immense prestige.",
+              "ja": "ノーベル賞を受賞することは、多大な名声をもたらす。",
+              "highlight": "prestige"
+            },
+            {
+              "en": "The company has lost its prestige after the scandal.",
+              "ja": "その会社は不祥事の後、威信を失った。",
+              "highlight": "prestige"
+            }
+          ]
+        }
+      ],
+      "etymology": "praestigium (幻、手品) → もとは「人を幻惑する力」から、現在は「称賛される地位」へ",
+      "synonyms": [
+        {"word": "reputation", "trans": "評判"},
+        {"word": "status", "trans": "地位、ステータス"},
+        {"word": "fame", "trans": "名声"}
+      ],
+      "antonyms": [
+        {"word": "notoriety", "trans": "悪名"},
+        {"word": "dishonor", "trans": "不名誉"},
+        {"word": "obscurity", "trans": "無名、世に知られていないこと"}
+      ],
+      "related": [
+        {"word": "prestigious", "trans": "形容詞：名声のある、一流の"}
+      ]
     }
   ]
 }
