@@ -122,8 +122,30 @@ def generate_index():
         :root { --primary-color: #007bff; --chapter-color: #6c757d; --bg-color: #f4f7f9; }
         body { font-family: sans-serif; background-color: var(--bg-color); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
         .container { width: 100%; max-width: 800px; }
-        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 20px; }
+        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 15px; }
         
+        /* 演習ページへのボタンリンク */
+        .exercise-link {
+            display: block;
+            width: fit-content;
+            margin: 0 auto 30px;
+            padding: 12px 40px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: 0.3s;
+            border: none;
+        }
+        .exercise-link:hover {
+            background-color: #218838;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+
         /* 目次 (TOC) 改良 */
         .toc { background: white; padding: 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .toc-group { margin-bottom: 15px; }
@@ -162,6 +184,9 @@ def generate_index():
 <body>
 <div class="container">
     <h1>英単語辞書 データベース</h1>
+
+    <a href="exercise.html" class="exercise-link">📝 演習（クイズ）を始める</a>
+
     <nav class="toc">
 """
 
@@ -290,7 +315,7 @@ def generate_index():
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print(f"Update Complete: index.html has been rebuilt with grouped TOC.")
+    print(f"Update Complete: index.html has been rebuilt with grouped TOC and Exercise Link.")
 
 if __name__ == "__main__":
     generate_index()
