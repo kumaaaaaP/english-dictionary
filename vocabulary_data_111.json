@@ -1220,6 +1220,1371 @@
       "related": [
         {"word": "hazardous", "trans": "形容詞：危険な"}
       ]
+    },
+    {
+      "number": 11134,
+      "word": "orphan",
+      "pos": "名詞、動詞",
+      "meaning": "【名】孤児 【他】～を孤児にする",
+      "nuance": "両親を亡くした子供を指します。受身形で「孤児になる」と表現されることが多いです。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "He was left an orphan at the age of five.",
+              "ja": "彼は5歳で孤児になった（孤児として残された）。",
+              "highlight": "orphan"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "Many children were orphaned by the civil war.",
+              "ja": "多くの子供たちが内戦で孤児になった。",
+              "highlight": "orphaned"
+            }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 orphanos（親のない、寂しい）",
+      "synonyms": [
+        {"word": "foundling", "trans": "捨て子"},
+        {"word": "waif", "trans": "放浪児、浮浪児"}
+      ],
+      "antonyms": [
+        {"word": "parent", "trans": "親"}
+      ],
+      "related": [
+        {"word": "orphanage", "trans": "名詞：孤児院"}
+      ]
+    },
+    {
+      "number": 11135,
+      "word": "infant",
+      "pos": "名詞",
+      "meaning": "（主に歩く前の）乳児、幼児",
+      "nuance": "babyよりも少しフォーマル、または医学・発達段階的な用語として使われます。一般に1歳未満の乳児を指すことが多いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The vaccination is recommended for infants under six months.",
+              "ja": "その予防接種は6ヶ月未満の乳児に推奨されている。",
+              "highlight": "infants"
+            },
+            {
+              "en": "She has an infant son.",
+              "ja": "彼女にはまだ幼い息子がいる。",
+              "highlight": "infant"
+            }
+          ]
+        }
+      ],
+      "etymology": "in (否定) + fari (話す) → 話すことができない子",
+      "synonyms": [
+        {"word": "baby", "trans": "赤ちゃん"},
+        {"word": "newborn", "trans": "新生児"},
+        {"word": "toddler", "trans": "よちよち歩きの幼児"}
+      ],
+      "antonyms": [
+        {"word": "adult", "trans": "大人"},
+        {"word": "elderly", "trans": "高齢者"}
+      ],
+      "related": [
+        {"word": "infancy", "trans": "名詞：乳児期、初期段階"}
+      ]
+    },
+    {
+      "number": 11136,
+      "word": "slave",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①奴隷 ②（比喩的に）～の言いなりになっている人 【自】あくせく働く",
+      "nuance": "自由を奪われ所有されている人。現代では「～の奴隷（依存している状態）」としても使われます。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The history of the country was marked by the struggle of slaves.",
+              "ja": "その国の歴史は、奴隷たちの闘争によって特徴づけられている。",
+              "highlight": "slaves"
+            },
+            {
+              "en": "He is a slave to his work and never takes a holiday.",
+              "ja": "彼は仕事の奴隷になっていて、決して休みを取らない。",
+              "highlight": "slave"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "I've been slaving away in the kitchen all morning.",
+              "ja": "午前中ずっとキッチンであくせく働いている。",
+              "highlight": "slaving away"
+            }
+          ]
+        }
+      ],
+      "etymology": "中世ラテン語 sclavus（スラヴ人）。かつてスラヴ人が奴隷にされた歴史に由来。",
+      "synonyms": [
+        {"word": "captive", "trans": "捕虜"},
+        {"word": "servant", "trans": "使用人、召使い"},
+        {"word": "drudge", "trans": "つまらない仕事に励む人"}
+      ],
+      "antonyms": [
+        {"word": "master", "trans": "主人"},
+        {"word": "freeman", "trans": "自由市民"}
+      ],
+      "related": [
+        {"word": "slavery", "trans": "名詞：奴隷制度"},
+        {"word": "slavish", "trans": "形容詞：奴隷のような、独創性のない"}
+      ]
+    },
+    {
+      "number": 11137,
+      "word": "acquaintance",
+      "pos": "名詞",
+      "meaning": "①知人 ②面識、知識",
+      "nuance": "friend（友達）ほど親密ではなく、「顔見知り」程度の関係を指します。",
+      "example_sections": [
+        {
+          "title": "「知人」としての例文",
+          "examples": [
+            {
+              "en": "He is a business acquaintance, not a close friend.",
+              "ja": "彼は仕事上の知人であり、親友ではない。",
+              "highlight": "acquaintance"
+            }
+          ]
+        },
+        {
+          "title": "「面識・知識」としての例文",
+          "examples": [
+            {
+              "en": "I have some acquaintance with the local history.",
+              "ja": "私は地元の歴史について多少の知識がある。",
+              "highlight": "acquaintance"
+            },
+            {
+              "en": "I'm glad to make your acquaintance.",
+              "ja": "お知り合いになれて（面識を得られて）光栄です。",
+              "highlight": "acquaintance"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～に) + cognoscere (知るようになる)",
+      "synonyms": [
+        {"word": "associate", "trans": "仲間、同僚"},
+        {"word": "contact", "trans": "連絡先、知人"},
+        {"word": "awareness", "trans": "認識、知ること"}
+      ],
+      "antonyms": [
+        {"word": "stranger", "trans": "他人、見知らぬ人"}
+      ],
+      "related": [
+        {"word": "acquaint", "trans": "動詞：～を知らせる"},
+        {"word": "acquainted", "trans": "形容詞：知り合いである"}
+      ]
+    },
+    {
+      "number": 11138,
+      "word": "merchant",
+      "pos": "名詞、形容詞",
+      "meaning": "【名】商人、卸売商 【形】商業の、商船の",
+      "nuance": "単なる店員ではなく、輸出入や大規模な売買を行う「商売人」という伝統的な響きがあります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Venice was once a city of wealthy merchants.",
+              "ja": "ヴェネツィアはかつて裕福な商人たちの都市だった。",
+              "highlight": "merchants"
+            },
+            {
+              "en": "The merchant navy plays a crucial role in global trade.",
+              "ja": "商船隊は世界貿易において極めて重要な役割を果たしている。",
+              "highlight": "merchant"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 mercari（商売をする）",
+      "synonyms": [
+        {"word": "trader", "trans": "取引業者"},
+        {"word": "dealer", "trans": "販売業者"},
+        {"word": "vendor", "trans": "売り主、行商人"}
+      ],
+      "antonyms": [
+        {"word": "customer", "trans": "客"},
+        {"word": "buyer", "trans": "買い手"}
+      ],
+      "related": [
+        {"word": "merchandise", "trans": "名詞：商品"},
+        {"word": "commerce", "trans": "名詞：商業"}
+      ]
+    },
+    {
+      "number": 11139,
+      "word": "resident",
+      "pos": "名詞、形容詞",
+      "meaning": "【名】①住人、居住者 ②滞在者、研修医 【形】住んでいる、在住の",
+      "nuance": "特定の場所に法的に、あるいは長期間住んでいる人を指します。また、病院に住み込むレベルで働く「研修医」の意味もあります。",
+      "example_sections": [
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Local residents are complaining about the noise.",
+              "ja": "地元の住民たちが騒音について苦情を言っている。",
+              "highlight": "residents"
+            },
+            {
+              "en": "He is a surgical resident at the city hospital.",
+              "ja": "彼は市立病院の外科研修医だ。",
+              "highlight": "resident"
+            }
+          ]
+        },
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "She is our resident expert on computer security.",
+              "ja": "彼女はコンピュータ・セキュリティに関する我々の専属（常駐の）エキスパートだ。",
+              "highlight": "resident"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (後ろに) + sedere (座る) → 留まる",
+      "synonyms": [
+        {"word": "inhabitant", "trans": "居住者"},
+        {"word": "citizen", "trans": "市民"},
+        {"word": "occupant", "trans": "占有者、居住者"}
+      ],
+      "antonyms": [
+        {"word": "visitor", "trans": "訪問者"},
+        {"word": "tourist", "trans": "観光客"}
+      ],
+      "related": [
+        {"word": "reside", "trans": "動詞：住む"},
+        {"word": "residence", "trans": "名詞：住宅、居住"}
+      ]
+    },
+    {
+      "number": 11140,
+      "word": "crew",
+      "pos": "名詞",
+      "meaning": "①（集合的に）乗組員 ②（専門的な作業をする）チーム、班",
+      "nuance": "船、飛行機、映画制作など、特定の共通の任務を遂行するグループ全体を指します（不可算的に扱うことも多い）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The captain and crew welcomed the passengers aboard.",
+              "ja": "船長と乗組員が乗客を機内（船内）に迎えた。",
+              "highlight": "crew"
+            },
+            {
+              "en": "An ambulance crew arrived at the scene within minutes.",
+              "ja": "救急隊の班が数分以内に現場に到着した。",
+              "highlight": "crew"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 creue（増員、補強）",
+      "synonyms": [
+        {"word": "staff", "trans": "職員"},
+        {"word": "team", "trans": "チーム"},
+        {"word": "personnel", "trans": "人員"}
+      ],
+      "antonyms": [
+        {"word": "passenger", "trans": "乗客"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11141,
+      "word": "commute",
+      "pos": "動詞、名詞",
+      "meaning": "【自】通勤（通学）する 【名】通勤（時間・距離）",
+      "nuance": "自宅と仕事場・学校の間を定期的に往復することを指します。もともとは「（定期券によって料金を）交換・軽減する」という意味から来ました。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "She commutes from the suburbs to the city every day.",
+              "ja": "彼女は毎日郊外から市街地へ通勤している。",
+              "highlight": "commutes"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "It’s a long commute, but I enjoy the train ride.",
+              "ja": "長距離通勤だが、電車に乗るのは楽しい。",
+              "highlight": "commute"
+            }
+          ]
+        }
+      ],
+      "etymology": "com (強意) + mutare (変える) → 交換する",
+      "synonyms": [
+        {"word": "travel", "trans": "移動する"},
+        {"word": "shuttle", "trans": "定期往復する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "commuter", "trans": "名詞：通勤者"}
+      ]
+    },
+    {
+      "number": 11142,
+      "word": "chase",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①～を追いかける、追跡する 【名】追跡",
+      "nuance": "逃げているもの、または手に入れたいものを捕まえるために走って追いかけるイメージです。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The cat chased the mouse across the floor.",
+              "ja": "猫が床を横切ってネズミを追いかけた。",
+              "highlight": "chased"
+            },
+            {
+              "en": "Many people are chasing the American dream.",
+              "ja": "多くの人々がアメリカン・ドリームを追い求めている。",
+              "highlight": "chasing"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The police gave chase and caught the thief.",
+              "ja": "警察は追跡を開始し、泥棒を捕まえた。",
+              "highlight": "chase"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 captiare（捕らえようとする）",
+      "synonyms": [
+        {"word": "pursue", "trans": "追跡する、追求する"},
+        {"word": "follow", "trans": "後に続く"},
+        {"word": "hunt", "trans": "狩る"}
+      ],
+      "antonyms": [
+        {"word": "flee", "trans": "逃げる"},
+        {"word": "run away", "trans": "逃走する"},
+        {"word": "retreat", "trans": "後退する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11143,
+      "word": "overtake",
+      "pos": "動詞",
+      "meaning": "～を追い越す、追い抜く、（不幸などが）～を襲う",
+      "nuance": "後ろから来て追い抜くこと。車だけでなく、経済指標や能力の比較にも使われます。また、嵐や不運が突然やってくる際にも使われます。",
+      "example_sections": [
+        {
+          "title": "「追い越す」の例文",
+          "examples": [
+            {
+              "en": "The red car overtook the truck on the highway.",
+              "ja": "赤い車が高速道路でトラックを追い越した。",
+              "highlight": "overtook"
+            },
+            {
+              "en": "China is expected to overtake the US in GDP.",
+              "ja": "中国はGDPで米国を追い抜くと予想されている。",
+              "highlight": "overtake"
+            }
+          ]
+        },
+        {
+          "title": "「襲う」の例文",
+          "examples": [
+            {
+              "en": "They were overtaken by a sudden storm.",
+              "ja": "彼らは突然の嵐に襲われた。",
+              "highlight": "overtaken"
+            }
+          ]
+        }
+      ],
+      "etymology": "over (超えて) + take (取る)",
+      "synonyms": [
+        {"word": "pass", "trans": "通り過ぎる、抜く"},
+        {"word": "surpass", "trans": "上回る"},
+        {"word": "outstrip", "trans": "凌駕する"}
+      ],
+      "antonyms": [
+        {"word": "fall behind", "trans": "遅れをとる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11144,
+      "word": "fade",
+      "pos": "動詞",
+      "meaning": "（色、記憶、音などが）薄れる、衰える",
+      "nuance": "鮮やかだったものが、時間の経過とともに徐々に消えていく様子を表します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The curtains have faded in the sun.",
+              "ja": "カーテンが日光で色あせた。",
+              "highlight": "faded"
+            },
+            {
+              "en": "Hopes of finding survivors are starting to fade.",
+              "ja": "生存者発見の希望が薄れ始めている。",
+              "highlight": "fade"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 fader（弱くなる、しおれる）",
+      "synonyms": [
+        {"word": "dimish", "trans": "減少する"},
+        {"word": "pale", "trans": "青ざめる、薄くなる"},
+        {"word": "decline", "trans": "衰退する"}
+      ],
+      "antonyms": [
+        {"word": "brighten", "trans": "輝く"},
+        {"word": "flourish", "trans": "繁栄する"},
+        {"word": "sharpen", "trans": "鋭くなる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11145,
+      "word": "dissolve",
+      "pos": "動詞",
+      "meaning": "【自】溶ける 【他】①～を溶かす ②（議会、組織など）を解散する ③（契約など）を解消する",
+      "nuance": "個体が液体の中でバラバラになって混ざり合うこと。比喩的に、組織や法律関係を「消滅させてバラバラにする」ことも指します。",
+      "example_sections": [
+        {
+          "title": "「溶ける」の例文",
+          "examples": [
+            {
+              "en": "Sugar dissolves quickly in hot coffee.",
+              "ja": "砂糖は熱いコーヒーの中ですぐに溶ける。",
+              "highlight": "dissolves"
+            }
+          ]
+        },
+        {
+          "title": "「解散・解消」の例文",
+          "examples": [
+            {
+              "en": "The king decided to dissolve Parliament.",
+              "ja": "国王は議会を解散することを決定した。",
+              "highlight": "dissolve"
+            },
+            {
+              "en": "The partnership was dissolved after two years.",
+              "ja": "そのパートナーシップ（提携）は2年後に解消された。",
+              "highlight": "dissolved"
+            }
+          ]
+        }
+      ],
+      "etymology": "dis (バラバラに) + solvere (緩める、解く)",
+      "synonyms": [
+        {"word": "melt", "trans": "（熱で）溶ける"},
+        {"word": "disband", "trans": "（グループを）解散する"},
+        {"word": "terminate", "trans": "終結させる"}
+      ],
+      "antonyms": [
+        {"word": "solidify", "trans": "固まる"},
+        {"word": "establish", "trans": "設立する"},
+        {"word": "unite", "trans": "結合する"}
+      ],
+      "related": [
+        {"word": "solution", "trans": "名詞：解決策、溶液"}
+      ]
+    },
+    {
+      "number": 11146,
+      "word": "float",
+      "pos": "動詞、名詞",
+      "meaning": "【自】浮かぶ、漂う 【他】～を浮かべる、(考えなどを)提案する",
+      "nuance": "液体や空気の中で、支えなしに軽々ととどまっている状態です。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "Clouds floated across the sky.",
+              "ja": "雲が空を漂っていた。",
+              "highlight": "floated"
+            },
+            {
+              "en": "Will this plastic bottle float or sink?",
+              "ja": "このペットボトルは浮くでしょうか、それとも沈むでしょうか？",
+              "highlight": "float"
+            }
+          ]
+        },
+        {
+          "title": "比喩的・ビジネスの例文",
+          "examples": [
+            {
+              "en": "They floated the idea of a four-day work week.",
+              "ja": "彼らは週休3日制という案を提案した（浮かび上がらせた）。",
+              "highlight": "floated"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（流れる）",
+      "synonyms": [
+        {"word": "drift", "trans": "漂流する"},
+        {"word": "hover", "trans": "空中に止まる"},
+        {"word": "glide", "trans": "滑るように進む"}
+      ],
+      "antonyms": [
+        {"word": "sink", "trans": "沈む"},
+        {"word": "settle", "trans": "沈殿する"}
+      ],
+      "related": [
+        {"word": "floating", "trans": "形容詞：浮いている、流動的な"}
+      ]
+    },
+    {
+      "number": 11147,
+      "word": "sink",
+      "pos": "動詞、名詞",
+      "meaning": "【自】沈む 【他】～を沈める 【名】（台所の）流し、シンク",
+      "nuance": "表面から下に落ちていくこと。名詞では水が吸い込まれていく「流し」を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The Titanic sank after hitting an iceberg.",
+              "ja": "タイタニック号は氷山に衝突した後、沈没した。",
+              "highlight": "sank"
+            },
+            {
+              "en": "The sun was sinking below the horizon.",
+              "ja": "太陽が地平線の下に沈みかけていた。",
+              "highlight": "sinking"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Please put the dirty dishes in the kitchen sink.",
+              "ja": "汚れた皿を台所の流しに置いてください。",
+              "highlight": "sink"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（落ちる）",
+      "synonyms": [
+        {"word": "submerge", "trans": "潜る、沈める"},
+        {"word": "descend", "trans": "降りる"},
+        {"word": "plunge", "trans": "突っ込む、急落する"}
+      ],
+      "antonyms": [
+        {"word": "float", "trans": "浮く"},
+        {"word": "rise", "trans": "上がる"},
+        {"word": "ascend", "trans": "昇る"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11148,
+      "word": "fluctuate",
+      "pos": "動詞",
+      "meaning": "（数値、感情などが）変動する、上下する",
+      "nuance": "一定ではなく、不規則に上がったり下がったりを繰り返すイメージです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Oil prices fluctuate according to global demand.",
+              "ja": "原油価格は世界的な需要に応じて変動する。",
+              "highlight": "fluctuate"
+            },
+            {
+              "en": "Her mood fluctuates from day to day.",
+              "ja": "彼女の気分は日によって変動する（浮き沈みがある）。",
+              "highlight": "fluctuates"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 fluctus（波）",
+      "synonyms": [
+        {"word": "vary", "trans": "変わる、異なる"},
+        {"word": "waver", "trans": "揺らぐ"},
+        {"word": "oscillate", "trans": "振動する"}
+      ],
+      "antonyms": [
+        {"word": "stabilize", "trans": "安定する"},
+        {"word": "remain constant", "trans": "一定に保つ"}
+      ],
+      "related": [
+        {"word": "fluctuation", "trans": "名詞：変動"}
+      ]
+    },
+    {
+      "number": 11149,
+      "word": "circulate",
+      "pos": "動詞",
+      "meaning": "【自】循環する、流布する 【他】～を循環させる、配布する",
+      "nuance": "円(circle)を描くように元の場所に戻ってきたり、広く行き渡ったりすることを指します。",
+      "example_sections": [
+        {
+          "title": "「循環する」の例文",
+          "examples": [
+            {
+              "en": "Blood circulates through the body.",
+              "ja": "血液は体中を循環する。",
+              "highlight": "circulates"
+            }
+          ]
+        },
+        {
+          "title": "「流布・配布」の例文",
+          "examples": [
+            {
+              "en": "Rumors began to circulate about his resignation.",
+              "ja": "彼の辞任に関する噂が広まり（流布し）始めた。",
+              "highlight": "circulate"
+            },
+            {
+              "en": "Please circulate this memo to all staff members.",
+              "ja": "このメモを全スタッフに回して（配布して）ください。",
+              "highlight": "circulate"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 circulare（円を描く）",
+      "synonyms": [
+        {"word": "flow", "trans": "流れる"},
+        {"word": "distribute", "trans": "分配する"},
+        {"word": "spread", "trans": "広まる"}
+      ],
+      "antonyms": [
+        {"word": "stagnate", "trans": "停滞する"},
+        {"word": "block", "trans": "塞ぐ"}
+      ],
+      "related": [
+        {"word": "circulation", "trans": "名詞：循環、発行部数"}
+      ]
+    },
+    {
+      "number": 11150,
+      "word": "transform",
+      "pos": "動詞",
+      "meaning": "【他】～を（大幅に）変える 【自】変身する、変形する",
+      "nuance": "単なるchangeよりも、形(form)や性質が根本から劇的に変わる場合に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The internet has transformed the way we communicate.",
+              "ja": "インターネットは我々のコミュニケーション方法を一変させた。",
+              "highlight": "transformed"
+            },
+            {
+              "en": "The caterpillar transformed into a butterfly.",
+              "ja": "芋虫は蝶に変身（変態）した。",
+              "highlight": "transformed"
+            }
+          ]
+        }
+      ],
+      "etymology": "trans (越えて、別のものに) + form (形)",
+      "synonyms": [
+        {"word": "alter", "trans": "変える"},
+        {"word": "convert", "trans": "転換する"},
+        {"word": "remodel", "trans": "作り直す"}
+      ],
+      "antonyms": [
+        {"word": "preserve", "trans": "保存する"},
+        {"word": "maintain", "trans": "維持する"}
+      ],
+      "related": [
+        {"word": "transformation", "trans": "名詞：変容"},
+        {"word": "transformer", "trans": "名詞：変圧器"}
+      ]
+    },
+    {
+      "number": 11151,
+      "word": "shift",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①転換、変化 ②（勤務の）交代、シフト 【動】～を移す、変わる",
+      "nuance": "位置、方向、重点などが「スライドして移動する」イメージです。",
+      "example_sections": [
+        {
+          "title": "「変化・転換」の例文",
+          "examples": [
+            {
+              "en": "There has been a major shift in public opinion.",
+              "ja": "世論に大きな変化（転換）があった。",
+              "highlight": "shift"
+            }
+          ]
+        },
+        {
+          "title": "「交代」の例文",
+          "examples": [
+            {
+              "en": "I'm working the night shift this week.",
+              "ja": "今週、私は夜勤（夜のシフト）で働いている。",
+              "highlight": "shift"
+            }
+          ]
+        },
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "He shifted his weight from one foot to the other.",
+              "ja": "彼は体重を片方の足からもう片方へ移した。",
+              "highlight": "shifted"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（分配する、変える）",
+      "synonyms": [
+        {"word": "change", "trans": "変化"},
+        {"word": "movement", "trans": "移動"},
+        {"word": "transfer", "trans": "移籍、転勤"}
+      ],
+      "antonyms": [
+        {"word": "fix", "trans": "固定する"},
+        {"word": "stagnation", "trans": "停滞"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11152,
+      "word": "modify",
+      "pos": "動詞",
+      "meaning": "～を修正する、一部変更する",
+      "nuance": "根本から変えるのではなく、特定の目的や状況に合わせて「部分的に調節・修正する」ことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We need to modify the design to reduce costs.",
+              "ja": "コストを削減するためにデザインを修正（一部変更）する必要がある。",
+              "highlight": "modify"
+            },
+            {
+              "en": "The software can be modified to suit your needs.",
+              "ja": "そのソフトはあなたのニーズに合わせて変更可能です。",
+              "highlight": "modified"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 modus（尺度、方法）+ facere（作る）",
+      "synonyms": [
+        {"word": "adjust", "trans": "調整する"},
+        {"word": "adapt", "trans": "適応させる"},
+        {"word": "tweak", "trans": "微調整する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "modification", "trans": "名詞：修正、変更"}
+      ]
+    },
+    {
+      "number": 11153,
+      "word": "revise",
+      "pos": "動詞",
+      "meaning": "（制度、予測、原稿など）を修正する、改正する、復習する",
+      "nuance": "「もう一度見る(re+vise)」が語源。間違いを直したり、最新の情報に基づいて計画や文章を「ブラッシュアップする」際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government had to revise its economic forecast.",
+              "ja": "政府は経済予測を修正しなければならなかった。",
+              "highlight": "revise"
+            },
+            {
+              "en": "I need to revise my essay before submitting it.",
+              "ja": "提出前にエッセイを修正（推敲）する必要がある。",
+              "highlight": "revise"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (再び) + videre (見る)",
+      "synonyms": [
+        {"word": "amend", "trans": "（法などを）改正する"},
+        {"word": "edit", "trans": "編集する"},
+        {"word": "review", "trans": "見直す"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "revision", "trans": "名詞：修正、改正"}
+      ]
+    },
+    {
+      "number": 11154,
+      "word": "vehicle",
+      "pos": "名詞",
+      "meaning": "①（エンジンの付いた）車両、乗り物 ②（思想などの）伝達手段、媒体",
+      "nuance": "車、トラック、バスなどの総称。また、何かを「運ぶもの」という点から、考えを広めるための「手段」も意味します。",
+      "example_sections": [
+        {
+          "title": "「車両」としての例文",
+          "examples": [
+            {
+              "en": "Motor vehicles are not allowed in this area.",
+              "ja": "このエリアへの自動車（車両）の進入は禁止されている。",
+              "highlight": "vehicles"
+            }
+          ]
+        },
+        {
+          "title": "「手段」としての例文",
+          "examples": [
+            {
+              "en": "Art can be a vehicle for social change.",
+              "ja": "芸術は社会変革のための伝達手段になり得る。",
+              "highlight": "vehicle"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 vehere（運ぶ）",
+      "synonyms": [
+        {"word": "transportation", "trans": "輸送機関"},
+        {"word": "medium", "trans": "媒体"},
+        {"word": "conveyance", "trans": "運搬、乗り物"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11155,
+      "word": "voyage",
+      "pos": "名詞、動詞",
+      "meaning": "【名】航海、長い旅 【自】旅をする",
+      "nuance": "特に海や宇宙など、遠くへの長距離で冒険的な「旅」を指します。日常的なtravelよりスケールが大きいです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The voyage across the Atlantic took three weeks.",
+              "ja": "大西洋を横断する航海には3週間かかった。",
+              "highlight": "voyage"
+            },
+            {
+              "en": "Mankind’s first voyage to Mars is still a dream.",
+              "ja": "人類初の火星への航行（旅）はまだ夢の段階だ。",
+              "highlight": "voyage"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 viaticum（旅費、旅）",
+      "synonyms": [
+        {"word": "journey", "trans": "（長旅）"},
+        {"word": "expedition", "trans": "探検"},
+        {"word": "cruise", "trans": "巡航"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11156,
+      "word": "confirm",
+      "pos": "動詞",
+      "meaning": "～を確認する、裏付ける、確証する",
+      "nuance": "不確かなことを「事実である」とはっきりさせたり、予約などを確定させたりする際に使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Please call the hotel to confirm your reservation.",
+              "ja": "予約を確認（確定）するためにホテルに電話してください。",
+              "highlight": "confirm"
+            },
+            {
+              "en": "Recent data confirms that the economy is recovering.",
+              "ja": "最近のデータは、経済が回復していることを裏付けている。",
+              "highlight": "confirms"
+            }
+          ]
+        }
+      ],
+      "etymology": "con (強意) + firmare (固くする)",
+      "synonyms": [
+        {"word": "verify", "trans": "照合・立証する"},
+        {"word": "validate", "trans": "有効にする、認める"},
+        {"word": "corroborate", "trans": "補強する、裏付ける"}
+      ],
+      "antonyms": [
+        {"word": "deny", "trans": "否定する"},
+        {"word": "cancel", "trans": "取り消す"},
+        {"word": "refute", "trans": "論破する"}
+      ],
+      "related": [
+        {"word": "confirmation", "trans": "名詞：確認、確証"}
+      ]
+    },
+    {
+      "number": 11157,
+      "word": "ensure",
+      "pos": "動詞",
+      "meaning": "～を確実にする、保証する",
+      "nuance": "ある結果が必ず起こるように、手配したり注意を払ったりすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "We must ensure that all children receive an education.",
+              "ja": "すべての子供たちが教育を受けられるように確実にしなければならない。",
+              "highlight": "ensure"
+            },
+            {
+              "en": "Check the brakes to ensure safety.",
+              "ja": "安全を確保（確実にする）するためにブレーキを点検しなさい。",
+              "highlight": "ensure"
+            }
+          ]
+        }
+      ],
+      "etymology": "en (～にする) + sure (確実な)",
+      "synonyms": [
+        {"word": "guarantee", "trans": "保証する"},
+        {"word": "secure", "trans": "確保する"},
+        {"word": "make sure", "trans": "確かめる"}
+      ],
+      "antonyms": [
+        {"word": "endanger", "trans": "危険にさらす"},
+        {"word": "neglect", "trans": "怠る"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11158,
+      "word": "address",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①（問題に）取り組む ②～に呼びかける、演説する 【名】住所、演説",
+      "nuance": "対象に向かってエネルギーを向けるイメージ。ビジネスでは「問題に対処する」という意味で非常によく使われます。",
+      "example_sections": [
+        {
+          "title": "「取り組む」の例文",
+          "examples": [
+            {
+              "en": "We need to address the issue of climate change immediately.",
+              "ja": "我々は気候変動の問題に即座に取り組む必要がある。",
+              "highlight": "address"
+            }
+          ]
+        },
+        {
+          "title": "「演説・呼びかけ」の例文",
+          "examples": [
+            {
+              "en": "The president addressed the nation on television.",
+              "ja": "大統領はテレビで国民に語りかけた（演説した）。",
+              "highlight": "addressed"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～へ) + directus (まっすぐな) → まっすぐ向かう",
+      "synonyms": [
+        {"word": "tackle", "trans": "取り組む"},
+        {"word": "handle", "trans": "扱う"},
+        {"word": "speech", "trans": "演説"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "avoid", "trans": "避ける"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11159,
+      "word": "approach",
+      "pos": "名詞、動詞",
+      "meaning": "【名】①取り組み方 ②接近 【他】～に近づく、取り組む",
+      "nuance": "物理的に近づくことと、問題解決のために「どう寄っていくか（方法論）」の両方を指します。",
+      "example_sections": [
+        {
+          "title": "「取り組み方」の例文",
+          "examples": [
+            {
+              "en": "We need a new approach to solve this problem.",
+              "ja": "この問題を解決するために新しい取り組み方（アプローチ）が必要だ。",
+              "highlight": "approach"
+            }
+          ]
+        },
+        {
+          "title": "「接近」の例文",
+          "examples": [
+            {
+              "en": "The train slowed down as it approached the station.",
+              "ja": "駅に近づくにつれて電車は速度を落とした。",
+              "highlight": "approached"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～へ) + prope (近く)",
+      "synonyms": [
+        {"word": "method", "trans": "方法"},
+        {"word": "strategy", "trans": "戦略"},
+        {"word": "near", "trans": "近づく"}
+      ],
+      "antonyms": [
+        {"word": "retreat", "trans": "後退"},
+        {"word": "withdrawal", "trans": "撤退"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11160,
+      "word": "resolve",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①～を解決する ②～することを決心する 【名】決意",
+      "nuance": "複雑な問題を分解してスッキリ解決すること。また、強い意志を持って「決める」ことも指します。",
+      "example_sections": [
+        {
+          "title": "「解決する」の例文",
+          "examples": [
+            {
+              "en": "The dispute was finally resolved after long negotiations.",
+              "ja": "長い交渉の末、その紛争はついに解決された。",
+              "highlight": "resolved"
+            }
+          ]
+        },
+        {
+          "title": "「決心する」の例文",
+          "examples": [
+            {
+              "en": "He resolved to quit smoking for good.",
+              "ja": "彼は二度とタバコを吸わないと決心した。",
+              "highlight": "resolved"
+            }
+          ]
+        }
+      ],
+      "etymology": "re (強調) + solvere (解く)",
+      "synonyms": [
+        {"word": "solve", "trans": "解く、解決する"},
+        {"word": "settle", "trans": "決着させる"},
+        {"word": "determine", "trans": "決定する"}
+      ],
+      "antonyms": [
+        {"word": "hesitate", "trans": "ためらう"},
+        {"word": "vacillate", "trans": "揺らぐ"}
+      ],
+      "related": [
+        {"word": "resolution", "trans": "名詞：決議、解決、決意"}
+      ]
+    },
+    {
+      "number": 11161,
+      "word": "settle",
+      "pos": "動詞",
+      "meaning": "【他】①（紛争など）を解決する、決着させる ②～を置く 【自】定住する、落ち着く",
+      "nuance": "バラバラだったものをある場所に落ち着かせるイメージ。紛争を「落ち着かせる（解決）」、一箇所に「落ち着く（定住）」など。",
+      "example_sections": [
+        {
+          "title": "「解決・決着」の例文",
+          "examples": [
+            {
+              "en": "It's time to settle the argument.",
+              "ja": "その議論に決着をつける（解決する）時だ。",
+              "highlight": "settle"
+            },
+            {
+              "en": "They settled on a price for the car.",
+              "ja": "彼らは車の価格を決めた（で合意した）。",
+              "highlight": "settled"
+            }
+          ]
+        },
+        {
+          "title": "「定住・落ち着く」の例文",
+          "examples": [
+            {
+              "en": "Many immigrants settled in California.",
+              "ja": "多くの移民がカリフォルニアに定住した。",
+              "highlight": "settled"
+            },
+            {
+              "en": "The dust finally settled.",
+              "ja": "ついに埃が収まった（落ち着いた）。",
+              "highlight": "settled"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（座席、落ち着く場所）",
+      "synonyms": [
+        {"word": "resolve", "trans": "解決する"},
+        {"word": "establish", "trans": "確立する"},
+        {"word": "decide", "trans": "決める"}
+      ],
+      "antonyms": [
+        {"word": "unsettle", "trans": "動揺させる"},
+        {"word": "move", "trans": "動く"}
+      ],
+      "related": [
+        {"word": "settlement", "trans": "名詞：解決、定住地"},
+        {"word": "settler", "trans": "名詞：開拓者、定住者"}
+      ]
+    },
+    {
+      "number": 11162,
+      "word": "warn",
+      "pos": "動詞",
+      "meaning": "～に警告する、注意を与える",
+      "nuance": "将来起こりうる危険や、してはいけないことについて事前に伝えることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The signs warn drivers of the sharp curve ahead.",
+              "ja": "標識が運転手にこの先の急カーブを警告している。",
+              "highlight": "warn"
+            },
+            {
+              "en": "I warned you not to touch that stove.",
+              "ja": "そのストーブに触らないよう注意したはずだ。",
+              "highlight": "warned"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（注意する、守る）",
+      "synonyms": [
+        {"word": "caution", "trans": "用心させる"},
+        {"word": "alert", "trans": "警告する、知らせる"},
+        {"word": "admonish", "trans": "訓戒する"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "warning", "trans": "名詞：警告"}
+      ]
+    },
+    {
+      "number": 11163,
+      "word": "force",
+      "pos": "動詞、名詞",
+      "meaning": "【他】～に（無理やり）強いる 【名】力、武力、軍隊",
+      "nuance": "本人の意志に反して、力ずくで何かをさせること。名詞では物理的な「力」だけでなく、「軍の部隊」も指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "They were forced to evacuate due to the flood.",
+              "ja": "彼らは洪水のために避難を強いられた。",
+              "highlight": "forced"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The police used force to break up the protest.",
+              "ja": "警察は抗議活動を解散させるために武力（行使）を用いた。",
+              "highlight": "force"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 fortis（強い）",
+      "synonyms": [
+        {"word": "compel", "trans": "強制する"},
+        {"word": "oblige", "trans": "義務付ける"},
+        {"word": "power", "trans": "力"}
+      ],
+      "antonyms": [
+        {"word": "persuade", "trans": "説得する"},
+        {"word": "weakness", "trans": "弱さ"}
+      ],
+      "related": [
+        {"word": "forceful", "trans": "形容詞：力強い"},
+        {"word": "enforce", "trans": "動詞：施行する"}
+      ]
+    },
+    {
+      "number": 11164,
+      "word": "boost",
+      "pos": "動詞、名詞",
+      "meaning": "【他】～を促進させる、増大させる、押し上げる 【名】励まし、上昇",
+      "nuance": "下からグイッと押し上げて、勢いをつけるイメージです。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The ad campaign helped boost sales significantly.",
+              "ja": "広告キャンペーンが売上を大幅に伸ばす（促進させる）のに役立った。",
+              "highlight": "boost"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The good news gave his confidence a boost.",
+              "ja": "その良い知らせは彼の自信を後押しした（高めた）。",
+              "highlight": "boost"
+            }
+          ]
+        }
+      ],
+      "etymology": "不詳（19世紀のアメリカ英語）",
+      "synonyms": [
+        {"word": "increase", "trans": "増やす"},
+        {"word": "promote", "trans": "促進する"},
+        {"word": "enhance", "trans": "高める"}
+      ],
+      "antonyms": [
+        {"word": "decrease", "trans": "減らす"},
+        {"word": "hinder", "trans": "妨げる"},
+        {"word": "curb", "trans": "抑制する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11165,
+      "word": "appeal",
+      "pos": "動詞、名詞",
+      "meaning": "【自】①（心・理性に）訴える ②（助けなどを）求める 【名】魅力、訴え、上訴",
+      "nuance": "相手に何かを強く働きかけること。感情的に「惹きつける（魅力）」場合と、公的に「要請する」場合があります。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The charity appealed for donations for the victims.",
+              "ja": "その慈善団体は犠牲者への寄付を呼びかけた（訴えた）。",
+              "highlight": "appealed"
+            },
+            {
+              "en": "The video game appeals to players of all ages.",
+              "ja": "そのビデオゲームはあらゆる年齢層のプレイヤーを惹きつける（に訴える魅力がある）。",
+              "highlight": "appeals"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "Fast food has a lot of appeal for teenagers.",
+              "ja": "ファストフードは10代に大きな魅力がある。",
+              "highlight": "appeal"
+            }
+          ]
+        }
+      ],
+      "etymology": "ad (～へ) + pellere (駆り立てる)",
+      "synonyms": [
+        {"word": "attract", "trans": "惹きつける"},
+        {"word": "plead", "trans": "嘆願する"},
+        {"word": "charm", "trans": "魅力"}
+      ],
+      "antonyms": [
+        {"word": "repel", "trans": "不快にする、追い払う"}
+      ],
+      "related": [
+        {"word": "appealing", "trans": "形容詞：魅力的な"}
+      ]
+    },
+    {
+      "number": 11166,
+      "word": "leap",
+      "pos": "動詞、名詞",
+      "meaning": "【自】跳ぶ、跳ねる 【名】躍進、急増、跳躍",
+      "nuance": "単なる jump よりも、大きく高く、あるいは長距離を跳ぶイメージ。比喩的に「大きな進歩」としても使われます。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The cat leaped onto the table.",
+              "ja": "猫がテーブルの上に飛び乗った。",
+              "highlight": "leaped"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "It was a giant leap for mankind.",
+              "ja": "それは人類にとっての大きな飛躍（躍進）だった。",
+              "highlight": "leap"
+            },
+            {
+              "en": "There was a leap in oil prices last month.",
+              "ja": "先月、原油価格の急騰（急増）があった。",
+              "highlight": "leap"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（走る、跳ぶ）",
+      "synonyms": [
+        {"word": "jump", "trans": "跳ぶ"},
+        {"word": "bound", "trans": "弾む、跳ねる"},
+        {"word": "surge", "trans": "急増する"}
+      ],
+      "antonyms": [
+        {"word": "plummet", "trans": "急落する"},
+        {"word": "crawl", "trans": "這う"}
+      ],
+      "related": [
+        {"word": "leap year", "trans": "名詞：うるう年"}
+      ]
     }
   ]
 }
