@@ -4,7 +4,7 @@ from collections import defaultdict
 from config import CHAPTER_MAP
 
 # ==========================================
-# 2. 補助関数
+# 1. 補助関数
 # ==========================================
 def natural_sort_key(filename):
     parts = re.split(r'(\d+)', filename)
@@ -35,7 +35,7 @@ def get_japanese_meaning(filepath):
     return ""
 
 # ==========================================
-# 3. メイン処理
+# 2. メイン処理
 # ==========================================
 def generate_index():
     word_dir = "data"
