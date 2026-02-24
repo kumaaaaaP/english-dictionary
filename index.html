@@ -8,8 +8,30 @@
         :root { --primary-color: #007bff; --chapter-color: #6c757d; --bg-color: #f4f7f9; }
         body { font-family: sans-serif; background-color: var(--bg-color); margin: 0; padding: 20px; display: flex; flex-direction: column; align-items: center; }
         .container { width: 100%; max-width: 800px; }
-        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 20px; }
+        h1 { color: var(--primary-color); text-align: center; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; margin-bottom: 15px; }
         
+        /* 演習ページへのボタンリンク */
+        .exercise-link {
+            display: block;
+            width: fit-content;
+            margin: 0 auto 30px;
+            padding: 12px 40px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: 0.3s;
+            border: none;
+        }
+        .exercise-link:hover {
+            background-color: #218838;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+
         /* 目次 (TOC) 改良 */
         .toc { background: white; padding: 20px; border-radius: 10px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .toc-group { margin-bottom: 15px; }
@@ -48,6 +70,9 @@
 <body>
 <div class="container">
     <h1>英単語辞書 データベース</h1>
+
+    <a href="exercise.html" class="exercise-link">📝 演習（クイズ）を始める</a>
+
     <nav class="toc">
         <div class="toc-group">
             <div class="toc-group-title">速読英単語</div>
@@ -1129,6 +1154,40 @@
         <li class="word-item"><a href="data/4966-prosecute.html"><span class="word-id">4966</span><span class="word-name">prosecute</span><span class="word-meaning">起訴する、告発する、遂行する</span></a></li>
         <li class="word-item"><a href="data/4969-swear.html"><span class="word-id">4969</span><span class="word-name">swear</span><span class="word-meaning">【動】誓う、ののしる、断言する 【名】誓い、悪口</span></a></li>
         <li class="word-item"><a href="data/4971-bid.html"><span class="word-id">4971</span><span class="word-name">bid</span><span class="word-meaning">【動】命ずる、値を付ける、挨拶を述べる 【名】入札、努力</span></a></li>
+        <li class="chapter-header" id="chapter-11101">【LEAP】1101〜1200</li>
+        <li class="word-item"><a href="data/11101-labor.html"><span class="word-id">11101</span><span class="word-name">labor</span><span class="word-meaning">【名】①労働 ②労働者 ③努力、陣痛 【自】働く、苦労する</span></a></li>
+        <li class="word-item"><a href="data/11102-overwork.html"><span class="word-id">11102</span><span class="word-name">overwork</span><span class="word-meaning">【自】働きすぎる 【他】～を働かせすぎる 【名】過労</span></a></li>
+        <li class="word-item"><a href="data/11103-firm.html"><span class="word-id">11103</span><span class="word-name">firm</span><span class="word-meaning">【名】会社 【形】①固い ②（信念などが）揺るぎない ③引き締まった</span></a></li>
+        <li class="word-item"><a href="data/11104-union.html"><span class="word-id">11104</span><span class="word-name">union</span><span class="word-meaning">①労働組合 ②合併、結合 ③連邦</span></a></li>
+        <li class="word-item"><a href="data/11105-administration.html"><span class="word-id">11105</span><span class="word-name">administration</span><span class="word-meaning">①経営、運営 ②行政 ③政権</span></a></li>
+        <li class="word-item"><a href="data/11106-secretary.html"><span class="word-id">11106</span><span class="word-name">secretary</span><span class="word-meaning">①秘書 ②（各省の）長官、事務局長</span></a></li>
+        <li class="word-item"><a href="data/11107-editor.html"><span class="word-id">11107</span><span class="word-name">editor</span><span class="word-meaning">編集長、編集者</span></a></li>
+        <li class="word-item"><a href="data/11108-client.html"><span class="word-id">11108</span><span class="word-name">client</span><span class="word-meaning">①依頼人 ②（サービス業の）取引先</span></a></li>
+        <li class="word-item"><a href="data/11109-colleague.html"><span class="word-id">11109</span><span class="word-name">colleague</span><span class="word-meaning">（仕事の）同僚</span></a></li>
+        <li class="word-item"><a href="data/11110-basis.html"><span class="word-id">11110</span><span class="word-name">basis</span><span class="word-meaning">①基礎、根拠 ②基準</span></a></li>
+        <li class="word-item"><a href="data/11111-element.html"><span class="word-id">11111</span><span class="word-name">element</span><span class="word-meaning">①要素、元素 ②自然の力、悪天候 ③少しの～</span></a></li>
+        <li class="word-item"><a href="data/11112-constitute.html"><span class="word-id">11112</span><span class="word-name">constitute</span><span class="word-meaning">①～を構成する ②～である</span></a></li>
+        <li class="word-item"><a href="data/11113-unify.html"><span class="word-id">11113</span><span class="word-name">unify</span><span class="word-meaning">～を統一する、一体化させる</span></a></li>
+        <li class="word-item"><a href="data/11114-unite.html"><span class="word-id">11114</span><span class="word-name">unite</span><span class="word-meaning">【自】団結する 【他】～を団結させる</span></a></li>
+        <li class="word-item"><a href="data/11115-combine.html"><span class="word-id">11115</span><span class="word-name">combine</span><span class="word-meaning">【他】結びつける、同時に行う 【自】結びつく</span></a></li>
+        <li class="word-item"><a href="data/11116-murder.html"><span class="word-id">11116</span><span class="word-name">murder</span><span class="word-meaning">【名】殺人 【他】～を殺害する</span></a></li>
+        <li class="word-item"><a href="data/11117-arrest.html"><span class="word-id">11117</span><span class="word-name">arrest</span><span class="word-meaning">【他】①～を逮捕する ②～を止める 【名】逮捕</span></a></li>
+        <li class="word-item"><a href="data/11118-prison.html"><span class="word-id">11118</span><span class="word-name">prison</span><span class="word-meaning">刑務所</span></a></li>
+        <li class="word-item"><a href="data/11119-vice.html"><span class="word-id">11119</span><span class="word-name">vice</span><span class="word-meaning">【名】①犯罪、悪徳 ②（麻薬・売春などの）違法行為 【形】副～</span></a></li>
+        <li class="word-item"><a href="data/11120-witness.html"><span class="word-id">11120</span><span class="word-name">witness</span><span class="word-meaning">【名】目撃者、証人、証言 【他】～を目撃する</span></a></li>
+        <li class="word-item"><a href="data/11121-conflict.html"><span class="word-id">11121</span><span class="word-name">conflict</span><span class="word-meaning">【名】対立、紛争、葛藤 【自】矛盾する、争う</span></a></li>
+        <li class="word-item"><a href="data/11122-bullet.html"><span class="word-id">11122</span><span class="word-name">bullet</span><span class="word-meaning">弾丸</span></a></li>
+        <li class="word-item"><a href="data/11123-wound.html"><span class="word-id">11123</span><span class="word-name">wound</span><span class="word-meaning">【名】傷 【他】～を傷つける</span></a></li>
+        <li class="word-item"><a href="data/11124-triumph.html"><span class="word-id">11124</span><span class="word-name">triumph</span><span class="word-meaning">【名】勝利 【自】勝利する</span></a></li>
+        <li class="word-item"><a href="data/11125-military.html"><span class="word-id">11125</span><span class="word-name">military</span><span class="word-meaning">【形】軍事的な 【名】（the ～）軍隊、軍部</span></a></li>
+        <li class="word-item"><a href="data/11126-strategy.html"><span class="word-id">11126</span><span class="word-name">strategy</span><span class="word-meaning">戦略</span></a></li>
+        <li class="word-item"><a href="data/11127-conquer.html"><span class="word-id">11127</span><span class="word-name">conquer</span><span class="word-meaning">①～を征服する ②（恐怖などを）克服する</span></a></li>
+        <li class="word-item"><a href="data/11128-defend.html"><span class="word-id">11128</span><span class="word-name">defend</span><span class="word-meaning">～を守る、防御する、弁護する</span></a></li>
+        <li class="word-item"><a href="data/11129-quarrel.html"><span class="word-id">11129</span><span class="word-name">quarrel</span><span class="word-meaning">【自】口論する 【名】口論</span></a></li>
+        <li class="word-item"><a href="data/11130-rob.html"><span class="word-id">11130</span><span class="word-name">rob</span><span class="word-meaning">①～を襲う ②（A of B）AからBを奪う</span></a></li>
+        <li class="word-item"><a href="data/11131-deprive.html"><span class="word-id">11131</span><span class="word-name">deprive</span><span class="word-meaning">（A of B）AからBを（不当に）奪う</span></a></li>
+        <li class="word-item"><a href="data/11132-devastate.html"><span class="word-id">11132</span><span class="word-name">devastate</span><span class="word-meaning">①～を壊滅させる ②～を打ちのめす</span></a></li>
+        <li class="word-item"><a href="data/11133-hazard.html"><span class="word-id">11133</span><span class="word-name">hazard</span><span class="word-meaning">危険（になり得るもの）</span></a></li>
         <li class="chapter-header" id="chapter-11201">【LEAP】1201〜1300</li>
         <li class="word-item"><a href="data/11201-insight.html"><span class="word-id">11201</span><span class="word-name">insight</span><span class="word-meaning">①（into ～）（～に対する）洞察（力） ②見識</span></a></li>
         <li class="word-item"><a href="data/11202-outlook.html"><span class="word-id">11202</span><span class="word-name">outlook</span><span class="word-meaning">①（人生などへの）考え方 ②（経済などの）見通し</span></a></li>
