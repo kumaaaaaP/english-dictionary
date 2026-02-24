@@ -51,6 +51,12 @@ jobs:
         run: |
           python build_index.py
           echo "✅ index.html updated"
+
+      # 【追加】 5.5. exercise.htmlを更新（generate_exercise.py を使用）
+      - name: Update exercise.html
+        run: |
+          python generate_exercise.py
+          echo "✅ exercise.html updated"
       
       # 6. 変更があるかチェック
       - name: Check for changes
@@ -60,11 +66,11 @@ jobs:
           git status
           echo ""
           
-          # 新規ファイルと変更ファイルをチェック
-          if [ -n "$(git status --porcelain data/ index.html)" ]; then
+          # 新規ファイルと変更ファイルをチェック（exercise.html を監視対象に追加）
+          if [ -n "$(git status --porcelain data/ index.html exercise.html)" ]; then
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "✅ Changes detected:"
-            git status --porcelain data/ index.html
+            git status --porcelain data/ index.html exercise.html
           else
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "ℹ️ No changes detected"
@@ -75,7 +81,8 @@ jobs:
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           echo "📦 Adding files to git..."
-          git add data/*.html index.html
+          # exercise.html を追加
+          git add data/*.html index.html exercise.html
           
           echo "📋 Files to be committed:"
           git status --short
@@ -83,7 +90,7 @@ jobs:
           echo "💾 Committing changes..."
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "🤖 Auto-generate vocabulary HTML files and update index [skip ci]"
+          git commit -m "🤖 Auto-generate vocabulary HTML files, update index and exercise [skip ci]"
           
           echo "🚀 Pushing changes..."
           git push
@@ -106,5 +113,6 @@ jobs:
           echo "### Generated Files" >> $GITHUB_STEP_SUMMARY
           total=$(ls -1 data/*.html 2>/dev/null | wc -l)
           echo "- Total: **$total HTML files** in \`data/\` directory" >> $GITHUB_STEP_SUMMARY
+          echo "- **exercise.html** generated/updated" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "✅ \`index.html\` updated with all vocabulary entries" >> $GITHUB_STEP_SUMMARY
+          echo "✅ \`index.html\` and \`exercise.html\` updated" >> $GITHUB_STEP_SUMMARY
