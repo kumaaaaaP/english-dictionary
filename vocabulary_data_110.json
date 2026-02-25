@@ -432,6 +432,426 @@
         {"word": "demonstration", "trans": "名詞：実演、デモ"},
         {"word": "monster", "trans": "名詞：怪物（語源が同じ monstrare）"}
       ]
+    },
+
+    {
+      "number": 11011,
+      "word": "highlight",
+      "pos": "動詞・名詞",
+      "meaning": "①〜を強調する ②呼び物、目玉、ハイライト",
+      "nuance": "重要な部分を目立たせる、強調する意味。名詞では「最も良い部分」「見どころ」。",
+      "example_sections": [
+        {
+          "title": "例文（動詞）",
+          "examples": [
+            {
+              "en": "The report highlights the need for better safety measures.",
+              "ja": "その報告書はより良い安全対策の必要性を強調している。",
+              "highlight": "highlights"
+            },
+            {
+              "en": "She highlighted the key points in the presentation.",
+              "ja": "彼女はプレゼンの重要点を強調した。",
+              "highlight": "highlighted"
+            }
+          ]
+        },
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "The highlight of the trip was visiting the ancient ruins.",
+              "ja": "旅行のハイライトは古代遺跡を訪れたことだった。",
+              "highlight": "highlight"
+            }
+          ]
+        }
+      ],
+      "etymology": "high（高い）＋ light（光）→ 光を当てて目立たせる",
+      "synonyms": [
+        {"word": "emphasize", "trans": "強調する"},
+        {"word": "underline", "trans": "下線を引く、強調する"},
+        {"word": "feature", "trans": "目玉にする"}
+      ],
+      "antonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "downplay", "trans": "軽視する"}
+      ],
+      "related": [
+        {"word": "spotlight", "trans": "名詞：スポットライト、注目"},
+        {"word": "highlighter", "trans": "名詞：蛍光ペン"}
+      ]
+    },
+
+    {
+      "number": 11012,
+      "word": "imply",
+      "pos": "動詞",
+      "meaning": "（暗に）〜を意味する、ほのめかす",
+      "nuance": "直接言わずに、言外に意味を含ませるニュアンス。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "His tone implied that he was not satisfied.",
+              "ja": "彼の口調は満足していないことを暗に示していた。",
+              "highlight": "implied"
+            },
+            {
+              "en": "Are you implying that I made a mistake?",
+              "ja": "私が間違えたとほのめかしているのですか？",
+              "highlight": "implying"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）＋ ply（折り重ねる）→ 言葉の中に意味を折り込む",
+      "synonyms": [
+        {"word": "suggest", "trans": "示唆する"},
+        {"word": "hint", "trans": "ほのめかす"},
+        {"word": "indicate", "trans": "示す"}
+      ],
+      "antonyms": [
+        {"word": "state", "trans": "明言する"},
+        {"word": "declare", "trans": "宣言する"}
+      ],
+      "related": [
+        {"word": "implication", "trans": "名詞：含意、暗示"},
+        {"word": "implicit", "trans": "形容詞：暗黙の"}
+      ]
+    },
+
+    {
+      "number": 11013,
+      "word": "recite",
+      "pos": "動詞",
+      "meaning": "〜を暗唱する、朗読する",
+      "nuance": "記憶した内容を声に出して言う、または詩などを朗読する。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She recited the poem from memory.",
+              "ja": "彼女はその詩を暗唱した。",
+              "highlight": "recited"
+            },
+            {
+              "en": "The students were asked to recite the speech.",
+              "ja": "生徒たちはそのスピーチを暗唱するよう求められた。",
+              "highlight": "recite"
+            }
+          ]
+        }
+      ],
+      "etymology": "re（再び）＋ citare（呼ぶ）→ 呼び戻す → 暗唱する",
+      "synonyms": [
+        {"word": "repeat", "trans": "繰り返す"},
+        {"word": "chant", "trans": "詠唱する"},
+        {"word": "read aloud", "trans": "朗読する"}
+      ],
+      "antonyms": [
+        {"word": "forget", "trans": "忘れる"},
+        {"word": "mumble", "trans": "つぶやく（はっきり言わない）"}
+      ],
+      "related": [
+        {"word": "recital", "trans": "名詞：独奏会、朗読会"},
+        {"word": "citation", "trans": "名詞：引用、表彰"}
+      ]
+    },
+
+    {
+      "number": 11014,
+      "word": "ray",
+      "pos": "名詞",
+      "meaning": "①光線 ②放射線 ③（a ray of）一縷の、わずかな",
+      "nuance": "光の筋や放射線を指す。比喩的に「希望の光」などにも使われる。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A ray of sunlight came through the window.",
+              "ja": "一筋の太陽光が窓から差し込んだ。",
+              "highlight": "ray"
+            },
+            {
+              "en": "The doctor warned about exposure to X-rays.",
+              "ja": "医者はX線への曝露について警告した。",
+              "highlight": "X-rays"
+            },
+            {
+              "en": "Her smile gave me a ray of hope.",
+              "ja": "彼女の笑顔は私に一縷の希望を与えた。",
+              "highlight": "ray of hope"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 radius（光線、棒）",
+      "synonyms": [
+        {"word": "beam", "trans": "光線"},
+        {"word": "shine", "trans": "光"},
+        {"word": "radiation", "trans": "放射線"}
+      ],
+      "antonyms": [
+        {"word": "darkness", "trans": "暗闇"},
+        {"word": "shadow", "trans": "影"}
+      ],
+      "related": [
+        {"word": "rayon", "trans": "名詞：レーヨン（語源が同じ）"},
+        {"word": "radiate", "trans": "動詞：放射する"}
+      ]
+    },
+
+    {
+      "number": 11015,
+      "word": "radiation",
+      "pos": "名詞",
+      "meaning": "放射線、放射",
+      "nuance": "エネルギーが波や粒子として放出される現象。医学・物理学でよく使われる。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The workers were exposed to high levels of radiation.",
+              "ja": "作業員たちは高レベルの放射線に曝露した。",
+              "highlight": "radiation"
+            },
+            {
+              "en": "Radiation therapy is used to treat cancer.",
+              "ja": "放射線治療はがんの治療に用いられる。",
+              "highlight": "Radiation"
+            }
+          ]
+        }
+      ],
+      "etymology": "radiate（放射する）＋ -ion（名詞語尾）",
+      "synonyms": [
+        {"word": "emission", "trans": "放出"},
+        {"word": "irradiation", "trans": "照射"},
+        {"word": "radioactivity", "trans": "放射能"}
+      ],
+      "antonyms": [
+        {"word": "absorption", "trans": "吸収"},
+        {"word": "shielding", "trans": "遮蔽"}
+      ],
+      "related": [
+        {"word": "radiate", "trans": "動詞：放射する"},
+        {"word": "radioactive", "trans": "形容詞：放射性の"}
+      ]
+    },
+
+    {
+      "number": 11016,
+      "word": "laboratory",
+      "pos": "名詞",
+      "meaning": "研究室、研究所",
+      "nuance": "科学実験や研究が行われる場所。略して “lab” とも言う。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She works in a biology laboratory.",
+              "ja": "彼女は生物学の研究室で働いている。",
+              "highlight": "laboratory"
+            },
+            {
+              "en": "The experiment was conducted in the university lab.",
+              "ja": "その実験は大学のラボで行われた。",
+              "highlight": "lab"
+            }
+          ]
+        }
+      ],
+      "etymology": "labor（働く）＋ -atory（場所）→ 研究する場所",
+      "synonyms": [
+        {"word": "lab", "trans": "研究室"},
+        {"word": "research center", "trans": "研究センター"},
+        {"word": "testing facility", "trans": "試験施設"}
+      ],
+      "antonyms": [
+        {"word": "field", "trans": "現場"},
+        {"word": "office", "trans": "オフィス"}
+      ],
+      "related": [
+        {"word": "laboratory technician", "trans": "名詞：研究技師"},
+        {"word": "collaborate", "trans": "動詞：協力する（語源が labor）"}
+      ]
+    },
+
+    {
+      "number": 11017,
+      "word": "oxygen",
+      "pos": "名詞",
+      "meaning": "酸素",
+      "nuance": "生命維持に不可欠な気体。化学記号 O。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Humans need oxygen to survive.",
+              "ja": "人間は生きるために酸素を必要とする。",
+              "highlight": "oxygen"
+            },
+            {
+              "en": "The plant releases oxygen during photosynthesis.",
+              "ja": "植物は光合成の過程で酸素を放出する。",
+              "highlight": "oxygen"
+            }
+          ]
+        }
+      ],
+      "etymology": "oxy（酸）＋ gen（生む）→ 酸を生むもの（古い誤解に基づく命名）",
+      "synonyms": [
+        {"word": "air", "trans": "空気（含まれる成分として）"},
+        {"word": "O2", "trans": "酸素分子"},
+        {"word": "oxidizer", "trans": "酸化剤"}
+      ],
+      "antonyms": [
+        {"word": "carbon dioxide", "trans": "二酸化炭素"},
+        {"word": "vacuum", "trans": "真空"}
+      ],
+      "related": [
+        {"word": "oxidation", "trans": "名詞：酸化"},
+        {"word": "oxide", "trans": "名詞：酸化物"}
+      ]
+    },
+
+    {
+      "number": 11018,
+      "word": "molecule",
+      "pos": "名詞",
+      "meaning": "分子",
+      "nuance": "物質を構成する最小単位の一つ。原子が結合してできる。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+              "ja": "水分子は2つの水素原子と1つの酸素原子から成る。",
+              "highlight": "molecule"
+            },
+            {
+              "en": "The scientist studied the structure of the molecule.",
+              "ja": "科学者はその分子の構造を研究した。",
+              "highlight": "molecule"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 molecula（小さな塊）",
+      "synonyms": [
+        {"word": "particle", "trans": "粒子"},
+        {"word": "compound", "trans": "化合物"},
+        {"word": "atom group", "trans": "原子団"}
+      ],
+      "antonyms": [
+        {"word": "atom", "trans": "原子（分子より小さい）"},
+        {"word": "ion", "trans": "イオン"}
+      ],
+      "related": [
+        {"word": "molecular", "trans": "形容詞：分子の"},
+        {"word": "macromolecule", "trans": "名詞：高分子"}
+      ]
+    },
+
+    {
+      "number": 11019,
+      "word": "compound",
+      "pos": "名詞・形容詞",
+      "meaning": "①化合物 ②複合的な",
+      "nuance": "名詞では化学物質、形容詞では複数の要素が組み合わさったもの。",
+      "example_sections": [
+        {
+          "title": "例文（名詞）",
+          "examples": [
+            {
+              "en": "Salt is a compound of sodium and chlorine.",
+              "ja": "塩はナトリウムと塩素の化合物である。",
+              "highlight": "compound"
+            }
+          ]
+        },
+        {
+          "title": "例文（形容詞）",
+          "examples": [
+            {
+              "en": "The problem is a compound issue involving several factors.",
+              "ja": "その問題は複数の要因が絡む複合的な問題だ。",
+              "highlight": "compound"
+            }
+          ]
+        }
+      ],
+      "etymology": "com（共に）＋ ponere（置く）→ 一緒に置く → 組み合わせる",
+      "synonyms": [
+        {"word": "mixture", "trans": "混合物"},
+        {"word": "blend", "trans": "混合する"},
+        {"word": "complex", "trans": "複合の"}
+      ],
+      "antonyms": [
+        {"word": "element", "trans": "元素"},
+        {"word": "simple", "trans": "単純な"}
+      ],
+      "related": [
+        {"word": "component", "trans": "名詞：構成要素"},
+        {"word": "composition", "trans": "名詞：構成"}
+      ]
+    },
+
+    {
+      "number": 11020,
+      "word": "tissue",
+      "pos": "名詞",
+      "meaning": "①組織 ②ティッシュペーパー",
+      "nuance": "生物学の「組織」と、日常の「ティッシュ」の両方を指す。",
+      "example_sections": [
+        {
+          "title": "例文（組織）",
+          "examples": [
+            {
+              "en": "Muscle tissue helps the body move.",
+              "ja": "筋組織は体を動かすのに役立つ。",
+              "highlight": "tissue"
+            },
+            {
+              "en": "The doctor examined the damaged tissue.",
+              "ja": "医者は損傷した組織を調べた。",
+              "highlight": "tissue"
+            }
+          ]
+        },
+        {
+          "title": "例文（ティッシュ）",
+          "examples": [
+            {
+              "en": "She handed me a tissue when I sneezed.",
+              "ja": "彼女は私がくしゃみをしたときティッシュを渡してくれた。",
+              "highlight": "tissue"
+            }
+          ]
+        }
+      ],
+      "etymology": "フランス語 tissu（織られたもの）→ 組織・紙",
+      "synonyms": [
+        {"word": "fiber", "trans": "繊維"},
+        {"word": "material", "trans": "素材"},
+        {"word": "napkin", "trans": "紙ナプキン（ティッシュの類）"}
+      ],
+      "antonyms": [
+        {"word": "organ", "trans": "器官（組織より大きい）"},
+        {"word": "solid block", "trans": "固まり（組織の対概念）"}
+      ],
+      "related": [
+        {"word": "connective tissue", "trans": "名詞：結合組織"},
+        {"word": "tissue paper", "trans": "名詞：薄紙、ティッシュ"}
+      ]
     }
   ]
 }
