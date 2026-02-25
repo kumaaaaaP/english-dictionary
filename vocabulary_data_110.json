@@ -2279,6 +2279,1501 @@
         { "word": "code", "trans": "名詞：規範" },
         { "word": "humanity", "trans": "名詞：人類" }
       ]
+    },
+    {
+      "number": 11061,
+      "word": "justice",
+      "pos": "名詞",
+      "meaning": "正義",
+      "nuance": "道徳的・法的に「正しいこと」「公平であること」を指します。「social justice（社会正義）」「justice system（司法制度）」「bring to justice（裁きにかける）」など幅広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The victims demanded justice for the crimes committed against them.", "ja": "被害者たちは自分たちに対して犯された犯罪への正義を求めた。", "highlight": "justice" },
+            { "en": "The judge worked tirelessly to uphold justice in the courtroom.", "ja": "裁判官は法廷で正義を守るために精力的に働いた。", "highlight": "justice" },
+            { "en": "Social justice requires equal opportunities for all citizens.", "ja": "社会正義はすべての市民に平等な機会を要求する。", "highlight": "justice" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 justitia（公正さ）← justus（正しい）",
+      "synonyms": [
+        { "word": "fairness", "trans": "公平さ" },
+        { "word": "equity", "trans": "公正、衡平" },
+        { "word": "righteousness", "trans": "正義、公正" }
+      ],
+      "antonyms": [
+        { "word": "injustice", "trans": "不正義、不公平" },
+        { "word": "unfairness", "trans": "不公平" },
+        { "word": "oppression", "trans": "抑圧" }
+      ],
+      "related": [
+        { "word": "just", "trans": "形容詞：公正な" },
+        { "word": "justify", "trans": "動詞：正当化する" },
+        { "word": "liberty", "trans": "名詞：自由" },
+        { "word": "authority", "trans": "名詞：権威、権力" },
+        { "word": "reform", "trans": "名詞：改革" }
+      ]
+    },
+    {
+      "number": 11062,
+      "word": "insurance",
+      "pos": "名詞",
+      "meaning": "保険〈不可算〉",
+      "nuance": "リスクに備えて保険会社に掛け金を払い、損害・事故・病気などの際に補償を受ける制度。「health insurance（健康保険）」「life insurance（生命保険）」「car insurance（自動車保険）」が頻出。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "He took out health insurance to cover medical expenses.", "ja": "彼は医療費をカバーするために健康保険に加入した。", "highlight": "insurance" },
+            { "en": "Life insurance provides financial security for your family after your death.", "ja": "生命保険は死後、家族に経済的な安心を提供する。", "highlight": "insurance" },
+            { "en": "The company requires all employees to have car insurance.", "ja": "その会社はすべての従業員に自動車保険の加入を求めている。", "highlight": "insurance" }
+          ]
+        }
+      ],
+      "etymology": "insure（保証する）+ ance ← ラテン語 securus（安全な）",
+      "synonyms": [
+        { "word": "coverage", "trans": "（保険の）補償範囲" },
+        { "word": "assurance", "trans": "保証、生命保険（英）" },
+        { "word": "protection", "trans": "保護" }
+      ],
+      "antonyms": [
+        { "word": "risk", "trans": "リスク、危険" },
+        { "word": "liability", "trans": "負債、法的責任" }
+      ],
+      "related": [
+        { "word": "insure", "trans": "動詞：保険をかける" },
+        { "word": "policy", "trans": "名詞：保険証書、方針" },
+        { "word": "premium", "trans": "名詞：保険料" },
+        { "word": "fund", "trans": "名詞：資金" },
+        { "word": "security", "trans": "名詞：安全、防衛" }
+      ]
+    },
+    {
+      "number": 11063,
+      "word": "hardship",
+      "pos": "名詞",
+      "meaning": "（主に経済的）苦難",
+      "nuance": "困難な状況・環境によって生じる苦しみや辛さを指します。特に経済的困窮・生活の苦しさに使われることが多いですが、戦争・病気・気候など様々な苦難にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "Many families faced economic hardship during the recession.", "ja": "多くの家族が不況中、経済的苦難に直面した。", "highlight": "hardship" },
+            { "en": "The refugees endured great hardship on their long journey.", "ja": "難民たちは長い旅の途中で大きな苦難に耐えた。", "highlight": "hardship" },
+            { "en": "Despite the hardships of poverty, she attained a university degree.", "ja": "貧困という苦難にもかかわらず、彼女は大学の学位を取得した。", "highlight": "hardships" }
+          ]
+        }
+      ],
+      "etymology": "hard（厳しい）+ ship（状態）→ 厳しい状況",
+      "synonyms": [
+        { "word": "adversity", "trans": "逆境、苦難" },
+        { "word": "privation", "trans": "欠乏、困窮" },
+        { "word": "struggle", "trans": "苦闘" },
+        { "word": "suffering", "trans": "苦しみ" }
+      ],
+      "antonyms": [
+        { "word": "prosperity", "trans": "繁栄" },
+        { "word": "comfort", "trans": "快適さ" },
+        { "word": "affluence", "trans": "豊かさ、富裕" }
+      ],
+      "related": [
+        { "word": "poverty", "trans": "名詞：貧困" },
+        { "word": "chaos", "trans": "名詞：混乱" },
+        { "word": "isolation", "trans": "名詞：孤立" },
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "aid", "trans": "名詞：援助" }
+      ]
+    },
+    {
+      "number": 11064,
+      "word": "poverty",
+      "pos": "名詞",
+      "meaning": "貧困〈不可算〉",
+      "nuance": "生活に必要な基本的なものが欠けている状態。「absolute poverty（絶対的貧困）」「poverty line（貧困線）」「cycle of poverty（貧困の連鎖）」など政策・社会問題の文脈で多用されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "Millions of people around the world still live in extreme poverty.", "ja": "世界中で何百万人もの人が依然として極度の貧困の中で生活している。", "highlight": "poverty" },
+            { "en": "Education is often seen as the best way to escape the cycle of poverty.", "ja": "教育はしばしば貧困の連鎖から抜け出す最善の方法と見なされる。", "highlight": "poverty" },
+            { "en": "The government launched a reform to address rising poverty rates.", "ja": "政府は高まる貧困率に対処するために改革を開始した。", "highlight": "poverty" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 paupertas（貧しさ）← pauper（貧しい人）",
+      "synonyms": [
+        { "word": "destitution", "trans": "極貧、窮乏" },
+        { "word": "deprivation", "trans": "剥奪、欠乏" },
+        { "word": "hardship", "trans": "苦難" },
+        { "word": "penury", "trans": "（格式）極貧" }
+      ],
+      "antonyms": [
+        { "word": "wealth", "trans": "富" },
+        { "word": "affluence", "trans": "豊かさ" },
+        { "word": "prosperity", "trans": "繁栄" }
+      ],
+      "related": [
+        { "word": "poor", "trans": "形容詞：貧しい" },
+        { "word": "hardship", "trans": "名詞：苦難" },
+        { "word": "aid", "trans": "名詞：援助" },
+        { "word": "justice", "trans": "名詞：正義" },
+        { "word": "reform", "trans": "名詞：改革" }
+      ]
+    },
+    {
+      "number": 11065,
+      "word": "chaos",
+      "pos": "名詞",
+      "meaning": "大混乱、混沌〈不可算〉",
+      "nuance": "秩序がまったくない状態・極度の混乱を指します。「in chaos（混乱状態に）」「utter chaos（完全な混乱）」が頻出。科学的には「chaos theory（カオス理論）」でも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The city fell into chaos after the earthquake struck.", "ja": "地震が起きた後、街は大混乱に陥った。", "highlight": "chaos" },
+            { "en": "The sudden resignation of the prime minister threw the government into chaos.", "ja": "首相の突然の辞任は政府を混乱に陥れた。", "highlight": "chaos" },
+            { "en": "The classroom was in complete chaos when the teacher was absent.", "ja": "先生がいない間、教室は完全に混乱状態だった。", "highlight": "chaos" }
+          ]
+        }
+      ],
+      "etymology": "ギリシャ語 khaos（虚空、混沌）",
+      "synonyms": [
+        { "word": "disorder", "trans": "無秩序" },
+        { "word": "turmoil", "trans": "騒乱、混乱" },
+        { "word": "mayhem", "trans": "大混乱、騒動" },
+        { "word": "pandemonium", "trans": "大騒乱" }
+      ],
+      "antonyms": [
+        { "word": "order", "trans": "秩序" },
+        { "word": "stability", "trans": "安定" },
+        { "word": "calm", "trans": "静穏" }
+      ],
+      "related": [
+        { "word": "chaotic", "trans": "形容詞：混乱した" },
+        { "word": "isolation", "trans": "名詞：孤立" },
+        { "word": "revolution", "trans": "名詞：革命" },
+        { "word": "security", "trans": "名詞：安全" },
+        { "word": "restore", "trans": "動詞：回復する" }
+      ]
+    },
+    {
+      "number": 11066,
+      "word": "isolation",
+      "pos": "名詞",
+      "meaning": "孤立、分離、孤独感",
+      "nuance": "他者から切り離された状態を指します。医療では「isolation ward（隔離病棟）」、外交では「international isolation（国際的孤立）」、心理的には「feeling of isolation（孤独感）」として多用されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The patient was placed in isolation to prevent the spread of infection.", "ja": "感染拡大を防ぐために患者は隔離された。", "highlight": "isolation" },
+            { "en": "Living alone in a rural area can lead to feelings of isolation.", "ja": "農村地域で一人で暮らすことは孤立感につながることがある。", "highlight": "isolation" },
+            { "en": "Economic sanctions led to the country's international isolation.", "ja": "経済制裁はその国の国際的孤立につながった。", "highlight": "isolation" }
+          ]
+        }
+      ],
+      "etymology": "イタリア語 isola（島）→ 孤立したもの",
+      "synonyms": [
+        { "word": "solitude", "trans": "孤独（一人でいること）" },
+        { "word": "seclusion", "trans": "隔絶、隠遁" },
+        { "word": "separation", "trans": "分離、隔離" },
+        { "word": "quarantine", "trans": "（医療）隔離" }
+      ],
+      "antonyms": [
+        { "word": "integration", "trans": "統合" },
+        { "word": "interaction", "trans": "交流、相互作用" },
+        { "word": "connection", "trans": "つながり" }
+      ],
+      "related": [
+        { "word": "isolate", "trans": "動詞：孤立させる、隔離する" },
+        { "word": "interaction", "trans": "名詞：交流" },
+        { "word": "chaos", "trans": "名詞：混乱" },
+        { "word": "hardship", "trans": "名詞：苦難" },
+        { "word": "security", "trans": "名詞：安全" }
+      ]
+    },
+    {
+      "number": 11067,
+      "word": "interaction",
+      "pos": "名詞",
+      "meaning": "①交流、やりとり ②相互作用",
+      "nuance": "①人と人の間の「コミュニケーション・かかわり合い」。②科学・技術分野では「薬の相互作用（drug interaction）」や「物理的な力の相互作用」を指します。",
+      "example_sections": [
+        {
+          "title": "①交流・やりとり",
+          "examples": [
+            { "en": "Daily interaction with colleagues improves team morale.", "ja": "同僚との日常的な交流はチームの士気を高める。", "highlight": "interaction" },
+            { "en": "Children develop social skills through interaction with their peers.", "ja": "子供たちは仲間との交流を通じて社会的スキルを養う。", "highlight": "interaction" }
+          ]
+        },
+        {
+          "title": "②相互作用",
+          "examples": [
+            { "en": "The doctor checked for any drug interaction before prescribing new medication.", "ja": "医師は新しい薬を処方する前に薬物の相互作用を確認した。", "highlight": "drug interaction" },
+            { "en": "The interaction between genes and environment shapes human behavior.", "ja": "遺伝子と環境の相互作用が人間の行動を形成する。", "highlight": "interaction" }
+          ]
+        }
+      ],
+      "etymology": "inter（互いに）+ action（行動）→ 互いに作用すること",
+      "synonyms": [
+        { "word": "communication", "trans": "コミュニケーション" },
+        { "word": "exchange", "trans": "交流、交換" },
+        { "word": "interplay", "trans": "相互作用" },
+        { "word": "engagement", "trans": "関与、交流" }
+      ],
+      "antonyms": [
+        { "word": "isolation", "trans": "孤立" },
+        { "word": "disconnection", "trans": "切断、没交渉" }
+      ],
+      "related": [
+        { "word": "interact", "trans": "動詞：交流する、相互作用する" },
+        { "word": "cooperate", "trans": "動詞：協力する" },
+        { "word": "negotiate", "trans": "動詞：交渉する" },
+        { "word": "isolation", "trans": "名詞：孤立" }
+      ]
+    },
+    {
+      "number": 11068,
+      "word": "region",
+      "pos": "名詞",
+      "meaning": "地域",
+      "nuance": "地理的・行政的に区切られた「一帯・地方」を指します。国より小さく、都市よりは大きなイメージ。「in the region of（おおよそ〜）」という「大体の数量」を表す慣用表現も重要です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The northern region of the country receives heavy snowfall every winter.", "ja": "その国の北部地域は毎冬大雪が降る。", "highlight": "region" },
+            { "en": "The aid organization operates in conflict regions around the world.", "ja": "その援助団体は世界中の紛争地域で活動している。", "highlight": "regions" },
+            { "en": "The project will cost in the region of five million dollars.", "ja": "そのプロジェクトはおよそ500万ドルかかる見込みだ。", "highlight": "region" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 regio（方向、地域）← regere（支配する）",
+      "synonyms": [
+        { "word": "area", "trans": "地域、区域" },
+        { "word": "zone", "trans": "地帯、区域" },
+        { "word": "district", "trans": "地区" },
+        { "word": "territory", "trans": "領土、地域" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "regional", "trans": "形容詞：地域の" },
+        { "word": "setting", "trans": "名詞：環境、状況" },
+        { "word": "kingdom", "trans": "名詞：王国" },
+        { "word": "empire", "trans": "名詞：帝国" },
+        { "word": "council", "trans": "名詞：議会" }
+      ]
+    },
+    {
+      "number": 11069,
+      "word": "proof",
+      "pos": "名詞・形容詞",
+      "meaning": "①証拠、証明〈不可算〉〔名〕 ②（複合語で）～を防ぐ、～に耐える〔形〕",
+      "nuance": "①何かが真実であることを示す「証拠・立証」（proof of identity: 身分証明）。②「bulletproof（防弾の）」「waterproof（防水の）」「fireproof（耐火の）」など複合語で「〜を防ぐ」という意味になります。",
+      "example_sections": [
+        {
+          "title": "①証拠・証明（名詞）",
+          "examples": [
+            { "en": "The police gathered proof that he had committed the crime.", "ja": "警察は彼が犯罪を犯した証拠を集めた。", "highlight": "proof" },
+            { "en": "You need to provide proof of residence to open a bank account.", "ja": "銀行口座を開設するには居住証明が必要だ。", "highlight": "proof" }
+          ]
+        },
+        {
+          "title": "②～を防ぐ（複合語・形容詞）",
+          "examples": [
+            { "en": "The soldiers wore bulletproof vests during the operation.", "ja": "兵士たちは作戦中、防弾チョッキを着用した。", "highlight": "bulletproof" },
+            { "en": "Make sure the roof is waterproof before the rainy season.", "ja": "雨季の前に屋根が防水であることを確認してください。", "highlight": "waterproof" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 probare（試す、証明する）← probus（良い）",
+      "synonyms": [
+        { "word": "evidence", "trans": "証拠" },
+        { "word": "testimony", "trans": "証言" },
+        { "word": "verification", "trans": "確認、証明" },
+        { "word": "demonstration", "trans": "実証" }
+      ],
+      "antonyms": [
+        { "word": "disproof", "trans": "反証" },
+        { "word": "refutation", "trans": "反論" }
+      ],
+      "related": [
+        { "word": "prove", "trans": "動詞：証明する" },
+        { "word": "principle", "trans": "名詞：原理" },
+        { "word": "contract", "trans": "名詞：契約" },
+        { "word": "authority", "trans": "名詞：権威" }
+      ]
+    },
+    {
+      "number": 11070,
+      "word": "principle",
+      "pos": "名詞",
+      "meaning": "①原理、原則 ②主義、信念",
+      "nuance": "①物事の根本をなす「法則・理論」（the principle of supply and demand: 需要と供給の原理）。②個人の行動規範・道徳的基準（a man of principle: 主義を持つ人）。「principal（主要な）」と混同しないよう注意。",
+      "example_sections": [
+        {
+          "title": "①原理・原則",
+          "examples": [
+            { "en": "The machine works on the principle of electromagnetic induction.", "ja": "その機械は電磁誘導の原理で動く。", "highlight": "principle" },
+            { "en": "Freedom of speech is a fundamental principle of democracy.", "ja": "言論の自由は民主主義の根本原則だ。", "highlight": "principle" }
+          ]
+        },
+        {
+          "title": "②主義・信念",
+          "examples": [
+            { "en": "She refused to sign the contract on principle.", "ja": "彼女は主義に反するとして契約書への署名を断った。", "highlight": "principle" },
+            { "en": "He is a man of strong principles and never compromises his values.", "ja": "彼は強い主義を持つ人で、決して自分の価値観を妥協しない。", "highlight": "principles" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 principium（始まり、根本）← princeps（最初の人）",
+      "synonyms": [
+        { "word": "rule", "trans": "規則、原則" },
+        { "word": "law", "trans": "法則" },
+        { "word": "doctrine", "trans": "教義、主義" },
+        { "word": "conviction", "trans": "信念、確信" }
+      ],
+      "antonyms": [
+        { "word": "exception", "trans": "例外" },
+        { "word": "unprincipled", "trans": "主義のない（形容詞）" }
+      ],
+      "related": [
+        { "word": "origin", "trans": "名詞：起源" },
+        { "word": "proof", "trans": "名詞：証拠" },
+        { "word": "justice", "trans": "名詞：正義" },
+        { "word": "code", "trans": "名詞：規範" }
+      ]
+    },
+    {
+      "number": 11071,
+      "word": "origin",
+      "pos": "名詞",
+      "meaning": "起源",
+      "nuance": "物事・人・言葉などが「始まった出所・由来」を指します。「of humble origin（卑しい出自の）」「country of origin（原産国）」「word origin（語源）」などが頻出表現です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The origin of the word 'justice' can be traced back to Latin.", "ja": "「justice」という単語の起源はラテン語に遡ることができる。", "highlight": "origin" },
+            { "en": "Scientists are still debating the origin of the universe.", "ja": "科学者たちは宇宙の起源についていまだ議論している。", "highlight": "origin" },
+            { "en": "He is proud of his cultural origins.", "ja": "彼は自分の文化的ルーツを誇りに思っている。", "highlight": "origins" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 origo（始まり）← oriri（起きる、始まる）",
+      "synonyms": [
+        { "word": "source", "trans": "源、出所" },
+        { "word": "root", "trans": "根源、起源" },
+        { "word": "beginning", "trans": "始まり" },
+        { "word": "heritage", "trans": "遺産、出自" }
+      ],
+      "antonyms": [
+        { "word": "outcome", "trans": "結果" },
+        { "word": "end", "trans": "終わり" }
+      ],
+      "related": [
+        { "word": "original", "trans": "形容詞：最初の、独創的な" },
+        { "word": "originate", "trans": "動詞：始まる、起源を持つ" },
+        { "word": "principle", "trans": "名詞：原理" },
+        { "word": "monument", "trans": "名詞：記念碑" }
+      ]
+    },
+    {
+      "number": 11072,
+      "word": "setting",
+      "pos": "名詞",
+      "meaning": "①環境、状況 ②（小説・劇・機械などの）設定、舞台",
+      "nuance": "①「医療の現場（clinical setting）」「家庭環境（home setting）」など「物事が行われる背景・環境」。②小説・映画の「時代・場所の背景」や機器の「設定値」としても広く使われます。",
+      "example_sections": [
+        {
+          "title": "①環境・状況",
+          "examples": [
+            { "en": "She thrives in a competitive work setting.", "ja": "彼女は競争的な職場環境で力を発揮する。", "highlight": "setting" },
+            { "en": "In a clinical setting, doctors must follow strict protocols.", "ja": "医療現場では、医師は厳格なプロトコルに従わなければならない。", "highlight": "setting" }
+          ]
+        },
+        {
+          "title": "②設定・舞台",
+          "examples": [
+            { "en": "The novel is set in a medieval setting in Europe.", "ja": "その小説はヨーロッパの中世を舞台としている。", "highlight": "setting" },
+            { "en": "Change the brightness setting on your phone to save battery.", "ja": "バッテリーを節約するためにスマートフォンの明るさ設定を変えてください。", "highlight": "setting" }
+          ]
+        }
+      ],
+      "etymology": "set（置く、設置する）+ ing → 置かれた状況・環境",
+      "synonyms": [
+        { "word": "environment", "trans": "環境" },
+        { "word": "context", "trans": "文脈、状況" },
+        { "word": "backdrop", "trans": "背景" },
+        { "word": "configuration", "trans": "設定、構成" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "region", "trans": "名詞：地域" },
+        { "word": "origin", "trans": "名詞：起源" },
+        { "word": "mission", "trans": "名詞：任務" },
+        { "word": "project", "trans": "名詞：計画" }
+      ]
+    },
+    {
+      "number": 11073,
+      "word": "monument",
+      "pos": "名詞",
+      "meaning": "記念碑、遺跡、史跡",
+      "nuance": "歴史的事件や人物を称えるために建てられた「建造物・碑」。「a monument to（～の記念碑）」は「～の証」という比喩的用法でも使われます（a monument to human ingenuity: 人類の知恵の証）。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The war monument was erected to honor soldiers who died in battle.", "ja": "戦争記念碑は戦闘で亡くなった兵士たちを称えるために建立された。", "highlight": "monument" },
+            { "en": "The ruins are a monument to the ancient civilization that once flourished here.", "ja": "その遺跡はかつてここで栄えた古代文明の証だ。", "highlight": "monument" },
+            { "en": "Tourists flock to the historical monuments in the capital.", "ja": "観光客は首都の歴史的記念碑に押し寄せる。", "highlight": "monuments" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 monumentum（記念物）← monere（思い起こさせる）",
+      "synonyms": [
+        { "word": "memorial", "trans": "記念碑、記念館" },
+        { "word": "landmark", "trans": "目印、史跡" },
+        { "word": "relic", "trans": "遺物、遺跡" },
+        { "word": "statue", "trans": "像、彫像" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "monumental", "trans": "形容詞：記念碑的な、巨大な" },
+        { "word": "origin", "trans": "名詞：起源" },
+        { "word": "mission", "trans": "名詞：使命" },
+        { "word": "kingdom", "trans": "名詞：王国" },
+        { "word": "empire", "trans": "名詞：帝国" }
+      ]
+    },
+    {
+      "number": 11074,
+      "word": "mission",
+      "pos": "名詞",
+      "meaning": "①任務、使命 ②使節団 ③（主にキリスト教の）布教（団）",
+      "nuance": "①与えられた、または自ら課した「重要な役割・目的（a sense of mission: 使命感）」。②外交的な「使節団（a diplomatic mission）」。③宗教的な「伝道・布教活動や施設」。",
+      "example_sections": [
+        {
+          "title": "①任務・使命",
+          "examples": [
+            { "en": "The rescue team was sent on a dangerous mission to save the survivors.", "ja": "救助隊は生存者を救うために危険な任務に派遣された。", "highlight": "mission" },
+            { "en": "She felt it was her mission in life to fight for social justice.", "ja": "彼女は社会正義のために戦うことが自分の人生の使命だと感じていた。", "highlight": "mission" }
+          ]
+        },
+        {
+          "title": "②使節団",
+          "examples": [
+            { "en": "A trade mission was sent to negotiate a new contract.", "ja": "新しい契約を交渉するために通商使節団が派遣された。", "highlight": "mission" }
+          ]
+        },
+        {
+          "title": "③布教・布教団",
+          "examples": [
+            { "en": "The missionary established a mission in a remote region of Africa.", "ja": "その宣教師はアフリカの僻地に布教所を設立した。", "highlight": "mission" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 missio（派遣）← mittere（送る）",
+      "synonyms": [
+        { "word": "task", "trans": "任務、仕事" },
+        { "word": "assignment", "trans": "任務、割り当て" },
+        { "word": "purpose", "trans": "目的、使命" },
+        { "word": "calling", "trans": "召命、天職" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "project", "trans": "名詞：計画" },
+        { "word": "agency", "trans": "名詞：機関" },
+        { "word": "minister", "trans": "名詞：大臣、牧師" },
+        { "word": "reform", "trans": "名詞：改革" }
+      ]
+    },
+    {
+      "number": 11075,
+      "word": "project",
+      "pos": "名詞・他動詞",
+      "meaning": "①計画、企画〔名〕 ②（予算など）を見積もる〔他〕 ③～を投影する〔他〕",
+      "nuance": "①特定の目標に向けた「まとまった計画・取り組み」。②将来の数値・傾向を推計すること。③画像・声などを「前方に映し出す・届かせる」こと。",
+      "example_sections": [
+        {
+          "title": "①計画・企画（名詞）",
+          "examples": [
+            { "en": "The government launched a major infrastructure project.", "ja": "政府は大規模なインフラ整備計画を始動させた。", "highlight": "project" },
+            { "en": "The school project required students to research local history.", "ja": "その学校の課題では生徒たちに地域の歴史を調査させた。", "highlight": "project" }
+          ]
+        },
+        {
+          "title": "②見積もる（他動詞）",
+          "examples": [
+            { "en": "Economists projected that unemployment would fall next year.", "ja": "経済学者たちは来年、失業率が低下すると予測した。", "highlight": "projected" }
+          ]
+        },
+        {
+          "title": "③投影する（他動詞）",
+          "examples": [
+            { "en": "The professor projected slides onto the screen.", "ja": "教授はスクリーンにスライドを投影した。", "highlight": "projected" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 proicere（前に投げる）← pro（前に）+ jacere（投げる）",
+      "synonyms": [
+        { "word": "plan", "trans": "計画" },
+        { "word": "scheme", "trans": "計画、策略" },
+        { "word": "initiative", "trans": "取り組み、イニシアチブ" },
+        { "word": "forecast", "trans": "予測する" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "mission", "trans": "名詞：任務" },
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "fund", "trans": "名詞：資金" },
+        { "word": "agency", "trans": "名詞：機関" }
+      ]
+    },
+    {
+      "number": 11076,
+      "word": "revolution",
+      "pos": "名詞",
+      "meaning": "革命",
+      "nuance": "①政治・社会体制を根本的に変える「革命（French Revolution: フランス革命）」。②産業・技術における根本的な変革（Industrial Revolution: 産業革命）。③物理的な「一回転、公転」も意味します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The French Revolution transformed the political landscape of Europe.", "ja": "フランス革命はヨーロッパの政治的地形を一変させた。", "highlight": "Revolution" },
+            { "en": "The digital revolution has changed the way we communicate.", "ja": "デジタル革命は私たちのコミュニケーションの仕方を変えた。", "highlight": "revolution" },
+            { "en": "The engine runs at 3,000 revolutions per minute.", "ja": "そのエンジンは毎分3,000回転で動く。", "highlight": "revolutions" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 revolutio（回転、転覆）← revolvere（回転させる）",
+      "synonyms": [
+        { "word": "uprising", "trans": "反乱、蜂起" },
+        { "word": "rebellion", "trans": "反乱" },
+        { "word": "transformation", "trans": "変革" },
+        { "word": "coup", "trans": "クーデター" }
+      ],
+      "antonyms": [
+        { "word": "stability", "trans": "安定" },
+        { "word": "status quo", "trans": "現状維持" },
+        { "word": "conservation", "trans": "保全、保守" }
+      ],
+      "related": [
+        { "word": "revolutionary", "trans": "形容詞：革命的な" },
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "conservative", "trans": "形容詞：保守的な" },
+        { "word": "republic", "trans": "名詞：共和国" },
+        { "word": "authority", "trans": "名詞：権力" }
+      ]
+    },
+    {
+      "number": 11077,
+      "word": "pension",
+      "pos": "名詞",
+      "meaning": "年金〈可算〉",
+      "nuance": "退職後・障害・遺族に支払われる定期的な給付金。「state pension（国家年金）」「pension fund（年金基金）」「pension reform（年金改革）」など社会保障・政治文脈で頻出。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "She receives a generous pension after 40 years of public service.", "ja": "彼女は40年間の公務の後、手厚い年金を受け取っている。", "highlight": "pension" },
+            { "en": "The government proposed reforms to the pension system.", "ja": "政府は年金制度の改革を提案した。", "highlight": "pension" },
+            { "en": "Many young workers worry whether their pensions will be sufficient.", "ja": "多くの若い労働者は自分の年金が十分かどうか不安に思っている。", "highlight": "pensions" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 pensio（支払い）← pendere（支払う）",
+      "synonyms": [
+        { "word": "retirement fund", "trans": "退職基金" },
+        { "word": "annuity", "trans": "年金、定期収入" },
+        { "word": "superannuation", "trans": "（主に英豪）退職年金" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "insurance", "trans": "名詞：保険" },
+        { "word": "fund", "trans": "名詞：基金、資金" },
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "security", "trans": "名詞：安全、保障" },
+        { "word": "fortune", "trans": "名詞：財産" }
+      ]
+    },
+    {
+      "number": 11078,
+      "word": "found",
+      "pos": "他動詞",
+      "meaning": "～を創立する",
+      "nuance": "組織・機関・国家などを「初めて作り上げる」こと。「find（見つける）」の過去形と同形ですが、まったく別の単語です。「founded in 1880（1880年創立）」「founding father（建国の父）」が頻出。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The university was founded in 1636 and is one of the oldest in the country.", "ja": "その大学は1636年に創立され、国内最古の大学の一つだ。", "highlight": "founded" },
+            { "en": "She founded a nonprofit organization to help people in poverty.", "ja": "彼女は貧困に苦しむ人々を助けるための非営利団体を設立した。", "highlight": "founded" },
+            { "en": "The republic was founded after the revolution of 1789.", "ja": "その共和国は1789年の革命後に建国された。", "highlight": "founded" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 fundare（基礎を置く）← fundus（底、基礎）",
+      "synonyms": [
+        { "word": "establish", "trans": "設立する" },
+        { "word": "create", "trans": "創設する" },
+        { "word": "institute", "trans": "設立する" },
+        { "word": "originate", "trans": "起こす" }
+      ],
+      "antonyms": [
+        { "word": "dissolve", "trans": "解散する" },
+        { "word": "abolish", "trans": "廃止する" },
+        { "word": "dismantle", "trans": "解体する" }
+      ],
+      "related": [
+        { "word": "foundation", "trans": "名詞：基礎、財団" },
+        { "word": "founder", "trans": "名詞：創立者" },
+        { "word": "republic", "trans": "名詞：共和国" },
+        { "word": "empire", "trans": "名詞：帝国" },
+        { "word": "mission", "trans": "名詞：使命" }
+      ]
+    },
+    {
+      "number": 11079,
+      "word": "contract",
+      "pos": "名詞・他動詞",
+      "meaning": "①契約〔名〕 ②～を契約する〔他〕 ③（病気）に感染する〔他〕",
+      "nuance": "①法的拘束力のある「合意書・取り決め」。②「contract out（外部委託する）」などの形も重要。③「contract a disease（病気にかかる）」はやや改まった表現。なお動詞では「縮む（contract in size）」という意味もあります。",
+      "example_sections": [
+        {
+          "title": "①契約（名詞）",
+          "examples": [
+            { "en": "Both parties signed the contract after a week of negotiations.", "ja": "双方は一週間の交渉を経て契約書に署名した。", "highlight": "contract" },
+            { "en": "The company won a government contract worth ten million dollars.", "ja": "その会社は1,000万ドル相当の政府契約を勝ち取った。", "highlight": "contract" }
+          ]
+        },
+        {
+          "title": "②契約する（他動詞）",
+          "examples": [
+            { "en": "The city council contracted a private company to manage the project.", "ja": "市議会はそのプロジェクトを管理するために民間企業と契約した。", "highlight": "contracted" }
+          ]
+        },
+        {
+          "title": "③感染する（他動詞）",
+          "examples": [
+            { "en": "He contracted malaria while working in a tropical region.", "ja": "彼は熱帯地域で働いている間にマラリアに感染した。", "highlight": "contracted" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 contractus（引き寄せた）← contrahere（一緒に引く）",
+      "synonyms": [
+        { "word": "agreement", "trans": "合意、協定" },
+        { "word": "deal", "trans": "取引、契約" },
+        { "word": "pact", "trans": "協定、条約" },
+        { "word": "acquire", "trans": "（病気を）得る" }
+      ],
+      "antonyms": [
+        { "word": "breach", "trans": "違反する" },
+        { "word": "cancel", "trans": "解除する" }
+      ],
+      "related": [
+        { "word": "negotiate", "trans": "動詞：交渉する" },
+        { "word": "proof", "trans": "名詞：証拠" },
+        { "word": "agency", "trans": "名詞：代理店" },
+        { "word": "fund", "trans": "名詞：資金" }
+      ]
+    },
+    {
+      "number": 11080,
+      "word": "negotiate",
+      "pos": "自動詞・他動詞",
+      "meaning": "①（with ～）（～と）交渉する〔自〕 ②（交渉の上で、条件など）を取り決める〔他〕",
+      "nuance": "当事者間で合意に達するために「話し合い・駆け引き」をすること。ビジネス・外交・労使関係などで広く使われます。また「negotiate a bend（カーブをうまく切り抜ける）」のように「困難をこなす」比喩表現もあります。",
+      "example_sections": [
+        {
+          "title": "①交渉する（自動詞）",
+          "examples": [
+            { "en": "The union is negotiating with management for higher wages.", "ja": "労働組合は賃上げを求めて経営陣と交渉中だ。", "highlight": "negotiating" },
+            { "en": "The two countries agreed to negotiate for a peace settlement.", "ja": "両国は平和的解決に向けて交渉することに合意した。", "highlight": "negotiate" }
+          ]
+        },
+        {
+          "title": "②取り決める（他動詞）",
+          "examples": [
+            { "en": "They successfully negotiated a new trade contract.", "ja": "彼らは新しい通商契約を交渉の末に成功裏に取り決めた。", "highlight": "negotiated" },
+            { "en": "The hostage negotiator negotiated the safe release of all captives.", "ja": "人質交渉担当者はすべての人質の安全な解放を取り決めた。", "highlight": "negotiated" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 negotiari（商売する）← negotium（仕事）",
+      "synonyms": [
+        { "word": "bargain", "trans": "交渉する、値切る" },
+        { "word": "mediate", "trans": "仲裁する" },
+        { "word": "arbitrate", "trans": "仲裁する" },
+        { "word": "discuss", "trans": "議論する" }
+      ],
+      "antonyms": [
+        { "word": "demand", "trans": "要求する" },
+        { "word": "impose", "trans": "強制する" }
+      ],
+      "related": [
+        { "word": "negotiation", "trans": "名詞：交渉" },
+        { "word": "contract", "trans": "名詞：契約" },
+        { "word": "cooperate", "trans": "動詞：協力する" },
+        { "word": "minister", "trans": "名詞：大臣" }
+      ]
+    },
+    {
+      "number": 11081,
+      "word": "cooperate",
+      "pos": "自動詞",
+      "meaning": "（with ～）（～と）協力する、（in ～）（～を）協力する",
+      "nuance": "目標達成のために「互いに働く・協調する」こと。「collaborate」と類似しますが、「cooperate」は特に互いを邪魔せず協調する含意が強く、「collaborate」は積極的に共同作業する意味合いが強いです。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The two nations agreed to cooperate in the fight against terrorism.", "ja": "両国はテロとの戦いで協力することに合意した。", "highlight": "cooperate" },
+            { "en": "The child refused to cooperate with the doctor during the examination.", "ja": "子供は診察中、医師に協力することを拒んだ。", "highlight": "cooperate" },
+            { "en": "All departments need to cooperate in implementing the new reform.", "ja": "新しい改革を実施するにはすべての部署が協力する必要がある。", "highlight": "cooperate" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 cooperari（共に働く）← co（共に）+ operari（働く）",
+      "synonyms": [
+        { "word": "collaborate", "trans": "協力する、共同作業する" },
+        { "word": "coordinate", "trans": "調整する" },
+        { "word": "work together", "trans": "共に働く" },
+        { "word": "team up", "trans": "チームを組む" }
+      ],
+      "antonyms": [
+        { "word": "compete", "trans": "競争する" },
+        { "word": "obstruct", "trans": "妨害する" },
+        { "word": "hinder", "trans": "妨げる" }
+      ],
+      "related": [
+        { "word": "cooperation", "trans": "名詞：協力" },
+        { "word": "cooperative", "trans": "形容詞：協力的な" },
+        { "word": "negotiate", "trans": "動詞：交渉する" },
+        { "word": "interaction", "trans": "名詞：交流" },
+        { "word": "council", "trans": "名詞：議会" }
+      ]
+    },
+    {
+      "number": 11082,
+      "word": "restore",
+      "pos": "他動詞",
+      "meaning": "①（治安など）を回復する ②（古い建物・絵など）を修復する",
+      "nuance": "①失われた「秩序・健康・信頼」などをもとの状態に「取り戻す」こと。②劣化した「建物・芸術品・生態系」などを元の状態に「修復する」こと。どちらも「以前の良い状態への復元」がコアイメージです。",
+      "example_sections": [
+        {
+          "title": "①回復する",
+          "examples": [
+            { "en": "The new government worked hard to restore order after the revolution.", "ja": "新政府は革命後に秩序を取り戻すために懸命に働いた。", "highlight": "restore" },
+            { "en": "The peace treaty helped restore relations between the two nations.", "ja": "その平和条約は両国間の関係回復に役立った。", "highlight": "restore" }
+          ]
+        },
+        {
+          "title": "②修復する",
+          "examples": [
+            { "en": "The museum spent years restoring the ancient monument.", "ja": "その博物館は古代の記念碑を修復するのに何年もかけた。", "highlight": "restoring" },
+            { "en": "Experts were hired to restore the damaged paintings.", "ja": "損傷した絵画を修復するために専門家が雇われた。", "highlight": "restore" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 restaurare（再建する）← re（再び）+ staurare（立てる）",
+      "synonyms": [
+        { "word": "recover", "trans": "回復する" },
+        { "word": "reinstate", "trans": "復活させる" },
+        { "word": "renovate", "trans": "改修する" },
+        { "word": "rehabilitate", "trans": "回復させる、修復する" }
+      ],
+      "antonyms": [
+        { "word": "destroy", "trans": "破壊する" },
+        { "word": "damage", "trans": "損傷させる" },
+        { "word": "undermine", "trans": "蝕む、弱体化させる" }
+      ],
+      "related": [
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "revolution", "trans": "名詞：革命" },
+        { "word": "monument", "trans": "名詞：記念碑" },
+        { "word": "security", "trans": "名詞：安全" }
+      ]
+    },
+    {
+      "number": 11083,
+      "word": "conservative",
+      "pos": "形容詞",
+      "meaning": "保守的な",
+      "nuance": "①伝統的な価値観・慣行を重視し、急激な変化に反対する「保守主義的な」態度。②「a conservative estimate（控えめな見積もり）」のように「慎重な・控えめな」という意味でも使われます。大文字「Conservative」は政党名になります。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "Her conservative views on social issues often clashed with her colleagues.", "ja": "社会問題に対する彼女の保守的な見解はしばしば同僚と衝突した。", "highlight": "conservative" },
+            { "en": "The town has a very conservative culture that resists rapid change.", "ja": "その町には急速な変化に抵抗する非常に保守的な文化がある。", "highlight": "conservative" },
+            { "en": "To be safe, the engineer gave a conservative estimate of the project cost.", "ja": "安全を期して、エンジニアはプロジェクトの費用を控えめに見積もった。", "highlight": "conservative" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 conservare（保存する）← con（完全に）+ servare（守る）",
+      "synonyms": [
+        { "word": "traditional", "trans": "伝統的な" },
+        { "word": "conventional", "trans": "慣習的な" },
+        { "word": "cautious", "trans": "慎重な" },
+        { "word": "moderate", "trans": "穏健な" }
+      ],
+      "antonyms": [
+        { "word": "liberal", "trans": "自由主義の" },
+        { "word": "radical", "trans": "急進的な" },
+        { "word": "progressive", "trans": "進歩的な" }
+      ],
+      "related": [
+        { "word": "conserve", "trans": "動詞：保存する、節約する" },
+        { "word": "revolution", "trans": "名詞：革命" },
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "principle", "trans": "名詞：主義" }
+      ]
+    },
+    {
+      "number": 11084,
+      "word": "affair",
+      "pos": "名詞",
+      "meaning": "①（affairsで）情勢 ②（スキャンダラスな）事件 ③情事、浮気",
+      "nuance": "①「current affairs（時事問題）」「foreign affairs（外交問題）」のように「（政治・社会の）出来事・状況」。②世間を騒がせた出来事（a public affair）。③不倫・浮気関係（have an affair）。",
+      "example_sections": [
+        {
+          "title": "①情勢",
+          "examples": [
+            { "en": "The minister is responsible for foreign affairs.", "ja": "その大臣は外務を担当している。", "highlight": "affairs" },
+            { "en": "He keeps up with current affairs by reading the news every morning.", "ja": "彼は毎朝ニュースを読んで時事問題に精通している。", "highlight": "affairs" }
+          ]
+        },
+        {
+          "title": "②事件",
+          "examples": [
+            { "en": "The corruption affair forced the minister to resign.", "ja": "その汚職事件は大臣を辞任に追い込んだ。", "highlight": "affair" }
+          ]
+        },
+        {
+          "title": "③情事・浮気",
+          "examples": [
+            { "en": "The scandal revealed that the politician had been having an affair.", "ja": "そのスキャンダルは政治家が不倫関係にあったことを明らかにした。", "highlight": "affair" }
+          ]
+        }
+      ],
+      "etymology": "フランス語 à faire（すること）← ad（～へ）+ facere（する）",
+      "synonyms": [
+        { "word": "matter", "trans": "事柄、問題" },
+        { "word": "issue", "trans": "問題、論点" },
+        { "word": "scandal", "trans": "スキャンダル" },
+        { "word": "relationship", "trans": "関係" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "minister", "trans": "名詞：大臣" },
+        { "word": "council", "trans": "名詞：議会" },
+        { "word": "authority", "trans": "名詞：権力" },
+        { "word": "poll", "trans": "名詞：世論調査" }
+      ]
+    },
+    {
+      "number": 11085,
+      "word": "agency",
+      "pos": "名詞",
+      "meaning": "①（政府）機関 ②代理店",
+      "nuance": "①「CIA（Central Intelligence Agency）」「a government agency（政府機関）」のように公的な目的で設置された組織。②広告・旅行・人材などの「代理業務を行う会社（travel agency: 旅行代理店）」。",
+      "example_sections": [
+        {
+          "title": "①政府機関",
+          "examples": [
+            { "en": "The environmental agency introduced new regulations to combat pollution.", "ja": "環境機関は公害対策のための新しい規制を導入した。", "highlight": "agency" },
+            { "en": "The relief agency distributed food and medicine to disaster victims.", "ja": "救援機関は被災者に食料と医薬品を配布した。", "highlight": "agency" }
+          ]
+        },
+        {
+          "title": "②代理店",
+          "examples": [
+            { "en": "She works at a prestigious advertising agency in Tokyo.", "ja": "彼女は東京の一流広告代理店で働いている。", "highlight": "agency" },
+            { "en": "Book your trip through a reputable travel agency.", "ja": "信頼できる旅行代理店を通じて旅行を予約してください。", "highlight": "agency" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 agere（行う）+ cy（機能）→ 行動する組織",
+      "synonyms": [
+        { "word": "organization", "trans": "組織" },
+        { "word": "bureau", "trans": "局、事務所" },
+        { "word": "authority", "trans": "機関、当局" },
+        { "word": "firm", "trans": "会社、事務所" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "agent", "trans": "名詞：代理人、諜報員" },
+        { "word": "council", "trans": "名詞：議会" },
+        { "word": "minister", "trans": "名詞：大臣" },
+        { "word": "mission", "trans": "名詞：使節団" }
+      ]
+    },
+    {
+      "number": 11086,
+      "word": "council",
+      "pos": "名詞",
+      "meaning": "議会",
+      "nuance": "特定の目的のために集まった「審議・決定機関」。「city council（市議会）」「UN Security Council（国連安全保障理事会）」など地方から国際機関まで使われます。「counsel（助言）」と混同しないよう注意。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The city council approved the new housing project.", "ja": "市議会は新しい住宅プロジェクトを承認した。", "highlight": "council" },
+            { "en": "The UN Security Council voted on the resolution.", "ja": "国連安全保障理事会は決議案の採決を行った。", "highlight": "Council" },
+            { "en": "The council meets every month to discuss local affairs.", "ja": "議会は地域の問題を協議するために毎月会合を開く。", "highlight": "council" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 concilium（集会）← con（共に）+ calare（召集する）",
+      "synonyms": [
+        { "word": "assembly", "trans": "議会、集会" },
+        { "word": "committee", "trans": "委員会" },
+        { "word": "parliament", "trans": "議会（国家レベル）" },
+        { "word": "senate", "trans": "上院、元老院" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "mayor", "trans": "名詞：市長" },
+        { "word": "minister", "trans": "名詞：大臣" },
+        { "word": "authority", "trans": "名詞：権力、当局" },
+        { "word": "republic", "trans": "名詞：共和国" }
+      ]
+    },
+    {
+      "number": 11087,
+      "word": "kingdom",
+      "pos": "名詞",
+      "meaning": "①王国 ②（the ～ kingdom）～界、社会",
+      "nuance": "①「United Kingdom（英国）」など王が統治する国。②生物学的な「界（動物界・植物界）」や比喩的な「～の世界（the kingdom of art: 芸術の世界）」にも使われます。",
+      "example_sections": [
+        {
+          "title": "①王国",
+          "examples": [
+            { "en": "The ancient kingdom was famous for its military power.", "ja": "その古代王国はその軍事力で有名だった。", "highlight": "kingdom" },
+            { "en": "The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.", "ja": "英国はイングランド、スコットランド、ウェールズ、北アイルランドから成る。", "highlight": "Kingdom" }
+          ]
+        },
+        {
+          "title": "②～界・社会",
+          "examples": [
+            { "en": "Sharks are powerful predators in the animal kingdom.", "ja": "サメは動物界において強力な捕食者だ。", "highlight": "kingdom" }
+          ]
+        }
+      ],
+      "etymology": "king（王）+ dom（領域）→ 王の支配する領域",
+      "synonyms": [
+        { "word": "realm", "trans": "王国、領域" },
+        { "word": "monarchy", "trans": "君主国、君主制" },
+        { "word": "domain", "trans": "領域、領地" }
+      ],
+      "antonyms": [
+        { "word": "republic", "trans": "共和国" },
+        { "word": "democracy", "trans": "民主主義国" }
+      ],
+      "related": [
+        { "word": "empire", "trans": "名詞：帝国" },
+        { "word": "republic", "trans": "名詞：共和国" },
+        { "word": "revolution", "trans": "名詞：革命" },
+        { "word": "monument", "trans": "名詞：記念碑" }
+      ]
+    },
+    {
+      "number": 11088,
+      "word": "republic",
+      "pos": "名詞",
+      "meaning": "共和国",
+      "nuance": "世襲君主ではなく、選挙で選ばれた代表者が統治する「共和制の国家」。「People's Republic（人民共和国）」「the French Republic（フランス共和国）」など国名に広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "France became a republic after the revolution of 1789.", "ja": "フランスは1789年の革命後、共和国になった。", "highlight": "republic" },
+            { "en": "The founding fathers established the United States as a constitutional republic.", "ja": "建国の父たちはアメリカ合衆国を立憲共和国として設立した。", "highlight": "republic" },
+            { "en": "The republic holds free elections every four years.", "ja": "その共和国は4年ごとに自由選挙を行っている。", "highlight": "republic" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 res publica（公共のもの）← res（事柄）+ publica（公共の）",
+      "synonyms": [
+        { "word": "democracy", "trans": "民主主義国" },
+        { "word": "commonwealth", "trans": "共和国、連邦" },
+        { "word": "federation", "trans": "連邦" }
+      ],
+      "antonyms": [
+        { "word": "monarchy", "trans": "君主国" },
+        { "word": "empire", "trans": "帝国" },
+        { "word": "dictatorship", "trans": "独裁国家" }
+      ],
+      "related": [
+        { "word": "kingdom", "trans": "名詞：王国" },
+        { "word": "empire", "trans": "名詞：帝国" },
+        { "word": "revolution", "trans": "名詞：革命" },
+        { "word": "found", "trans": "動詞：創立する" }
+      ]
+    },
+    {
+      "number": 11089,
+      "word": "empire",
+      "pos": "名詞",
+      "meaning": "帝国",
+      "nuance": "①皇帝が統治する広大な国家（Roman Empire: ローマ帝国）。②比喩的に「巨大な企業・組織・支配的勢力（a media empire: メディア帝国）」にも広く使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The Roman Empire once stretched across much of Europe and Asia.", "ja": "ローマ帝国はかつてヨーロッパとアジアの大部分に広がっていた。", "highlight": "Empire" },
+            { "en": "The British Empire influenced the culture and language of many countries.", "ja": "大英帝国は多くの国の文化と言語に影響を与えた。", "highlight": "Empire" },
+            { "en": "He built a business empire worth billions of dollars.", "ja": "彼は数十億ドル相当のビジネス帝国を築いた。", "highlight": "empire" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 imperium（命令権、支配）← imperare（命令する）",
+      "synonyms": [
+        { "word": "dominion", "trans": "支配領域" },
+        { "word": "realm", "trans": "王国、領域" },
+        { "word": "superpower", "trans": "超大国" }
+      ],
+      "antonyms": [
+        { "word": "republic", "trans": "共和国" },
+        { "word": "colony", "trans": "植民地" }
+      ],
+      "related": [
+        { "word": "emperor", "trans": "名詞：皇帝" },
+        { "word": "imperial", "trans": "形容詞：帝国の" },
+        { "word": "kingdom", "trans": "名詞：王国" },
+        { "word": "revolution", "trans": "名詞：革命" },
+        { "word": "monument", "trans": "名詞：記念碑" }
+      ]
+    },
+    {
+      "number": 11090,
+      "word": "security",
+      "pos": "名詞",
+      "meaning": "①（国家などの）安全 ②防犯、防衛",
+      "nuance": "①脅威がない「安心・安全の状態（national security: 国家安全保障）」。②「security guard（警備員）」「security camera（防犯カメラ）」など危険を防ぐための「措置・設備・人員」。③金融用語として「証券」も意味します。",
+      "example_sections": [
+        {
+          "title": "①安全",
+          "examples": [
+            { "en": "National security is the top priority of any government.", "ja": "国家安全保障はいかなる政府にとっても最優先事項だ。", "highlight": "security" },
+            { "en": "Financial security is a major concern for people approaching retirement.", "ja": "経済的な安定は定年を迎える人々にとって大きな関心事だ。", "highlight": "security" }
+          ]
+        },
+        {
+          "title": "②防犯・防衛",
+          "examples": [
+            { "en": "The airport has strict security measures to prevent terrorism.", "ja": "空港はテロを防ぐための厳格なセキュリティ対策を講じている。", "highlight": "security" },
+            { "en": "Security cameras were installed around the building.", "ja": "建物の周囲に防犯カメラが設置された。", "highlight": "Security" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 securitas（安心）← securus（心配のない）← se（離れて）+ cura（心配）",
+      "synonyms": [
+        { "word": "safety", "trans": "安全" },
+        { "word": "protection", "trans": "保護" },
+        { "word": "defense", "trans": "防衛" },
+        { "word": "stability", "trans": "安定" }
+      ],
+      "antonyms": [
+        { "word": "insecurity", "trans": "不安、危険" },
+        { "word": "vulnerability", "trans": "脆弱性" },
+        { "word": "threat", "trans": "脅威" }
+      ],
+      "related": [
+        { "word": "insurance", "trans": "名詞：保険" },
+        { "word": "aid", "trans": "名詞：援助" },
+        { "word": "authority", "trans": "名詞：権力" },
+        { "word": "council", "trans": "名詞：議会" }
+      ]
+    },
+    {
+      "number": 11091,
+      "word": "aid",
+      "pos": "名詞",
+      "meaning": "援助、救援物資〈不可算〉",
+      "nuance": "困っている人・国・地域への「支援・助け」。「humanitarian aid（人道的援助）」「foreign aid（外国援助）」「first aid（応急処置）」が頻出表現。動詞でも「援助する（aid in recovery）」として使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The international community sent aid to the flood-stricken region.", "ja": "国際社会は洪水の被害を受けた地域に援助を送った。", "highlight": "aid" },
+            { "en": "Foreign aid plays a crucial role in reducing poverty in developing nations.", "ja": "外国援助は開発途上国の貧困削減において重要な役割を果たす。", "highlight": "aid" },
+            { "en": "The volunteers provided first aid to the injured after the earthquake.", "ja": "ボランティアたちは地震後、怪我人に応急処置を施した。", "highlight": "first aid" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 adjutare（助ける）← ad（～へ）+ juvare（助ける）",
+      "synonyms": [
+        { "word": "assistance", "trans": "援助、支援" },
+        { "word": "support", "trans": "支援" },
+        { "word": "relief", "trans": "救済、安堵" },
+        { "word": "subsidy", "trans": "補助金" }
+      ],
+      "antonyms": [
+        { "word": "obstruction", "trans": "妨害" },
+        { "word": "hindrance", "trans": "妨げ" }
+      ],
+      "related": [
+        { "word": "poverty", "trans": "名詞：貧困" },
+        { "word": "hardship", "trans": "名詞：苦難" },
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "fund", "trans": "名詞：資金" }
+      ]
+    },
+    {
+      "number": 11092,
+      "word": "reform",
+      "pos": "名詞",
+      "meaning": "改革",
+      "nuance": "社会・政治・制度などの問題点を「改善・刷新すること」。「economic reform（経済改革）」「educational reform（教育改革）」「pension reform（年金改革）」など政策文脈で特に頻出。動詞「reform（改革する）」としても使います。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The government announced sweeping economic reforms to boost growth.", "ja": "政府は成長を促進するための大規模な経済改革を発表した。", "highlight": "reforms" },
+            { "en": "Prison reform is needed to reduce the rate of reoffending.", "ja": "再犯率を下げるには刑務所改革が必要だ。", "highlight": "reform" },
+            { "en": "The new mayor promised to reform the city's aging infrastructure.", "ja": "新市長は市の老朽化したインフラを改革すると約束した。", "highlight": "reform" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 reformare（再形成する）← re（再び）+ formare（形作る）",
+      "synonyms": [
+        { "word": "improvement", "trans": "改善" },
+        { "word": "overhaul", "trans": "抜本的改革" },
+        { "word": "change", "trans": "変化、変革" },
+        { "word": "transformation", "trans": "変革" }
+      ],
+      "antonyms": [
+        { "word": "corruption", "trans": "腐敗" },
+        { "word": "stagnation", "trans": "停滞" },
+        { "word": "conservatism", "trans": "保守主義" }
+      ],
+      "related": [
+        { "word": "revolution", "trans": "名詞：革命" },
+        { "word": "restore", "trans": "動詞：回復する" },
+        { "word": "conservative", "trans": "形容詞：保守的な" },
+        { "word": "mayor", "trans": "名詞：市長" }
+      ]
+    },
+    {
+      "number": 11093,
+      "word": "mayor",
+      "pos": "名詞",
+      "meaning": "市長",
+      "nuance": "市・町など地方自治体の長。「mayor of London（ロンドン市長）」のように固有名詞的に使われることも多い。「run for mayor（市長選に立候補する）」が頻出表現。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The mayor announced plans to reduce poverty in the city.", "ja": "市長は市内の貧困を削減する計画を発表した。", "highlight": "mayor" },
+            { "en": "She ran for mayor and won by a large margin.", "ja": "彼女は市長選に立候補し、大差で勝利した。", "highlight": "mayor" },
+            { "en": "The mayor signed a contract with a construction company for the new bridge.", "ja": "市長は新しい橋のために建設会社と契約を結んだ。", "highlight": "mayor" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 major（より大きい）→ 最上位の者",
+      "synonyms": [
+        { "word": "governor", "trans": "知事" },
+        { "word": "official", "trans": "公務員、当局者" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "minister", "trans": "名詞：大臣" },
+        { "word": "council", "trans": "名詞：議会" },
+        { "word": "reform", "trans": "名詞：改革" },
+        { "word": "poll", "trans": "名詞：投票" },
+        { "word": "affair", "trans": "名詞：事件、情勢" }
+      ]
+    },
+    {
+      "number": 11094,
+      "word": "minister",
+      "pos": "名詞",
+      "meaning": "①大臣 ②牧師",
+      "nuance": "①「Prime Minister（首相）」「Foreign Minister（外務大臣）」など政府の閣僚。②特にプロテスタントの「聖職者・牧師」。どちらも「奉仕する人」という語源から来ています。",
+      "example_sections": [
+        {
+          "title": "①大臣",
+          "examples": [
+            { "en": "The Finance Minister announced new tax reforms.", "ja": "財務大臣は新しい税制改革を発表した。", "highlight": "Minister" },
+            { "en": "The prime minister was questioned about the government's economic policy.", "ja": "首相は政府の経済政策について質問を受けた。", "highlight": "minister" }
+          ]
+        },
+        {
+          "title": "②牧師",
+          "examples": [
+            { "en": "The minister delivered a powerful sermon on justice and equality.", "ja": "牧師は正義と平等について力強い説教をした。", "highlight": "minister" },
+            { "en": "The minister officiated at the wedding ceremony.", "ja": "牧師が結婚式を執り行った。", "highlight": "minister" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 minister（召使い、補佐）← minus（より少ない）→ 仕える者",
+      "synonyms": [
+        { "word": "secretary", "trans": "（米）長官" },
+        { "word": "cabinet member", "trans": "閣僚" },
+        { "word": "pastor", "trans": "牧師" },
+        { "word": "clergyman", "trans": "聖職者" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "mayor", "trans": "名詞：市長" },
+        { "word": "council", "trans": "名詞：議会" },
+        { "word": "affair", "trans": "名詞：情勢、事件" },
+        { "word": "authority", "trans": "名詞：権力" }
+      ]
+    },
+    {
+      "number": 11095,
+      "word": "poll",
+      "pos": "名詞・他動詞",
+      "meaning": "①（政治関連の）世論調査〔名〕 ②投票〔名〕 ③（得票）を得る〔他〕",
+      "nuance": "①「opinion poll（世論調査）」で人々の意見を調査すること。②「at the polls（投票所で）」のように選挙での投票行為。③候補者が特定の数の票を「獲得する」こと。",
+      "example_sections": [
+        {
+          "title": "①世論調査（名詞）",
+          "examples": [
+            { "en": "A recent poll showed that most citizens support the reform.", "ja": "最近の世論調査では市民の大半が改革を支持していることが示された。", "highlight": "poll" },
+            { "en": "Polls indicate that the prime minister's approval rating has dropped.", "ja": "世論調査は首相の支持率が低下していることを示している。", "highlight": "Polls" }
+          ]
+        },
+        {
+          "title": "②投票（名詞）",
+          "examples": [
+            { "en": "Millions of people went to the polls on election day.", "ja": "選挙当日、何百万もの人々が投票に行った。", "highlight": "polls" }
+          ]
+        },
+        {
+          "title": "③得票を得る（他動詞）",
+          "examples": [
+            { "en": "The candidate polled 45% of the vote in the election.", "ja": "その候補者は選挙で45%の得票を獲得した。", "highlight": "polled" }
+          ]
+        }
+      ],
+      "etymology": "中英語 pol（頭の数、一票）→ 頭数を数えること",
+      "synonyms": [
+        { "word": "survey", "trans": "調査" },
+        { "word": "vote", "trans": "投票" },
+        { "word": "ballot", "trans": "投票用紙、投票" },
+        { "word": "election", "trans": "選挙" }
+      ],
+      "antonyms": [],
+      "related": [
+        { "word": "mayor", "trans": "名詞：市長" },
+        { "word": "minister", "trans": "名詞：大臣" },
+        { "word": "council", "trans": "名詞：議会" },
+        { "word": "reform", "trans": "名詞：改革" }
+      ]
+    },
+    {
+      "number": 11096,
+      "word": "fortune",
+      "pos": "名詞",
+      "meaning": "①財産 ②運",
+      "nuance": "①莫大な「富・財産（make a fortune: 一財産作る）」。②「運・運命（good fortune: 幸運）」。「Fortune favors the brave（運は勇者に味方する）」はことわざとして有名。「Fortune 500」は米国上位500社を指します。",
+      "example_sections": [
+        {
+          "title": "①財産",
+          "examples": [
+            { "en": "He made a fortune by investing in real estate.", "ja": "彼は不動産投資で一財産を作った。", "highlight": "fortune" },
+            { "en": "The painting sold at auction for a small fortune.", "ja": "その絵は競売でかなりの高額で売れた。", "highlight": "fortune" }
+          ]
+        },
+        {
+          "title": "②運",
+          "examples": [
+            { "en": "She had the good fortune to meet a talented mentor early in her career.", "ja": "彼女はキャリアの早い段階で優れたメンターに出会うという幸運に恵まれた。", "highlight": "fortune" },
+            { "en": "Fortune seemed to favor the underdog team in the final.", "ja": "決勝では運が下馬評の低いチームに味方しているように見えた。", "highlight": "Fortune" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 fortuna（運命の女神）← fors（運）",
+      "synonyms": [
+        { "word": "wealth", "trans": "富、財産" },
+        { "word": "luck", "trans": "運" },
+        { "word": "destiny", "trans": "運命" },
+        { "word": "prosperity", "trans": "繁栄" }
+      ],
+      "antonyms": [
+        { "word": "poverty", "trans": "貧困" },
+        { "word": "misfortune", "trans": "不運、不幸" },
+        { "word": "bad luck", "trans": "不運" }
+      ],
+      "related": [
+        { "word": "property", "trans": "名詞：財産" },
+        { "word": "fund", "trans": "名詞：資金" },
+        { "word": "stock", "trans": "名詞：株式" },
+        { "word": "bankrupt", "trans": "形容詞：倒産した" }
+      ]
+    },
+    {
+      "number": 11097,
+      "word": "property",
+      "pos": "名詞",
+      "meaning": "①（主に集合的）財産、資産 ②（建物を含む）所有地 ③（物質の）特性",
+      "nuance": "①法的に所有できる「資産全般（intellectual property: 知的財産）」。②「real property（不動産）」など土地・建物を指すことも多い。③科学用語として「物質の性質（the properties of water: 水の特性）」。",
+      "example_sections": [
+        {
+          "title": "①財産・資産",
+          "examples": [
+            { "en": "All property was confiscated by the government after the revolution.", "ja": "革命後、すべての財産が政府に没収された。", "highlight": "property" },
+            { "en": "Intellectual property must be protected by law.", "ja": "知的財産は法律によって保護されなければならない。", "highlight": "property" }
+          ]
+        },
+        {
+          "title": "②所有地",
+          "examples": [
+            { "en": "He purchased a property in the countryside for retirement.", "ja": "彼は定年後のために田舎に土地を購入した。", "highlight": "property" }
+          ]
+        },
+        {
+          "title": "③特性",
+          "examples": [
+            { "en": "Gold has unique chemical properties that make it valuable.", "ja": "金はそれを貴重にするユニークな化学的特性を持っている。", "highlight": "properties" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 proprietas（所有）← proprius（自分自身の）",
+      "synonyms": [
+        { "word": "asset", "trans": "資産" },
+        { "word": "estate", "trans": "土地、財産" },
+        { "word": "possession", "trans": "所有物" },
+        { "word": "characteristic", "trans": "特性" }
+      ],
+      "antonyms": [
+        { "word": "debt", "trans": "負債" },
+        { "word": "liability", "trans": "負債" }
+      ],
+      "related": [
+        { "word": "fortune", "trans": "名詞：財産、運" },
+        { "word": "fund", "trans": "名詞：資金" },
+        { "word": "stock", "trans": "名詞：株式" },
+        { "word": "insurance", "trans": "名詞：保険" }
+      ]
+    },
+    {
+      "number": 11098,
+      "word": "fund",
+      "pos": "名詞・他動詞",
+      "meaning": "①（fundsで）資金〔名〕 ②基金〔名〕 ③～に資金を出す〔他〕",
+      "nuance": "①「funds（複数形）」で「手元の資金・財源（run out of funds: 資金が尽きる）」。②特定の目的のために積み立てた「基金（pension fund: 年金基金）」。③プロジェクト・研究などの「財政的支援をする」こと。",
+      "example_sections": [
+        {
+          "title": "①資金（名詞・複数）",
+          "examples": [
+            { "en": "The organization ran out of funds before completing the project.", "ja": "その組織はプロジェクトを完了する前に資金が尽きた。", "highlight": "funds" },
+            { "en": "The government allocated additional funds for humanitarian aid.", "ja": "政府は人道支援のための追加資金を割り当てた。", "highlight": "funds" }
+          ]
+        },
+        {
+          "title": "②基金（名詞）",
+          "examples": [
+            { "en": "She set up a charitable fund to support children in poverty.", "ja": "彼女は貧困の子供たちを支援するための慈善基金を設立した。", "highlight": "fund" }
+          ]
+        },
+        {
+          "title": "③資金を出す（他動詞）",
+          "examples": [
+            { "en": "The research was funded by a private agency.", "ja": "その研究は民間機関によって資金提供された。", "highlight": "funded" }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 fundus（底、基礎、農場）→ 財政的な基盤",
+      "synonyms": [
+        { "word": "finance", "trans": "財政、資金（動詞：資金を提供する）" },
+        { "word": "capital", "trans": "資本" },
+        { "word": "endowment", "trans": "基金、寄付" },
+        { "word": "grant", "trans": "助成金" }
+      ],
+      "antonyms": [
+        { "word": "debt", "trans": "負債" },
+        { "word": "deficit", "trans": "赤字、不足" }
+      ],
+      "related": [
+        { "word": "stock", "trans": "名詞：株式" },
+        { "word": "fortune", "trans": "名詞：財産" },
+        { "word": "pension", "trans": "名詞：年金" },
+        { "word": "bankrupt", "trans": "形容詞：倒産した" }
+      ]
+    },
+    {
+      "number": 11099,
+      "word": "stock",
+      "pos": "名詞",
+      "meaning": "①株（式） ②在庫品、蓄え",
+      "nuance": "①「stock market（株式市場）」「stock exchange（証券取引所）」など金融・投資分野での「株式・有価証券」。②「in stock（在庫あり）」「out of stock（在庫切れ）」など商品の「蓄え・在庫」。",
+      "example_sections": [
+        {
+          "title": "①株式",
+          "examples": [
+            { "en": "She invested her savings in tech stocks.", "ja": "彼女は貯蓄をテクノロジー株に投資した。", "highlight": "stocks" },
+            { "en": "The stock market crashed due to the economic crisis.", "ja": "経済危機により株式市場が暴落した。", "highlight": "stock" }
+          ]
+        },
+        {
+          "title": "②在庫・蓄え",
+          "examples": [
+            { "en": "The store ran out of stock during the holiday season.", "ja": "その店はホリデーシーズン中に在庫が尽きた。", "highlight": "stock" },
+            { "en": "The country built up a large stock of emergency food supplies.", "ja": "その国は大量の緊急食糧備蓄を積み上げた。", "highlight": "stock" }
+          ]
+        }
+      ],
+      "etymology": "古英語 stocc（切り株、幹）→ 蓄えたもの・資本",
+      "synonyms": [
+        { "word": "share", "trans": "株式" },
+        { "word": "equity", "trans": "株式、資本" },
+        { "word": "inventory", "trans": "在庫" },
+        { "word": "reserve", "trans": "備蓄" }
+      ],
+      "antonyms": [
+        { "word": "shortage", "trans": "不足" },
+        { "word": "debt", "trans": "負債" }
+      ],
+      "related": [
+        { "word": "fund", "trans": "名詞：資金" },
+        { "word": "fortune", "trans": "名詞：財産" },
+        { "word": "property", "trans": "名詞：財産" },
+        { "word": "bankrupt", "trans": "形容詞：倒産した" },
+        { "word": "insurance", "trans": "名詞：保険" }
+      ]
+    },
+    {
+      "number": 11100,
+      "word": "bankrupt",
+      "pos": "形容詞",
+      "meaning": "倒産した、破産した",
+      "nuance": "個人・企業が「負債を返済できない状態に陥った」ことを指します。「go bankrupt（倒産する）」「declare bankruptcy（破産宣告をする）」が頻出。比喩的に「morally bankrupt（道徳的に破綻した）」のようにも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            { "en": "The company went bankrupt after years of poor management.", "ja": "その会社は長年の経営不振の末に倒産した。", "highlight": "bankrupt" },
+            { "en": "Many small businesses went bankrupt during the economic crisis.", "ja": "経済危機の間に多くの中小企業が倒産した。", "highlight": "bankrupt" },
+            { "en": "He declared himself bankrupt after his investment fund collapsed.", "ja": "彼は投資ファンドが崩壊した後、自己破産を申告した。", "highlight": "bankrupt" }
+          ]
+        }
+      ],
+      "etymology": "イタリア語 banca rotta（壊れた長椅子）← 中世、両替商が店を閉める際に台を壊したことから",
+      "synonyms": [
+        { "word": "insolvent", "trans": "支払い不能の" },
+        { "word": "broke", "trans": "（俗）文無しの" },
+        { "word": "ruined", "trans": "破滅した" },
+        { "word": "penniless", "trans": "一文無しの" }
+      ],
+      "antonyms": [
+        { "word": "solvent", "trans": "支払い能力のある" },
+        { "word": "profitable", "trans": "利益を生む" },
+        { "word": "wealthy", "trans": "裕福な" }
+      ],
+      "related": [
+        { "word": "bankruptcy", "trans": "名詞：破産" },
+        { "word": "fund", "trans": "名詞：資金" },
+        { "word": "stock", "trans": "名詞：株式" },
+        { "word": "fortune", "trans": "名詞：財産" },
+        { "word": "poverty", "trans": "名詞：貧困" }
+      ]
     }
   ]
 }
