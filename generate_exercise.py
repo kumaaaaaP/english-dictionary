@@ -114,6 +114,7 @@ def generate_html():
         </div>
         <button class="btn" style="margin-top:30px; background:#6c757d;" onclick="location.reload()">終了して戻る</button>
     </div>
+    <a href="index.html" class="index-link">ホームに戻る</a>
 </div>
 
 <script>
