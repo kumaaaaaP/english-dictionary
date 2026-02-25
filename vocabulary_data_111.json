@@ -2585,6 +2585,1288 @@
       "related": [
         {"word": "leap year", "trans": "名詞：うるう年"}
       ]
+    },
+    {
+      "number": 11167,
+      "word": "grab",
+      "pos": "動詞",
+      "meaning": "①（ぐいっと）～をつかむ ②（急いで食事，睡眠）をとる",
+      "nuance": "乱暴に、あるいは素早く何かを手に取るイメージです。日常会話では「クイックに何かをする」際によく使われます。",
+      "example_sections": [
+        {
+          "title": "「つかむ」の例文",
+          "examples": [
+            {
+              "en": "He grabbed my arm to stop me from falling.",
+              "ja": "彼が転ばないように私の腕をぐいっとつかんだ。",
+              "highlight": "grabbed"
+            }
+          ]
+        },
+        {
+          "title": "「急いで～する」の例文",
+          "examples": [
+            {
+              "en": "Let's grab a quick bite before the movie starts.",
+              "ja": "映画が始まる前に軽く食事を済ませよう。",
+              "highlight": "grab"
+            },
+            {
+              "en": "I managed to grab a few hours of sleep on the plane.",
+              "ja": "飛行機でなんとか数時間の睡眠をとることができた。",
+              "highlight": "grab"
+            }
+          ]
+        }
+      ],
+      "etymology": "ゲルマン語源（つかむ、かき集める）",
+      "synonyms": [
+        {"word": "seize", "trans": "ぎゅっとつかむ"},
+        {"word": "snatch", "trans": "ひったくる"},
+        {"word": "grasp", "trans": "握る、理解する"}
+      ],
+      "antonyms": [
+        {"word": "release", "trans": "放す"},
+        {"word": "drop", "trans": "落とす"}
+      ],
+      "related": [
+        {"word": "grabby", "trans": "形容詞：欲張りな"}
+      ]
+    },
+    {
+      "number": 11168,
+      "word": "seize",
+      "pos": "動詞",
+      "meaning": "①～をつかむ ②（犯人）を捕らえる、(麻薬など)を押収する",
+      "nuance": "grabよりも力が強く、法的な権力や突然の力行使を伴う「強奪・押収・逮捕」のニュアンスが含まれます。",
+      "example_sections": [
+        {
+          "title": "「つかむ・捕らえる」の例文",
+          "examples": [
+            {
+              "en": "She seized the opportunity to study abroad.",
+              "ja": "彼女は留学するチャンスをつかみ取った。",
+              "highlight": "seized"
+            },
+            {
+              "en": "The police seized the suspect at the airport.",
+              "ja": "警察は空港で容疑者を捕らえた。",
+              "highlight": "seized"
+            }
+          ]
+        },
+        {
+          "title": "「押収する」の例文",
+          "examples": [
+            {
+              "en": "Customs officers seized a large amount of illegal drugs.",
+              "ja": "税関職員が大量の違法薬物を押収した。",
+              "highlight": "seized"
+            }
+          ]
+        }
+      ],
+      "etymology": "古フランス語 seisir（所有権を与える、占有する）",
+      "synonyms": [
+        {"word": "capture", "trans": "捕らえる"},
+        {"word": "confiscate", "trans": "没収する"},
+        {"word": "clutch", "trans": "ぐっと握る"}
+      ],
+      "antonyms": [
+        {"word": "liberate", "trans": "解放する"},
+        {"word": "surrender", "trans": "明け渡す"}
+      ],
+      "related": [
+        {"word": "seizure", "trans": "名詞：押収、(病気の)発作"}
+      ]
+    },
+    {
+      "number": 11169,
+      "word": "cast",
+      "pos": "動詞",
+      "meaning": "①～を投げる ②（光・影など）を投げかける ③～に役を与える",
+      "nuance": "軽いものをひょいと投げる、あるいは光や視線を特定の方に向けるイメージです。",
+      "example_sections": [
+        {
+          "title": "「投げる・投げかける」の例文",
+          "examples": [
+            {
+              "en": "The fisherman cast his line into the water.",
+              "ja": "釣り人は釣り糸を水中に投げ入れた。",
+              "highlight": "cast"
+            },
+            {
+              "en": "The setting sun cast long shadows across the field.",
+              "ja": "沈みゆく太陽が野原に長い影を投げかけた。",
+              "highlight": "cast"
+            }
+          ]
+        },
+        {
+          "title": "「役を与える」の例文",
+          "examples": [
+            {
+              "en": "She was cast as the lead in the new musical.",
+              "ja": "彼女は新しいミュージカルの主役に配役された。",
+              "highlight": "cast"
+            }
+          ]
+        }
+      ],
+      "etymology": "古ノルド語 kasta（投げる）",
+      "synonyms": [
+        {"word": "throw", "trans": "投げる"},
+        {"word": "project", "trans": "投影する"},
+        {"word": "allocate", "trans": "割り当てる"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "broadcast", "trans": "動詞：放送する（広く投げる）"},
+        {"word": "forecast", "trans": "名詞：予測（前もって投げる）"}
+      ]
+    },
+    {
+      "number": 11170,
+      "word": "slap",
+      "pos": "動詞、名詞",
+      "meaning": "【他】～を平手打ちする 【名】平手打ち",
+      "nuance": "手のひらでピシャリと叩く動作。物理的な攻撃だけでなく、厳しい批判の比喩としても使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "She slapped him across the face for his rude comment.",
+              "ja": "彼の失礼な発言に対して、彼女は彼の顔を平手打ちした。",
+              "highlight": "slapped"
+            },
+            {
+              "en": "He slapped the mosquito on his arm.",
+              "ja": "彼は腕に止まった蚊をピシャリと叩いた。",
+              "highlight": "slapped"
+            }
+          ]
+        }
+      ],
+      "etymology": "擬音語的（ピシャッという音から）",
+      "synonyms": [
+        {"word": "smack", "trans": "叩く"},
+        {"word": "strike", "trans": "打つ"},
+        {"word": "hit", "trans": "当てる"}
+      ],
+      "antonyms": [
+        {"word": "caress", "trans": "愛撫する"},
+        {"word": "stroke", "trans": "なでる"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11171,
+      "word": "stun",
+      "pos": "動詞",
+      "meaning": "①～を気絶させる ②～をぼう然とさせる",
+      "nuance": "衝撃（物理的または精神的）によって、一時的に意識を失わせたり、言葉を失わせたりすることを指します。",
+      "example_sections": [
+        {
+          "title": "「気絶させる」の例文",
+          "examples": [
+            {
+              "en": "The blow to the head stunned him for a moment.",
+              "ja": "頭部への打撃で、彼は一瞬気が遠くなった（気絶した）。",
+              "highlight": "stunned"
+            }
+          ]
+        },
+        {
+          "title": "「ぼう然とさせる」の例文",
+          "examples": [
+            {
+              "en": "The news of his sudden death stunned the entire community.",
+              "ja": "彼の突然の死の知らせは、地域全体をぼう然とさせた。",
+              "highlight": "stunned"
+            }
+          ]
+        }
+      ],
+      "etymology": "俗ラテン語 ex-（外に）+ tonare（雷が鳴る）→雷に打たれたような衝撃",
+      "synonyms": [
+        {"word": "shock", "trans": "ショックを与える"},
+        {"word": "astound", "trans": "ひどく驚かせる"},
+        {"word": "daze", "trans": "ぼうっとさせる"}
+      ],
+      "antonyms": [
+        {"word": "bore", "trans": "退屈させる"},
+        {"word": "calm", "trans": "落ち着かせる"}
+      ],
+      "related": [
+        {"word": "stunning", "trans": "形容詞：驚くほど美しい、素晴らしい"}
+      ]
+    },
+    {
+      "number": 11172,
+      "word": "illuminate",
+      "pos": "動詞",
+      "meaning": "①～を照らす ②（問題など）を解明する、明らかにする",
+      "nuance": "光を当てて明るくすること。転じて、理解が難しいことに「知性の光」を当てて分かりやすくすることを指します。",
+      "example_sections": [
+        {
+          "title": "「照らす」の例文",
+          "examples": [
+            {
+              "en": "The stadium was illuminated by massive floodlights.",
+              "ja": "スタジアムは巨大な投光器で照らされていた。",
+              "highlight": "illuminated"
+            }
+          ]
+        },
+        {
+          "title": "「解明する」の例文",
+          "examples": [
+            {
+              "en": "The discover of the new documents helped to illuminate the history of the war.",
+              "ja": "新資料の発見は、戦争の歴史を解明する助けとなった。",
+              "highlight": "illuminate"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）+ lumen（光）",
+      "synonyms": [
+        {"word": "light up", "trans": "照らす"},
+        {"word": "clarify", "trans": "明確にする"},
+        {"word": "elucidate", "trans": "説明する"}
+      ],
+      "antonyms": [
+        {"word": "darken", "trans": "暗くする"},
+        {"word": "obscure", "trans": "曖昧にする"}
+      ],
+      "related": [
+        {"word": "illumination", "trans": "名詞：照明、解明"}
+      ]
+    },
+    {
+      "number": 11173,
+      "word": "mend",
+      "pos": "動詞",
+      "meaning": "～を修繕する、直す",
+      "nuance": "壊れたもの（特に衣類や道具、あるいは壊れた関係）を修理して再び使えるようにすることを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Can you mend this hole in my sock?",
+              "ja": "靴下のこの穴を直してくれますか？",
+              "highlight": "mend"
+            },
+            {
+              "en": "They are trying to mend their broken relationship.",
+              "ja": "彼らは壊れた関係を修復しようとしている。",
+              "highlight": "mend"
+            }
+          ]
+        }
+      ],
+      "etymology": "amend（修正する）の短縮形",
+      "synonyms": [
+        {"word": "repair", "trans": "修理する"},
+        {"word": "fix", "trans": "直す"},
+        {"word": "restore", "trans": "修復する"}
+      ],
+      "antonyms": [
+        {"word": "break", "trans": "壊す"},
+        {"word": "damage", "trans": "損傷させる"}
+      ],
+      "related": [
+        {"word": "amendment", "trans": "名詞：修正案"}
+      ]
+    },
+    {
+      "number": 11174,
+      "word": "react",
+      "pos": "動詞",
+      "meaning": "（to ～）（～に）反応する",
+      "nuance": "外部からの刺激や出来事に対して、反射的あるいは意識的に応対することを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "How did he react to the news of your promotion?",
+              "ja": "君の昇進のニュースに彼はどう反応した？",
+              "highlight": "react"
+            },
+            {
+              "en": "The stock market reacted negatively to the tax increase.",
+              "ja": "株式市場は増税に対して否定的に反応した。",
+              "highlight": "reacted"
+            }
+          ]
+        }
+      ],
+      "etymology": "re（後ろに、対抗して）+ act（行動する）",
+      "synonyms": [
+        {"word": "respond", "trans": "返答する、反応する"},
+        {"word": "answer", "trans": "答える"},
+        {"word": "behave", "trans": "振る舞う"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "reaction", "trans": "名詞：反応"},
+        {"word": "reactive", "trans": "形容詞：反応的な"}
+      ]
+    },
+    {
+      "number": 11175,
+      "word": "endure",
+      "pos": "動詞",
+      "meaning": "（長期にわたり）～に耐える、持ち堪える",
+      "nuance": "苦痛や困難な状況を、あきらめずにじっと我慢して耐え抜くイメージです。状態が「持続する」という意味もあります。",
+      "example_sections": [
+        {
+          "title": "「耐える」の例文",
+          "examples": [
+            {
+              "en": "She had to endure years of hardship before becoming successful.",
+              "ja": "彼女は成功する前に、何年もの苦難に耐えなければならなかった。",
+              "highlight": "endure"
+            }
+          ]
+        },
+        {
+          "title": "「持続する」の例文",
+          "examples": [
+            {
+              "en": "The traditions of the village have endured for centuries.",
+              "ja": "その村の伝統は何世紀にもわたって続いてきた。",
+              "highlight": "endured"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）+ durus（固い）→固くなる、耐える",
+      "synonyms": [
+        {"word": "tolerate", "trans": "許容する、耐える"},
+        {"word": "withstand", "trans": "抵抗する、耐える"},
+        {"word": "bear", "trans": "耐える、支える"}
+      ],
+      "antonyms": [
+        {"word": "surrender", "trans": "屈する"},
+        {"word": "quit", "trans": "やめる"},
+        {"word": "collapse", "trans": "崩壊する"}
+      ],
+      "related": [
+        {"word": "endurance", "trans": "名詞：忍耐（力）"},
+        {"word": "during", "trans": "前置詞：～の間（持続する）"}
+      ]
+    },
+    {
+      "number": 11176,
+      "word": "encounter",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①～に偶然出会う ②（問題など）に遭う 【名】③出会い",
+      "nuance": "予期していなかった人や、困難な状況に直面することを指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "We encountered some unexpected difficulties during the project.",
+              "ja": "プロジェクト中、予期せぬ困難にいくつか遭った。",
+              "highlight": "encountered"
+            },
+            {
+              "en": "I encountered an old friend on the way to the office.",
+              "ja": "会社に行く途中で旧友に偶然会った。",
+              "highlight": "encountered"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "It was his first encounter with a wild bear.",
+              "ja": "それが彼にとって野生のクマとの最初の遭遇だった。",
+              "highlight": "encounter"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）+ contra（向かって）→対面する",
+      "synonyms": [
+        {"word": "meet", "trans": "会う"},
+        {"word": "face", "trans": "直面する"},
+        {"word": "confront", "trans": "立ち向かう"}
+      ],
+      "antonyms": [
+        {"word": "avoid", "trans": "避ける"},
+        {"word": "evade", "trans": "回避する"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11177,
+      "word": "neglect",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①～を怠る，放置する ②（子どもなど）の世話をしない 【名】③放置、無視",
+      "nuance": "注意を払うべきことに十分な注意を払わず、ほったらかしにすることを指します。特に責任放棄のニュアンスが強いです。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "He neglected to lock the door when he left.",
+              "ja": "彼は外出するとき、ドアに鍵をかけるのを怠った。",
+              "highlight": "neglected"
+            },
+            {
+              "en": "Don't neglect your health for the sake of your work.",
+              "ja": "仕事のために健康を疎かに（放置）してはいけない。",
+              "highlight": "neglect"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "The old house fell into ruin due to years of neglect.",
+              "ja": "その古い家は何年もの放置により廃墟となった。",
+              "highlight": "neglect"
+            }
+          ]
+        }
+      ],
+      "etymology": "neg（否定）+ legere（選ぶ、拾う）→拾わない、無視する",
+      "synonyms": [
+        {"word": "ignore", "trans": "無視する"},
+        {"word": "disregard", "trans": "軽視する"},
+        {"word": "overlook", "trans": "見落とす"}
+      ],
+      "antonyms": [
+        {"word": "cherish", "trans": "大切にする"},
+        {"word": "attend", "trans": "注意を払う"},
+        {"word": "care", "trans": "世話をする"}
+      ],
+      "related": [
+        {"word": "negligent", "trans": "形容詞：不注意な、怠慢な"}
+      ]
+    },
+    {
+      "number": 11178,
+      "word": "undergo",
+      "pos": "動詞",
+      "meaning": "～（変化，試練，手術など）を経験する、受ける",
+      "nuance": "主に困難なことや、大きな変化を伴うプロセスを「通り抜ける」というイメージで使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The patient will undergo a major operation tomorrow.",
+              "ja": "その患者は明日、大きな手術を受ける。",
+              "highlight": "undergo"
+            },
+            {
+              "en": "The city has undergone a huge transformation in recent years.",
+              "ja": "その都市は近年、巨大な変容を経験した。",
+              "highlight": "undergone"
+            }
+          ]
+        }
+      ],
+      "etymology": "under（下に）+ go（行く）→重荷の下を通っていく",
+      "synonyms": [
+        {"word": "experience", "trans": "経験する"},
+        {"word": "sustain", "trans": "被る"},
+        {"word": "go through", "trans": "経験する"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11179,
+      "word": "trace",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①～を捜し出す ②～の追跡調査をする 【名】③（微妙な）跡、形跡",
+      "nuance": "足跡や証拠をたどって、起源や現在の居場所を突き止めるイメージです。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "Police are trying to trace the missing child.",
+              "ja": "警察は行方不明の子供を捜し出そうとしている。",
+              "highlight": "trace"
+            },
+            {
+              "en": "The custom can be traced back to the Middle Ages.",
+              "ja": "その習慣は中世までさかのぼることができる。",
+              "highlight": "traced"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "There was a trace of perfume in the air.",
+              "ja": "空気中にわずかな香水の跡（残り香）があった。",
+              "highlight": "trace"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 trahere（引く）",
+      "synonyms": [
+        {"word": "track", "trans": "追跡する"},
+        {"word": "detect", "trans": "探知する"},
+        {"word": "vestige", "trans": "名詞：痕跡"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11180,
+      "word": "conduct",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①～を行う ②（電気，熱）を伝える 【名】③行為、振る舞い",
+      "nuance": "動詞では計画的に何かを実行すること、または物質を導くこと。名詞では道徳的な観点からの行動を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The scientists conducted an experiment on the new drug.",
+              "ja": "科学者たちは新薬に関する実験を行った。",
+              "highlight": "conducted"
+            },
+            {
+              "en": "Copper conducts electricity very well.",
+              "ja": "銅は電気を非常によく伝える（導く）。",
+              "highlight": "conducts"
+            }
+          ]
+        },
+        {
+          "title": "名詞の例文",
+          "examples": [
+            {
+              "en": "His conduct at the party was professional.",
+              "ja": "パーティーでの彼の振る舞いはプロフェッショナルだった。",
+              "highlight": "conduct"
+            }
+          ]
+        }
+      ],
+      "etymology": "con（共に）+ ducere（導く）",
+      "synonyms": [
+        {"word": "carry out", "trans": "実行する"},
+        {"word": "transmit", "trans": "伝える"},
+        {"word": "behavior", "trans": "名詞：行動"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "conductor", "trans": "名詞：指揮者、車掌、伝導体"}
+      ]
+    },
+    {
+      "number": 11181,
+      "word": "emerge",
+      "pos": "動詞",
+      "meaning": "①（隠れていたものが）現れる ②（国家，問題などが）台頭する、明らかになる",
+      "nuance": "中に入っていたものが外に出てくるイメージ。物理的な出現だけでなく、無名の状態から有名になる際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The sun emerged from behind the clouds.",
+              "ja": "太陽が雲の後ろから現れた。",
+              "highlight": "emerged"
+            },
+            {
+              "en": "Japan emerged as a major economic power after the war.",
+              "ja": "日本は戦後、主要な経済大国として台頭した。",
+              "highlight": "emerged"
+            }
+          ]
+        }
+      ],
+      "etymology": "e（外に）+ mergere（浸す、沈む）→沈んでいたものが外へ",
+      "synonyms": [
+        {"word": "appear", "trans": "現れる"},
+        {"word": "surface", "trans": "表面化する"},
+        {"word": "arise", "trans": "発生する"}
+      ],
+      "antonyms": [
+        {"word": "vanish", "trans": "消える"},
+        {"word": "disappear", "trans": "見えなくなる"},
+        {"word": "fade", "trans": "薄れる"}
+      ],
+      "related": [
+        {"word": "emergency", "trans": "名詞：緊急事態（突然現れること）"},
+        {"word": "emergence", "trans": "名詞：出現"}
+      ]
+    },
+    {
+      "number": 11182,
+      "word": "unfold",
+      "pos": "動詞",
+      "meaning": "【自】展開する，はっきりしてくる 【他】②～を広げる",
+      "nuance": "畳んであったものが開く(foldの反対)イメージ。物語が進行したり、計画が明らかになったりする様子を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The drama began to unfold in the second act.",
+              "ja": "第2幕でドラマが展開し始めた。",
+              "highlight": "unfold"
+            },
+            {
+              "en": "She unfolded the letter and read it carefully.",
+              "ja": "彼女は手紙を広げて注意深く読んだ。",
+              "highlight": "unfolded"
+            }
+          ]
+        }
+      ],
+      "etymology": "un（否定）+ fold（折る）",
+      "synonyms": [
+        {"word": "develop", "trans": "発展する"},
+        {"word": "expand", "trans": "拡大する"},
+        {"word": "open", "trans": "開く"}
+      ],
+      "antonyms": [
+        {"word": "fold", "trans": "折る"},
+        {"word": "conceal", "trans": "隠す"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11183,
+      "word": "derive",
+      "pos": "動詞",
+      "meaning": "【自】（from ～）（～に）由来する 【他】～を引き出す，得る",
+      "nuance": "源泉から何か（利益、意味、喜びなど）が流れ出てくるイメージです。",
+      "example_sections": [
+        {
+          "title": "「由来する」の例文",
+          "examples": [
+            {
+              "en": "Many English words are derived from Latin.",
+              "ja": "多くの英単語はラテン語に由来している。",
+              "highlight": "derived"
+            }
+          ]
+        },
+        {
+          "title": "「引き出す・得る」の例文",
+          "examples": [
+            {
+              "en": "She derives great pleasure from gardening.",
+              "ja": "彼女はガーデニングから大きな喜びを得ている。",
+              "highlight": "derives"
+            }
+          ]
+        }
+      ],
+      "etymology": "de（～から）+ rivus（川）→川から水を引く",
+      "synonyms": [
+        {"word": "stem", "trans": "由来する"},
+        {"word": "obtain", "trans": "得る"},
+        {"word": "originate", "trans": "始まる"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "derivative", "trans": "形容詞：派生的な"}
+      ]
+    },
+    {
+      "number": 11184,
+      "word": "possess",
+      "pos": "動詞",
+      "meaning": "～を所有している、(能力などを)持っている",
+      "nuance": "haveよりもフォーマルで、財産や法的な所有、または天賦の才能などを備えていることを強調します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The company possesses a large amount of land in the area.",
+              "ja": "その会社はその地域に広大な土地を所有している。",
+              "highlight": "possesses"
+            },
+            {
+              "en": "She possesses exceptional musical talent.",
+              "ja": "彼女は並外れた音楽の才能を持っている。",
+              "highlight": "possesses"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 possidere（占有する）",
+      "synonyms": [
+        {"word": "own", "trans": "所有する"},
+        {"word": "hold", "trans": "保持する"},
+        {"word": "have", "trans": "持っている"}
+      ],
+      "antonyms": [
+        {"word": "lack", "trans": "欠いている"},
+        {"word": "lose", "trans": "失う"}
+      ],
+      "related": [
+        {"word": "possession", "trans": "名詞：所有物"}
+      ]
+    },
+    {
+      "number": 11185,
+      "word": "retain",
+      "pos": "動詞",
+      "meaning": "～を保持する、保つ",
+      "nuance": "失うことなく、元の状態や位置に留めておくイメージです。記憶を留める際にも使われます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The sea retains heat longer than the land.",
+              "ja": "海は陸よりも長く熱を保持する。",
+              "highlight": "retains"
+            },
+            {
+              "en": "I find it hard to retain dates and names.",
+              "ja": "私は日付や名前を覚えておく（保持する）のが苦手だ。",
+              "highlight": "retain"
+            }
+          ]
+        }
+      ],
+      "etymology": "re（後ろに）+ tenere（保つ）",
+      "synonyms": [
+        {"word": "keep", "trans": "保つ"},
+        {"word": "maintain", "trans": "維持する"},
+        {"word": "preserve", "trans": "保存する"}
+      ],
+      "antonyms": [
+        {"word": "discard", "trans": "捨てる"},
+        {"word": "release", "trans": "放す"}
+      ],
+      "related": [
+        {"word": "retention", "trans": "名詞：保持"}
+      ]
+    },
+    {
+      "number": 11186,
+      "word": "secure",
+      "pos": "動詞、形容詞",
+      "meaning": "【他】①（努力して）を確保する、守る 【形】②安全な、しっかりした",
+      "nuance": "動詞では、手に入れるのが難しいものを「確実にする・手に入れる」こと。形容詞では不安がない状態を指します。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "He managed to secure a seat on the last train.",
+              "ja": "彼はなんとか最終電車の座席を確保した。",
+              "highlight": "secure"
+            }
+          ]
+        },
+        {
+          "title": "形容詞の例文",
+          "examples": [
+            {
+              "en": "Make sure the ladder is secure before climbing.",
+              "ja": "登る前に、はしごがしっかり固定されている（安全である）か確認しなさい。",
+              "highlight": "secure"
+            },
+            {
+              "en": "I feel secure in this neighborhood even at night.",
+              "ja": "この近所なら夜でも安全（安心）だと感じる。",
+              "highlight": "secure"
+            }
+          ]
+        }
+      ],
+      "etymology": "se（離れて）+ cura（心配）→心配のない",
+      "synonyms": [
+        {"word": "obtain", "trans": "得る"},
+        {"word": "ensure", "trans": "確実にする"},
+        {"word": "safe", "trans": "安全な"}
+      ],
+      "antonyms": [
+        {"word": "insecure", "trans": "不安定な"},
+        {"word": "vulnerable", "trans": "脆弱な"}
+      ],
+      "related": [
+        {"word": "security", "trans": "名詞：安全、警備"}
+      ]
+    },
+    {
+      "number": 11187,
+      "word": "capture",
+      "pos": "動詞、名詞",
+      "meaning": "【他】①～を捕らえる ②(心・映像など)を取り込む 【名】③捕獲、攻略",
+      "nuance": "力ずくで捕まえることのほか、映画が「雰囲気を捉える」といった抽象的な意味でも多用されます。",
+      "example_sections": [
+        {
+          "title": "動詞の例文",
+          "examples": [
+            {
+              "en": "The soldier was captured by the enemy.",
+              "ja": "その兵士は敵に捕らえられた。",
+              "highlight": "captured"
+            },
+            {
+              "en": "The photograph captured the joy on their faces.",
+              "ja": "その写真は、彼らの顔にある喜びを（うまく）捉えていた。",
+              "highlight": "captured"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 capere（取る）",
+      "synonyms": [
+        {"word": "catch", "trans": "捕まえる"},
+        {"word": "seize", "trans": "つかむ"},
+        {"word": "arrest", "trans": "逮捕する"}
+      ],
+      "antonyms": [
+        {"word": "release", "trans": "解放する"},
+        {"word": "miss", "trans": "逃す"}
+      ],
+      "related": [
+        {"word": "captive", "trans": "名詞：捕虜"}
+      ]
+    },
+    {
+      "number": 11188,
+      "word": "inquiry",
+      "pos": "名詞",
+      "meaning": "①調査 ②質問、問い合わせ",
+      "nuance": "真実を知るための公的な「調査(into)」や、情報提供を求める「問い合わせ」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The government has launched an inquiry into the cause of the accident.",
+              "ja": "政府は事故の原因に関する調査を開始した。",
+              "highlight": "inquiry"
+            },
+            {
+              "en": "We have received several inquiries about the new product.",
+              "ja": "新製品について、いくつかの問い合わせを受けている。",
+              "highlight": "inquiries"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）+ quaerere（探す、問う）",
+      "synonyms": [
+        {"word": "investigation", "trans": "調査"},
+        {"word": "question", "trans": "質問"},
+        {"word": "query", "trans": "問い合わせ"}
+      ],
+      "antonyms": [
+        {"word": "answer", "trans": "回答"}
+      ],
+      "related": [
+        {"word": "inquire", "trans": "動詞：尋ねる"}
+      ]
+    },
+    {
+      "number": 11189,
+      "word": "specialize",
+      "pos": "動詞",
+      "meaning": "（in ～） ①（～を）専攻する ②（～を）専門にする",
+      "nuance": "特定の分野に絞って、深い知識や技術を持つことを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I want to specialize in international law at university.",
+              "ja": "大学では国際法を専攻したい。",
+              "highlight": "specialize"
+            },
+            {
+              "en": "This restaurant specializes in seafood dishes.",
+              "ja": "このレストランはシーフード料理を専門にしている。",
+              "highlight": "specializes"
+            }
+          ]
+        }
+      ],
+      "etymology": "special（特別な）+ ize（～にする）",
+      "synonyms": [
+        {"word": "major", "trans": "専攻する"},
+        {"word": "concentrate", "trans": "集中する"}
+      ],
+      "antonyms": [
+        {"word": "generalize", "trans": "一般化する"}
+      ],
+      "related": [
+        {"word": "specialist", "trans": "名詞：専門家"},
+        {"word": "specialty", "trans": "名詞：専門、特産品"}
+      ]
+    },
+    {
+      "number": 11190,
+      "word": "semester",
+      "pos": "名詞",
+      "meaning": "（2学期制の）学期",
+      "nuance": "通常、1年間を2つに分けたうちの「半年間」を指します。3学期制は term と呼ぶのが一般的です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The spring semester starts in April in Japan.",
+              "ja": "日本では春学期は4月に始まる。",
+              "highlight": "semester"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 sex（6）+ mensis（月）→6ヶ月間",
+      "synonyms": [
+        {"word": "term", "trans": "学期、期間"}
+      ],
+      "antonyms": [],
+      "related": []
+    },
+    {
+      "number": 11191,
+      "word": "biology",
+      "pos": "名詞",
+      "meaning": "生物学",
+      "nuance": "生命現象や生物の構造を研究する科学分野です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Biology is the study of living organisms.",
+              "ja": "生物学とは、生命体（生物）に関する研究である。",
+              "highlight": "Biology"
+            }
+          ]
+        }
+      ],
+      "etymology": "bio（命）+ logy（学問）",
+      "synonyms": [],
+      "antonyms": [],
+      "related": [
+        {"word": "biological", "trans": "形容詞：生物学的な"},
+        {"word": "biologist", "trans": "名詞：生物学者"}
+      ]
+    },
+    {
+      "number": 11192,
+      "word": "ecology",
+      "pos": "名詞",
+      "meaning": "生態（学）、環境保護",
+      "nuance": "生物と環境の相互関係を研究する学問です。最近では「エコ」として環境に配慮した行動も指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The dam will affect the ecology of the river.",
+              "ja": "ダムはその川の生態系に影響を与えるだろう。",
+              "highlight": "ecology"
+            }
+          ]
+        }
+      ],
+      "etymology": "oikos（家）+ logy（学問）→生物の住処を学ぶ",
+      "synonyms": [
+        {"word": "ecosystem", "trans": "生態系"},
+        {"word": "environment", "trans": "環境"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "ecological", "trans": "形容詞：生態学の"},
+        {"word": "ecologist", "trans": "名詞：生態学者"}
+      ]
+    },
+    {
+      "number": 11193,
+      "word": "philosophy",
+      "pos": "名詞",
+      "meaning": "①哲学 ②人生観、考え方",
+      "nuance": "学問としての「哲学」だけでなく、個人や企業が持つ「基本的な信念」も指します。",
+      "example_sections": [
+        {
+          "title": "「哲学」の例文",
+          "examples": [
+            {
+              "en": "He studied Greek philosophy at Oxford.",
+              "ja": "彼はオックスフォードでギリシャ哲学を学んだ。",
+              "highlight": "philosophy"
+            }
+          ]
+        },
+        {
+          "title": "「考え方」の例文",
+          "examples": [
+            {
+              "en": "Her philosophy is to live every day to the fullest.",
+              "ja": "彼女の人生哲学は、毎日を精一杯生きることだ。",
+              "highlight": "philosophy"
+            }
+          ]
+        }
+      ],
+      "etymology": "philo（愛する）+ sophia（知恵）",
+      "synonyms": [
+        {"word": "ideology", "trans": "思想"},
+        {"word": "viewpoint", "trans": "観点"},
+        {"word": "creed", "trans": "信念"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "philosopher", "trans": "名詞：哲学者"},
+        {"word": "philosophical", "trans": "形容詞：哲学的な"}
+      ]
+    },
+    {
+      "number": 11194,
+      "word": "geography",
+      "pos": "名詞",
+      "meaning": "地理（学）、地形",
+      "nuance": "地球の表面の様子や、場所と人の関係を研究する学問です。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "In geography class, we learned about the mountain ranges of Asia.",
+              "ja": "地理の授業で、私たちはアジアの山脈について学んだ。",
+              "highlight": "geography"
+            }
+          ]
+        }
+      ],
+      "etymology": "geo（地球）+ graphy（記述）",
+      "synonyms": [
+        {"word": "topography", "trans": "地形"},
+        {"word": "terrain", "trans": "地勢"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "geographical", "trans": "形容詞：地理的な"}
+      ]
+    },
+    {
+      "number": 11195,
+      "word": "psychology",
+      "pos": "名詞",
+      "meaning": "①心理学 ②心理、精神状態",
+      "nuance": "心と行動のメカニズムを研究する学問、および個人の心の動きそのものを指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I'm interested in the psychology of consumer behavior.",
+              "ja": "私は消費者行動の心理（学）に興味がある。",
+              "highlight": "psychology"
+            }
+          ]
+        }
+      ],
+      "etymology": "psyche（魂、心）+ logy（学問）",
+      "synonyms": [
+        {"word": "mindset", "trans": "考え方"},
+        {"word": "mentality", "trans": "精神構造"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "psychologist", "trans": "名詞：心理学者"},
+        {"word": "psychological", "trans": "形容詞：心理的な"}
+      ]
+    },
+    {
+      "number": 11196,
+      "word": "institution",
+      "pos": "名詞",
+      "meaning": "①（大学，病院などの）機関、施設 ②（結婚などの）制度、慣習",
+      "nuance": "特定の目的のために設立された組織や、社会的に確立された仕組みを指します。",
+      "example_sections": [
+        {
+          "title": "「機関」の例文",
+          "examples": [
+            {
+              "en": "The museum is a world-class educational institution.",
+              "ja": "その美術館は世界クラスの教育機関である。",
+              "highlight": "institution"
+            }
+          ]
+        },
+        {
+          "title": "「制度」の例文",
+          "examples": [
+            {
+              "en": "Marriage is a social institution that has changed over time.",
+              "ja": "結婚は、時代とともに変化してきた社会的制度である。",
+              "highlight": "institution"
+            }
+          ]
+        }
+      ],
+      "etymology": "in（中に）+ statuere（立てる）",
+      "synonyms": [
+        {"word": "establishment", "trans": "施設、設立"},
+        {"word": "organization", "trans": "組織"},
+        {"word": "system", "trans": "体系、制度"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "institutional", "trans": "形容詞：制度の、機関の"},
+        {"word": "institute", "trans": "名詞：研究所、学会"}
+      ]
+    },
+    {
+      "number": 11197,
+      "word": "dormitory",
+      "pos": "名詞",
+      "meaning": "寮",
+      "nuance": "学生や社員が共同で生活する宿泊施設を指します。アメリカ英語ではよく dorm と略されます。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "I lived in a university dormitory during my freshman year.",
+              "ja": "1年生のとき、大学の寮に住んでいた。",
+              "highlight": "dormitory"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 dormire（眠る）+ tory（場所）",
+      "synonyms": [
+        {"word": "hostel", "trans": "宿舎"},
+        {"word": "hall of residence", "trans": "英：学生寮"}
+      ],
+      "antonyms": [],
+      "related": [
+        {"word": "dormant", "trans": "形容詞：休眠状態の"}
+      ]
+    },
+    {
+      "number": 11198,
+      "word": "notion",
+      "pos": "名詞",
+      "meaning": "考え、見解、漠然とした考え",
+      "nuance": "根拠がそれほど明確ではない、頭にふと浮かんだ考えや、社会的に共有されている概念を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "He has some strange notion that money can buy happiness.",
+              "ja": "彼は、金で幸せが買えるという妙な考えを持っている。",
+              "highlight": "notion"
+            },
+            {
+              "en": "I didn't have the slightest notion of what he meant.",
+              "ja": "彼が何を言いたいのか、さっぱり見当もつかなかった。",
+              "highlight": "notion"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 notus（知られた）",
+      "synonyms": [
+        {"word": "idea", "trans": "考え"},
+        {"word": "belief", "trans": "信念"},
+        {"word": "impression", "trans": "印象"}
+      ],
+      "antonyms": [
+        {"word": "fact", "trans": "事実"},
+        {"word": "reality", "trans": "現実"}
+      ],
+      "related": []
+    },
+    {
+      "number": 11199,
+      "word": "concept",
+      "pos": "名詞",
+      "meaning": "概念、観念、考え",
+      "nuance": "notionよりも論理的・体系的に整理された「考え方・枠組み」を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "The concept of time is difficult for young children to understand.",
+              "ja": "時間の概念は、小さな子供には理解するのが難しい。",
+              "highlight": "concept"
+            },
+            {
+              "en": "The marketing team came up with a new concept for the product.",
+              "ja": "マーケティングチームはその製品の新しいコンセプト（構想）を考え出した。",
+              "highlight": "concept"
+            }
+          ]
+        }
+      ],
+      "etymology": "con（共に）+ capere（取る）→心の中で捉える",
+      "synonyms": [
+        {"word": "theory", "trans": "理論"},
+        {"word": "abstraction", "trans": "抽象的概念"},
+        {"word": "framework", "trans": "枠組み"}
+      ],
+      "antonyms": [
+        {"word": "tangible", "trans": "具体的なもの"}
+      ],
+      "related": [
+        {"word": "conceptual", "trans": "形容詞：概念上の"},
+        {"word": "conceive", "trans": "動詞：思いつく、妊娠する"}
+      ]
+    },
+    {
+      "number": 11200,
+      "word": "meditation",
+      "pos": "名詞",
+      "meaning": "①瞑想 ②熟考",
+      "nuance": "心を静めて精神を集中させる「瞑想」と、ある問題について深くじっくりと「考えること」の両方を指します。",
+      "example_sections": [
+        {
+          "title": "例文",
+          "examples": [
+            {
+              "en": "Daily meditation can help reduce stress levels.",
+              "ja": "毎日の瞑想はストレスを軽減するのに役立つ。",
+              "highlight": "meditation"
+            },
+            {
+              "en": "She spent the afternoon in deep meditation on her future.",
+              "ja": "彼女は午後の間、自分の将来について深く熟考して過ごした。",
+              "highlight": "meditation"
+            }
+          ]
+        }
+      ],
+      "etymology": "ラテン語 meditari（考える、測定する）",
+      "synonyms": [
+        {"word": "contemplation", "trans": "熟考、沈思"},
+        {"word": "reflection", "trans": "内省"},
+        {"word": "mindfulness", "trans": "マインドフルネス"}
+      ],
+      "antonyms": [
+        {"word": "distraction", "trans": "注意散漫"},
+        {"word": "agitation", "trans": "動揺"}
+      ],
+      "related": [
+        {"word": "meditate", "trans": "動詞：瞑想する"}
+      ]
     }
   ]
 }
