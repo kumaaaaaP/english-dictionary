@@ -4,403 +4,385 @@
       "number": 11001,
       "word": "propose",
       "pos": "動詞",
-      "meaning": "〜を提案する、結婚を申し込む",
-      "nuance": "フォーマルな提案や、人生の重大な申し出（プロポーズ）に使われます。計画や案を「表に出す」という感覚です。",
+      "meaning": "①〜を提案する ②（to ～）〜に結婚を申し込む",
+      "nuance": "一般的な提案から、結婚の申し込みまで幅広く使われる。特に結婚の意味では “propose to 人” の形が定型。",
       "example_sections": [
         {
-          "title": "他動詞：提案する",
+          "title": "例文（提案）",
           "examples": [
             {
-              "en": "The committee proposed a new set of rules.",
-              "ja": "委員会は新しい規則の一案を提案した。",
+              "en": "She proposed a new plan to improve productivity.",
+              "ja": "彼女は生産性を向上させる新しい計画を提案した。",
               "highlight": "proposed"
             },
             {
               "en": "I propose that we take a short break.",
-              "ja": "少し休憩をとることを提案します。",
+              "ja": "短い休憩を取ることを提案します。",
               "highlight": "propose"
             }
           ]
         },
         {
-          "title": "自動詞：結婚を申し込む",
+          "title": "例文（結婚）",
           "examples": [
             {
-              "en": "He proposed to her on one knee.",
-              "ja": "彼は片膝をついて彼女にプロポーズした。",
-              "highlight": "proposed to"
+              "en": "He finally proposed to her after five years of dating.",
+              "ja": "5年間の交際を経て、彼はついに彼女にプロポーズした。",
+              "highlight": "proposed"
             }
           ]
         }
       ],
-      "etymology": "pro (前へ) + ponere (置く) → 前に差し出す",
+      "etymology": "pro（前に）＋ pose（置く）→ 前に差し出す → 提案する",
       "synonyms": [
-        {"word": "suggest", "trans": "〜を提案する"},
-        {"word": "submit", "trans": "〜を提出する"},
-        {"word": "offer", "trans": "〜を申し出る"}
+        {"word": "suggest", "trans": "提案する"},
+        {"word": "offer", "trans": "申し出る"},
+        {"word": "recommend", "trans": "勧める"}
       ],
       "antonyms": [
-        {"word": "withdraw", "trans": "〜を撤回する"},
-        {"word": "reject", "trans": "〜を拒絶する"}
+        {"word": "withdraw", "trans": "撤回する"},
+        {"word": "reject", "trans": "拒否する"}
       ],
       "related": [
         {"word": "proposal", "trans": "名詞：提案、プロポーズ"},
-        {"word": "proposition", "trans": "名詞：主張、命題"}
+        {"word": "proposition", "trans": "名詞：提案、主張"}
       ]
     },
+
     {
       "number": 11002,
       "word": "demand",
-      "pos": "動詞、名詞",
-      "meaning": "〜を強く要求する、需要",
-      "nuance": "単なるお願いではなく、権利や権威に基づいて「当然のこととして強く求める」ニュアンスです。経済用語の「需要」としても必須です。",
+      "pos": "動詞・名詞",
+      "meaning": "①（強く）要求する ②要求，需要",
+      "nuance": "強い口調での要求を表す。名詞では「需要」の意味も非常に一般的。",
       "example_sections": [
         {
-          "title": "他動詞：要求する",
+          "title": "例文（動詞）",
           "examples": [
             {
               "en": "The workers demanded higher wages.",
-              "ja": "労働者たちは賃上げを強く要求した。",
+              "ja": "労働者たちはより高い賃金を要求した。",
               "highlight": "demanded"
             },
             {
-              "en": "This job demands a high level of concentration.",
-              "ja": "この仕事は高度な集中力を要する（要求する）。",
-              "highlight": "demands"
+              "en": "I demand to know the truth.",
+              "ja": "私は真実を知ることを強く要求する。",
+              "highlight": "demand"
             }
           ]
         },
         {
-          "title": "名詞：要求、需要",
+          "title": "例文（名詞）",
           "examples": [
             {
-              "en": "The demand for organic food is increasing.",
-              "ja": "有機食品への需要が高まっている。",
+              "en": "There is a high demand for electric cars.",
+              "ja": "電気自動車の需要は高い。",
               "highlight": "demand"
             }
           ]
         }
       ],
-      "etymology": "de (完全に) + mandare (任せる/注文する) → 強く命令する",
+      "etymology": "de（完全に）＋ mandare（命じる）→ 強く命じる",
       "synonyms": [
-        {"word": "require", "trans": "〜を必要とする"},
-        {"word": "insist", "trans": "〜を主張する"},
-        {"word": "claim", "trans": "〜を要求する"}
+        {"word": "require", "trans": "要求する"},
+        {"word": "insist", "trans": "強く主張する"},
+        {"word": "request", "trans": "要請する"}
       ],
       "antonyms": [
-        {"word": "supply", "trans": "供給（する）"},
-        {"word": "concede", "trans": "〜を譲歩する"}
+        {"word": "offer", "trans": "提供する"},
+        {"word": "yield", "trans": "譲る"}
       ],
       "related": [
-        {"word": "demanding", "trans": "形容詞：骨の折れる、要求の厳しい"}
+        {"word": "command", "trans": "動詞：命じる"},
+        {"word": "mandatory", "trans": "形容詞：義務的な"}
       ]
     },
+
     {
       "number": 11003,
       "word": "desire",
-      "pos": "名詞、動詞",
-      "meaning": "願望、〜を強く望む",
-      "nuance": "wantよりもフォーマルで、感情的に「切望する」という強い響きがあります。書き言葉や演説などでよく使われます。",
+      "pos": "名詞・動詞",
+      "meaning": "①願望 ②〜を強く望む",
+      "nuance": "強い感情を伴う「欲求」「願望」を表す。wish よりも強い。",
       "example_sections": [
         {
-          "title": "名詞：願望",
+          "title": "例文（名詞）",
           "examples": [
             {
               "en": "She has a strong desire to travel the world.",
-              "ja": "彼女には世界中を旅したいという強い願望がある。",
+              "ja": "彼女には世界を旅したいという強い願望がある。",
               "highlight": "desire"
             }
           ]
         },
         {
-          "title": "他動詞：強く望む",
+          "title": "例文（動詞）",
           "examples": [
             {
-              "en": "The dessert was everything he had desired.",
-              "ja": "そのデザートは彼が望んでいた通りのものだった。",
-              "highlight": "desired"
-            },
-            {
-              "en": "We all desire peace and stability.",
-              "ja": "私たちは皆、平和と安定を強く望んでいる。",
-              "highlight": "desire"
+              "en": "He desires success more than anything.",
+              "ja": "彼は何よりも成功を強く望んでいる。",
+              "highlight": "desires"
             }
           ]
         }
       ],
-      "etymology": "ラテン語 desiderare (星を見る/待望する)",
+      "etymology": "ラテン語 desiderare（切望する）",
       "synonyms": [
-        {"word": "wish", "trans": "〜を願う"},
-        {"word": "longing", "trans": "憧れ、切望"},
-        {"word": "aspiration", "trans": "熱望"}
+        {"word": "longing", "trans": "切望"},
+        {"word": "yearn", "trans": "切望する"},
+        {"word": "wish", "trans": "願う"}
       ],
       "antonyms": [
-        {"word": "hatred", "trans": "憎悪"},
-        {"word": "indifference", "trans": "無関心"},
+        {"word": "dislike", "trans": "嫌う"},
         {"word": "aversion", "trans": "嫌悪"}
       ],
       "related": [
         {"word": "desirable", "trans": "形容詞：望ましい"},
-        {"word": "desirous", "trans": "形容詞：〜を望んでいる"}
+        {"word": "undesirable", "trans": "形容詞：望ましくない"}
       ]
     },
+
     {
       "number": 11004,
       "word": "dismiss",
       "pos": "動詞",
-      "meaning": "（意見を）退ける、〜を解雇する",
-      "nuance": "目の前から「去らせる」のが核心です。考えを「検討に値しない」として切り捨てたり、人を職場から追い出したり（クビにする）する際に使います。",
+      "meaning": "①（意見など）を退ける ②〜を解雇する",
+      "nuance": "「価値がないとして退ける」「正式に職を解く」というニュアンス。",
       "example_sections": [
         {
-          "title": "他動詞：意見などを退ける",
+          "title": "例文（退ける）",
           "examples": [
             {
-              "en": "The boss dismissed my suggestion immediately.",
-              "ja": "上司は私の提案を即座に退けた（却下した）。",
+              "en": "The idea was dismissed as unrealistic.",
+              "ja": "その考えは非現実的だとして退けられた。",
               "highlight": "dismissed"
-            },
-            {
-              "en": "Let's not dismiss the possibility of an error.",
-              "ja": "ミスの可能性を否定（無視）しないでおこう。",
-              "highlight": "dismiss"
             }
           ]
         },
         {
-          "title": "他動詞：解雇する、解散させる",
+          "title": "例文（解雇）",
           "examples": [
             {
-              "en": "He was dismissed for being late too often.",
-              "ja": "彼は遅刻があまりに多いため解雇された。",
-              "highlight": "dismissed"
-            },
-            {
-              "en": "The class was dismissed at noon.",
-              "ja": "授業は正午に解散となった。",
+              "en": "He was dismissed for repeated misconduct.",
+              "ja": "彼は度重なる不正行為で解雇された。",
               "highlight": "dismissed"
             }
           ]
         }
       ],
-      "etymology": "dis (離れて) + mittere (送る) → 追い払う",
+      "etymology": "dis（離れて）＋ miss（送る）→ 送り出す → 解雇する",
       "synonyms": [
         {"word": "reject", "trans": "拒絶する"},
-        {"word": "fire", "trans": "クビにする"},
-        {"word": "ignore", "trans": "無視する"}
+        {"word": "disregard", "trans": "無視する"},
+        {"word": "fire", "trans": "解雇する"}
       ],
       "antonyms": [
-        {"word": "hire", "trans": "雇用する"},
         {"word": "accept", "trans": "受け入れる"},
-        {"word": "consider", "trans": "考慮する"}
+        {"word": "hire", "trans": "雇う"}
       ],
       "related": [
-        {"word": "dismissal", "trans": "名詞：解雇、却下"}
+        {"word": "dismissal", "trans": "名詞：解雇"},
+        {"word": "mission", "trans": "名詞：任務（語源が同じ）"}
       ]
     },
+
     {
       "number": 11005,
       "word": "bless",
       "pos": "動詞",
-      "meaning": "〜を祝福する、恵みを与える",
-      "nuance": "神が人に対して恩恵を与える、あるいは人が幸運を祈る場合に使われます。\"God bless you.\" はくしゃみをした時のかけ声としても有名です。",
+      "meaning": "〜を祝福する",
+      "nuance": "宗教的な祝福から、日常的な「幸運を祈る」まで幅広く使われる。",
       "example_sections": [
         {
-          "title": "他動詞：祝福する、恵む",
+          "title": "例文",
           "examples": [
             {
-              "en": "The priest blessed the newborn baby.",
-              "ja": "司祭は生まれたばかりの赤ん坊を祝福した。",
-              "highlight": "blessed"
+              "en": "May God bless you.",
+              "ja": "神のご加護がありますように。",
+              "highlight": "bless"
             },
             {
-              "en": "The island is blessed with natural beauty.",
-              "ja": "その島は自然の美しさに恵まれている。",
-              "highlight": "blessed with"
+              "en": "She felt blessed to have such supportive friends.",
+              "ja": "彼女はそのような支えてくれる友人がいて祝福されていると感じた。",
+              "highlight": "blessed"
             }
           ]
         }
       ],
-      "etymology": "古期英語の「血を浴びせる（儀式）」という言葉に由来",
+      "etymology": "古英語 bletsian（血を塗って聖別する）→ 祝福する",
       "synonyms": [
-        {"word": "sanctify", "trans": "神聖にする"},
-        {"word": "praise", "trans": "賞賛する"},
-        {"word": "endow", "trans": "授ける"}
+        {"word": "consecrate", "trans": "神聖にする"},
+        {"word": "sanctify", "trans": "聖別する"},
+        {"word": "praise", "trans": "称える"}
       ],
       "antonyms": [
         {"word": "curse", "trans": "呪う"},
-        {"word": "condemn", "trans": "非難する"}
+        {"word": "damn", "trans": "罰する、呪う"}
       ],
       "related": [
-        {"word": "blessing", "trans": "名詞：恵み、祝福"},
-        {"word": "bliss", "trans": "名詞：至福"}
+        {"word": "blessing", "trans": "名詞：祝福"},
+        {"word": "blessed", "trans": "形容詞：祝福された"}
       ]
     },
+
     {
       "number": 11006,
       "word": "glory",
       "pos": "名詞",
-      "meaning": "栄光、誉れ、輝き",
-      "nuance": "大きな成功や名誉によって得られる、光り輝くような賞賛や名声。また、風景などの圧倒的な美しさについても使われます。",
+      "meaning": "栄光",
+      "nuance": "輝かしい名誉や称賛を表す。宗教的な「神の栄光」にも使われる。",
       "example_sections": [
         {
-          "title": "名詞：栄光",
+          "title": "例文",
           "examples": [
             {
-              "en": "The team returned home in a blaze of glory.",
-              "ja": "そのチームは輝かしい栄光に包まれて帰国した。",
+              "en": "The team returned home in glory after winning the championship.",
+              "ja": "チームは優勝して栄光のうちに帰国した。",
               "highlight": "glory"
             },
             {
-              "en": "She achieved glory on the athletic field.",
-              "ja": "彼女は競技場で栄光を手にした。",
+              "en": "They sang about the glory of God.",
+              "ja": "彼らは神の栄光について歌った。",
               "highlight": "glory"
             }
           ]
         }
       ],
-      "etymology": "ラテン語 gloria (名声/誇り)",
+      "etymology": "ラテン語 gloria（名誉、称賛）",
       "synonyms": [
         {"word": "honor", "trans": "名誉"},
-        {"word": "fame", "trans": "名声"},
-        {"word": "splendor", "trans": "華麗さ"}
+        {"word": "triumph", "trans": "勝利"},
+        {"word": "prestige", "trans": "名声"}
       ],
       "antonyms": [
         {"word": "shame", "trans": "恥"},
-        {"word": "dishonor", "trans": "不名誉"},
-        {"word": "obscurity", "trans": "無名"}
+        {"word": "disgrace", "trans": "不名誉"}
       ],
       "related": [
-        {"word": "glorious", "trans": "形容詞：栄光ある、素晴らしい"},
-        {"word": "glorify", "trans": "動詞：称える、美化する"}
+        {"word": "glorious", "trans": "形容詞：栄光ある"},
+        {"word": "glorify", "trans": "動詞：称賛する"}
       ]
     },
+
     {
       "number": 11007,
       "word": "compliment",
-      "pos": "名詞、動詞",
-      "meaning": "褒め言葉、〜を褒める",
-      "nuance": "外見、成果、才能などに対して「素敵ですね」と言うこと。※綴りが似ている \"complement\"（補完する）と混同注意。",
+      "pos": "名詞・動詞",
+      "meaning": "①褒め言葉、賛辞 ②〜を褒める",
+      "nuance": "相手を称賛する丁寧でポジティブな表現。",
       "example_sections": [
         {
-          "title": "名詞：褒め言葉",
+          "title": "例文（名詞）",
           "examples": [
             {
-              "en": "Take it as a compliment.",
-              "ja": "（皮肉ではなく）褒め言葉として受け取っておきなよ。",
-              "highlight": "compliment"
+              "en": "She received many compliments on her new hairstyle.",
+              "ja": "彼女は新しい髪型について多くの褒め言葉をもらった。",
+              "highlight": "compliments"
             }
           ]
         },
         {
-          "title": "他動詞：〜を褒める",
+          "title": "例文（動詞）",
           "examples": [
             {
-              "en": "She complimented him on his excellent cooking.",
-              "ja": "彼女は彼の素晴らしい料理を褒めた。",
-              "highlight": "complimented"
-            },
-            {
-              "en": "It's nice to be complimented once in a while.",
-              "ja": "たまには褒められるのもいいものだ。",
+              "en": "He complimented her on her presentation.",
+              "ja": "彼は彼女のプレゼンを褒めた。",
               "highlight": "complimented"
             }
           ]
         }
       ],
-      "etymology": "ラテン語 complementum (満たすこと) → 礼儀を満たす",
+      "etymology": "ラテン語 complere（満たす）→ 相手を満足させる言葉",
       "synonyms": [
-        {"word": "praise", "trans": "賞賛する"},
+        {"word": "praise", "trans": "称賛する"},
         {"word": "flatter", "trans": "お世辞を言う"},
-        {"word": "commend", "trans": "推薦する、褒める"}
+        {"word": "commend", "trans": "称える"}
       ],
       "antonyms": [
-        {"word": "insult", "trans": "侮辱（する）"},
-        {"word": "criticize", "trans": "批判する"}
+        {"word": "criticize", "trans": "批判する"},
+        {"word": "insult", "trans": "侮辱する"}
       ],
       "related": [
-        {"word": "complimentary", "trans": "形容詞：称賛の、無料の"}
+        {"word": "complement", "trans": "名詞：補完物（発音が似ているが意味が違う）"}
       ]
     },
+
     {
       "number": 11008,
       "word": "feast",
       "pos": "名詞",
-      "meaning": "宴会、祝宴、とても楽しいこと",
-      "nuance": "単なる食事会ではなく、豪華な料理が並ぶ大規模な祝いの席。比喩的に視覚などを楽しませるもの（a feast for the eyes：目の保養）にも使います。",
+      "meaning": "①宴会、祝宴 ②とても楽しいこと、喜ばせるもの",
+      "nuance": "豪華な食事会だけでなく、比喩的に「目の保養」「楽しみ」も表す。",
       "example_sections": [
         {
-          "title": "名詞：宴会、豪華な食事",
+          "title": "例文",
           "examples": [
             {
-              "en": "The king prepared a grand feast for the guests.",
-              "ja": "王は客人のために盛大な祝宴を用意した。",
+              "en": "They prepared a feast for the festival.",
+              "ja": "彼らは祭りのために盛大な宴会を準備した。",
               "highlight": "feast"
-            }
-          ]
-        },
-        {
-          "title": "名詞：楽しませるもの",
-          "examples": [
+            },
             {
-              "en": "The art exhibition was a visual feast.",
-              "ja": "その美術展は、まさに視覚の饗宴（目の保養）だった。",
+              "en": "The scenery was a feast for the eyes.",
+              "ja": "その景色は目の保養だった。",
               "highlight": "feast"
             }
           ]
         }
       ],
-      "etymology": "ラテン語 festus (祝祭の)",
+      "etymology": "ラテン語 festa（祝祭）",
       "synonyms": [
-        {"word": "banquet", "trans": "晩餐会"},
-        {"word": "celebration", "trans": "お祝い"},
-        {"word": "entertainment", "trans": "娯楽"}
+        {"word": "banquet", "trans": "宴会"},
+        {"word": "celebration", "trans": "祝宴"},
+        {"word": "treat", "trans": "喜ばせるもの"}
       ],
       "antonyms": [
-        {"word": "famine", "trans": "飢饉"},
-        {"word": "fast", "trans": "断食"}
+        {"word": "fast", "trans": "断食"},
+        {"word": "privation", "trans": "欠乏"}
       ],
       "related": [
-        {"word": "festival", "trans": "名詞：祭り"},
-        {"word": "festive", "trans": "形容詞：お祭り気分の"}
+        {"word": "festive", "trans": "形容詞：祝祭の"},
+        {"word": "festival", "trans": "名詞：祭り"}
       ]
     },
+
     {
       "number": 11009,
       "word": "declare",
       "pos": "動詞",
-      "meaning": "〜を宣言する、〜を申告する",
-      "nuance": "公の場で、はっきりと公式に表明すること。空港の税関などで持っている物を「申告する」際にもこの動詞を使います。",
+      "meaning": "①〜を宣言する ②〜を申告する（税関など）",
+      "nuance": "公式に、はっきりと表明するニュアンス。税関での申告にも使われる。",
       "example_sections": [
         {
-          "title": "他動詞：宣言する",
+          "title": "例文（宣言）",
           "examples": [
             {
-              "en": "The country declared independence last year.",
-              "ja": "その国は昨年、独立を宣言した。",
+              "en": "The government declared a state of emergency.",
+              "ja": "政府は非常事態を宣言した。",
               "highlight": "declared"
             },
             {
-              "en": "I declare this meeting open.",
-              "ja": "これより会議の開始を宣言します。",
-              "highlight": "declare"
+              "en": "She declared her intention to run for mayor.",
+              "ja": "彼女は市長選に出馬する意向を表明した。",
+              "highlight": "declared"
             }
           ]
         },
         {
-          "title": "他動詞：申告する",
+          "title": "例文（申告）",
           "examples": [
             {
-              "en": "Do you have anything to declare?",
-              "ja": "（税関で）何か申告するものはありますか？",
+              "en": "You must declare all items at customs.",
+              "ja": "税関で全ての品物を申告しなければならない。",
               "highlight": "declare"
             }
           ]
         }
       ],
-      "etymology": "de (完全に) + clarare (明るくする/明らかにする)",
+      "etymology": "de（完全に）＋ clarare（明らかにする）",
       "synonyms": [
         {"word": "announce", "trans": "発表する"},
-        {"word": "proclaim", "trans": "布告する"},
+        {"word": "proclaim", "trans": "宣言する"},
         {"word": "state", "trans": "述べる"}
       ],
       "antonyms": [
@@ -408,672 +390,47 @@
         {"word": "conceal", "trans": "隠す"}
       ],
       "related": [
-        {"word": "declaration", "trans": "名詞：宣言、申告"}
+        {"word": "declaration", "trans": "名詞：宣言、申告"},
+        {"word": "clarify", "trans": "動詞：明確にする"}
       ]
     },
+
     {
       "number": 11010,
       "word": "demonstrate",
       "pos": "動詞",
-      "meaning": "〜を（はっきり）示す、実演する、デモをする",
-      "nuance": "証拠や実例を使って「論理的に証明する」ことや、使い方を「やって見せる（デモ）」することを指します。",
+      "meaning": "〜を（はっきり）示す、実演する",
+      "nuance": "証拠や例を用いて「明確に示す」。実演して見せる意味もある。",
       "example_sections": [
         {
-          "title": "他動詞：示す、証明する、実演する",
+          "title": "例文",
           "examples": [
             {
-              "en": "The study demonstrates that smoking is harmful.",
-              "ja": "その研究は、喫煙が有害であることを証明している。",
-              "highlight": "demonstrates"
+              "en": "The experiment demonstrated the effect of heat on metal.",
+              "ja": "その実験は熱が金属に与える影響を示した。",
+              "highlight": "demonstrated"
             },
             {
-              "en": "The salesperson demonstrated how to use the new vacuum.",
-              "ja": "販売員は新しい掃除機の使い方を実演した。",
-              "highlight": "demonstrated"
-            }
-          ]
-        },
-        {
-          "title": "自動詞：デモ行進をする",
-          "examples": [
-            {
-              "en": "Thousands demonstrated against the new tax.",
-              "ja": "何千人もの人々が新税に反対してデモを行った。",
+              "en": "He demonstrated how to use the new software.",
+              "ja": "彼は新しいソフトの使い方を実演した。",
               "highlight": "demonstrated"
             }
           ]
         }
       ],
-      "etymology": "de (完全に) + monstrare (示す) → はっきりと示す",
+      "etymology": "de（完全に）＋ monstrare（見せる）→ はっきり示す",
       "synonyms": [
+        {"word": "show", "trans": "示す"},
         {"word": "prove", "trans": "証明する"},
-        {"word": "illustrate", "trans": "例証する"},
-        {"word": "exhibit", "trans": "展示する、示す"}
+        {"word": "exhibit", "trans": "展示する"}
       ],
       "antonyms": [
-        {"word": "refute", "trans": "論破する"},
-        {"word": "hide", "trans": "隠す"}
+        {"word": "hide", "trans": "隠す"},
+        {"word": "obscure", "trans": "不明瞭にする"}
       ],
       "related": [
         {"word": "demonstration", "trans": "名詞：実演、デモ"},
-        {"word": "monstrous", "trans": "形容詞：巨大な、怪物のような"}
-      ]
-    },
-    {
-      "number": 11011,
-      "word": "highlight",
-      "pos": "動詞、名詞",
-      "meaning": "〜を強調する、目玉、ハイライト",
-      "nuance": "多くのものの中から「最も重要な部分」に光を当てて目立たせること。蛍光ペンで線を引く動作もこれです。",
-      "example_sections": [
-        {
-          "title": "他動詞：強調する、目立たせる",
-          "examples": [
-            {
-              "en": "The report highlights the need for better security.",
-              "ja": "その報告書は、より良いセキュリティの必要性を強調している。",
-              "highlight": "highlights"
-            },
-            {
-              "en": "She highlighted the important parts of the text.",
-              "ja": "彼女は本文の重要な箇所にマーカーを引いた（目立たせた）。",
-              "highlight": "highlighted"
-            }
-          ]
-        },
-        {
-          "title": "名詞：最も重要な部分",
-          "examples": [
-            {
-              "en": "The highlight of the trip was the visit to the Louvre.",
-              "ja": "旅行のハイライト（一番の見所）はルーブル美術館への訪問だった。",
-              "highlight": "highlight"
-            }
-          ]
-        }
-      ],
-      "etymology": "high (高い/強い) + light (光) → 強い光で照らす",
-      "synonyms": [
-        {"word": "emphasize", "trans": "強調する"},
-        {"word": "stress", "trans": "重点を置く"},
-        {"word": "feature", "trans": "特集する、目玉にする"}
-      ],
-      "antonyms": [
-        {"word": "understate", "trans": "控えめに言う"},
-        {"word": "play down", "trans": "軽視する"},
-        {"word": "ignore", "trans": "無視する"}
-      ],
-      "related": [
-        {"word": "highlighter", "trans": "名詞：蛍光ペン"}
-      ]
-    },
-    {
-      "number": 11012,
-      "word": "imply",
-      "pos": "動詞",
-      "meaning": "（暗に）〜を意味する、ほのめかす",
-      "nuance": "直接言葉に出さずに、状況や文脈から「察させる」ような意味を含ませること。対義語の explicit（明白な）とセットで覚えましょう。",
-      "example_sections": [
-        {
-          "title": "他動詞：ほのめかす、含む",
-          "examples": [
-            {
-              "en": "Are you implying that I am lying?",
-              "ja": "私が嘘をついているとでも言いたいのですか？（ほのめかしているのですか？）",
-              "highlight": "implying"
-            },
-            {
-              "en": "Silence does not always imply consent.",
-              "ja": "沈黙が常に同意を意味するわけではない。",
-              "highlight": "imply"
-            }
-          ]
-        }
-      ],
-      "etymology": "in (中に) + plicare (折る/重ねる) → 中に包み込む",
-      "synonyms": [
-        {"word": "suggest", "trans": "示唆する"},
-        {"word": "hint", "trans": "ヒントを与える"},
-        {"word": "insinuate", "trans": "遠回しに言う"}
-      ],
-      "antonyms": [
-        {"word": "state", "trans": "明言する"},
-        {"word": "declare", "trans": "宣言する"},
-        {"word": "express", "trans": "表現する"}
-      ],
-      "related": [
-        {"word": "implication", "trans": "名詞：含み、暗示、影響"},
-        {"word": "implicit", "trans": "形容詞：暗黙の"}
-      ]
-    },
-    {
-      "number": 11013,
-      "word": "recite",
-      "pos": "動詞",
-      "meaning": "〜を暗唱する、朗読する",
-      "nuance": "覚えている詩や文章、事実などを、人前で声に出して再現すること。リストなどを「列挙する」際にも使われます。",
-      "example_sections": [
-        {
-          "title": "他動詞：暗唱する、詳述する",
-          "examples": [
-            {
-              "en": "The child recited a poem in front of the class.",
-              "ja": "その子はクラスの前で詩を暗唱した。",
-              "highlight": "recited"
-            },
-            {
-              "en": "He recited the names of all the presidents.",
-              "ja": "彼はすべての歴代大統領の名前をスラスラと言い上げた（列挙した）。",
-              "highlight": "recited"
-            }
-          ]
-        }
-      ],
-      "etymology": "re (再び) + citare (呼び出す/引用する)",
-      "synonyms": [
-        {"word": "repeat", "trans": "繰り返す"},
-        {"word": "quote", "trans": "引用する"},
-        {"word": "enumerate", "trans": "列挙する"}
-      ],
-      "antonyms": [
-        {"word": "read silently", "trans": "黙読する"},
-        {"word": "forget", "trans": "忘れる"}
-      ],
-      "related": [
-        {"word": "recital", "trans": "名詞：発表会、リサイタル"}
-      ]
-    },
-    {
-      "number": 11014,
-      "word": "ray",
-      "pos": "名詞",
-      "meaning": "光線、わずかな、一縷の",
-      "nuance": "太陽や光源から一直線に伸びる細い光。比喩的に、絶望的な状況での「わずかな希望（a ray of hope）」としてよく使われます。",
-      "example_sections": [
-        {
-          "title": "名詞：光線",
-          "examples": [
-            {
-              "en": "A ray of sunshine came through the window.",
-              "ja": "一筋の日の光が窓から差し込んだ。",
-              "highlight": "ray"
-            },
-            {
-              "en": "The sun's rays are strongest at noon.",
-              "ja": "太陽光線は正午に最も強くなる。",
-              "highlight": "rays"
-            }
-          ]
-        },
-        {
-          "title": "名詞：わずかなもの",
-          "examples": [
-            {
-              "en": "There is still a ray of hope for the survivors.",
-              "ja": "生存者にはまだ一縷の希望がある。",
-              "highlight": "ray"
-            }
-          ]
-        }
-      ],
-      "etymology": "ラテン語 radius (車輪のスポーク/棒)",
-      "synonyms": [
-        {"word": "beam", "trans": "光線"},
-        {"word": "gleam", "trans": "きらめき"},
-        {"word": "glimmer", "trans": "かすかな光"}
-      ],
-      "antonyms": [
-        {"word": "shadow", "trans": "影"},
-        {"word": "darkness", "trans": "暗闇"}
-      ],
-      "related": [
-        {"word": "X-ray", "trans": "名詞：エックス線"},
-        {"word": "radius", "trans": "名詞：半径"}
-      ]
-    },
-    {
-      "number": 11015,
-      "word": "radiation",
-      "pos": "名詞",
-      "meaning": "放射線、放射",
-      "nuance": "光、熱、X線などのエネルギーが放射状に広がる現象。文脈によっては福島やチェルノブイリのような「放射能汚染」の意味でも使われます。",
-      "example_sections": [
-        {
-          "title": "名詞：放射線、放射エネルギー",
-          "examples": [
-            {
-              "en": "Ultraviolet radiation can damage your skin.",
-              "ja": "紫外線（放射）は肌にダメージを与える可能性がある。",
-              "highlight": "radiation"
-            },
-            {
-              "en": "The stars emit electromagnetic radiation.",
-              "ja": "恒星は電磁放射を放出している。",
-              "highlight": "radiation"
-            }
-          ]
-        }
-      ],
-      "etymology": "ray と同じ radius (棒) が語源",
-      "synonyms": [
-        {"word": "radioactivity", "trans": "放射能"},
-        {"word": "emission", "trans": "放出"},
-        {"word": "rays", "trans": "光線"}
-      ],
-      "antonyms": [
-        {"word": "absorption", "trans": "吸収"},
-        {"word": "containment", "trans": "封じ込め"}
-      ],
-      "related": [
-        {"word": "radiate", "trans": "動詞：放射する"},
-        {"word": "radiator", "trans": "名詞：ラジエーター、放熱器"}
-      ]
-    },
-    {
-      "number": 11016,
-      "word": "laboratory",
-      "pos": "名詞",
-      "meaning": "研究室、研究所",
-      "nuance": "科学的な実験やテストを行うための場所。口語では省略して \"lab\" と呼ばれることがほとんどです。",
-      "example_sections": [
-        {
-          "title": "名詞：研究所、実験室",
-          "examples": [
-            {
-              "en": "They are conducting tests in the laboratory.",
-              "ja": "彼らは研究室でテストを行っている。",
-              "highlight": "laboratory"
-            },
-            {
-              "en": "The samples were sent to a private lab.",
-              "ja": "サンプルは民間のラボに送られた。",
-              "highlight": "lab"
-            }
-          ]
-        }
-      ],
-      "etymology": "labor (労働) + orium (場所) → 働く場所/実験する場所",
-      "synonyms": [
-        {"word": "research center", "trans": "研究センター"},
-        {"word": "facility", "trans": "施設"},
-        {"word": "workshop", "trans": "作業場"}
-      ],
-      "antonyms": [],
-      "related": [
-        {"word": "labor", "trans": "名詞：労働"},
-        {"word": "laborious", "trans": "形容詞：大変な、骨の折れる"}
-      ]
-    },
-    {
-      "number": 11017,
-      "word": "oxygen",
-      "pos": "名詞",
-      "meaning": "酸素",
-      "nuance": "呼吸に不可欠な無色・無臭の気体。化学記号は O です。",
-      "example_sections": [
-        {
-          "title": "名詞：酸素",
-          "examples": [
-            {
-              "en": "Water consists of hydrogen and oxygen.",
-              "ja": "水は水素と酸素から成る。",
-              "highlight": "oxygen"
-            },
-            {
-              "en": "Brain cells die without oxygen.",
-              "ja": "脳細胞は酸素がないと死滅する。",
-              "highlight": "oxygen"
-            }
-          ]
-        }
-      ],
-      "etymology": "ギリシャ語 oxys (鋭い/酸っぱい) + genes (生むもの) → 酸の元",
-      "synonyms": [
-        {"word": "air", "trans": "空気（の一部）"}
-      ],
-      "antonyms": [
-        {"word": "carbon dioxide", "trans": "二酸化炭素"}
-      ],
-      "related": [
-        {"word": "oxide", "trans": "名詞：酸化物"},
-        {"word": "oxidize", "trans": "動詞：酸化させる"}
-      ]
-    },
-    {
-      "number": 11018,
-      "word": "molecule",
-      "pos": "名詞",
-      "meaning": "分子",
-      "nuance": "物質の化学的性質を保つ最小の単位。原子 (atom) が結合してできています。",
-      "example_sections": [
-        {
-          "title": "名詞：分子",
-          "examples": [
-            {
-              "en": "A molecule of water contains two hydrogen atoms.",
-              "ja": "水の分子は2つの水素原子を含んでいる。",
-              "highlight": "molecule"
-            },
-            {
-              "en": "The scientists are studying complex molecules.",
-              "ja": "科学者たちは複雑な分子を研究している。",
-              "highlight": "molecules"
-            }
-          ]
-        }
-      ],
-      "etymology": "ラテン語 moles (かたまり) + cule (小さいもの) → 小さなかたまり",
-      "synonyms": [
-        {"word": "particle", "trans": "粒子"}
-      ],
-      "antonyms": [
-        {"word": "atom", "trans": "原子（より小さい単位）"},
-        {"word": "matter", "trans": "物質（より大きい単位）"}
-      ],
-      "related": [
-        {"word": "molecular", "trans": "形容詞：分子の"}
-      ]
-    },
-    {
-      "number": 11019,
-      "word": "compound",
-      "pos": "名詞、形容詞、動詞",
-      "meaning": "化合物、複合的な、〜を悪化させる",
-      "nuance": "2つ以上のものが組み合わさったもの。化学では「化合物」、文法では「複合語（compound word）」、また問題などが「重なって悪化する」際にも動詞で使われます。",
-      "example_sections": [
-        {
-          "title": "名詞：化合物、複合体",
-          "examples": [
-            {
-              "en": "Salt is a chemical compound of sodium and chlorine.",
-              "ja": "塩はナトリウムと塩素の化学化合物である。",
-              "highlight": "compound"
-            }
-          ]
-        },
-        {
-          "title": "形容詞：複合の、複数の部分からなる",
-          "examples": [
-            {
-              "en": "The sentence has a compound structure.",
-              "ja": "その文は複合的な（重文）構造をしている。",
-              "highlight": "compound"
-            }
-          ]
-        },
-        {
-          "title": "動詞：〜を悪化させる、混ぜる",
-          "examples": [
-            {
-              "en": "The bad weather compounded our travel problems.",
-              "ja": "悪天候が私たちの旅行のトラブルをさらに悪化させた。",
-              "highlight": "compounded"
-            }
-          ]
-        }
-      ],
-      "etymology": "com (共に) + ponere (置く) → 混ぜ合わせる",
-      "synonyms": [
-        {"word": "mixture", "trans": "混合物"},
-        {"word": "combination", "trans": "組み合わせ"},
-        {"word": "complex", "trans": "複合の"}
-      ],
-      "antonyms": [
-        {"word": "element", "trans": "元素、単体"},
-        {"word": "simple", "trans": "単純な"}
-      ],
-      "related": [
-        {"word": "composition", "trans": "名詞：構成、作文"}
-      ]
-    },
-    {
-      "number": 11020,
-      "word": "tissue",
-      "pos": "名詞",
-      "meaning": "（生物の）組織、ティッシュペーパー",
-      "nuance": "元々は「織物」を意味し、細胞が集まった生物学的な「組織」や、薄い「紙（ティッシュ）」を指します。",
-      "example_sections": [
-        {
-          "title": "名詞：生物学的組織",
-          "examples": [
-            {
-              "en": "Muscle tissue needs protein to grow.",
-              "ja": "筋肉組織が成長するにはタンパク質が必要だ。",
-              "highlight": "tissue"
-            },
-            {
-              "en": "The doctor examined the damaged tissue.",
-              "ja": "医師は損傷した組織を検査した。",
-              "highlight": "tissue"
-            }
-          ]
-        },
-        {
-          "title": "名詞：ティッシュ、薄い紙",
-          "examples": [
-            {
-              "en": "He wiped his nose with a tissue.",
-              "ja": "彼はティッシュで鼻をかんだ。",
-              "highlight": "tissue"
-            }
-          ]
-        }
-      ],
-      "etymology": "フランス語 tisser (織る)",
-      "synonyms": [
-        {"word": "structure", "trans": "構造"},
-        {"word": "fabric", "trans": "布地、組織"}
-      ],
-      "antonyms": [],
-      "related": []
-    },
-    {
-      "number": 11021,
-      "word": "cell",
-      "pos": "名詞",
-      "meaning": "細胞、電池、独房",
-      "nuance": "語源は「小さな部屋」。生物の最小単位、電気を蓄える小さな器（電池）、刑務所の小さな部屋など、すべて「区切られた小さな単位」という共通点があります。",
-      "example_sections": [
-        {
-          "title": "名詞：細胞",
-          "examples": [
-            {
-              "en": "The human body is made up of billions of cells.",
-              "ja": "人間の体は何十億もの細胞でできている。",
-              "highlight": "cells"
-            }
-          ]
-        },
-        {
-          "title": "名詞：電池、独房",
-          "examples": [
-            {
-              "en": "Solar cells convert sunlight into electricity.",
-              "ja": "太陽電池は日光を電気に変換する。",
-              "highlight": "cells"
-            },
-            {
-              "en": "The prisoner was kept in a small cell.",
-              "ja": "その囚人は小さな独房に入れられていた。",
-              "highlight": "cell"
-            }
-          ]
-        }
-      ],
-      "etymology": "ラテン語 cella (小さな部屋)",
-      "synonyms": [
-        {"word": "unit", "trans": "単位"},
-        {"word": "chamber", "trans": "部屋、室"},
-        {"word": "battery", "trans": "バッテリー"}
-      ],
-      "antonyms": [
-        {"word": "organism", "trans": "個体、有機体"}
-      ],
-      "related": [
-        {"word": "cellular", "trans": "形容詞：細胞の、携帯電話の"},
-        {"word": "cell phone", "trans": "名詞：携帯電話"}
-      ]
-    },
-    {
-      "number": 11022,
-      "word": "gene",
-      "pos": "名詞",
-      "meaning": "遺伝子",
-      "nuance": "親から子へ形質を伝える情報の単位。可算名詞であることに注意（\"good genes\" など）。",
-      "example_sections": [
-        {
-          "title": "名詞：遺伝子",
-          "examples": [
-            {
-              "en": "Identical twins share the same genes.",
-              "ja": "一卵性双生児は同じ遺伝子を共有している。",
-              "highlight": "genes"
-            },
-            {
-              "en": "Scientists have identified the gene responsible for the disease.",
-              "ja": "科学者たちはその病気の原因となる遺伝子を特定した。",
-              "highlight": "gene"
-            }
-          ]
-        }
-      ],
-      "etymology": "ギリシャ語 genos (種族/誕生)",
-      "synonyms": [
-        {"word": "DNA", "trans": "デオキシリボ核酸"},
-        {"word": "heredity", "trans": "遺伝"}
-      ],
-      "antonyms": [
-        {"word": "environment", "trans": "環境"}
-      ],
-      "related": [
-        {"word": "genetic", "trans": "形容詞：遺伝学の"},
-        {"word": "genetics", "trans": "名詞：遺伝学"}
-      ]
-    },
-    {
-      "number": 11023,
-      "word": "solid",
-      "pos": "形容詞、名詞",
-      "meaning": "固体の、ぎっしり詰まった、固体",
-      "nuance": "形がしっかりしていること。中身が空洞でなく「中身が詰まっている」ことや、信頼できる「確実な」といった比喩的な意味でも重要です。",
-      "example_sections": [
-        {
-          "title": "形容詞：固体の、中身の詰まった",
-          "examples": [
-            {
-              "en": "Ice is water in a solid state.",
-              "ja": "氷は固体の状態の水である。",
-              "highlight": "solid"
-            },
-            {
-              "en": "The statues are made of solid gold.",
-              "ja": "その像は純金（中まで金）でできている。",
-              "highlight": "solid"
-            }
-          ]
-        },
-        {
-          "title": "形容詞：確実な、しっかりした",
-          "examples": [
-            {
-              "en": "We need solid evidence before making an arrest.",
-              "ja": "逮捕する前に確実な証拠が必要だ。",
-              "highlight": "solid"
-            }
-          ]
-        }
-      ],
-      "etymology": "ラテン語 solidus (堅い/全体の)",
-      "synonyms": [
-        {"word": "firm", "trans": "堅い"},
-        {"word": "hard", "trans": "硬い"},
-        {"word": "reliable", "trans": "信頼できる"}
-      ],
-      "antonyms": [
-        {"word": "liquid", "trans": "液体"},
-        {"word": "gas", "trans": "気体"},
-        {"word": "hollow", "trans": "空洞の"}
-      ],
-      "related": [
-        {"word": "solidify", "trans": "動詞：固まる"},
-        {"word": "solidarity", "trans": "名詞：団結"}
-      ]
-    },
-    {
-      "number": 11024,
-      "word": "satellite",
-      "pos": "名詞",
-      "meaning": "衛星、人工衛星",
-      "nuance": "惑星の周りを回る天体（月など）や、地球の周りを回る通信・放送用の機械を指します。",
-      "example_sections": [
-        {
-          "title": "名詞：衛星、人工衛星",
-          "examples": [
-            {
-              "en": "The Moon is a natural satellite of the Earth.",
-              "ja": "月は地球の天然の衛星である。",
-              "highlight": "satellite"
-            },
-            {
-              "en": "The weather forecast is based on satellite images.",
-              "ja": "天気予報は衛星画像に基づいている。",
-              "highlight": "satellite"
-            }
-          ]
-        }
-      ],
-      "etymology": "ラテン語 satelles (付き人/護衛)",
-      "synonyms": [
-        {"word": "moon", "trans": "月、衛星"},
-        {"word": "spacecraft", "trans": "宇宙船"}
-      ],
-      "antonyms": [],
-      "related": [
-        {"word": "satellite dish", "trans": "名詞：衛星アンテナ（パラボラアンテナ）"}
-      ]
-    },
-    {
-      "number": 11025,
-      "word": "orbit",
-      "pos": "名詞、動詞",
-      "meaning": "軌道、〜を周回する",
-      "nuance": "天体や人工衛星が他の物の周りを回る「決まった道筋」。比喩的に「影響力の及ぶ範囲（sphere of influence）」という意味でも使われます。",
-      "example_sections": [
-        {
-          "title": "名詞：軌道",
-          "examples": [
-            {
-              "en": "The satellite is now in orbit around the Earth.",
-              "ja": "その衛星は現在、地球を回る軌道に乗っている。",
-              "highlight": "orbit"
-            }
-          ]
-        },
-        {
-          "title": "他動詞：〜の周りを回る",
-          "examples": [
-            {
-              "en": "The Earth orbits the Sun once a year.",
-              "ja": "地球は1年に1回太陽の周りを回る。",
-              "highlight": "orbits"
-            },
-            {
-              "en": "Several moons orbit the planet Jupiter.",
-              "ja": "いくつかの月が木星の周りを回っている。",
-              "highlight": "orbit"
-            }
-          ]
-        }
-      ],
-      "etymology": "ラテン語 orbita (車輪の跡)",
-      "synonyms": [
-        {"word": "path", "trans": "道筋"},
-        {"word": "circle", "trans": "円、回る"},
-        {"word": "revolve", "trans": "回転する"}
-      ],
-      "antonyms": [],
-      "related": [
-        {"word": "orbital", "trans": "形容詞：軌道の"}
+        {"word": "monster", "trans": "名詞：怪物（語源が同じ monstrare）"}
       ]
     }
   ]
