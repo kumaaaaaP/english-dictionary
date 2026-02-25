@@ -36,6 +36,27 @@ def generate_html():
         h1 {{ text-align: center; color: var(--primary); }}
         .setup-section, .quiz-section {{ display: none; }}
         .active {{ display: block; }}
+
+        .exercise-link {{
+            display: block;
+            width: fit-content;
+            margin: 0 auto 30px;
+            padding: 12px 40px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: 0.3s;
+            border: none;
+        }}
+        .exercise-link:hover {{
+            background-color: #218838;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }}
         
         /* チャプター選択エリア */
         .chapter-container {{ max-height: 350px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 8px; background: #fff; }}
